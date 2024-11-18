@@ -1,0 +1,76 @@
+---
+layout: post
+title: VTT - ST WAAST LA VALLEE - 2024
+date: 2023-12-16
+category: VTT
+tags: VTT
+image: assets/img/resultats/2023-12-16-VTTST-WAAST-LA-VALLEE/1.jpg
+---
+
+### VTT Vétérans B
+21 participants
+- [MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald) : 2
+
+### Scratch
+55 participants
+
+| Place | Nom | Team | Tours | Catégorie | Temps |
+|---|---|---|---|---|---|
+| 1 | BRADFER GERY | ETOILE CYCLISTE LIEU ST AMAND | 7 | Vétérans A | 0:57:28 | 
+| 2 | MAERTENS DAVID | U. S. HAM | 7 | Vétérans B | 0:59:23 | 
+| 3 | MICHEL KEVIN | ASSOCIATION CYCLISTE BELLAINGEOISE | 7 | Seniors A | 1:0:7 | 
+| 4 | FLORIAN MATHIEU | ETOILE CYCLISTE LIEU ST AMAND | 7 | Seniors B | 1:0:35 | 
+| **5** | **[MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **7** | **Vétérans B** | **1:1:28** | 
+| 6 | LORRIAUX JULIEN | VELO CLUB SOLESMES | 7 | Seniors B | 1:1:43 | 
+| 7 | STIENNES JOHAN | ETOILE CYCLISTE LIEU ST AMAND | 7 | Vétérans A | 1:1:47 | 
+| 8 | DARTUS MIKAEL | VELO CLUB SOLESMES | 7 | Vétérans A | 1:2:20 | 
+| 9 | RIVART ADRIEN | ASSOCIATION CYCLISTE BELLAINGEOISE | 7 | Seniors A | 1:2:46 | 
+| 10 | SORET PASCAL | CAMPHIN EN CAREMBAULT CYCLING TEAM | 7 | Vétérans B | 1:2:52 | 
+| 11 | DRANSART ADRIEN | TOUQUET ATHLETIC CLUB CYCLISME T.A.C. | 7 | Seniors B | 1:3:10 | 
+| 12 | ROMAIN RICHARD | LES MOULIN'EUX - ST VAAST EN CAMBRESIS | 7 | Seniors B | 1:4:39 | 
+| 13 | ALEXANDRE JIMMY | VELO CLUB SOLESMES | 7 | Vétérans B | 1:5:23 | 
+| 14 | QUENTIN LAURENT | LA ROUE D'OR GUISARDE | 7 | Vétérans A | 1:5:24 | 
+| 15 | NICAISE KEVIN | TEAM BOUSIES | 7 | Vétérans A | 1:5:57 | 
+| 16 | QUINZIN YOURI | TEAM BOUSIES | 6 | Seniors B | 0:57:29 | 
+| 17 | GAMACHE CHRISTOPHE | CYCLOS RANDONNEURS LA BASSEE | 6 | Vétérans B | 0:57:31 | 
+| 18 | DELADERIERE ROMAIN | VTT  CLUB PONT SUR SAMBRE | 6 | Seniors A | 0:57:44 | 
+| 19 | ORTEGA JULIEN | TEAM VTT JEUMONT | 6 | Vétérans A | 0:57:56 | 
+| 20 | DRUART JEROME | TEAM CYCLISTE LA BORDURE - BETTRECHIES | 6 | Vétérans A | 0:58:18 | 
+| 21 | POLLET ANTOINE | VELO CLUB UNION HALLUIN | 6 | Seniors B | 0:58:21 | 
+| 22 | MIENS JEROME | VELO CLUB SOLESMES | 6 | Vétérans A | 0:58:26 | 
+| 23 | PLOUVIEZ VINCENT | CYCLO CLUB WAVRIN | 6 | Vétérans B | 0:58:27 | 
+| 24 | MICHEL STEPHANE | ETOILE CYCLISTE FEIGNIES | 6 | Vétérans B | 0:58:30 | 
+| 25 | HEDBAUT ANTONY | VELO CLUB SOLESMES | 6 | Seniors A | 0:59:1 | 
+| 26 | DEMADE REMY | LES MOULIN'EUX - ST VAAST EN CAMBRESIS | 6 | Vétérans A | 0:59:30 | 
+| 27 | BEUDIN FREDERIC | VTT SAINT AMAND LES EAUX | 6 | Vétérans B | 0:59:45 | 
+| 28 | MASSON RUDY | CLUB CYCLISTE DE CHAVIGNON | 6 | Vétérans A | 1:0:4 | 
+| 29 | HORCHOLLE REMI | VTT  CLUB PONT SUR SAMBRE | 6 | Seniors B | 1:0:8 | 
+| 30 | SOETENS MAXIME | VELO CLUB UNION HALLUIN | 6 | Seniors B | 1:0:30 | 
+| 31 | MICHEL ANTHONY | ASSOCIATION CYCLISTE BELLAINGEOISE | 6 | Seniors A | 1:0:40 | 
+| 32 | BRUNIAUX STEPHANE | LES VIKINGS VTT MARCHE NORDIQUE OHAIN | 6 | Vétérans A | 1:0:42 | 
+| 33 | RESELLE FRANCK | CLUB CYCLISTE DE CHAVIGNON | 6 | Vétérans B | 1:0:42 | 
+| 34 | MORDACQ JEAN MICHEL | RESILIENCE CLUB | 6 | Vétérans A | 1:0:43 | 
+| 35 | VANNESTE LOUIS | VTT  CLUB PONT SUR SAMBRE | 6 | Seniors B | 1:0:49 | 
+| 36 | RATTEZ JULIEN | UNION VELOCIPEDIQUE FOURMISIENNE | 6 | Seniors B | 1:1:30 | 
+| 37 | VRECK JULIEN | VTT  CLUB PONT SUR SAMBRE | 6 | Vétérans A | 1:1:30 | 
+| 38 | BINOT JULIEN | VTT  CLUB PONT SUR SAMBRE | 6 | Vétérans A | 1:1:30 | 
+| 39 | DUCARNE JEAN PHILIPPE | NEW TEAM MAULDE | 6 | Vétérans B | 1:2:36 | 
+| 40 | MERIAUX FREDERIC | FLEURBAIX TEAM SHARK VTT | 6 | Vétérans B | 1:3:2 | 
+| 41 | BROSSE NICOLAS | TEAM VTT JEUMONT | 6 | Seniors B | 1:3:21 | 
+| 42 | DALLE FREDERIC | VELO CLUB SOLESMES | 6 | Vétérans B | 1:3:37 | 
+| 43 | ALDEBERT ARNAUD | GAZ ELEC CLUB DE DOUAI | 6 | Vétérans B | 1:3:40 | 
+| 44 | VANNIER BENJAMIN | VTT  CLUB PONT SUR SAMBRE | 6 | Seniors B | 1:3:47 | 
+| 45 | DUPUIS ARNAUD | VTT SAINT AMAND LES EAUX | 6 | Vétérans B | 1:5:19 | 
+| 46 | PORQUET LUDOVIC | SAULZOIR MONTRECOURT CYCLING CLUB | 6 | Vétérans A | 1:5:39 | 
+| 47 | DESCAMPS TANGUI | TEAM VTT JEUMONT | 5 | Seniors B | 0:58:15 | 
+| 48 | DELORGE FREDERIC | UNION SPORTIVE VALENCIENNES CRESPIN | 5 | Vétérans B | 1:1:18 | 
+| 49 | HEMBISE LAURENT | VTT  CLUB PONT SUR SAMBRE | 5 | Vétérans B | 1:1:56 | 
+| 50 | DEGRELLE BENJAMIN | LES VIKINGS VTT MARCHE NORDIQUE OHAIN | 5 | Seniors B | 1:2:24 | 
+| 51 | DANLOUX STEPHANE | TEAM VTT JEUMONT | 5 | Vétérans A | 1:2:25 | 
+| 52 | BERNIER STEPHANE | VTT  CLUB PONT SUR SAMBRE | 5 | Vétérans B | 1:5:32 | 
+| 53 | MALFOY DAVY | LES MOULIN'EUX - ST VAAST EN CAMBRESIS | 5 | Vétérans B | 1:7:22 | 
+| 54 | RAMETTE SAMUEL | VTT  CLUB PONT SUR SAMBRE | 0 | Vétérans B | 0:38:53 | 
+| 55 | DUBRAY YVES | LES VIKINGS VTT MARCHE NO | 0 | Vétérans B | 0:38:53 | 
+
+![1](http://teamspecializedlille.github.io/assets/img/resultats/2023-12-16-VTTST-WAAST-LA-VALLEE/1.jpg)
+![2](http://teamspecializedlille.github.io/assets/img/resultats/2023-12-16-VTTST-WAAST-LA-VALLEE/2.jpg)

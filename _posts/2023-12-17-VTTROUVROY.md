@@ -1,0 +1,74 @@
+---
+layout: post
+title: VTT - ROUVROY - 2024
+date: 2023-12-17
+category: VTT
+tags: VTT
+image: assets/img/resultats/2023-12-17-VTTROUVROY/1.jpg
+---
+
+### VTT Vétérans B
+19 participants
+- [MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald) : 1
+
+### Scratch
+53 participants
+
+| Place | Nom | Team | Tours | Catégorie | Temps |
+|---|---|---|---|---|---|
+| 1 | DEMEESTER KEVIN | WINGLES PYRAMIDES PASSION VTT | 9 | Seniors B | 0:52:36 | 
+| 2 | ASPEELE CEDRIC | TORCY TEAM PINK AND BLUE | 9 | Seniors B | 0:52:39 | 
+| **3** | **[MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **9** | **Vétérans B** | **0:53:39** | 
+| 4 | CARPENTIER JEROME | FLEURBAIX TEAM SHARK VTT | 9 | Vétérans A | 0:53:40 | 
+| 5 | SOTTIAUX SEBASTIEN | UNION SPORTIVE SAINT ANDRE | 9 | Vétérans B | 0:53:53 | 
+| 6 | ALLART ERIC | TEAM POLICE HDF | 9 | Vétérans B | 0:53:55 | 
+| 7 | DARTUS MIKAEL | VELO CLUB SOLESMES | 9 | Vétérans A | 0:54:11 | 
+| 8 | DUHAMEL ARNAUD | AGNY ARTeam | 9 | Vétérans B | 0:54:17 | 
+| 9 | ZAJAC FLORIAN | NOEUX LES MINES VTT XC TEAM | 9 | Vétérans A | 0:54:30 | 
+| 10 | SKALECKI ROMAIN | NOEUX LES MINES VTT XC TEAM | 9 | Seniors B | 0:55:19 | 
+| 11 | CAZE ALBAN | UNION SPORTIVE SAINT ANDRE | 9 | Vétérans A | 0:55:38 | 
+| 12 | CORMAN SEBASTIEN | CAMPHIN EN CAREMBAULT CYCLING TEAM | 9 | Vétérans A | 0:56:16 | 
+| 13 | LE MOULLEC LOIC | FLEURBAIX TEAM SHARK VTT | 9 | Seniors A | 0:56:37 | 
+| 14 | COASNE CLEMENT | ESEG DOUAI | 9 | Seniors A | 0:56:50 | 
+| 15 | COLLET LEO | ESEG DOUAI | 9 | Seniors A | 0:56:50 | 
+| 16 | BERNARD MICKAEL | BEUVRY CLUB LEO LAGRANGE | 9 | Vétérans A | 0:56:54 | 
+| 17 | KROL MICHAEL | FLEURBAIX TEAM SHARK VTT | 9 | Vétérans A | 0:57:14 | 
+| 18 | DEVIENNE ARNAUD | HERSIN VELO CLUB HERSIN COUPIGNY | 9 | Seniors B | 0:57:50 | 
+| 19 | LEPLAN BENJAMIN | AGNY ARTeam | 9 | Seniors B | 0:57:58 | 
+| 20 | DAILLY FABIEN | VERMELLES MTB RACING TEAM | 9 | Vétérans A | 0:58:8 | 
+| 21 | PLOUVIEZ VINCENT | CYCLO CLUB WAVRIN | 9 | Vétérans B | 0:58:37 | 
+| 22 | KORDOWIAK SEBASTIEN | MAROEUIL VELO VERT MAROEUILLOIS V.V.M | 9 | Vétérans A | 0:58:52 | 
+| 23 | GUYOT MICKAEL | VERMELLES MTB RACING TEAM | 9 | Vétérans B | 0:58:55 | 
+| 24 | MIENS JEROME | VELO CLUB SOLESMES | 9 | Vétérans A | 0:59:29 | 
+| 25 | DELETTR? ANTHONY | VERMELLES MTB RACING TEAM | 9 | Seniors B | 0:59:35 | 
+| 26 | ZANOLINO FABRICE | COMPIEGNE SPORTS CYCLISTES | 9 | Vétérans B | 0:59:40 | 
+| 27 | HELLEBOIS ALAIN | CLUB CYCLISTE D'ISBERGUES MOLINGHEM | 9 | Vétérans B | 0:59:59 | 
+| 28 | WIERRE MATHIEU | HERSIN VELO CLUB HERSIN COUPIGNY | 8 | Seniors B | 0:49:42 | 
+| 29 | DERACHE AURELIEN | AGNY ARTeam | 8 | Seniors A | 0:52:41 | 
+| 30 | FAUCOEUR THOMAS | BEUVRY CLUB LEO LAGRANGE | 8 | Seniors B | 0:52:48 | 
+| 31 | VANTHUYNE STEPHAN | BEUVRY CLUB LEO LAGRANGE | 8 | Vétérans A | 0:53:4 | 
+| 32 | BENOIT KEVIN | CYCLO CLUB BERGUES | 8 | Seniors B | 0:53:22 | 
+| 33 | DEZOUTER ARNAUD | BEUVRY CLUB LEO LAGRANGE | 8 | Seniors B | 0:53:43 | 
+| 34 | DUCHEINE BRUNO | TEAM PEVELE CAREMBAULT CYCLISME | 8 | Vétérans B | 0:53:45 | 
+| 35 | BAZIUK STEPHANE | MERICOURT ULTRA VTT | 8 | Seniors B | 0:53:54 | 
+| 36 | MERIAUX FREDERIC | FLEURBAIX TEAM SHARK VTT | 8 | Vétérans B | 0:54:9 | 
+| 37 | DESQUIRET ALAIN | BEUVRY CLUB LEO LAGRANGE | 8 | Seniors B | 0:55:1 | 
+| 38 | LAGUILLIER REGIS | TEAM DECOPUB PROVILLE | 8 | Vétérans A | 0:55:10 | 
+| 39 | LETOMBE CHRISTOPHE | BEUVRY CLUB LEO LAGRANGE | 8 | Vétérans B | 0:55:47 | 
+| 40 | TOURET HERVE | FLEURBAIX TEAM SHARK VTT | 8 | Vétérans B | 0:56:23 | 
+| 41 | NEDONCELLE RENALDO | TORCY TEAM PINK AND BLUE | 8 | Vétérans A | 0:56:25 | 
+| 42 | BUISINE FABRICE | HENIN ETOILE CYCLISTE HENINOISE | 8 | Vétérans A | 0:56:29 | 
+| 43 | DELFORGE FABRICE | CYCLO CLUB ORCHIES | 8 | Vétérans B | 0:56:54 | 
+| 44 | HAVET STEPHANE | HENIN ETOILE CYCLISTE HENINOISE | 8 | Vétérans B | 0:57:18 | 
+| 45 | MAGNIEZ GAETAN | TORCY TEAM PINK AND BLUE | 8 | Vétérans A | 0:59:29 | 
+| 46 | TURENNE RAPHAEL | CYCLO CLUB WAVRIN | 8 | Seniors A | 1:0:29 | 
+| 47 | LEVAS LAURENT | UNION SPORTIVE VALENCIENNES CRESPIN | 7 | Vétérans B | 0:52:40 | 
+| 48 | DUFOUR JORDAN | HERSIN VELO CLUB HERSIN COUPIGNY | 7 | Seniors A | 0:56:26 | 
+| 49 | FARDOUX DANY | FLEURBAIX TEAM SHARK VTT | 0 | Vétérans A | 0:38:53 | 
+| 50 | JOLY CEDRIC | TORCY TEAM PINK AND BLUE | 0 | Vétérans A | 0:38:53 | 
+| 51 | LADENT JEROME | MERICOURT ULTRA VTT | 0 | Vétérans B | 0:38:53 | 
+| 52 | TRINQUART YANNICK | TEAM PEVELE CAREMBAULT CY | 0 | Vétérans B | 0:38:53 | 
+| 53 | LALEU DAVID | UNION SPORTIVE SAINT ANDR | 0 | Vétérans B | 0:38:53 | 
+
+![1](http://teamspecializedlille.github.io/assets/img/resultats/2023-12-17-VTTROUVROY/1.jpg)
+![2](http://teamspecializedlille.github.io/assets/img/resultats/2023-12-17-VTTROUVROY/2.jpg)

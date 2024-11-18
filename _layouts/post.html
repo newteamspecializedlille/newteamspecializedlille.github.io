@@ -1,0 +1,137 @@
+---
+layout: default
+comments: true
+---
+
+{% assign ui_text = site.data.ui-text['ui_text'] %}
+
+{% if page.author == nil %}
+	{% assign author = site.author %}
+{% else %}
+	{% assign author = page.author %}
+{% endif %}
+
+{% assign blog_url = 'blog/' %}
+
+<!-- ==================== Start Slider ==================== -->
+
+<header class="blog-header section-padding pb-0">
+	<div class="container mt-80">
+		<div class="row justify-content-center">
+			<div class="col-lg-10">
+				<div class="caption">
+					<div class="sub-title fz-12">
+						{% for category in page.category %}
+							<a href="{{ '/categories' | relative_url }}/{{ category | downcase | url_escape | strip | replace: ' ', '-' }}"><span>{{ category }}</span></a>
+						{% endfor %}
+					</div>
+					<h1 class="fz-55 mt-30">{{ page.title }}</h1>
+				</div>
+				<div class="info d-flex mt-40 align-items-center">
+					<div class="left-info">
+						<div class="d-flex align-items-center">
+							<div class="date ml-50">
+								<span class="opacity-7">Date</span>
+								<h6 class="fz-16">{{ page.date | date: site.date_format }}</h6>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	{% if page.full_image != nil %}
+		<div class="background bg-img mt-80" data-background="{{ page.full_image | relative_url }}" alt="{{ page.title }}" class="circle-img"></div>
+	{% else %}
+		<div class="background bg-img mt-80" data-background="{{ page.image | relative_url }}" class="circle-img"></div>
+	{% endif %}
+</header>
+
+<!-- ==================== End Slider ==================== -->
+
+<!-- ==================== Start Blog ==================== -->
+
+<section class="blog section-padding">
+	<div class="container">
+		<div class="row xlg-marg">
+			<div class="col-lg-8">
+				<div class="main-post">
+					<div class="item pb-60">
+						<!-- ==================== Start Blog Content ==================== -->
+						<article>
+							{{ page.content }}
+						</article>
+						<!-- ==================== End Blog Content ==================== -->
+
+
+						<!-- ==================== Start Blog Pictures ==================== -->
+						<div class="mb-50 mt-50"><div class="row">
+						{% assign image_count = page.images | size %}
+						{% for image in page.images %}
+
+
+									<div class="col-sm-6" style="padding: 15px;">
+										<div class="iner-img sm-mb30">
+											<img src="{{ image | relative_url }}">
+										</div>
+									</div>
+
+
+						{% endfor %}
+						</div></div>
+						<!-- ==================== End Blog Pictures ==================== -->
+					</div>
+
+					{% assign cat_size = page.category | size %}
+					{% if cat_size != 0 %}
+						<div class="info-area flex pt-50 bord-thin-top">
+							<div>
+								<div class="tags flex">
+									<div class="valign">
+										<span>Catégories :</span>
+									</div>
+									<div>
+										{% for category in page.category %}
+										<a href="{{ '/categories' | relative_url }}/{{ category | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category }}</a>
+										{% endfor %}
+									</div>
+								</div>
+							</div>
+						</div>
+					{% endif %}
+
+				</div>
+
+				<!-- ==================== Start Blog Comment ==================== -->
+				<div id="disqus_thread"></div>
+					<script>
+						/**
+						*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+						*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+						/*
+						var disqus_config = function () {
+						this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+						this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+						};
+						*/
+						(function() { // DON'T EDIT BELOW THIS LINE
+						var d = document, s = d.createElement('script');
+						s.src = 'https://teamspecializedlille.disqus.com/embed.js';
+						s.setAttribute('data-timestamp', +new Date());
+						(d.head || d.body).appendChild(s);
+						})();
+					</script>
+					<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+				<!-- ==================== End Blog Comment ==================== -->
+			</div>
+
+		 	{%- include sidebar.html -%}
+
+		</div>
+	</div>
+</section>
+
+<!-- ==================== End Blog ==================== -->
+{%- include section-marq.html -%}
+{%- include recent-blog.html -%}

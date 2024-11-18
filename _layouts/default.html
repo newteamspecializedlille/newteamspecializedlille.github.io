@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+
+    {%- include head.html -%}
+
+    {% assign settings = site.data.settings['settings'] %}
+
+    <body class="{% if page.layout == 'coureurs-single' %}vcard{% endif %}">
+        {%- include header.html -%}
+            <div id="smooth-wrapper" class="{% if page.layout == 'coureurs-single' %}bg-img vcard-bg{% endif %}" data-name="{{ page.large | relative_url }}" data-background="{{ page.large | relative_url }}">
+
+                {%- include navbar.html -%}
+
+                 <div id="smooth-content">
+                    <main class="{% if page.layout != 'coureurs-single' %}main-bg{% endif %}">
+
+                        {{ content }}
+                        {%- include footer.html -%}
+
+                    </main>
+                 </div>
+            </div>
+
+        {%- include scripts.html -%}
+
+    </body>
+
+</html>

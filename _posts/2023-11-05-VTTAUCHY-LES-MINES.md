@@ -1,0 +1,66 @@
+---
+layout: post
+title: VTT - AUCHY LES MINES - 2024
+date: 2023-11-05
+category: VTT
+tags: VTT
+image: assets/img/blog/vtt.jpeg
+---
+
+### VTT Vétérans A
+18 participants
+- [WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit) : 11
+
+### Scratch
+48 participants
+
+| Place | Nom | Team | Tours | Catégorie | Temps |
+|---|---|---|---|---|---|
+| 1 | DEMEESTER KEVIN | WINGLES PYRAMIDES PASSION VTT | 9 | Seniors B | 0:49:18 | 
+| 2 | ASPEELE CEDRIC | TORCY TEAM PINK AND BLUE | 9 | Seniors B | 0:50:40 | 
+| 3 | DARTUS MIKAEL | VELO CLUB SOLESMES | 9 | Vétérans A | 0:50:59 | 
+| 4 | DURANT DIDIER | TEAM POLICE HDF | 9 | Vétérans B | 0:51:20 | 
+| 5 | CAZE ALBAN | UNION SPORTIVE SAINT ANDRE | 9 | Vétérans A | 0:51:40 | 
+| 6 | ZAJAC FLORIAN | NOEUX LES MINES VTT XC TEAM | 9 | Vétérans A | 0:52:0 | 
+| 7 | WIERRE MATHIEU | HERSIN VELO CLUB HERSIN COUPIGNY | 9 | Seniors B | 0:52:4 | 
+| 8 | ALLART ERIC | TEAM POLICE HDF | 9 | Vétérans B | 0:52:36 | 
+| 9 | ROLLAND BRUNO | BEUVRY CLUB LEO LAGRANGE | 9 | Seniors B | 0:52:58 | 
+| 10 | SKALECKI ROMAIN | NOEUX LES MINES VTT XC TEAM | 9 | Seniors B | 0:53:1 | 
+| 11 | LEPLAN BENJAMIN | AGNY ARTeam | 9 | Seniors B | 0:53:19 | 
+| 12 | BERNARD MICKAEL | BEUVRY CLUB LEO LAGRANGE | 9 | Vétérans A | 0:53:41 | 
+| 13 | COASNE CLEMENT | ESEG DOUAI | 9 | Seniors A | 0:54:28 | 
+| 14 | DEVIENNE ARNAUD | HERSIN VELO CLUB HERSIN COUPIGNY | 9 | Seniors B | 0:54:42 | 
+| 15 | OLIVIER ALEXANDRE | ESEG DOUAI | 9 | Seniors B | 0:54:54 | 
+| 16 | FAUCOEUR THOMAS | BEUVRY CLUB LEO LAGRANGE | 9 | Seniors B | 0:55:26 | 
+| 17 | DAILLY FABIEN | VERMELLES MTB RACING TEAM | 9 | Vétérans A | 0:55:30 | 
+| 18 | MATTE BASTIEN | TORCY TEAM PINK AND BLUE | 9 | Seniors B | 0:55:40 | 
+| 19 | DELEBARRE JEROME | BEUVRY CLUB LEO LAGRANGE | 9 | Vétérans A | 0:55:59 | 
+| 20 | MIENS JEROME | VELO CLUB SOLESMES | 9 | Vétérans A | 0:56:5 | 
+| 21 | VANTHUYNE STEPHAN | BEUVRY CLUB LEO LAGRANGE | 9 | Vétérans A | 0:56:20 | 
+| 22 | DUHAMEL ARNAUD | AGNY ARTeam | 8 | Vétérans B | 0:49:8 | 
+| 23 | DERACHE AURELIEN | AGNY ARTeam | 8 | Seniors A | 0:49:31 | 
+| 24 | DESQUIRET ALAIN | BEUVRY CLUB LEO LAGRANGE | 8 | Seniors B | 0:49:31 | 
+| 25 | LAGUILLIER REGIS | TEAM DECOPUB PROVILLE | 8 | Vétérans A | 0:49:48 | 
+| 26 | DHIERS EDGAR | AGNY ARTeam | 8 | Seniors A | 0:50:27 | 
+| 27 | COCART RUDY | BETHUNE ROBECQ TEAM TBR | 8 | Seniors B | 0:50:53 | 
+| 28 | DEZOUTER ARNAUD | BEUVRY CLUB LEO LAGRANGE | 8 | Seniors B | 0:51:4 | 
+| 29 | PLOUVIEZ VINCENT | CYCLO CLUB WAVRIN | 8 | Vétérans B | 0:51:11 | 
+| 30 | HELLEBOIS ALAIN | CLUB CYCLISTE D'ISBERGUES MOLINGHEM | 8 | Vétérans B | 0:51:30 | 
+| 31 | GUYOT MICKAEL | VERMELLES MTB RACING TEAM | 8 | Vétérans B | 0:51:41 | 
+| 32 | NEDONCELLE RENALDO | TORCY TEAM PINK AND BLUE | 8 | Vétérans A | 0:51:43 | 
+| **33** | **[WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans A** | **0:51:43** | 
+| 34 | DELAIRE LUCAS | CAMPHIN EN CAREMBAULT CYCLING TEAM | 8 | Seniors A | 0:52:7 | 
+| 35 | DAUCHY FLORIAN | BETHUNE ROBECQ TEAM TBR | 8 | Seniors B | 0:52:54 | 
+| 36 | MERIAUX FREDERIC | FLEURBAIX TEAM SHARK VTT | 8 | Vétérans B | 0:53:33 | 
+| 37 | BUISINE FABRICE | HENIN ETOILE CYCLISTE HENINOISE | 8 | Vétérans A | 0:53:40 | 
+| 38 | JOLY CEDRIC | TORCY TEAM PINK AND BLUE | 8 | Vétérans A | 0:54:30 | 
+| 39 | MAGNIEZ GAETAN | TORCY TEAM PINK AND BLUE | 8 | Vétérans A | 0:54:58 | 
+| 40 | CARON JULIEN | BEUVRY CYCLO CLUB | 8 | Seniors B | 0:54:59 | 
+| 41 | HAVET STEPHANE | HENIN ETOILE CYCLISTE HENINOISE | 8 | Vétérans B | 0:55:17 | 
+| 42 | HOUDOT ABEL | TORCY TEAM PINK AND BLUE | 8 | Seniors A | 0:55:29 | 
+| 43 | PRZEMYSKI GUILLAUME | TORCY TEAM PINK AND BLUE | 8 | Vétérans A | 0:55:30 | 
+| 44 | VERBEKE HUGO | BEUVRY CLUB LEO LAGRANGE | 8 | Seniors A | 0:57:6 | 
+| 45 | TOURET HERVE | FLEURBAIX TEAM SHARK VTT | 7 | Vétérans B | 0:49:31 | 
+| 46 | LELONG GAETAN | BEUVRY CLUB LEO LAGRANGE | 7 | Vétérans A | 0:49:58 | 
+| 47 | SAVARY FABIEN | ARTOIS CYCLING TEAM | 7 | Vétérans A | 0:56:41 | 
+| 48 | GUENARD LUDOVIC | CYCLO CLUB ORCHIES | 6 | Vétérans B | 0:49:50 | 

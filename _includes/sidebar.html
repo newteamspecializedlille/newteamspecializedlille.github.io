@@ -1,0 +1,54 @@
+{% assign ui_text = site.data.ui-text['ui_text'] %}
+
+<!-- ==================== Start Sidebar ==================== -->
+<div class="col-lg-4">
+    <div class="sidebar">
+        <div class="search-box">
+            <input type="text" name="search-post" placeholder="Search">
+            <span class="icon pe-7s-search"></span>
+        </div>
+        <div class="widget catogry">
+            <h6 class="title-widget">Categories</h6>
+            <ul class="rest">
+            {% assign categories_list = site.categories %}
+            {% if categories_list.first[0] == null %}
+                {% for category in categories_list %}
+                     <li>
+                        <span><a href="{{ '/categories' | relative_url }}/{{ category | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category | camelcase }}</a></span>
+                        <span class="ml-auto">{{ site.tags[category].size }}</span>
+                    </li>
+                {% endfor %}
+            {% else %}
+                {% for category in categories_list %}
+                     <li>
+                        <span><a href="{{ '/categories' | relative_url }}/{{ category[0] | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }}</a></span>
+                        <span class="ml-auto">{{ category[1].size }}</span>
+                    </li>
+                    {% endfor %}
+            {% endif %}
+            </ul>
+        </div>
+        <div class="widget last-post-thum">
+            <h6 class="title-widget">Dernières courses</h6>
+            {% for post in site.posts limit: 3 %}
+                <div class="item d-flex align-items-center">
+                <div>
+                    <div class="img">
+                        <a href="{{ post.url }}">
+                            <img src="{{ post.image | relative_url }}" alt="">
+                            <span class="date">
+                                <span>{{ post.date | date: site.date_format }}</span>
+                            </span>
+                        </a>
+                    </div>
+                </div>
+                <div class="cont">
+                    <span class="tag"><a href="blog-list.html">{{ post.categories }}</a></span>
+                    <h6><a href="{{ post.url }}">{{ post.title }}</a></h6>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+<!-- ==================== End Sidebar ==================== -->

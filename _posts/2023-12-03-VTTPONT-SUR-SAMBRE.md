@@ -1,0 +1,59 @@
+---
+layout: post
+title: VTT - PONT SUR SAMBRE - 2024
+date: 2023-12-03
+category: VTT
+tags: VTT
+image: assets/img/resultats/2023-12-03-VTTPONT-SUR-SAMBRE/1.jpg
+---
+
+### VTT Vétérans B
+15 participants
+- [MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald) : 1
+
+### Scratch
+38 participants
+
+| Place | Nom | Team | Tours | Catégorie | Temps |
+|---|---|---|---|---|---|
+| 1 | MICHEL KEVIN | ASSOCIATION CYCLISTE BELLAINGEOISE | 10 | Seniors A | 0:52:32 | 
+| **2** | **[MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **10** | **Vétérans B** | **0:53:49** | 
+| 3 | DARTUS MIKAEL | VELO CLUB SOLESMES | 10 | Vétérans A | 0:54:53 | 
+| 4 | RIVART ADRIEN | ASSOCIATION CYCLISTE BELLAINGEOISE | 10 | Seniors A | 0:55:44 | 
+| 5 | LORRIAUX JULIEN | VELO CLUB SOLESMES | 10 | Seniors B | 0:55:55 | 
+| 6 | JABLONSKI SEBASTIEN | TEAM B.B.L. HERGNIES | 10 | Vétérans A | 0:56:51 | 
+| 7 | ALEXANDRE JIMMY | VELO CLUB SOLESMES | 10 | Vétérans B | 0:57:13 | 
+| 8 | DELY JULIEN | TEAM VTT JEUMONT | 10 | Seniors B | 0:57:15 | 
+| 9 | KADDOUR-DJEBBAR FREDERIC | VTT  CLUB PONT SUR SAMBRE | 10 | Vétérans A | 0:57:23 | 
+| 10 | MARECHAL GUILLAUME | VELO CLUB SOLESMES | 10 | Seniors B | 0:57:47 | 
+| 11 | GAMACHE CHRISTOPHE | CYCLOS RANDONNEURS LA BASSEE | 10 | Vétérans B | 0:57:49 | 
+| 12 | TRINQUART YANNICK | TEAM PEVELE CAREMBAULT CYCLISME | 10 | Vétérans B | 0:57:55 | 
+| 13 | MICHEL STEPHANE | ETOILE CYCLISTE FEIGNIES | 10 | Vétérans B | 0:58:26 | 
+| 14 | DELPIRE FREDERIC | VTT  CLUB PONT SUR SAMBRE | 9 | Vétérans B | 0:52:35 | 
+| 15 | MIENS JEROME | VELO CLUB SOLESMES | 9 | Vétérans A | 0:53:25 | 
+| 16 | HORCHOLLE REMI | VTT  CLUB PONT SUR SAMBRE | 9 | Seniors B | 0:54:6 | 
+| 17 | BRUNIAUX STEPHANE | LES VIKINGS VTT MARCHE NORDIQUE OHAIN | 9 | Vétérans A | 0:54:12 | 
+| 18 | DUPUIS ARNAUD | VTT SAINT AMAND LES EAUX | 9 | Vétérans B | 0:54:16 | 
+| 19 | VRECK JULIEN | VTT  CLUB PONT SUR SAMBRE | 9 | Vétérans A | 0:54:32 | 
+| 20 | HAVRET STEPHANE | 52X11 HIRSON THIÉRACHE | 9 | Vétérans A | 0:54:51 | 
+| 21 | MILLET FABRICE | VTT  CLUB PONT SUR SAMBRE | 9 | Vétérans B | 0:55:21 | 
+| 22 | LECHAT RENAUD | UNION SPORTIVE VALENCIENNES CRESPIN | 9 | Vétérans A | 0:55:41 | 
+| 23 | TAPIN FLORIAN | LES VIKINGS VTT MARCHE NORDIQUE OHAIN | 9 | Seniors A | 0:56:16 | 
+| 24 | RAMETTE SAMUEL | VTT  CLUB PONT SUR SAMBRE | 9 | Vétérans B | 0:56:22 | 
+| 25 | BAUDOIN ETIENNE | LES VIKINGS VTT MARCHE NORDIQUE OHAIN | 9 | Seniors B | 0:56:31 | 
+| 26 | DALLE FREDERIC | VELO CLUB SOLESMES | 9 | Vétérans B | 0:56:34 | 
+| 27 | PORQUET LUDOVIC | SAULZOIR MONTRECOURT CYCLING CLUB | 9 | Vétérans A | 0:58:43 | 
+| 28 | HEMBISE LAURENT | VTT  CLUB PONT SUR SAMBRE | 9 | Vétérans B | 1:0:57 | 
+| 29 | PLOUCHART ANTOINE | VELO CLUB SOLESMES | 8 | Seniors B | 0:53:20 | 
+| 30 | SCREVE ROMAIN | LES VIKINGS VTT MARCHE NORDIQUE OHAIN | 8 | Seniors B | 0:54:44 | 
+| 31 | GEORGES BENOIT | VELO CLUB UNION HALLUIN | 8 | Seniors B | 0:55:56 | 
+| 32 | DELORGE FREDERIC | UNION SPORTIVE VALENCIENNES CRESPIN | 8 | Vétérans B | 0:59:24 | 
+| 33 | TISSERANT EMMANUEL | LES VIKINGS VTT MARCHE NORDIQUE OHAIN | 8 | Vétérans A | 1:0:50 | 
+| 34 | DUBRAY YVES | LES VIKINGS VTT MARCHE NORDIQUE OHAIN | 7 | Vétérans B | 0:53:6 | 
+| 35 | BERNIER STEPHANE | VTT  CLUB PONT SUR SAMBRE | 7 | Vétérans B | 0:53:17 | 
+| 36 | BOURGEAULT LOUIS | VELO CLUB SOLESMES | 7 | Seniors A | 0:53:30 | 
+| 37 | LAMAND MATHIEU | VELO CLUB SOLESMES | 7 | Seniors B | 0:55:59 | 
+| 38 | ROMAIN RICHARD | LES MOULIN'EUX - ST VAAST | 0 | Seniors B | 0:38:53 | 
+
+![1](http://teamspecializedlille.github.io/assets/img/resultats/2023-12-03-VTTPONT-SUR-SAMBRE/1.jpg)
+![2](http://teamspecializedlille.github.io/assets/img/resultats/2023-12-03-VTTPONT-SUR-SAMBRE/2.jpg)

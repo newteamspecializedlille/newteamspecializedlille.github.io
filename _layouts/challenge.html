@@ -1,0 +1,133 @@
+---
+layout: default
+---
+
+{% assign ui_text = site.data.ui-text['ui_text'] %}
+{% assign challenge = page.title | downcase | replace: " ", "" %}
+{{ challenge }}
+{% assign data = site.data[challenge] %}
+
+{% for team in site.data.team.team_members %}
+	{%- if team.name == page.name -%}
+		{% assign team_people = team %}
+	{%- endif -%}
+{% endfor %}
+
+<!-- ==================== Start Header ==================== -->
+<header class="page-header-cerv bg-img section-padding" data-background="{{ 'assets/imgs/header/header.jpeg' | relative_url }}"
+	data-overlay-dark="1" style="background-position: center;">
+	<div class="container pt-100 ontop">
+		<div class="text-center">
+			<h1 class="fz-100">{{ page.title }}</h1>
+			<div class="mt-15">
+				<a href="{{ '/' | relative_url }}">Home</a>
+				<span class="padding-rl-20">|</span>
+				<span class="main-color">{{ page.title }}</span>
+			</div>
+		</div>
+	</div>
+</header>
+
+<!-- ==================== End Header ==================== -->
+
+<!-- ==================== Start First ==================== -->
+<section class="team section-padding" style="padding-top: 50px; padding-bottom: 50px;">
+    <div class="container">
+		<div class="row">
+		{% for people in data.challenge limit:3 %}
+				{% assign coureur = site.coureurs | where: "name", people[0] | first %}
+				<div class="col-lg-4">
+					<div class="item md-mb50" >
+						<a  href="{{ coureur.url }}">
+							<div class="img">
+								<img src="{{ coureur.image | relative_url }}" alt="{{ coureur.title }}">
+								<div class="info">
+									<h6 class="fz-18">{{ people[0] }}</h6>
+								</div>
+							</div>
+						</a>
+						<div class="social">
+							<div class="links">
+								{% if coureur.strava != nil %}
+								<a href="{{ coureur.strava }}" target="_blank">
+									<i class="fab fa-strava"></i>
+								</a>
+								{% endif %}
+								 {% if coureur.instagram != nil %}
+								<a href="{{ coureur.instagram }}" target="_blank">
+									<i class="fab fa-instagram"></i>
+								</a>
+								{% endif %}
+							</div>
+						</div>
+					</div>
+					<div class="item md-mb50">
+						<h2 class="fz-100 numb-font" style="text-align: center;">{{ forloop.index }}.</h2>
+					</div>
+				</div>
+		{% endfor %}
+		</div>
+	</div>
+</section>
+<!-- ==================== End First ==================== -->
+
+<!-- ==================== Start Table ==================== -->
+
+<section class="brands-crev simple section-padding pb-0" style="padding-top: 50px;padding-bottom: 50px;">
+    <div class="container">
+        <table style="width: 100%; border-collapse: separate; border-spacing: 0 10px; margin: 0 auto;">
+            <thead>
+                <tr>
+                    <th scope="col" style="position: relative; padding: 20px; text-align: center; position: relative;border: 1px solid rgba(255, 255, 255, 0.08);">
+                        <span>Place</span>
+                    </th>
+                    <th scope="col" style="position: relative; padding: 20px;">
+                        <span>Nom</span>
+                    </th>
+                    <th scope="col" style="position: relative; padding: 20px;">
+                        <span>Points</span>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for people in data.challenge %}
+                    {% if people[1] != 0 %}
+                        <tr>
+                            <td style="position: relative; padding: 20px;">
+                                {% if forloop.index == 1 %}
+                                    <span>&#129351;</span>
+                                {% elsif forloop.index == 2 %}
+                                    <span>&#129352;</span>
+                                {% elsif forloop.index == 3 %}
+                                    <span>&#129353;</span>
+                                {% else %}
+                                    <span>{{ forloop.index }}</span>
+                                {% endif %}
+                            </td>
+                            <td style="position: relative; padding: 20px;">
+                                <a href="{{ '/coureurs/' | append: people[0] | downcase | replace: " ", "" | relative_url }}">{{ people[0] }}</a>
+                            </td>
+                            <td style="position: relative; padding: 20px;">
+                                <span>{{ people[1] }}</span>
+                            </td>
+                        </tr>
+                    {% endif %}
+                {% endfor %}
+            </tbody>
+        </table>
+        <div class="row" style="padding-top: 50px; padding-bottom: 50px;">
+            <b>Réglement : </b>
+            <ul>
+                <li>Participation : {{ data.point_participation }} points</li>
+                <li>Victoire : {{ data.point_win }} points</li>
+                <li>Top 5 : {{ data.point_top5 }} points</li>
+                <li>Top 10 : {{ data.point_top10 }} points</li>
+            </ul>
+            Mis à jour le {{ data.update_date }}
+        </div>
+    </div>
+</section>
+<!-- ==================== End Table ==================== -->
+
+
+{%- include recent-blog.html -%}

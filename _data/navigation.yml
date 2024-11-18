@@ -1,0 +1,41 @@
+# Navigation configuration file
+##
+### to add or remove menu item
+### param "title" - Menu item name
+### param "url" - Menu item url
+### param "parent" - set "1" for enable submenu and "childs" param
+
+main:
+  # Home
+  - title: "Home"
+    url: "/"
+    parent: 0
+
+  # Blog
+  - title: "Résultats"
+    url: "/blog"
+    parent: 0
+
+  - title: "Challenge Route"
+    url: "/challenge"
+    parent: 0
+
+  - title: "Challenge Boue"
+    url: "/boue"
+    parent: 0
+
+#  # Contact
+#  - title: "Contact"
+#    url: "#contact-section"
+#    parent: 0
+#
+#  # Additional Pages
+#  - title: "Pages"
+#    url: ""
+#    parent: 1
+#    childs:
+#        - title: "coureurs"
+#          url: "coureurs/"
+#
+#        - title: "Blog"
+#          url: "blog/"

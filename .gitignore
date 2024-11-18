@@ -1,0 +1,11 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+__pycache__/
+__pycache__/test.xls
+python_scripts/__pycache__/
+python_scripts/test.xls
+Gemfile.lock
+.idea/

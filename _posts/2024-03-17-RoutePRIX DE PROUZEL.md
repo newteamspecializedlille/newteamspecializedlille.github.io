@@ -1,0 +1,43 @@
+---
+layout: post
+title: Route - PRIX DE PROUZEL - 2024
+date: 2024-03-17
+category: Route
+tags: Route
+image: assets/img/resultats/2024-03-17-RoutePRIXDEPROUZEL/1.jpeg
+---
+
+### 3ème Catégorie
+22 participants
+- [DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid) : 1
+- [DERASSE PATRICK](https://teamspecializedlille.github.io/coureurs/derassepatrick) : Ab
+
+| Place | Nom | Team |
+|---|---|---|
+|**1**|**[DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid)**|**TEAM SPECIALIZED LILLE**|
+|2|GOUEL BENJAMIN|VELO CLUB EUDOIS ET BRESLOIS|
+|3|NORDEST SEBASTIEN|BEAUVAIS TEAM CYCLISTE|
+|4|MIETTON TIMAUTHE|AMIS DU CYCLISME NESLOIS|
+|5|LEGRAND CHRISTOPHE|VELO CLUB TALMAS|
+|6|COUTY MAXENCE|GRANDVILLIERS TEAM CYCLISTE|
+|7|VAUDION REMI|VELO CLUB TALMAS|
+|8|PERRONNET JEREMY|ASSOCIATION CYCLISTE DE MARGNY LES  COMPIEGNE|
+|9|VACOSAIT FREDERIC|TEAM CYCLISTES BRESLES|
+|10|GEBLEUX FREDERIC|ASSOCIATION CYCLISTE AMIENOISE|
+|11|MASKIEWICZ ALEXANDRE|ASSOCIATION SPORTIVE THOUROTTOISE CYCLISTE|
+|12|MORVAN LILIAN|TEAM CYCLISTES BRESLES|
+|13|RIMBAULT JOAQUIM|GRANDVILLIERS TEAM CYCLISTE|
+|14|LUYCX ADRIEN|SPRINTER CLUB VAL D'ARRE ST JUST  CHAUSSE|
+|15|VACANDARE QUENTIN|ASSOCIATION CYCLISTE AMIENOISE|
+|16|CAMI HERVE|LES BLAIREAUX DE PICQUIGNY|
+|17|LORET MAXIME|GRANDVILLIERS TEAM CYCLISTE|
+|18|PARTON ANTOINE|VELO CLUB TALMAS|
+|19|DEPOILLY LUCAS|CLUB CYCLISTE DE OISEMONT|
+|20|POULET-FABBRI MATHEO|AMIS DU CYCLISME NESLOIS|
+|Ab|TORIO ERIC|LE SPRINTER CLUB DE ROCHY CONDE|
+|**Ab**|**[DERASSE PATRICK](https://teamspecializedlille.github.io/coureurs/derassepatrick)**|**TEAM SPECIALIZED LILLE**|
+
+![1](http://teamspecializedlille.github.io/assets/img/resultats/2024-03-17-RoutePRIXDEPROUZEL/1.jpeg)
+![2](http://teamspecializedlille.github.io/assets/img/resultats/2024-03-17-RoutePRIXDEPROUZEL/2.jpeg)
+![3](http://teamspecializedlille.github.io/assets/img/resultats/2024-03-17-RoutePRIXDEPROUZEL/3.jpeg)
+![4](http://teamspecializedlille.github.io/assets/img/resultats/2024-03-17-RoutePRIXDEPROUZEL/4.jpeg)

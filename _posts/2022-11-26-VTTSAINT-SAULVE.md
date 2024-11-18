@@ -1,0 +1,64 @@
+---
+layout: post
+title: VTT - SAINT SAULVE - 2023
+date: 2022-11-26
+category: VTT
+tags: VTT
+image: assets/img/blog/vtt.jpeg
+---
+
+### VTT Sénior B
+8 participants
+- [DUFOUR JONATHAN](https://teamspecializedlille.github.io/coureurs/dufourjonathan) : 3
+
+### VTT Vétérans B
+14 participants
+- [MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald) : 1
+
+### Scratch
+42 participants
+
+| Place | Nom | Team | Tours | Catégorie | Temps |
+|---|---|---|---|---|---|
+| **1** | **[MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **14** | **Vétérans B** | **0:50:13** | 
+| 2 | JABLONSKI SEBASTIEN | TEAM B.B.L. HERGNIES | 14 | Vétérans A | 0:50:16 | 
+| 3 | DEMEESTER KEVIN | WINGLES PYRAMIDES PASSION VTT | 13 | Seniors B | 0:47:34 | 
+| 4 | DARTUS MIKAEL | VELO CLUB SOLESMES | 13 | Vétérans A | 0:47:53 | 
+| 5 | ALEXANDRE JIMMY | VELO CLUB SOLESMES | 13 | Vétérans A | 0:48:7 | 
+| 6 | MICHEL KEVIN | ASSOCIATION CYCLISTE BELLAINGEOISE | 13 | Seniors A | 0:48:15 | 
+| 7 | BREVIERE ALEXANDRE | CAMPHIN EN CAREMBAULT CYCLING TEAM | 13 | Vétérans B | 0:49:3 | 
+| 8 | DUHAMEL ARNAUD | AGNY ARTEAM | 13 | Vétérans B | 0:49:4 | 
+| 9 | ALEXANDRE GREGORY | VELO CLUB SOLESMES | 13 | Vétérans A | 0:49:14 | 
+| 10 | BARTIER SERGE | CAMPHIN EN CAREMBAULT CYCLING TEAM | 13 | Vétérans B | 0:49:14 | 
+| 11 | BONNET JOHNNY | UNION VELOCIPEDIQUE JEUMONT MARPENT | 13 | Seniors B | 0:49:36 | 
+| **12** | **[DUFOUR JONATHAN](https://teamspecializedlille.github.io/coureurs/dufourjonathan)** | **TEAM SPECIALIZED LILLE** | **13** | **Seniors B** | **0:50:15** | 
+| 13 | GAMACHE CHRISTOPHE | CYCLOS RANDONNEURS LA BASSEE | 13 | Vétérans B | 0:50:27 | 
+| 14 | MICHEL STEPHANE | ETOILE CYCLISTE FEIGNIES | 13 | Vétérans B | 0:50:34 | 
+| 15 | MIXTE BENJAMIN | VTT SAINT AMAND LES EAUX | 13 | Vétérans A | 0:50:39 | 
+| 16 | MILLET FABRICE | VTT  CLUB PONT SUR SAMBRE | 13 | Vétérans B | 0:50:41 | 
+| 17 | LANCELLE FLORENTIN | VTT SAINT AMAND LES EAUX | 13 | Seniors A | 0:51:37 | 
+| 18 | TRIOLO FLORENT | UNION SPORTIVE VALENCIENNES MARLY | 13 | Vétérans A | 0:51:43 | 
+| 19 | VAN CLEEMPUT MARTIAL | FLEURBAIX TEAM SHARK VTT | 12 | Seniors A | 0:47:40 | 
+| 20 | ORTEGA JULIEN | UNION VELOCIPEDIQUE JEUMONT MARPENT | 12 | Vétérans A | 0:47:41 | 
+| 21 | LAGUILLIER REGIS | TEAM DECOPUB PROVILLE | 12 | Vétérans A | 0:47:42 | 
+| 22 | LEBLON ROBIN | CYCLO CLUB WAVRIN | 12 | Seniors A | 0:48:12 | 
+| 23 | BOUTONNE FREDERIC | UNION SPORTIVE SAINT ANDRE | 12 | Vétérans B | 0:48:13 | 
+| 24 | MARTINEZ JEROME | NEW TEAM MAULDE | 12 | Vétérans B | 0:48:22 | 
+| 25 | LONCKE SEBASTIEN | VTT SAINT AMAND LES EAUX | 12 | Seniors B | 0:48:47 | 
+| 26 | MERIAUX FREDERIC | MERICOURT ULTRA VTT | 12 | Vétérans B | 0:49:23 | 
+| 27 | DUBRUILLE CHRISTOPHE | SAULZOIR MONTRECOURT CYCLING CLUB | 12 | Vétérans B | 0:49:40 | 
+| 28 | LEMAIRE ANTHONY | BAPAUME CLUB CYCLISTE | 12 | Vétérans A | 0:50:25 | 
+| 29 | FOULON RANDY | AGNY ARTEAM | 12 | Seniors A | 0:50:46 | 
+| 30 | PEQUIGNOT CLEMENT | VELO CLUB SOLESMES | 12 | Seniors A | 0:51:3 | 
+| 31 | BAUDOIN ETIENNE | LES VIKINGS VTT MARCHE NORDIQUE OHAIN | 12 | Seniors B | 0:51:8 | 
+| 32 | DEVELTER GREGORY | TEAM PEVELE CAREMBAULT CYCLISME | 11 | Vétérans A | 0:47:54 | 
+| 33 | GUELTON LAURENT | TEAM PEVELE CAREMBAULT CYCLISME | 11 | Vétérans B | 0:47:54 | 
+| 34 | DERODE BAPTISTE | HAVELUY CYCLO CLUB | 11 | Vétérans A | 0:48:10 | 
+| 35 | THORLET YANNICK | VELO CLUB DE L'ESCAUT ANZIN | 11 | Vétérans A | 0:48:11 | 
+| 36 | DESCAMPS TANGUI | UNION VELOCIPEDIQUE JEUMONT MARPENT | 11 | Seniors B | 0:51:1 | 
+| 37 | PORQUET LUDOVIC | SAULZOIR MONTRECOURT CYCLING CLUB | 11 | Vétérans A | 0:51:50 | 
+| 38 | HOEZ THEO | TEAM BOUSIES | 10 | Seniors A | 0:47:37 | 
+| 39 | ROUTIER ALEXIS | AGNY ARTEAM | 10 | Seniors A | 0:50:32 | 
+| 40 | SCREVE ROMAIN | LES VIKINGS VTT MARCHE NORDIQUE OHAIN | 10 | Seniors B | 0:50:44 | 
+| 41 | DELORGE FREDERIC | UNION SPORTIVE VALENCIENNES MARLY | 9 | Vétérans B | 0:48:26 | 
+| 42 | MONIEZ ADRIEN | CLUB CYCLISTE THUN ST MARTIN | 0 | Seniors A | 0:38:53 | 

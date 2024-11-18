@@ -1,0 +1,100 @@
+{% assign navigation = site.data.navigation['main'] %}
+{% assign header = site.data.settings['header'] %}
+{% assign social = site.data.settings['social'] %}
+{% assign page_url = page.url | relative_url %}
+
+<!-- ==================== Start Navbar ==================== -->
+
+<nav class="navbar navbar-expand-lg bord blur">
+    <div class="container">
+
+        <!-- Logo -->
+        <a class="logo " href="{{ '/' | relative_url }}"><!--icon-img-100-->
+            <!--<img src="{{ 'assets/imgs/logo-light.png' | relative_url }}" alt="logo">-->
+            <h5>Team Specialized Lille</h5>
+        </a>
+
+        <button class="navbar-toggler" type="button" data-toggle="collapse"
+            data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+            aria-label="Toggle navigation">
+            <span class="icon-bar"><i class="fas fa-bars"></i></span>
+        </button>
+
+        <!-- navbar links -->
+        <div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
+            <ul class="navbar-nav">
+
+                {% for nav in navigation %}
+                    {% assign nav_url = nav.url | relative_url %}
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ nav_url | relative_url }}"><span class="rolling-text">{{ nav.title }}</span></a>
+                    </li>
+                {% endfor %}
+            </ul>
+        </div>
+
+        <div class="topnav">
+            <div class="menu-icon cursor-pointer">
+                <span class="icon ti-align-right"></span>
+            </div>
+        </div>
+    </div>
+</nav>
+
+<div class="hamenu one-scroll">
+    <div class="logo icon-img-100">
+        <h5>Team Specialized Lille</h5>
+    </div>
+    <div class="close-menu cursor-pointer ti-close"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-2">
+                <div class="menu-text">
+                    <div class="text">
+                        <h2>Menu</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-7">
+                <div class="menu-links">
+                    <ul class="main-menu rest">
+                        {% for nav in navigation %}
+                            {% assign nav_url = nav.url | relative_url %}
+                            <li data-scroll-nav="0">
+                                <div class="o-hidden">
+                                    <div class="link cursor-pointer dmenu"><span class="fill-text"
+                                            data-text="{{ nav_url | relative_url }}">{{ nav.title }}</span></div>
+                                </div>
+                            </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-3">
+                <div class="cont-info">
+                    <div class="item mb-50">
+                        <h6 class="sub-title mb-15 opacity-7">Cycle Lecolier</h6>
+                        <h5>5 Rue de la Source, <br>59320 Hallennes-lez-Haubourdin<br></h5>
+                    </div>
+                    <div class="item mb-50">
+                        <h6 class="sub-title mb-15 opacity-7">Social Media</h6>
+                        <ul class="rest social-text">
+                            <li class="mb-10">
+                                <a href="https://www.facebook.com/cycleslecolierspecializedlille" target="_blank" class="hover-this"><span class="hover-anim">Facebook</span></a>
+                            </li>
+                            <li class="mb-10">
+                                <a href="https://cycleslecolier.fr/" target="_blank" class="hover-this"><span class="hover-anim">Site Web</span></a>
+                            </li>
+                           <li class="mb-10">
+                                <a href=“tel:0320548339” class="hover-this"><span class="hover-anim">Téléphone</span></a>
+                            </li>
+                        </ul>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- ==================== End Navbar ==================== -->

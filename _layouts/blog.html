@@ -1,0 +1,64 @@
+---
+layout: default
+comments: true
+---
+
+{% assign ui_text = site.data.ui-text['ui_text'] %}
+<!-- ==================== Start Header ==================== -->
+
+<header class="page-header bg-img section-padding" data-background="{{ 'assets/imgs/header/header.jpeg' | relative_url }}"
+	data-overlay-dark="4" style="background-position: center;">
+    <div class="container pt-100">
+        <div class="text-center">
+            <h1>{{ page.title }}</h1>
+            <div class="mt-15">
+                <a href="{{ '' | absolute_url }}">Home</a>
+                <span class="padding-rl-20">|</span>
+                <span class="main-color">{{ page.title }}</span>
+            </div>
+        </div>
+    </div>
+</header>
+
+<!-- ==================== End Header ==================== -->
+
+
+
+<!-- ==================== Start Blogs ==================== -->
+
+<section class="blog-main section-padding">
+    <div class="container">
+        <div class="row lg-marg justify-content-around">
+            <div class="col-lg-7">
+                <div class="md-mb80">
+                    {% for post in paginator.posts %}
+                        <div class="item mb-50">
+                        <div class="img">
+                            <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" loading="lazy">
+                        </div>
+                        <div class="content main-bg">
+                            <div class="d-flex align-items-center mb-15">
+                                <div class="post-date">{{ post.date | date: site.date_format }}</div>
+                                <!--TODO <div class="commt opacity-7 fz-13"><span class="ti-comment-alt mr-10"></span>4 Comments</div>-->
+                            </div>
+                            <h4 class="mb-15">
+                                <a href="{{ post.url }}">{{ post.title }}</a>
+                            </h4>
+                            <!--TODO <p>So striking at of to welcomed resolved. Northward by described up household therefore attention.</p>-->
+                            <a href="{{ post.url }}" class="d-flex align-items-center mt-40">
+                                <span class="text mr-15">Découvrir</span>
+                                <span class="ti-arrow-top-right"></span>
+                            </a>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+
+            {%- include sidebar.html -%}
+
+        </div>
+    </div>
+</section>
+
+<!-- ==================== End Blogs ==================== -->

@@ -1,0 +1,41 @@
+# Theme Settings Configuration File
+##
+### use settings.yml file for configure colors, ui, rtl, sidebar, animation options
+
+### Main Settings
+settings:
+  skin: "light" # select initial skin option: "light" or "dark"
+
+
+
+### Header
+header:
+  logo:
+    image: "assets/img/profil.png"
+    alt: "Team <strong>Specialized Lille"
+
+### Social
+social:
+  - title: "Facebook"
+    icon: "fab fa-facebook"
+    url: "https://www.facebook.com/cycleslecolier"
+
+
+
+### Footer
+footer:
+  developer: "Developed by <strong>Félix</strong>"
+  copyright: "<strong>Félix MOULIN</strong>. All rights reserved"
+
+### Portfolio Filters Settings
+portfolio:
+  layout: "list" # select coureurs layout options: "Grid" or "List"
+  filters:
+    - name: "Route"
+      slug: "road"
+
+    - name: "Cyclo cross"
+      slug: "cx"
+
+    - name: "VTT"
+      slug: "vtt"

@@ -1,0 +1,52 @@
+---
+layout: post
+title: VTT - RAISMES - 2023
+date: 2022-10-09
+category: VTT
+tags: VTT
+image: assets/img/blog/vtt.jpeg
+---
+
+### VTT Vétérans B
+16 participants
+- [MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald) : 3
+
+### Scratch
+34 participants
+
+| Place | Nom | Team | Tours | Catégorie | Temps |
+|---|---|---|---|---|---|
+| 1 | NOWICKI FABRICE | THELUS TEAM UNIS-VERT VTT | 7 | Vétérans B | 0:53:43 | 
+| 2 | CORMAN SEBASTIEN | CAMPHIN EN CAREMBAULT CYCLING TEAM | 7 | Seniors B | 0:54:7 | 
+| 3 | TAMBOUR EDOUARD | CAMPHIN EN CAREMBAULT CYCLING TEAM | 7 | Seniors B | 0:54:49 | 
+| 4 | ALLART ERIC | THELUS TEAM UNIS-VERT VTT | 7 | Vétérans B | 0:55:5 | 
+| 5 | JABLONSKI SEBASTIEN | TEAM B.B.L. HERGNIES | 7 | Vétérans A | 0:55:30 | 
+| 6 | MEZOUED THOMAS | VTT SAINT AMAND LES EAUX | 7 | Seniors A | 0:55:31 | 
+| **7** | **[MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **7** | **Vétérans B** | **0:57:17** | 
+| 8 | BREVIERE ALEXANDRE | CAMPHIN EN CAREMBAULT CYCLING TEAM | 7 | Vétérans B | 0:57:42 | 
+| 9 | ALEXANDRE GREGORY | VELO CLUB SOLESMES | 7 | Vétérans A | 0:58:17 | 
+| 10 | GAMACHE CHRISTOPHE | CYCLOS RANDONNEURS LA BASSEE | 7 | Vétérans B | 0:58:32 | 
+| 11 | CAPON SEBASTIEN | CAMPHIN EN CAREMBAULT CYCLING TEAM | 7 | Seniors B | 0:59:32 | 
+| 12 | ALEXANDRE JIMMY | VELO CLUB SOLESMES | 7 | Vétérans A | 1:0:26 | 
+| 13 | VAN DE MEULEBROEKE ARNAUD | VTT SAINT AMAND LES EAUX | 7 | Vétérans B | 1:0:30 | 
+| 14 | HORCHOLLE REMI | VTT  CLUB PONT SUR SAMBRE | 7 | Seniors B | 1:0:41 | 
+| 15 | PLUCHARD MATHIS | TEAM BOUSIES | 7 | Seniors A | 1:0:44 | 
+| 16 | LAGUILLIER REGIS | TEAM DECOPUB PROVILLE | 6 | Vétérans A | 0:52:4 | 
+| 17 | VANACKER GEOFFREY | TEAM CYCLISTE BERMERAIN | 6 | Vétérans A | 0:52:21 | 
+| 18 | CHALAS JEAN PIERRE | UNION SPORTIVE SAINT ANDRE | 6 | Vétérans B | 0:53:14 | 
+| 19 | CORETTE DOMINIQUE | UNION SPORTIVE SAINT ANDRE | 6 | Vétérans B | 0:53:33 | 
+| 20 | RENAUT VINCENT | SAULZOIR MONTRECOURT CYCLING CLUB | 6 | Vétérans A | 0:53:38 | 
+| 21 | POUILLY DAVID | TEAM B.B.L. HERGNIES | 6 | Vétérans B | 0:54:18 | 
+| 22 | LIONNE BERNARD | HAVELUY CYCLO CLUB | 6 | Vétérans B | 0:55:45 | 
+| 23 | DUCARNE JEAN PHILIPPE | NEW TEAM MAULDE | 6 | Vétérans B | 0:56:16 | 
+| 24 | THORLET YANNICK | VELO CLUB DE L'ESCAUT ANZIN | 6 | Vétérans A | 0:56:41 | 
+| 25 | CHEVAL EDDY | SAULZOIR MONTRECOURT CYCLING CLUB | 6 | Vétérans B | 0:57:30 | 
+| 26 | PALAC SIMON | TEAM B.B.L. HERGNIES | 6 | Vétérans A | 1:1:15 | 
+| 27 | DECRUCQ ROMUALD | UNION VELOCIPEDIQUE FOURMISIENNE | 6 | Vétérans A | 1:1:54 | 
+| 28 | DUPUIS VALENTIN | NEW TEAM MAULDE | 5 | Seniors A | 0:52:13 | 
+| 29 | DELORGE FREDERIC | UNION SPORTIVE VALENCIENNES MARLY | 5 | Vétérans B | 0:52:17 | 
+| 30 | QUILLIOT JEREMY | HENIN ETOILE CYCLISTE HENINOISE | 5 | Vétérans A | 0:52:29 | 
+| 31 | POUTRAIN CHRISTOPHER | HENIN ETOILE CYCLISTE HENINOISE | 5 | Seniors A | 0:53:17 | 
+| 32 | MARTINEZ JEROME | NEW TEAM MAULDE | 5 | Vétérans B | 0:54:1 | 
+| 33 | LEFBVRE FABIEN | HENIN ETOILE CYCLISTE HENINOISE | 5 | Seniors B | 0:57:23 | 
+| 34 | THOMAS DAVID | UNION SPORTIVE VALENCIENNES MARLY | 5 | Vétérans B | 0:58:1 | 

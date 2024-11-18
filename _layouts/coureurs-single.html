@@ -1,0 +1,214 @@
+---
+layout: default
+---
+
+{% assign ui_text = site.data.ui-text['ui_text'] %}
+
+{% if page.author == nil %}
+	{% assign author = site.author %}
+{% else %}
+	{% assign author = page.author %}
+{% endif %}
+
+{% assign blog_url = 'blog/' %}
+
+{% for team in site.data.team.team_members %}
+	{%- if team.name == page.name -%}
+		{% assign team_people = team %}
+	{%- endif -%}
+{% endfor %}
+
+{% assign full_name = page.title | split: " " %}
+{% assign name = full_name[1] %}
+{% assign surname = full_name[0] %}
+
+<!-- ==================== Start Coureur ==================== -->
+
+  <section class="container">
+    <section class="row justify-content-end">
+        <section class="col-lg-6 bord-thin-top">
+
+            <!-- ==================== Start intro ==================== -->
+
+            <div class="intro-card section-padding" data-scroll-index="0">
+                <div class="container-fluid ontop">
+                        <div class="container" style="translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
+                            <div class="lg-text">
+
+                                <h1>{{ page.title }}</h1>
+                                <div class="d-flex">
+                                    <h6 class="ml-auto">{{ page.sports }}</h6>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="img conditional-display">
+                            <img src="{{ page.large | relative_url }}" alt="">
+                        </div>
+                    </div>
+            </div>
+
+            <!-- ==================== End intro ==================== -->
+
+            <!-- ==================== Start Infos ==================== -->
+
+            <div class="testimonials section-padding bord-thin-top" data-scroll-index="5">
+                <div class="sec-head mb-50">
+                    <h3>Informations<span class="fw-200"></span></h3>
+                </div>
+                <div class="testim-swiper" data-loop="true">
+                    <div id="content-carousel-container-unq-testim" class="swiper-container"
+                        data-swiper="container">
+                                <div class="item">
+                                    <div class="content">
+                                        <div class="info mt-40">
+                                                    {% if page.nationality %}
+                                                        <div class="d-flex align-items-center">
+                                                            <span class="sub-title fw-200 label">Nationalité : </span>
+                                                            <div id="{{ page.nationality }}" class="country-flag ml-2"></div>
+                                                        </div>
+                                                    {% endif %}
+                                                    {% if page.category %}
+                                                            <div class="d-flex align-items-center">
+                                                                <span class="sub-title fw-200 label">Catégorie : </span>
+                                                                <span class="sub-title fw-200 value">{{ page.category }}</a></span>
+                                                            </div>
+                                                    {% endif %}
+                                                    {% if page.date_of_birth %}
+                                                        <div class="d-flex align-items-center">
+                                                            <span class="sub-title fw-200 label">Date de naissance : </span>
+                                                            <span class="sub-title fw-200 value">{{ page.date_of_birth }}</span>
+                                                        </div>
+                                                    {% endif %}
+                                                    {% if page.strava %}
+                                                            <div class="d-flex align-items-center">
+                                                                <span class="sub-title fw-200 label">Strava : </span>
+                                                                <span class="sub-title fw-200 value"><a href="{{ page.strava }}" target="_blank">{{ page.title }}</a></span>
+                                                            </div>
+                                                    {% endif %}
+                                                    {% if page.instagram %}
+                                                            <div class="d-flex align-items-center">
+                                                                <span class="sub-title fw-200 label">Instagram : </span>
+                                                                <span class="sub-title fw-200 value"><a href="https://instagram.com/{{ page.instagram }}" target="_blank">@{{ page.instagram }}</a></span>
+                                                            </div>
+                                                    {% endif %}
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- ==================== End Infos ==================== -->
+
+            <!-- ==================== Start Resume ==================== -->
+
+            <!-- ==================== Start results ==================== -->
+            {%- if team_people.cx.size > 0 or team_people.road.size > 0 or team_people.vtt.size > 0 -%}
+            <section class="faqs section-padding position-re bord-thin-top">
+                <div class="sec-head mb-50">
+                    <h2>Résultats</h2>
+                </div>
+                <div class="col-lg-12">
+                    <div class="list-serv">
+                        <div class="accordion bord">
+                        {% assign first_deployed = 0 %}
+                        {% for year in (2018..2025) reversed %}
+                            {% assign year_string = year | append: "" %}
+
+                            {% if team_people.cx[year_string] or team_people.road[year_string] or team_people.vtt[year_string] %}
+
+                            <div class="item mb-15 wow fadeInUp {% if first_deployed == 0 %}active{% endif %}" data-wow-delay=".1s">
+                            {% assign first_deployed = 1 %}
+                                    <div class="title">
+                                        <h6>{{ year }}</h6>
+                                        <span class="ico ti-plus"></span>
+                                    </div>
+
+                                    <div class="accordion-info">
+
+                                            {% assign categories = "" | split: "" %}
+                                            {% if team_people.road[year_string] %}
+                                                {% assign categories = categories | push: "road" %}
+                                            {% endif %}
+                                            {% if team_people.cx[year_string] %}
+                                                {% assign categories = categories | push: "cx" %}
+                                            {% endif %}
+                                            {% if team_people.vtt[year_string] %}
+                                                {% assign categories = categories | push: "vtt" %}
+                                            {% endif %}
+
+                                            {% assign sorted_categories = categories | sort: "date" %}
+
+                                            {% for category in sorted_categories %}
+                                                {% if category == "road" %}
+                                                    <h5>Road</h5>
+                                                    <div class="row">
+                                                        {% for res in team_people.road[year_string] %}
+                                                            {% assign split_race = res[0] | split: "|" %}
+                                                            <div class="col-md-10">
+                                                                <p class="mt-15 fz-14">- <a href="/route/{{ split_race[0] | append: '/Route' | append: split_race[1] | replace: ' ', '-' }}">{{ split_race[0] }} - {{ split_race[1] }}</a> ~ {{ res[1] }}</p>
+                                                            </div>
+                                                        {% endfor %}
+                                                    </div>
+                                                {% elsif category == "cx" %}
+                                                    <h5>Cyclo-cross</h5>
+                                                    <div class="row">
+                                                        {% for res in team_people.cx[year_string] %}
+                                                            {% assign split_race = res[0] | split: "|" %}
+                                                            <div class="col-md-10">
+                                                                <p class="mt-15 fz-14">- <a href="/route/{{ split_race[0] | append: '/Route' | append: split_race[1] | replace: ' ', '-' }}">{{ split_race[0] }} - {{ split_race[1] }}</a> ~ {{ res[1] }}</p>
+                                                            </div>
+                                                        {% endfor %}
+                                                    </div>
+                                                {% elsif category == "vtt" %}
+                                                    <h5>VTT</h5>
+                                                    <div class="row">
+                                                        {% for res in team_people.vtt[year_string] %}
+                                                            {% assign split_race = res[0] | split: "|" %}
+                                                            <div class="col-md-10">
+                                                                <p class="mt-15 fz-14">- <a href="/route/{{ split_race[0] | append: '/Route' | append: split_race[1] | replace: ' ', '-' }}">{{ split_race[0] }} - {{ split_race[1] }}</a> ~ {{ res[1] }}</p>
+                                                            </div>
+                                                        {% endfor %}
+                                                    </div>
+                                                {% endif %}
+
+                                    {% endfor %}
+                                    </div>
+                                </div>
+                            {% endif %}
+                        {% endfor %}
+                    </div>
+                    </div>
+                </div>
+            </section>
+
+            {%- endif -%}
+
+            <!-- ==================== End Results ==================== -->
+
+            <!-- ==================== Start Image Gallery ==================== -->
+
+            <section class="image-gallery section-padding">
+                <div class="container">
+                    <div class="sec-head mb-50">
+                        <h3>Gallery<span class="fw-200"></span></h3>
+                    </div>
+                    <div class="row">
+                        {% for img in page.gallery %}
+                            <div class="col-lg-4 col-md-6 mb-4">
+                                <div class="gallery-item">
+                                        <img src="{{ img | relative_url }}" alt="" class="img-fluid">
+                                </div>
+                            </div>
+                        {% endfor %}
+                    </div>
+                </div>
+            </section>
+
+            <!-- ==================== End Image Gallery ==================== -->
+
+        </section>
+    </section>
+</section>
+
+<!-- ==================== End Coureur ==================== -->

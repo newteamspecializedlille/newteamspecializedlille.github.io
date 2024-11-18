@@ -1,0 +1,50 @@
+{% assign content = site.data.content['portfolio'] %}
+{% assign ui_text = site.data.ui-text['ui_text'] %}
+{% assign categories = site.data.settings['portfolio'] %}
+<!-- ==================== Start Team ==================== -->
+
+<section class="team section-padding">
+    <div class="container">
+        <div class="sec-head mb-80">
+            <h6 class="sub-title main-color mb-25">Notre Équipe</h6>
+            <div class="bord pt-25 bord-thin-top d-flex align-items-center">
+                <h2 class="fw-600 d-rotate wow">
+                    <span class="rotate-text">Découvrez nos <span class="fw-200">coureurs</span></span>
+                </h2>
+            </div>
+        </div>
+        <div class="row">
+            {% for coureur in site.coureurs %}
+                <div class="col-lg-4">
+                    <div class="item md-mb50">
+                        <a  href="{{ coureur.url }}">
+                            <div class="img">
+                                <img src="{{ coureur.image | relative_url }}" alt="{{ coureur.title }}">
+                                <div class="info">
+                                    <span class="fz-12">{{ coureur.category }}</span>
+                                    <h6 class="fz-18">{{ coureur.title }}</h6>
+                                </div>
+                            </div>
+                        </a>
+                        <div class="social">
+                            <div class="links">
+                                {% if coureur.strava != nil %}
+                                <a href="{{ coureur.strava }}" target="_blank">
+                                    <i class="fab fa-strava"></i>
+                                </a>
+                                {% endif %}
+                                 {% if coureur.instagram != nil %}
+                                <a href="{{ coureur.instagram }}" target="_blank">
+                                    <i class="fab fa-instagram"></i>
+                                </a>
+                                {% endif %}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+
+<!-- ==================== End Team ==================== -->

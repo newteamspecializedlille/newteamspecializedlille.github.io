@@ -1,0 +1,82 @@
+<head>
+
+    <!-- Metas -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="keywords" content="{{ site.description }}">
+    <meta name="description" content="{{ site.description }}">
+    <meta name="author" content="Félix Moulin">
+    {%- seo -%}
+
+    <!-- Title  -->
+    <title>{{ site.title }}</title>
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="{{ 'assets/images/favicons/favicon.ico' | relative_url }}" />
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&amp;display=swap"
+        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Allerta+Stencil&amp;display=swap" rel="stylesheet">
+
+    <!-- Font -->
+    <link rel="stylesheet" href="{{ 'assets/css/satoshi.css' | relative_url }}" />
+
+    <!-- Plugins -->
+    <link rel="stylesheet" href="{{ 'assets/css/plugins.css' | relative_url }}" />
+
+    <!-- Core Style Css -->
+    <link rel="stylesheet" href="{{ 'assets/css/style.css' | relative_url }}" />
+    <link rel="stylesheet" href="{{ 'assets/css/country-flag.css' | relative_url }}">
+    <script src="{{ 'assets/js/country-flag.js' | relative_url }}"></script>
+
+
+
+<script>
+    function updateDisplay() {
+	    const narrow_screen = window.matchMedia("(max-width: 768px)").matches;
+	    const smoothWrapper = document.getElementById("smooth-wrapper");
+	    if (narrow_screen && smoothWrapper) {
+            smoothWrapper.removeAttribute("data-background");
+            smoothWrapper.classList.add("no-background");
+            console.log("data-background attribute removed");
+
+        } else if (smoothWrapper) {
+			const image = smoothWrapper.getAttribute("data-name");
+            smoothWrapper.setAttribute("data-background", image);
+        }
+
+        var element = document.querySelector(".conditional-display");
+        if (narrow_screen && element) {
+            element.style.display = "block";
+        } else if (element) {
+            element.style.display = "none";
+        }
+    }
+
+	document.addEventListener("DOMContentLoaded", function () {
+		updateDisplay();
+		const flagElement = document.querySelector(".country-flag");
+	    if (flagElement) {
+            const flag = new CountryFlag(flagElement);
+            flag.selectByAlpha2(flagElement.id);
+        }
+    });
+    window.addEventListener("resize", updateDisplay);
+
+    gtag('config', 'G-L8GMTBYT7Q');
+  </script>
+
+
+
+<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+<script>
+  window.OneSignalDeferred = window.OneSignalDeferred || [];
+  OneSignalDeferred.push(async function(OneSignal) {
+    await OneSignal.init({
+      appId: "ba4ad904-0c3d-4eb9-b7f6-35f6a36c1893",
+    });
+  });
+</script>
+</head>

@@ -1,0 +1,84 @@
+content:
+  - name: racers
+    label: Coureurs
+    path: _coureurs
+    type: collection
+    filename: '{fields.title}.md'
+    fields:
+      - name: layout
+        label: layout
+        type: string
+        default: coureurs-single
+      - name: title
+        label: Nom
+        type: string
+        required: true
+      - name: name
+        label: Nom
+        type: string
+        required: true
+      - name: category
+        label: Catégorie
+        type: string
+        required: false
+        description: VTT | ROUTE | CX
+      - name: category
+        label: category_slug
+        type: string
+        required: false
+        description: vtt | route | cx
+      - name: image
+        label: Image du coureur
+        type: image
+        required: true
+      - name: strava
+        label: Strava Link
+        type: string
+        required: false
+        description : https://www.strava.com/athletes/8607391
+      - name: gallery
+        label: Images
+        type: image
+        list: true
+      - name: info
+        description: Info
+        label: Info
+        type: object
+        fields:
+          - name: first_name
+            label: Date de naissance
+            type: string
+  - name: posts
+    label: Courses
+    path: _posts
+    type: collection
+    view:
+      fields: [ title, published, date, category ]
+    fields:
+      - name: published
+        label: Published
+        type: boolean
+        default: true
+      - name: date
+        label: Date
+        type: date
+      - name: title
+        label: Title
+        type: string
+      - name: body
+        label: Body
+        type: rich-text
+      - name: image
+        label: Image de couverture
+        type: image
+      - name: category
+        label: Categorie
+        type: string
+        description: Route | CX | VTT 
+      - name: tags
+        label: tags
+        type: string
+        description: Route | CX | VTT 
+media:
+  input: assets/img/resultats
+  output: assets/img/resultats

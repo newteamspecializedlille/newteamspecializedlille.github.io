@@ -1,0 +1,59 @@
+---
+layout: post
+title: VTT - SAULZOIR - 2023
+date: 2022-12-04
+category: VTT
+tags: VTT
+image: assets/img/blog/vtt.jpeg
+---
+
+### VTT Vétérans B
+10 participants
+- [MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald) : 1
+
+### Scratch
+41 participants
+
+| Place | Nom | Team | Tours | Catégorie | Temps |
+|---|---|---|---|---|---|
+| 1 | MICHEL KEVIN | ASSOCIATION CYCLISTE BELLAINGEOISE | 11 | Seniors A | 1:2:19 | 
+| 2 | WINS STEPHANE | TEAM BOUSIES | 11 | Vétérans A | 1:5:1 | 
+| **3** | **[MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **11** | **Vétérans B** | **1:5:9** | 
+| 4 | GOUEL VALENTIN | ESEG DOUAI | 11 | Seniors B | 1:5:34 | 
+| 5 | SAMIER GERMAIN | CAMPHIN EN CAREMBAULT CYCLING TEAM | 11 | Seniors A | 1:6:3 | 
+| 6 | FORRIERE MAXENCE | VELO CLUB SOLESMES | 11 | Seniors A | 1:6:31 | 
+| 7 | CORMAN SEBASTIEN | CAMPHIN EN CAREMBAULT CYCLING TEAM | 11 | Seniors B | 1:6:39 | 
+| 8 | JABLONSKI SEBASTIEN | TEAM B.B.L. HERGNIES | 11 | Vétérans A | 1:7:2 | 
+| 9 | HANNOT CHRISTOPHE | VELO CLUB UNION HALLUIN | 10 | Vétérans A | 1:2:26 | 
+| 10 | VAN CLEEMPUT MARTIAL | FLEURBAIX TEAM SHARK VTT | 10 | Seniors A | 1:2:30 | 
+| 11 | ARDID DAVID | UNION CYCLISTE SOLRE LE CHATEAU | 10 | Vétérans A | 1:2:50 | 
+| 12 | QUINZIN YOURI | TEAM BOUSIES | 10 | Seniors B | 1:2:56 | 
+| 13 | RIVART ADRIEN | ASSOCIATION CYCLISTE BELLAINGEOISE | 10 | Seniors A | 1:3:31 | 
+| 14 | KADDOUR-DJEBBAR FREDERIC | VTT  CLUB PONT SUR SAMBRE | 10 | Seniors B | 1:3:47 | 
+| 15 | MORELLE YOHANN | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 10 | Seniors B | 1:4:23 | 
+| 16 | LEBLON ROBIN | CYCLO CLUB WAVRIN | 10 | Seniors A | 1:4:29 | 
+| 17 | DELPIRE FREDERIC | VTT  CLUB PONT SUR SAMBRE | 10 | Vétérans A | 1:4:35 | 
+| 18 | SORET PASCAL | CAMPHIN EN CAREMBAULT CYCLING TEAM | 10 | Vétérans B | 1:4:54 | 
+| 19 | MICHEL STEPHANE | ETOILE CYCLISTE FEIGNIES | 10 | Vétérans B | 1:5:2 | 
+| 20 | MILLET FABRICE | VTT  CLUB PONT SUR SAMBRE | 10 | Vétérans B | 1:5:37 | 
+| 21 | ALEXANDRE GREGORY | VELO CLUB SOLESMES | 10 | Vétérans A | 1:5:50 | 
+| 22 | ALEXANDRE JIMMY | VELO CLUB SOLESMES | 10 | Vétérans A | 1:5:51 | 
+| 23 | GAILLEZ ANTHONY | CERCLE OLYMPIQUE MARCOING | 10 | Seniors A | 1:6:20 | 
+| 24 | QUENTIN LAURENT | LA ROUE D'OR GUISARDE | 10 | Vétérans A | 1:6:23 | 
+| 25 | MARLIER RONALD | VELO CLUB UNION HALLUIN | 10 | Seniors B | 1:6:31 | 
+| 26 | PLOUVIEZ VINCENT | CYCLO CLUB WAVRIN | 10 | Vétérans B | 1:7:8 | 
+| 27 | BROSSE NICOLAS | LES VIKINGS VTT MARCHE NORDIQUE OHAIN | 10 | Seniors B | 1:7:20 | 
+| 28 | JONET AXEL | LA ROUE D'OR GUISARDE | 10 | Seniors A | 1:7:21 | 
+| 29 | PEQUIGNOT CLEMENT | VELO CLUB SOLESMES | 10 | Seniors A | 1:7:22 | 
+| 30 | MERIAUX FREDERIC | MERICOURT ULTRA VTT | 9 | Vétérans B | 1:2:43 | 
+| 31 | HELLE FABRICE | VELO SPRINT BOUCHAIN | 9 | Vétérans B | 1:3:36 | 
+| 32 | PRIAT AURELIEN | ESEG DOUAI | 9 | Seniors B | 1:3:44 | 
+| 33 | DELACOURTE LAURENT | UNION SPORTIVE VALENCIENNES MARLY | 9 | Vétérans A | 1:6:0 | 
+| 34 | LIONNE LIONEL | HAVELUY CYCLO CLUB | 9 | Vétérans A | 1:6:50 | 
+| 35 | SCREVE ROMAIN | LES VIKINGS VTT MARCHE NORDIQUE OHAIN | 8 | Seniors B | 1:3:7 | 
+| 36 | FAUCRET VALENTIN | VELO CLUB SOLESMES | 8 | Seniors A | 1:5:12 | 
+| 37 | PRUVOST CLEMENT | ARTEAM | 7 | Seniors B | 0:49:7 | 
+| 38 | DELORGE FREDERIC | UNION SPORTIVE VALENCIENNES MARLY | 7 | Vétérans B | 1:2:38 | 
+| 39 | BERNIER STEPHANE | U.C. CAPELLOISE FOURMIES | 1 | Vétérans B | 0:17:44 | 
+| 40 | KIEFFER PIERRE | ASSOCIATION CYCLISTE DE C | 0 | Seniors B | 0:38:53 | 
+| 41 | BRIAND KEVIN | ASSOCIATION SPORTIVE THOU | 0 | Seniors B | 0:38:53 | 
