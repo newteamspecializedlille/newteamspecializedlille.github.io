@@ -9,7 +9,7 @@ image: assets/img/blog/road.jpeg
 
 ### 3ème Catégorie
 39 participants
-- [DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael) : 28
+- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 28
 
 ### Scratch
 124 participants
@@ -81,7 +81,7 @@ image: assets/img/blog/road.jpeg
 | 63 | CARDON . DAVID | CYCLO CLUB ORCHIES | 12 | 3ème | 1:46:0 | 
 | 64 | DEFOSSEZ RODRIGUE | CLUB CYCLISTE THUN ST MARTIN | 12 | 3ème | 1:46:5 | 
 | 65 | DROLET PHILIPPE | UNION SPORTIVE SAINT ANDRE | 12 | 3ème | 1:46:19 | 
-| **66** | **[DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **12** | **3ème** | **1:47:19** | 
+| **66** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **12** | **3ème** | **1:47:19** | 
 | 67 | CONTESSE THIBAUD | UNION SPORTIVE VALENCIENNES CRESPIN | 12 | 2ème | 1:47:20 | 
 | 68 | HEDBAUT ALEXIS | VELO CLUB SOLESMES | 12 | 3ème | 1:48:6 | 
 | 69 | BRAL JAN | ETOILE CYCLISTE LIEU ST AMAND | 12 | 2ème | 1:49:21 | 

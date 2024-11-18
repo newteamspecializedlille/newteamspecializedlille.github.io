@@ -9,5 +9,5 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 47 participants
-- [SCHERNU CHRISTOPHE](https://teamspecializedlille.github.io/coureurs/schernuchristophe) : 34
-- [DARQUE JEAN FRANCOIS](https://teamspecializedlille.github.io/coureurs/darquejeanfrancois) : 36
+- [SCHERNU CHRISTOPHE](https://teamspecializedlille.cc/coureurs/schernuchristophe) : 34
+- [DARQUE JEAN FRANCOIS](https://teamspecializedlille.cc/coureurs/darquejeanfrancois) : 36

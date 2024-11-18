@@ -9,7 +9,7 @@ image: assets/img/resultats/2023-12-16-VTTST-WAAST-LA-VALLEE/1.jpg
 
 ### VTT Vétérans B
 21 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald) : 2
+- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 2
 
 ### Scratch
 55 participants
@@ -20,7 +20,7 @@ image: assets/img/resultats/2023-12-16-VTTST-WAAST-LA-VALLEE/1.jpg
 | 2 | MAERTENS DAVID | U. S. HAM | 7 | Vétérans B | 0:59:23 | 
 | 3 | MICHEL KEVIN | ASSOCIATION CYCLISTE BELLAINGEOISE | 7 | Seniors A | 1:0:7 | 
 | 4 | FLORIAN MATHIEU | ETOILE CYCLISTE LIEU ST AMAND | 7 | Seniors B | 1:0:35 | 
-| **5** | **[MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **7** | **Vétérans B** | **1:1:28** | 
+| **5** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **7** | **Vétérans B** | **1:1:28** | 
 | 6 | LORRIAUX JULIEN | VELO CLUB SOLESMES | 7 | Seniors B | 1:1:43 | 
 | 7 | STIENNES JOHAN | ETOILE CYCLISTE LIEU ST AMAND | 7 | Vétérans A | 1:1:47 | 
 | 8 | DARTUS MIKAEL | VELO CLUB SOLESMES | 7 | Vétérans A | 1:2:20 | 

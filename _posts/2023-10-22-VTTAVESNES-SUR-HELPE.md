@@ -9,7 +9,7 @@ image: assets/img/blog/vtt.jpeg
 
 ### VTT Vétérans B
 5 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald) : 1
+- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 1
 
 ### Scratch
 31 participants
@@ -21,7 +21,7 @@ image: assets/img/blog/vtt.jpeg
 | 3 | LORRIAUX JULIEN | VELO CLUB SOLESMES | 8 | Seniors B | 0:52:2 | 
 | 4 | DARTUS MIKAEL | VELO CLUB SOLESMES | 8 | Vétérans A | 0:52:20 | 
 | 5 | MARECHAL GUILLAUME | VELO CLUB SOLESMES | 8 | Seniors B | 0:53:51 | 
-| **6** | **[MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans B** | **0:54:4** | 
+| **6** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans B** | **0:54:4** | 
 | 7 | HOEZ THEO | TEAM BOUSIES | 8 | Seniors A | 0:54:49 | 
 | 8 | QUINZIN YOURI | TEAM BOUSIES | 8 | Seniors B | 0:55:12 | 
 | 9 | LEFEVRE DONIPHAN | 52X11 HIRSON THIÉRACHE | 8 | Vétérans A | 0:56:18 | 

@@ -9,13 +9,13 @@ image: assets/img/blog/road.jpeg
 
 ### 2ème Catégorie
 64 participants
-- [LECOLIER BENOIT](https://teamspecializedlille.github.io/coureurs/lecolierbenoit) : 18
-- [BROUTIN ANTOINE](https://teamspecializedlille.github.io/coureurs/broutinantoine) : 26
-- [DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve) : 46
+- [LECOLIER BENOIT](https://teamspecializedlille.cc/coureurs/lecolierbenoit) : 18
+- [BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine) : 26
+- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 46
 
 ### 3ème Catégorie
 72 participants
-- [WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit) : 23
+- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 23
 
 ### Scratch
 243 participants
@@ -73,7 +73,7 @@ image: assets/img/blog/road.jpeg
 | 49 | CORNETTE STEPHANE | TEAM BIKE PRESEAU | 19 | 2ème | 1:42:52 | 
 | 50 | DELPIRE FREDERIC | VTT  CLUB PONT SUR SAMBRE | 19 | 2ème | 1:42:52 | 
 | 51 | HAIDON PASCAL | ASSOCIATION CYCLISTE BELLAINGEOISE | 19 | 2ème | 1:42:53 | 
-| **52** | **[LECOLIER BENOIT](https://teamspecializedlille.github.io/coureurs/lecolierbenoit)** | **TEAM SPECIALIZED LILLE** | **19** | **2ème** | **1:42:53** | 
+| **52** | **[LECOLIER BENOIT](https://teamspecializedlille.cc/coureurs/lecolierbenoit)** | **TEAM SPECIALIZED LILLE** | **19** | **2ème** | **1:42:53** | 
 | 53 | DIMANCHE DAVID | VELO CLUB SANTERRE ET VERMANDOIS | 19 | 2ème | 1:42:54 | 
 | 54 | GWENAEL LEQUIEN | BARLIN CERCLE LAIQUE | 19 | 2ème | 1:42:54 | 
 | 55 | TONDELIER LUDOVIC | TEAM CYCLISTE PROVINOIS - PROVIN | 19 | 2ème | 1:42:55 | 
@@ -81,7 +81,7 @@ image: assets/img/blog/road.jpeg
 | 57 | TECHEL GREGORY | VELO CLUB UNION HALLUIN | 19 | 2ème | 1:43:2 | 
 | 58 | ROUSSEAU DIDIER | ETOILE CYCLISTE FEIGNIES | 19 | 2ème | 1:43:6 | 
 | 59 | LECHAT RENAUD | UNION SPORTIVE VALENCIENNES CRESPIN | 19 | 2ème | 1:43:8 | 
-| **60** | **[BROUTIN ANTOINE](https://teamspecializedlille.github.io/coureurs/broutinantoine)** | **TEAM SPECIALIZED LILLE** | **19** | **2ème** | **1:43:9** | 
+| **60** | **[BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine)** | **TEAM SPECIALIZED LILLE** | **19** | **2ème** | **1:43:9** | 
 | 61 | MARCHANDISE PATRICE | VELO CLUB UNION HALLUIN | 19 | 2ème | 1:43:10 | 
 | 62 | HAVET SEBASTIEN | GAZ ELEC CLUB DE DOUAI | 19 | 2ème | 1:43:12 | 
 | 63 | IMBERT JOHNNY | ETOILE CYCLISTE LIEU ST AMAND | 19 | 2ème | 1:43:12 | 
@@ -101,7 +101,7 @@ image: assets/img/blog/road.jpeg
 | 77 | DELCOURT VINCENT | VELO CLUB UNION HALLUIN | 19 | 2ème | 1:47:41 | 
 | 78 | MICHALLET THEO | LINSELLES CYCLISME | 19 | 2ème | 3:55:1 | 
 | 79 | DEPARIS TRISTAN | LINSELLES CYCLISME | 18 | 2ème | 1:36:33 | 
-| **80** | **[DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **18** | **2ème** | **1:37:7** | 
+| **80** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **18** | **2ème** | **1:37:7** | 
 | 81 | VIVIER MATTHIAS | UNION SPORTIVE SAINT ANDRE | 18 | 2ème | 1:37:8 | 
 | 82 | DUFOUR MICHEL | ASSOCIATION CYCLISTE BELLAINGEOISE | 18 | 2ème | 1:37:8 | 
 | 83 | HENNO FABRICE | CYCLO CLUB ORCHIES | 18 | 2ème | 1:37:13 | 
@@ -129,7 +129,7 @@ image: assets/img/blog/road.jpeg
 | 105 | POIDEVIN LUDOVIC | TEAM BIKE PRESEAU | 17 | 3ème | 1:36:51 | 
 | 106 | BEREAUX LUCAS | TEAM MELANTOIS - PERONNE EN MELANTOIS | 17 | 3ème | 1:36:51 | 
 | 107 | LEHEMBRE FRANCK | NOUVELLE ETOILE SPORTIVE BOUE ETREUX | 17 | 3ème | 1:36:53 | 
-| **108** | **[WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **17** | **3ème** | **1:36:53** | 
+| **108** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **17** | **3ème** | **1:36:53** | 
 | 109 | MEDO NICOLAS | TEAM MELANTOIS - PERONNE EN MELANTOIS | 17 | 1ère | 1:36:54 | 
 | 110 | DOLEZ HUGO | CAMPHIN EN CAREMBAULT CYCLING TEAM | 17 | 3ème | 1:36:54 | 
 | 111 | TAISNE CHRISTOPHE | GAZ ELEC CLUB DE DOUAI | 17 | 3ème | 1:36:58 | 

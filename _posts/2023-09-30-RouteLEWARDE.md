@@ -9,13 +9,13 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 36 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve) : 14
-- [DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien) : Ab
+- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 14
+- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : Ab
 
 ### 3ème Catégorie
 48 participants
-- [DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael) : Ab
-- [MOULIN FELIX](https://teamspecializedlille.github.io/coureurs/moulinfelix) : Ab
+- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : Ab
+- [MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix) : Ab
 
 ### Scratch
 177 participants
@@ -35,7 +35,7 @@ image: assets/img/blog/road.jpeg
 | 11 | LACROIX FREDERIC | VELO CLUB ROUBAIX | 12 | 1ère | 1:42:14 | 
 | 12 | SOTTIAUX SEBASTIEN | UNION SPORTIVE SAINT ANDRE | 12 | 1ère | 1:42:15 | 
 | 13 | JABLONSKI SEBASTIEN | TEAM B.B.L. HERGNIES | 12 | 1ère | 1:42:15 | 
-| **14** | **[DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **12** | **1ère** | **1:42:17** | 
+| **14** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **12** | **1ère** | **1:42:17** | 
 | 15 | HURIAU BENOIT | ASSOCIATION CYCLISTE BELLAINGEOISE | 12 | 1ère | 1:42:17 | 
 | 16 | CRUVEILLER SIDNEY | TEAM H.B.S. CYCLING | 12 | 1ère | 1:42:17 | 
 | 17 | DEBUISSON JULIAN | UNION SPORTIVE SAINT ANDRE | 12 | 1ère | 1:42:19 | 
@@ -193,7 +193,7 @@ image: assets/img/blog/road.jpeg
 | 169 | MOULIN FELIX |  | 2 | 3ème | 0:9:55 | 
 | 170 | MAJEROWICZ JEAN-LUC |  | 2 | 3ème | 0:10:2 | 
 | 171 | LEFEVRE SEBASTIEN | UNION VELOCIPEDIQUE FOURM | 0 | 1ère | 0:38:53 | 
-| **172** | **[DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **0** | **1ère** | **0:38:53** | 
+| **172** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **0** | **1ère** | **0:38:53** | 
 | 173 | HOTTON THEO | TEAM B.B.L. HERGNIES | 0 | 1ère | 0:38:53 | 
 | 174 | BERQUEZ MAXIME |  | 0 | 3ème | 0:38:53 | 
 | 175 | THORLET ERIC |  | 0 | 3ème | 0:38:53 | 

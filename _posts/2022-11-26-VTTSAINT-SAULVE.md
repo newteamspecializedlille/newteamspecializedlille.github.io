@@ -9,18 +9,18 @@ image: assets/img/blog/vtt.jpeg
 
 ### VTT Sénior B
 8 participants
-- [DUFOUR JONATHAN](https://teamspecializedlille.github.io/coureurs/dufourjonathan) : 3
+- [DUFOUR JONATHAN](https://teamspecializedlille.cc/coureurs/dufourjonathan) : 3
 
 ### VTT Vétérans B
 14 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald) : 1
+- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 1
 
 ### Scratch
 42 participants
 
 | Place | Nom | Team | Tours | Catégorie | Temps |
 |---|---|---|---|---|---|
-| **1** | **[MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **14** | **Vétérans B** | **0:50:13** | 
+| **1** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **14** | **Vétérans B** | **0:50:13** | 
 | 2 | JABLONSKI SEBASTIEN | TEAM B.B.L. HERGNIES | 14 | Vétérans A | 0:50:16 | 
 | 3 | DEMEESTER KEVIN | WINGLES PYRAMIDES PASSION VTT | 13 | Seniors B | 0:47:34 | 
 | 4 | DARTUS MIKAEL | VELO CLUB SOLESMES | 13 | Vétérans A | 0:47:53 | 
@@ -31,7 +31,7 @@ image: assets/img/blog/vtt.jpeg
 | 9 | ALEXANDRE GREGORY | VELO CLUB SOLESMES | 13 | Vétérans A | 0:49:14 | 
 | 10 | BARTIER SERGE | CAMPHIN EN CAREMBAULT CYCLING TEAM | 13 | Vétérans B | 0:49:14 | 
 | 11 | BONNET JOHNNY | UNION VELOCIPEDIQUE JEUMONT MARPENT | 13 | Seniors B | 0:49:36 | 
-| **12** | **[DUFOUR JONATHAN](https://teamspecializedlille.github.io/coureurs/dufourjonathan)** | **TEAM SPECIALIZED LILLE** | **13** | **Seniors B** | **0:50:15** | 
+| **12** | **[DUFOUR JONATHAN](https://teamspecializedlille.cc/coureurs/dufourjonathan)** | **TEAM SPECIALIZED LILLE** | **13** | **Seniors B** | **0:50:15** | 
 | 13 | GAMACHE CHRISTOPHE | CYCLOS RANDONNEURS LA BASSEE | 13 | Vétérans B | 0:50:27 | 
 | 14 | MICHEL STEPHANE | ETOILE CYCLISTE FEIGNIES | 13 | Vétérans B | 0:50:34 | 
 | 15 | MIXTE BENJAMIN | VTT SAINT AMAND LES EAUX | 13 | Vétérans A | 0:50:39 | 

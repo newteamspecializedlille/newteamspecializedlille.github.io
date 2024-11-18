@@ -9,7 +9,7 @@ image: assets/img/blog/vtt.jpeg
 
 ### VTT Vétérans B
 16 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald) : 1
+- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 1
 
 ### Scratch
 40 participants
@@ -22,7 +22,7 @@ image: assets/img/blog/vtt.jpeg
 | 4 | HUVELLE BENJAMIN | VTT  CLUB PONT SUR SAMBRE | 8 | Seniors B | 0:58:5 | 
 | 5 | LORRIAUX JULIEN | VELO CLUB SOLESMES | 8 | Seniors B | 0:58:16 | 
 | 6 | DARTUS MIKAEL | VELO CLUB SOLESMES | 8 | Vétérans A | 0:58:47 | 
-| **7** | **[MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans B** | **0:59:19** | 
+| **7** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans B** | **0:59:19** | 
 | 8 | RIVART ADRIEN | ASSOCIATION CYCLISTE BELLAINGEOISE | 8 | Seniors A | 0:59:42 | 
 | 9 | MARECHAL GUILLAUME | VELO CLUB SOLESMES | 8 | Seniors B | 1:0:1 | 
 | 10 | BREVIERE ALEXANDRE | CAMPHIN EN CAREMBAULT CYCLING TEAM | 8 | Vétérans B | 1:1:13 | 

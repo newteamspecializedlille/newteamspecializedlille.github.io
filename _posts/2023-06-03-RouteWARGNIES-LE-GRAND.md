@@ -9,7 +9,7 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 34 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve) : Ab
+- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : Ab
 
 ### Scratch
 165 participants
@@ -151,7 +151,7 @@ image: assets/img/blog/road.jpeg
 | 133 | COASNE CLEMENT | TEAM POLICE HDF - ROUBAIX | 0 | 1ère | 0:38:53 | 
 | 134 | CHUTSCH BENJAMIN | GAZ ELEC CLUB DE DOUAI | 0 | 1ère | 0:38:53 | 
 | 135 | VAILLANT LOUIS | UNION SPORTIVE VALENCIENN | 0 | 1ère | 0:38:53 | 
-| **136** | **[DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **0** | **1ère** | **0:38:53** | 
+| **136** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **0** | **1ère** | **0:38:53** | 
 | 137 | LELUBRE THIBAULT | UNION CYCLISTE SOLRE LE C | 0 | 1ère | 0:38:53 | 
 | 138 | LENGLET GUILLAUME | NOUVELLE ETOILE SPORTIVE | 0 | 1ère | 0:38:53 | 
 | 139 | BRASSART THEOPHILE | TEAM B.B.L. HERGNIES | 0 | 1ère | 0:38:53 | 

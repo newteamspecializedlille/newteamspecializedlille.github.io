@@ -9,19 +9,19 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 37 participants
-- [LECOLIER LOUIS](https://teamspecializedlille.github.io/coureurs/lecolierlouis) : 8
-- [SCHERNU CHRISTOPHE](https://teamspecializedlille.github.io/coureurs/schernuchristophe) : 16
-- [LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane) : 23
-- [DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien) : 26
+- [LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis) : 8
+- [SCHERNU CHRISTOPHE](https://teamspecializedlille.cc/coureurs/schernuchristophe) : 16
+- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 23
+- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 26
 
 ### 2ème Catégorie
 54 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve) : 36
+- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 36
 
 ### 3ème Catégorie
 81 participants
-- [DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier) : 16
-- [WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit) : 24
+- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 16
+- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 24
 
 ### Scratch
 220 participants
@@ -63,7 +63,7 @@ image: assets/img/blog/road.jpeg
 | 33 | LE VOURCH DAMIEN | AGNY ARTeam | 17 | 2ème | 1:42:0 | 
 | 34 | SAINTRAIN GERARD | ETOILE CYCLISTE LIEU ST AMAND | 17 | 2ème | 1:42:1 | 
 | 35 | ROUSSEAU DIDIER | ETOILE CYCLISTE FEIGNIES | 17 | 2ème | 1:42:3 | 
-| **36** | **[DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **17** | **2ème** | **1:42:5** | 
+| **36** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **17** | **2ème** | **1:42:5** | 
 | 37 | TIAGO SEBASTIAN | NEW ORANGE TEAM BOUSBECQUE | 17 | 2ème | 1:42:9 | 
 | 38 | LEVAS LAURENT | UNION SPORTIVE VALENCIENNES CRESPIN | 17 | 2ème | 1:43:44 | 
 | 39 | MACHIN THIBAULT | LA CALOTERIE OMNISPORT | 17 | 2ème | 1:43:45 | 
@@ -80,7 +80,7 @@ image: assets/img/blog/road.jpeg
 | 50 | CANON ANTOINE | ESEG DOUAI | 16 | 1ère | 1:42:35 | 
 | 51 | DI CARLO GIUSEPPE | NEW ORANGE TEAM BOUSBECQUE | 16 | 1ère | 1:42:35 | 
 | 52 | DE VREESE ALEXIS | UNION SPORTIVE SAINT ANDRE | 16 | 1ère | 1:42:36 | 
-| **53** | **[LECOLIER LOUIS](https://teamspecializedlille.github.io/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **16** | **1ère** | **1:42:36** | 
+| **53** | **[LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **16** | **1ère** | **1:42:36** | 
 | 54 | BUGNICOURT CYRIL | UNION VELOCIPEDIQUE FOURMISIENNE | 16 | 1ère | 1:42:36 | 
 | 55 | ANTON LUDOVIC | NEW TEAM MAULDE | 16 | 1ère | 1:42:36 | 
 | 56 | TOMASINA TONY | LA PEDALE MADELEINOISE | 16 | 1ère | 1:42:37 | 
@@ -88,17 +88,17 @@ image: assets/img/blog/road.jpeg
 | 58 | DEWILDE LUDOVIC | VELO CLUB UNION HALLUIN | 16 | 1ère | 1:42:37 | 
 | 59 | WINS STEPHANE | ASSOCIATION CYCLISTE BELLAINGEOISE | 16 | 1ère | 1:42:38 | 
 | 60 | BLARY GILLES | HAVELUY CYCLO CLUB | 16 | 1ère | 1:42:38 | 
-| **61** | **[SCHERNU CHRISTOPHE](https://teamspecializedlille.github.io/coureurs/schernuchristophe)** | **TEAM SPECIALIZED LILLE** | **16** | **1ère** | **1:42:38** | 
+| **61** | **[SCHERNU CHRISTOPHE](https://teamspecializedlille.cc/coureurs/schernuchristophe)** | **TEAM SPECIALIZED LILLE** | **16** | **1ère** | **1:42:38** | 
 | 62 | BOUVET GRICOURT HUGO | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 16 | 1ère | 1:42:38 | 
 | 63 | WINS ALEXIS | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 16 | 1ère | 1:42:39 | 
 | 64 | DARQUE JEAN FRANCOIS | UNION SPORTIVE SAINT ANDRE | 16 | 1ère | 1:42:40 | 
 | 65 | VASSEUR HUGO | UNION SPORTIVE SAINT ANDRE | 16 | 1ère | 1:42:40 | 
 | 66 | DELEPLACE HADRIEN | VELO CLUB ROUBAIX | 16 | 1ère | 1:42:40 | 
 | 67 | DELOBELLE OLIVIER | UNION SPORTIVE SAINT ANDRE | 16 | 1ère | 1:42:40 | 
-| **68** | **[LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **16** | **1ère** | **1:42:40** | 
+| **68** | **[LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **16** | **1ère** | **1:42:40** | 
 | 69 | LACROIX FREDERIC | VELO CLUB ROUBAIX | 16 | 1ère | 1:42:41 | 
 | 70 | DESAILLY GEOFFREY | CYCLO CLUB WAVRIN | 16 | 1ère | 1:42:41 | 
-| **71** | **[DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **16** | **1ère** | **1:42:42** | 
+| **71** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **16** | **1ère** | **1:42:42** | 
 | 72 | NAMANE STEVE | NEW ORANGE TEAM BOUSBECQUE | 16 | 1ère | 1:42:42 | 
 | 73 | PIAT JEREMY | ETOILE CYCLISTE LIEU ST AMAND | 16 | 1ère | 1:42:43 | 
 | 74 | MEYS DAVID | VELO CLUB ROUBAIX | 16 | 1ère | 1:42:44 | 
@@ -152,7 +152,7 @@ image: assets/img/blog/road.jpeg
 | 122 | CANDELIER YANN | ARTOIS CYCLING TEAM | 13 | 3ème | 1:35:2 | 
 | 123 | HENNOCQ FRANCOIS | E2CJ - Energy Cycling Club Joncourt | 13 | 3ème | 1:35:2 | 
 | 124 | FOULON RANDY | AGNY ARTeam | 13 | 3ème | 1:35:2 | 
-| **125** | **[DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **13** | **3ème** | **1:35:2** | 
+| **125** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **13** | **3ème** | **1:35:2** | 
 | 126 | AUSSEMS JEAN-YVES | UNION SPORTIVE SAINT ANDRE | 13 | 3ème | 1:35:3 | 
 | 127 | DUPUIS VALENTIN | NEW TEAM MAULDE | 13 | 3ème | 1:35:3 | 
 | 128 | CODDEVILLE RUDY | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 13 | 3ème | 1:35:3 | 
@@ -160,7 +160,7 @@ image: assets/img/blog/road.jpeg
 | 130 | BEREAUX LUCAS | TEAM MELANTOIS - PERONNE EN MELANTOIS | 13 | 3ème | 1:35:3 | 
 | 131 | COCART RUDY | BETHUNE ROBECQ TEAM TBR | 13 | 3ème | 1:35:3 | 
 | 132 | RENAUT VINCENT | SAULZOIR MONTRECOURT CYCLING CLUB | 13 | 3ème | 1:35:4 | 
-| **133** | **[WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **13** | **3ème** | **1:35:4** | 
+| **133** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **13** | **3ème** | **1:35:4** | 
 | 134 | ROUTIER ALEXIS | AGNY ARTeam | 13 | 3ème | 1:35:4 | 
 | 135 | VANWAELSCAPPEL JEROME | CYCLO CLUB WAVRIN | 13 | 3ème | 1:35:5 | 
 | 136 | LE TRIONNAIRE NICOLAS | HENIN ETOILE CYCLISTE HENINOISE | 13 | 3ème | 1:35:5 | 

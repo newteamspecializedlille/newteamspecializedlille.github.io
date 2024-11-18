@@ -9,12 +9,12 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 14 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve) : 8
-- [DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien) : Ab
+- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 8
+- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : Ab
 
 ### 3ème Catégorie
 34 participants
-- [DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael) : 21
+- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 21
 
 ### Scratch
 124 participants
@@ -28,7 +28,7 @@ image: assets/img/blog/road.jpeg
 | 5 | MINGOA LUCIANO | NEW ORANGE TEAM BOUSBECQUE | 18 | 1ère | 1:9:43 | 
 | 6 | BRIAND KEVIN | ASSOCIATION SPORTIVE THOUROTTOISE CYCLISTE | 18 | 1ère | 1:9:43 | 
 | 7 | AINI ISSAM | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 18 | 1ère | 1:9:43 | 
-| **8** | **[DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **17** | **1ère** | **1:5:19** | 
+| **8** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **17** | **1ère** | **1:5:19** | 
 | 9 | LECLAIRE LANCELOT | VELO CLUB UNION HALLUIN | 16 | 2ème | 1:36:9 | 
 | 10 | CAPPE THOMAS | ENTENTE CYCLISTE FACHES-THUMESNIL RONCHIN | 16 | 2ème | 1:36:12 | 
 | 11 | VERHAEGHE THOMAS | LINSELLES CYCLISME | 16 | 2ème | 1:36:12 | 
@@ -86,7 +86,7 @@ image: assets/img/blog/road.jpeg
 | 63 | BROUTIN ERIC | ASSOCIATION CYCLISTE DE CUINCY | 15 | 3ème | 4:6:10 | 
 | 64 | AUSSEMS JEAN-YVES | UNION SPORTIVE SAINT ANDRE | 15 | 3ème | 4:6:11 | 
 | 65 | DELFORGE FABRICE | CYCLO CLUB ORCHIES | 15 | 3ème | 4:6:12 | 
-| **66** | **[DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **15** | **3ème** | **4:6:12** | 
+| **66** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **15** | **3ème** | **4:6:12** | 
 | 67 | DEFOSSEZ RODRIGUE | CLUB CYCLISTE THUN ST MARTIN | 15 | 3ème | 4:6:13 | 
 | 68 | CARPELS GUILLAUME | VELO CLUB UNION HALLUIN | 15 | 3ème | 4:6:15 | 
 | 69 | DEPREZ BENJAMIN | VELO CLUB UNION HALLUIN | 15 | 3ème | 4:6:16 | 
@@ -142,6 +142,6 @@ image: assets/img/blog/road.jpeg
 | 119 | JOCHIMSKI AMBRE | AMICALE LAIQUE SPORTIVE  ROEULX | 8 | Féminines | 1:7:34 | 
 | 120 | ANTON LUDOVIC | NEW TEAM MAULDE | 5 | 1ère | 0:16:32 | 
 | 121 | LALEU TIMOTHEE | UNION SPORTIVE SAINT ANDR | 0 | 1ère | 0:38:53 | 
-| **122** | **[DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **0** | **1ère** | **0:38:53** | 
+| **122** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **0** | **1ère** | **0:38:53** | 
 | 123 | LEMAITRE JULES | CYCLO CLUB ORCHIES | 0 | 2ème | 0:38:53 | 
 | 124 | GOCHON CEDRIC | ETOILE CYCLISTE TOURCOING | 0 | 4ème | 0:38:53 | 

@@ -9,11 +9,11 @@ image: assets/img/blog/cx.jpeg
 
 ### 3ème Catégorie
 35 participants
-- [MOULIN FELIX](https://teamspecializedlille.github.io/coureurs/moulinfelix) : 24
+- [MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix) : 24
 
 ### Cadets
 3 participants
-- [LECOLIER LOUIS](https://teamspecializedlille.github.io/coureurs/lecolierlouis) : 1
+- [LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis) : 1
 
 ### Scratch
 52 participants
@@ -55,7 +55,7 @@ image: assets/img/blog/cx.jpeg
 | 33 | LETOMBE CHRISTOPHE | BEUVRY CLUB LEO LAGRANGE | 9 | 3ème | 0:55:48 | 
 | 34 | DANEL JEAN PIERRE | ARTOIS CYCLING TEAM | 9 | 3ème | 0:56:10 | 
 | 35 | CAUWET FRANCK | MANQUEVILLE LILLERS CLUB CYCLISTE | 9 | 3ème | 0:56:11 | 
-| **36** | **[MOULIN FELIX](https://teamspecializedlille.github.io/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **9** | **3ème** | **0:56:22** | 
+| **36** | **[MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **9** | **3ème** | **0:56:22** | 
 | 37 | HAVET SEBASTIEN | GAZ ELEC CLUB DE DOUAI | 8 | 2ème | 0:50:1 | 
 | 38 | CHOQUET DAVID | UNION SPORTIVE SAINT ANDRE | 8 | 3ème | 0:50:10 | 
 | 39 | DUBUISSON ROMAIN | MANQUEVILLE LILLERS CLUB CYCLISTE | 8 | 3ème | 0:50:10 | 
@@ -67,7 +67,7 @@ image: assets/img/blog/cx.jpeg
 | 45 | NUEE VALENTIN | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 7 | 3ème | 0:52:39 | 
 | 46 | MARTINACHE OLIVIER | AS HELLEMMES CYCLISME | 7 | 3ème | 0:53:41 | 
 | 47 | GAROT LAURENCE | FLEURBAIX TEAM SHARK VTT | 5 | Féminines | 0:41:4 | 
-| **48** | **[LECOLIER LOUIS](https://teamspecializedlille.github.io/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **5** | **Cadets** | **0:42:8** | 
+| **48** | **[LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **5** | **Cadets** | **0:42:8** | 
 | 49 | RIVART FANNY | GAZ ELEC CLUB DE DOUAI | 5 | Féminines | 0:42:13 | 
 | 50 | MARTIN JUSTINE | MANQUEVILLE LILLERS CLUB CYCLISTE | 4 | Cadets | 0:38:52 | 
 | 51 | BOUVET GRICOURT HUGO | ESPOIR CYCLISTE WAMBRECHI | 0 | 3ème | 0:38:53 | 

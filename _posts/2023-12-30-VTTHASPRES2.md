@@ -9,7 +9,7 @@ image: assets/img/resultats/2023-12-30-VTTHASPRES2/1.jpg
 
 ### VTT Vétérans B
 14 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald) : 1
+- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 1
 
 ### Scratch
 34 participants
@@ -21,7 +21,7 @@ image: assets/img/resultats/2023-12-30-VTTHASPRES2/1.jpg
 | 3 | HERFEUIL ANTHONY | UNION SPORTIVE SAINT ANDRE | 8 | Seniors B | 0:58:32 | 
 | 4 | MINETTE LOIC | VELO CLUB SOLESMES | 8 | Seniors A | 0:59:50 | 
 | 5 | BONNET JOHNNY | TEAM VTT JEUMONT | 8 | Seniors B | 1:0:24 | 
-| **6** | **[MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans B** | **1:0:30** | 
+| **6** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans B** | **1:0:30** | 
 | 7 | DARTUS MIKAEL | VELO CLUB SOLESMES | 8 | Vétérans A | 1:0:38 | 
 | 8 | MAERTENS DAVID | U. S. HAM | 8 | Vétérans B | 1:0:38 | 
 | 9 | LEBLON ROBIN | CYCLO CLUB WAVRIN | 8 | Seniors B | 1:1:5 | 

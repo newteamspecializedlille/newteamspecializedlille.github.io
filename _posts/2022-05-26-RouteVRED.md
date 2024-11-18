@@ -9,12 +9,12 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 56 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve) : 9
+- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 9
 
 ### 2ème Catégorie
 91 participants
-- [BOONE NICOLAS](https://teamspecializedlille.github.io/coureurs/boonenicolas) : 53
+- [BOONE NICOLAS](https://teamspecializedlille.cc/coureurs/boonenicolas) : 53
 
 ### 3ème Catégorie
 84 participants
-- [HUBAUT CHRISTOPHE](https://teamspecializedlille.github.io/coureurs/hubautchristophe) : 75
+- [HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe) : 75

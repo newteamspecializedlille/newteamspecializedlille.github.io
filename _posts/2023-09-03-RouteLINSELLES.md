@@ -9,16 +9,16 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 19 participants
-- [LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane) : 4
+- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 4
 
 ### 2ème Catégorie
 36 participants
-- [BOONE NICOLAS](https://teamspecializedlille.github.io/coureurs/boonenicolas) : Ab
+- [BOONE NICOLAS](https://teamspecializedlille.cc/coureurs/boonenicolas) : Ab
 
 ### 3ème Catégorie
 50 participants
-- [DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier) : 26
-- [WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit) : 39
+- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 26
+- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 39
 
 ### Scratch
 124 participants
@@ -28,7 +28,7 @@ image: assets/img/blog/road.jpeg
 | 1 | MINGOA LUCIANO | NEW ORANGE TEAM BOUSBECQUE | 18 | 1ère | 1:50:23 | 
 | 2 | JOLIS CLEMENT | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 18 | 1ère | 1:50:25 | 
 | 3 | VASSEUR HUGO | UNION SPORTIVE SAINT ANDRE | 18 | 1ère | 1:50:26 | 
-| **4** | **[LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **18** | **1ère** | **1:50:29** | 
+| **4** | **[LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **18** | **1ère** | **1:50:29** | 
 | 5 | HAJAER EDGARD | NEW ORANGE TEAM BOUSBECQUE | 18 | 1ère | 1:51:10 | 
 | 6 | DE VREESE ALEXIS | RESILIENCE CLUB | 18 | 1ère | 1:51:41 | 
 | 7 | DELANGUE THOMAS | NEW ORANGE TEAM BOUSBECQUE | 18 | 1ère | 1:51:42 | 
@@ -94,7 +94,7 @@ image: assets/img/blog/road.jpeg
 | 67 | DMYTROW NICOLAS | TEAM POLICE HDF | 15 | 3ème | 1:34:11 | 
 | 68 | CESAR BENOIT | NEW ORANGE TEAM BOUSBECQUE | 15 | 3ème | 1:34:11 | 
 | 69 | DURIEZ LAURENT | CYCLO CLUB WAVRIN | 15 | 3ème | 1:34:13 | 
-| **70** | **[DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **15** | **3ème** | **1:34:15** | 
+| **70** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **15** | **3ème** | **1:34:15** | 
 | 71 | SERE BENJAMIN | CYCLO CLUB WAVRIN | 15 | 3ème | 1:34:15 | 
 | 72 | NUEE VALENTIN | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 15 | 3ème | 1:34:17 | 
 | 73 | VANDEN TORREN MAXIME | MANQUEVILLE LILLERS CLUB CYCLISTE | 15 | 3ème | 1:34:19 | 
@@ -109,7 +109,7 @@ image: assets/img/blog/road.jpeg
 | 82 | DEWILDE LUDOVIC | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 14 | 2ème | 1:25:20 | 
 | 83 | CLAISSE ANAIS | UNION SPORTIVE VALENCIENNES CRESPIN | 14 | 3ème | 1:34:35 | 
 | 84 | HOUSSIN TANGUY | TEAM CYCLISTE PROVINOIS - PROVIN | 14 | 3ème | 1:39:33 | 
-| **85** | **[WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **14** | **3ème** | **1:39:33** | 
+| **85** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **14** | **3ème** | **1:39:33** | 
 | 86 | LEIGNEL PIERRE-ANTOINE | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 14 | 3ème | 1:39:33 | 
 | 87 | VERHAEGHE ALEXANDRE | LINSELLES CYCLISME | 14 | 3ème | 1:39:45 | 
 | 88 | BEGHIN MARTIAL | LA PEDALE MADELEINOISE | 13 | 4ème | 1:30:27 | 
@@ -140,7 +140,7 @@ image: assets/img/blog/road.jpeg
 | 113 | WALLE CLEMENT | RESILIENCE CLUB | 7 | 3ème | 0:40:0 | 
 | 114 | DUPONT XAVIER | NEW ORANGE TEAM BOUSBECQUE | 3 | 3ème | 0:13:28 | 
 | 115 | DELCOURT VINCENT | VELO CLUB UNION HALLUIN | 0 | 2ème | 0:38:53 | 
-| **116** | **[BOONE NICOLAS](https://teamspecializedlille.github.io/coureurs/boonenicolas)** | **TEAM SPECIALIZED LILLE** | **0** | **2ème** | **0:38:53** | 
+| **116** | **[BOONE NICOLAS](https://teamspecializedlille.cc/coureurs/boonenicolas)** | **TEAM SPECIALIZED LILLE** | **0** | **2ème** | **0:38:53** | 
 | 117 | TIAGO SEBASTIAN | LINSELLES CYCLISME | 0 | 2ème | 0:38:53 | 
 | 118 | DOOM PATRICE | ROUE D'OR COMINOISE | 0 | 2ème | 0:38:53 | 
 | 119 | COASNE CLEMENT | TEAM POLICE HDF - ROUBAIX | 0 | 2ème | 0:38:53 | 

@@ -9,7 +9,7 @@ image: assets/img/blog/vtt.jpeg
 
 ### VTT Vétérans B
 12 participants
-- [BOONE ERIC](https://teamspecializedlille.github.io/coureurs/booneeric) : 11
+- [BOONE ERIC](https://teamspecializedlille.cc/coureurs/booneeric) : 11
 
 ### Scratch
 0 participants

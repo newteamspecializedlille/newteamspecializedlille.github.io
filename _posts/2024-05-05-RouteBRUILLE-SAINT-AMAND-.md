@@ -9,12 +9,12 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 27 participants
-- [CROMBEZ THOMAS](https://teamspecializedlille.github.io/coureurs/crombezthomas) : 2
-- [MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald) : 21
+- [CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas) : 2
+- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 21
 
 ### 2ème Catégorie
 43 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve) : 29
+- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 29
 
 ### Scratch
 152 participants
@@ -22,7 +22,7 @@ image: assets/img/blog/road.jpeg
 | Place | Nom | Team | Tours | Catégorie | Temps |
 |---|---|---|---|---|---|
 | 1 | LALEU TIMOTHEE | UNION SPORTIVE SAINT ANDRE | 13 | 1ère | 1:33:51 | 
-| **2** | **[CROMBEZ THOMAS](https://teamspecializedlille.github.io/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **13** | **1ère** | **1:33:52** | 
+| **2** | **[CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **13** | **1ère** | **1:33:52** | 
 | 3 | MORELLE YOHANN | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 13 | 1ère | 1:33:52 | 
 | 4 | BRASSART THEOPHILE | TEAM B.B.L. HERGNIES | 13 | 1ère | 1:33:52 | 
 | 5 | LESAGE ANTHONY | ASSOCIATION CYCLISTE BELLAINGEOISE | 13 | 1ère | 1:33:52 | 
@@ -41,7 +41,7 @@ image: assets/img/blog/road.jpeg
 | 18 | HURIAU BENOIT | ASSOCIATION CYCLISTE BELLAINGEOISE | 13 | 1ère | 1:33:55 | 
 | 19 | AINI ISSAM | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 13 | 1ère | 1:33:55 | 
 | 20 | VEAUX CORENTIN | TEAM LINK AND RIDE HERIN | 13 | 1ère | 1:33:57 | 
-| **21** | **[MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **13** | **1ère** | **1:33:58** | 
+| **21** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **13** | **1ère** | **1:33:58** | 
 | 22 | MICHEL ANTHONY | ASSOCIATION CYCLISTE BELLAINGEOISE | 13 | 1ère | 1:33:58 | 
 | 23 | MURRUZZU AURELIEN | UNION SPORTIVE SAINT ANDRE | 13 | 1ère | 1:33:58 | 
 | 24 | SEMOULIN JOAKIM | TEAM B.B.L. HERGNIES | 13 | 1ère | 1:34:9 | 
@@ -75,7 +75,7 @@ image: assets/img/blog/road.jpeg
 | 52 | LANDAS JEROME | VELO SPRINT DE L'OSTREVENT - AUBERCHICOURT | 12 | 2ème | 1:33:46 | 
 | 53 | RIGAUX JEAN JACQUES | CLUB CYCLISTE THUN ST MARTIN | 12 | 2ème | 1:33:46 | 
 | 54 | JACOB HUGO | UNION SPORTIVE SAINT ANDRE | 12 | 2ème | 1:33:46 | 
-| **55** | **[DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **12** | **2ème** | **1:33:46** | 
+| **55** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **12** | **2ème** | **1:33:46** | 
 | 56 | VANDEN TORREN MAXIME | MANQUEVILLE LILLERS CLUB CYCLISTE | 12 | 2ème | 1:33:46 | 
 | 57 | RIVART THIERRY | VTT  CLUB PONT SUR SAMBRE | 12 | 2ème | 1:33:46 | 
 | 58 | MOUFTIER LOUKA | TEAM VTT JEUMONT | 12 | 2ème | 1:33:47 | 

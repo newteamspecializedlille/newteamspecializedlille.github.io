@@ -9,7 +9,7 @@ image: assets/img/blog/cx.jpeg
 
 ### 3ème Catégorie
 43 participants
-- [MOULIN FELIX](https://teamspecializedlille.github.io/coureurs/moulinfelix) : 26
+- [MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix) : 26
 
 ### Scratch
 73 participants
@@ -65,7 +65,7 @@ image: assets/img/blog/cx.jpeg
 | 47 | DE BRUYNE JOCELYN | TEAM LABIERE BAILLEUL | 7 | 3ème | 0:55:14 | 
 | 48 | DAGHELET THOMAS | ESPOIR CYCLISTE WAMBRECHI | 7 | 3ème | 0:55:38 | 
 | 49 | DANEL JEAN PIERRE | BIACHE ST VAAST VELO CLUB | 7 | 3ème | 0:56:5 | 
-| **50** | **[MOULIN FELIX](https://teamspecializedlille.github.io/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **7** | **3ème** | **0:56:7** | 
+| **50** | **[MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **7** | **3ème** | **0:56:7** | 
 | 51 | CHOQUET DAVID | UNION SPORTIVE SAINT ANDR | 7 | 3ème | 0:56:32 | 
 | 52 | CAUWET FRANCK | MANQUEVILLE LILLERS CLUB  | 7 | 3ème | 0:57:2 | 
 | 53 | BOUVET GRICOURT HUGO | ESPOIR CYCLISTE WAMBRECHI | 7 | 3ème | 0:57:5 | 

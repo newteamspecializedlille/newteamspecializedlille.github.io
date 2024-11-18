@@ -9,12 +9,12 @@ image: assets/img/resultats/2024-01-27-CycloCross2024National/1.jpg
 
 ### Vétérans 50/59 ans
 90 participants 
-- [LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane) : 27
+- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 27
 
 ### Juniors : 17-19 ans
 60 participants 
-- [DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid) : 49
-- [LECOLIER LOUIS](https://teamspecializedlille.github.io/coureurs/lecolierlouis) : 45
+- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 49
+- [LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis) : 45
 
 ### Scratch
 463 participants
@@ -260,7 +260,7 @@ image: assets/img/resultats/2024-01-27-CycloCross2024National/1.jpg
 | 237     | REMY LAURENT                                                                           | 6     | 01:02:20     | Adulte Masculin 50/59 ans      |
 | 238     | SIMON THOMAS                                                                           | 6     | 01:02:22     | Adulte Masculin 50/59 ans      |
 | 239     | PINTAUD ANTONY                                                                         | 6     | 01:02:27     | Adulte Masculin 40/49 ans      |
-| **240** | **[LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane)** | **6** | **01:02:27** | **Adulte Masculin 50/59 ans**  |
+| **240** | **[LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane)** | **6** | **01:02:27** | **Adulte Masculin 50/59 ans**  |
 | 241     | LIENART CYRILLE                                                                        | 6     | 01:02:28     | Adulte Masculin 40/49 ans      |
 | 242     | DUPEUX LAURENT                                                                         | 6     | 01:02:42     | Adulte Masculin 40/49 ans      |
 | 243     | TISON JEROME                                                                           | 6     | 01:02:43     | Adulte Masculin 40/49 ans      |
@@ -310,11 +310,11 @@ image: assets/img/resultats/2024-01-27-CycloCross2024National/1.jpg
 | 287     | BURGUBURU GABRIEL                                                                      | 5     | 00:42:36     | Adulte Masculin 17/19 ans      |
 | 288     | ESPENAN JOHAN                                                                          | 5     | 00:42:52     | Adulte Masculin 17/19 ans      |
 | 289     | DESCHEPPER THEO                                                                        | 5     | 00:43:02     | Adulte Masculin 17/19 ans      |
-| **290** | **[LECOLIER LOUIS](https://teamspecializedlille.github.io/coureurs/lecolierlouis)**       | **5** | **00:43:44** | **Adulte Masculin 17/19 ans**  |
+| **290** | **[LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis)**       | **5** | **00:43:44** | **Adulte Masculin 17/19 ans**  |
 | 291     | VAILLANT LOUIS                                                                         | 5     | 00:43:47     | Adulte Masculin 17/19 ans      |
 | 292     | BONGIOVANNI ADRIEN                                                                     | 5     | 00:44:03     | Adulte Masculin 17/19 ans      |
 | 293     | BALLOUFAUD LUCAS                                                                       | 5     | 00:44:19     | Adulte Masculin 17/19 ans      |
-| **294** | **[DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid)**         | **5** | **00:44:30** | **Adulte Masculin 17/19 ans**  |
+| **294** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)**         | **5** | **00:44:30** | **Adulte Masculin 17/19 ans**  |
 | 295     | PASQUET DANIEL                                                                         | 5     | 00:46:19     | Adulte Masculin 60 ans et plus |
 | 296     | DROLET PHILIPPE                                                                        | 5     | 00:46:21     | Adulte Masculin 60 ans et plus |
 | 297     | SHAW ANDREW                                                                            | 5     | 00:46:22     | Adulte Masculin 60 ans et plus |

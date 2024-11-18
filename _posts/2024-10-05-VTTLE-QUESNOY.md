@@ -9,7 +9,7 @@ image: assets/img/blog/vtt.jpeg
 
 ### VTT Vétérans B
 13 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald) : 1
+- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 1
 
 ### Scratch
 39 participants
@@ -18,7 +18,7 @@ image: assets/img/blog/vtt.jpeg
 |---|---|---|---|---|---|
 | 1 | MICHEL KEVIN | ETOILE CYCLISTE FEIGNIES | 9 | Seniors B | 0:51:11 | 
 | 2 | BRADFER GERY | ETOILE CYCLISTE LIEU ST AMAND | 9 | Vétérans A | 0:51:20 | 
-| **3** | **[MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **9** | **Vétérans B** | **0:54:11** | 
+| **3** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **9** | **Vétérans B** | **0:54:11** | 
 | 4 | VANDERHAEGEN MAEL | ASSOCIATION CYCLISTE D'ETROEUNGT | 9 | Seniors A | 0:54:48 | 
 | 5 | JABLONSKI SEBASTIEN | NEW TEAM MAULDE | 9 | Vétérans A | 0:54:55 | 
 | 6 | MEESMAECKER WILLIAM | UNION SPORTIVE SAINT ANDRE | 9 | Seniors A | 0:55:24 | 

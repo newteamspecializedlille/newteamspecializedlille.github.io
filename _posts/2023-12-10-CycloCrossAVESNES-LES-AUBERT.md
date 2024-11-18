@@ -9,17 +9,17 @@ image: assets/img/resultats/2023-12-10-CycloCrossAVESNES-LES-AUBERT/1.jpg
 
 ### Vétérans 50/59 ans
 17 participants 
-- [LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane) : 3
-- [MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald) : 4
+- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 3
+- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 4
 
 ### Séniors 30-39 ans
 24 participants 
-- [MOULIN FELIX](https://teamspecializedlille.github.io/coureurs/moulinfelix) : 15
+- [MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix) : 15
 
 ### Juniors : 17-19 ans
 12 participants 
-- [DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid) : 8
-- [LECOLIER LOUIS](https://teamspecializedlille.github.io/coureurs/lecolierlouis) : 12
+- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 8
+- [LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis) : 12
 
 ### Scratch
 97 participants
@@ -50,7 +50,7 @@ image: assets/img/resultats/2023-12-10-CycloCrossAVESNES-LES-AUBERT/1.jpg
 |22| TOURLAND AUBIN                                                                         |VELO CLUB DE L'ESCAUT ANZIN|8|Séniors 20-29 ans|0:59:35|
 |23| DEFRISE GREGORY                                                                        |TEAM BOUSIES|8|Vétérans 40/49 ans|0:59:45|
 |24| VANDERMEIREN MANUEL                                                                    |ESPOIR CYCLISTE WAMBRECHIES MARQUETTE|8|Vétérans 40/49 ans|1:00:18|
-|**25**| **[LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane)** |**TEAM SPECIALIZED LILLE**|**8**|**Vétérans 50/59 ans**|**1:00:29**|
+|**25**| **[LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane)** |**TEAM SPECIALIZED LILLE**|**8**|**Vétérans 50/59 ans**|**1:00:29**|
 |26| DELTOUR LUCAS                                                                          |UNION VELOCIPEDIQUE FOURMISIENNE|7|Juniors : 17-19 ans|0:46:20|
 |27| DEMOL LEO                                                                              |UNION SPORTIVE SAINT ANDRE|7|Juniors : 17-19 ans|0:48:52|
 |28| VIVIER MATTHIAS                                                                        |UNION SPORTIVE SAINT ANDRE|7|Juniors : 17-19 ans|0:48:59|
@@ -63,7 +63,7 @@ image: assets/img/resultats/2023-12-10-CycloCrossAVESNES-LES-AUBERT/1.jpg
 |35| DRUESNE DAMIEN                                                                         |UNION VELOCIPEDIQUE FOURMISIENNE|7|Vétérans 40/49 ans|0:52:25|
 |36| CHOQUET PIERRE                                                                         |UNION SPORTIVE SAINT ANDRE|7|Juniors : 17-19 ans|0:52:43|
 |37| RIVART THIERRY                                                                         |VTT  CLUB PONT SUR SAMBRE|7|Séniors 30-39 ans|0:53:03|
-|**38**| **[MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald)**                                                                                   |**TEAM SPECIALIZED LILLE**|**7**|**Vétérans 50/59 ans**|**0:53:37**|
+|**38**| **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)**                                                                                   |**TEAM SPECIALIZED LILLE**|**7**|**Vétérans 50/59 ans**|**0:53:37**|
 |39| CORNELIS DAVE                                                                          |UNION VELOCIPEDIQUE FOURMISIENNE|7|Vétérans 40/49 ans|0:53:43|
 |40| DOCHNIAK LEO                                                                           |HAVELUY CYCLO CLUB|7|Séniors 20-29 ans|0:53:47|
 |41| SAINTRAIN GERARD                                                                       |ETOILE CYCLISTE LIEU ST AMAND|7|Vétérans 50/59 ans|0:53:50|
@@ -91,19 +91,19 @@ image: assets/img/resultats/2023-12-10-CycloCrossAVESNES-LES-AUBERT/1.jpg
 |63| PONCET ALEXIS                                                                          |TEAM ENFER DU NORD WALLERS ARENBERG|7|Séniors 20-29 ans|0:58:15|
 |64| BOUTONNE FREDERIC                                                                      |TEAM BOUSIES|7|Vétérans 50/59 ans|0:58:20|
 |65| HAVET SEBASTIEN                                                                        |GAZ ELEC CLUB DE DOUAI|7|Séniors 30-39 ans|0:58:42|
-|**66**| **[MOULIN FELIX](https://teamspecializedlille.github.io/coureurs/moulinfelix)**           |**TEAM SPECIALIZED LILLE**|**7**|**Séniors 30-39 ans**|**0:59:03**|
+|**66**| **[MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix)**           |**TEAM SPECIALIZED LILLE**|**7**|**Séniors 30-39 ans**|**0:59:03**|
 |67| CROMMELINCK PATRICK                                                                    |CYCLOS RANDONNEURS LA BASSEE|7|Vétérans 50/59 ans|1:00:16|
 |68| HOUSET SEBAS                                                                           |TEAM POLICE HDF|7|Vétérans 40/49 ans|1:00:39|
 |69| REUTER BENOIT                                                                          |VELO CLUB UNION HALLUIN|7|Vétérans 40/49 ans|1:02:04|
 |70| DROLET PHILIPPE                                                                        |UNION SPORTIVE SAINT ANDRE|6|Vétérans 60 ans et +|0:42:52|
 |71| BARTIER SERGE                                                                          |CAMPHIN EN CAREMBAULT CYCLING TEAM|6|Vétérans 60 ans et +|0:46:04|
-|**72**| **[DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid)**         |**TEAM SPECIALIZED LILLE**|**6**|**Juniors : 17-19 ans**|**0:46:23**|
+|**72**| **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)**         |**TEAM SPECIALIZED LILLE**|**6**|**Juniors : 17-19 ans**|**0:46:23**|
 |73| LALOT LUCAS                                                                            |UNION VELOCIPEDIQUE FOURMISIENNE|6|Juniors : 17-19 ans|0:47:24|
 |74| DEJEAN MATHIS                                                                          |TEAM CYCLISTE LA BORDURE - BETTRECHIES|6|Juniors : 17-19 ans|0:47:27|
 |75| VAILLANT LOUIS                                                                         |ENTENTE CYCLISTE DE FONTAINE AU BOIS|6|Juniors : 17-19 ans|0:47:30|
 |76| PRISETTE JEAN-MICHEL                                                                   |UNION VELOCIPEDIQUE FOURMISIENNE|6|Vétérans 60 ans et +|0:47:52|
 |77| JUNG PHILIPPE                                                                          |UNION SPORTIVE SAINT ANDRE|6|Vétérans 60 ans et +|0:48:18|
-|**78**| **[LECOLIER LOUIS](https://teamspecializedlille.github.io/coureurs/lecolierlouis)**       |**TEAM SPECIALIZED LILLE**|**6**|**Juniors : 17-19 ans**|**0:49:05**|
+|**78**| **[LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis)**       |**TEAM SPECIALIZED LILLE**|**6**|**Juniors : 17-19 ans**|**0:49:05**|
 |79| CSERNAK SYLVAIN                                                                        |UNION SPORTIVE VALENCIENNES CRESPIN|6|Vétérans 60 ans et +|0:51:55|
 |80| LIONNE LIONEL                                                                          |HAVELUY CYCLO CLUB|6|Vétérans 40/49 ans|0:52:15|
 |81| CAUDRELIER DAVID                                                                       |VELO SPRINT DE L'OSTREVENT - AUBERCHICOURT|6|Vétérans 50/59 ans|0:53:30|

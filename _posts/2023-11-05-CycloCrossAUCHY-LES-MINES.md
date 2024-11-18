@@ -9,12 +9,12 @@ image: assets/img/blog/cx.jpeg
 
 ### 2ème Catégorie
 19 participants
-- [LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane) : 1
+- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 1
 
 ### 3ème Catégorie
 52 participants
-- [DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid) : 12
-- [LECOLIER LOUIS](https://teamspecializedlille.github.io/coureurs/lecolierlouis) : 13
+- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 12
+- [LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis) : 13
 
 ### Scratch
 89 participants
@@ -28,7 +28,7 @@ image: assets/img/blog/cx.jpeg
 | 5 | BOUSSEKEY JEROME | NOEUX VELO CLUB NOEUXOIS | 9 | 1ère | 0:52:0 | 
 | 6 | GALLIEZ ANTHONY | CYCLO CLUB CAMBRESIEN | 9 | 1ère | 0:52:5 | 
 | 7 | HERFEUIL ANTHONY | UNION SPORTIVE SAINT ANDRE | 9 | 1ère | 0:54:3 | 
-| **8** | **[LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **9** | **2ème** | **0:54:8** | 
+| **8** | **[LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **9** | **2ème** | **0:54:8** | 
 | 9 | DOCHNIAK LEO | HAVELUY CYCLO CLUB | 9 | 2ème | 0:54:26 | 
 | 10 | DASSONVILLE SEBASTIEN | NOEUX VELO CLUB NOEUXOIS | 9 | 1ère | 0:54:37 | 
 | 11 | CODDEVILLE KENNY | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 9 | 1ère | 0:55:20 | 
@@ -56,8 +56,8 @@ image: assets/img/blog/cx.jpeg
 | 33 | KAPLON FABIEN | CLUB MARZY CYCLISTE | 8 | 3ème | 0:52:49 | 
 | 34 | LEONARDI FLORIAN | RESILIENCE CLUB | 8 | 3ème | 0:52:49 | 
 | 35 | CAPILLIEZ PIERRE -ALAIN | MANQUEVILLE LILLERS CLUB CYCLISTE | 8 | 3ème | 0:53:0 | 
-| **36** | **[DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **8** | **3ème** | **0:53:9** | 
-| **37** | **[LECOLIER LOUIS](https://teamspecializedlille.github.io/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **8** | **3ème** | **0:53:18** | 
+| **36** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **8** | **3ème** | **0:53:9** | 
+| **37** | **[LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **8** | **3ème** | **0:53:18** | 
 | 38 | BOCQUILLON JEROME | AGNY ARTeam | 8 | 3ème | 0:53:25 | 
 | 39 | DURIEZ BENOIT | AGNY ARTeam | 8 | 3ème | 0:53:30 | 
 | 40 | DOOLAEGHE TERRY | VELO CLUB UNION HALLUIN | 8 | 3ème | 0:54:4 | 

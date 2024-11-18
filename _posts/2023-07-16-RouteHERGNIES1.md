@@ -9,7 +9,7 @@ image: assets/img/blog/road.jpeg
 
 ### 3ème Catégorie
 74 participants
-- [DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael) : 24
+- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 24
 
 ### Scratch
 196 participants
@@ -106,7 +106,7 @@ image: assets/img/blog/road.jpeg
 | 88 | DI SANTO DAVID | NEW ORANGE TEAM BOUSBECQUE | 8 | 3ème | 1:26:20 | 
 | 89 | HELLE FABRICE | VELO SPRINT BOUCHAIN | 8 | 3ème | 1:26:20 | 
 | 90 | CONTESSE FREDERIC | ASSOCIATION CYCLISTE D'ETROEUNGT | 8 | 3ème | 1:26:20 | 
-| **91** | **[DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **8** | **3ème** | **1:26:20** | 
+| **91** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **8** | **3ème** | **1:26:20** | 
 | 92 | LECERF JEROME | VELO CLUB BAVAISIEN | 8 | 3ème | 1:26:20 | 
 | 93 | MARCHANDISE PATRICE | VELO CLUB UNION HALLUIN | 8 | 3ème | 1:26:20 | 
 | 94 | BARENNE LAURENT | ETOILE CYCLISTE TOURCOING | 8 | 3ème | 1:26:20 | 

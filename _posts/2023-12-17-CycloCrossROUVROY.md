@@ -9,7 +9,7 @@ image: assets/img/resultats/2023-12-17-CycloCrossROUVROY/1.jpg
 
 ### 3ème Catégorie
 37 participants
-- [DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid) : Ab
+- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : Ab
 
 ### Scratch
 81 participants
@@ -96,6 +96,6 @@ image: assets/img/resultats/2023-12-17-CycloCrossROUVROY/1.jpg
 | 78 | LEFEBVRE STEPHANIE | HENIN ETOILE CYCLISTE HENINOISE | 4 | Féminines | 0:32:57 | 
 | 79 | DERODE ELOISE | HAVELUY CYCLO CLUB | 4 | Féminines | 0:37:23 | 
 | 80 | DOCHNIAK LEO | HAVELUY CYCLO CLUB | 0 | 1ère | 0:38:53 | 
-| **81** | **[DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
+| **81** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
 
 ![1](http://teamspecializedlille.github.io/assets/img/resultats/2023-12-17-CycloCrossROUVROY/1.jpg)

@@ -9,5 +9,5 @@ image: assets/img/blog/road.jpeg
 
 ### 3ème Catégorie
 x participants
-- [WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit) : 6
-- [DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael) : 12
+- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 6
+- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 12

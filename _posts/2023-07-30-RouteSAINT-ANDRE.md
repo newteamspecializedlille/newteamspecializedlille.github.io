@@ -9,12 +9,12 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 33 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien) : 25
+- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 25
 
 ### 3ème Catégorie
 62 participants
-- [DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier) : 32
-- [MOULIN FELIX](https://teamspecializedlille.github.io/coureurs/moulinfelix) : 34
+- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 32
+- [MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix) : 34
 
 ### Scratch
 193 participants
@@ -45,7 +45,7 @@ image: assets/img/blog/road.jpeg
 | 22 | MARQUET VICTOR | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 19 | 1ère | 1:52:31 | 
 | 23 | VASSEUR HUGO | UNION SPORTIVE SAINT ANDRE | 19 | 1ère | 1:52:34 | 
 | 24 | QUERTANT CHRISTOPHE | VELO SPRINT BOUCHAIN | 19 | 1ère | 1:52:34 | 
-| **25** | **[DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **19** | **1ère** | **1:52:35** | 
+| **25** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **19** | **1ère** | **1:52:35** | 
 | 26 | DEWAILLY VINCENT | UNION SPORTIVE SAINT ANDRE | 19 | 1ère | 1:52:56 | 
 | 27 | BILLON JULIEN | CYCLO SPORT CROTELLOIS | 19 | 1ère | 1:52:56 | 
 | 28 | COLLET LEO | ESEG DOUAI | 19 | 1ère | 1:55:31 | 
@@ -132,9 +132,9 @@ image: assets/img/blog/road.jpeg
 | 109 | DONDAINE PASCAL | NEW ORANGE TEAM BOUSBECQUE | 16 | 3ème | 1:38:23 | 
 | 110 | BURIDON DAVID | GILLOT CYCLING CLUB FEIGNIES | 16 | 3ème | 1:38:24 | 
 | 111 | MICHEL DAVID | CYCLO CLUB WAVRIN | 16 | 3ème | 1:38:24 | 
-| **112** | **[DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **16** | **3ème** | **1:38:24** | 
+| **112** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **16** | **3ème** | **1:38:24** | 
 | 113 | CHOQUET JULIEN | UNION SPORTIVE SAINT ANDRE | 16 | 3ème | 1:38:24 | 
-| **114** | **[MOULIN FELIX](https://teamspecializedlille.github.io/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **16** | **3ème** | **1:38:24** | 
+| **114** | **[MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **16** | **3ème** | **1:38:24** | 
 | 115 | CARON FABRICE | VELO CLUB AMANDINOIS | 16 | 3ème | 1:38:25 | 
 | 116 | DUJARDIN LAURENT | VELO CLUB UNION HALLUIN | 16 | 3ème | 1:38:25 | 
 | 117 | BARENNE LAURENT | ETOILE CYCLISTE TOURCOING | 16 | 3ème | 1:38:26 | 

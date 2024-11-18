@@ -9,9 +9,9 @@ image: assets/img/blog/road.jpeg
 
 ### 3ème Catégorie
 34 participants
-- [DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier) : 6
-- [WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit) : 14
-- [DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael) : 24
+- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 6
+- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 14
+- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 24
 
 ### Scratch
 102 participants
@@ -55,7 +55,7 @@ image: assets/img/blog/road.jpeg
 | 35 | VERDIN FLAVIEN | UNION SPORTIVE SAINT ANDRE | 27 | 3ème | 0:58:44 | 
 | 36 | DEFOSSEZ RODRIGUE | CLUB CYCLISTE THUN ST MARTIN | 27 | 3ème | 0:58:45 | 
 | 37 | DAVAINE HUGUES | LA PEDALE MADELEINOISE | 27 | 3ème | 0:58:45 | 
-| **38** | **[DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **27** | **3ème** | **0:58:45** | 
+| **38** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **27** | **3ème** | **0:58:45** | 
 | 39 | VANAUBERG GAETAN | NEW TEAM MAULDE | 27 | 3ème | 0:58:45 | 
 | 40 | LEONARDI FLORIAN | RESILIENCE CLUB | 27 | 3ème | 0:58:50 | 
 | 41 | DELOT GREGORY | TEAM BIKE PRESEAU | 27 | 3ème | 0:58:50 | 
@@ -78,7 +78,7 @@ image: assets/img/blog/road.jpeg
 | 58 | PASSARD FRANCOIS | ESEG DOUAI | 27 | 2ème | 1:1:43 | 
 | 59 | CORETTE DOMINIQUE | UNION SPORTIVE SAINT ANDRE | 27 | 3ème | 1:1:49 | 
 | 60 | CONTESSE FREDERIC | ASSOCIATION CYCLISTE D'ETROEUNGT | 27 | 3ème | 1:1:49 | 
-| **61** | **[WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **27** | **3ème** | **1:1:49** | 
+| **61** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **27** | **3ème** | **1:1:49** | 
 | 62 | FRANCOIS GERALD | SAULZOIR MONTRECOURT CYCLING CLUB | 27 | 3ème | 1:1:49 | 
 | 63 | THORLET YANNICK | VELO CLUB DE L'ESCAUT ANZIN | 27 | 3ème | 1:1:49 | 
 | 64 | BIENFAIT LIONEL | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 27 | 3ème | 1:1:49 | 
@@ -88,7 +88,7 @@ image: assets/img/blog/road.jpeg
 | 68 | BARENNE LAURENT | VELO CLUB UNION HALLUIN | 27 | 3ème | 1:1:50 | 
 | 69 | SAUDEMONT HERVE | SAULZOIR MONTRECOURT CYCLING CLUB | 27 | 3ème | 1:1:50 | 
 | 70 | CANDAT FABIEN | TEAM LINK AND RIDE HERIN | 27 | 3ème | 1:1:58 | 
-| **71** | **[DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **27** | **3ème** | **1:2:51** | 
+| **71** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **27** | **3ème** | **1:2:51** | 
 | 72 | ALEXANDRE MAGGY | VELO CLUB SOLESMES | 27 | Féminines | 1:12:52 | 
 | 73 | MARTIN JUSTINE | MANQUEVILLE LILLERS CLUB CYCLISTE | 27 | Féminines | 1:14:8 | 
 | 74 | PAVARD JEAN MARC | VELO CLUB AMANDINOIS | 27 | 4ème | 1:14:9 | 

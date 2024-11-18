@@ -5,7 +5,7 @@ import re
 import os
 
 
-host = "https://teamspecializedlille.github.io/"
+host = "https://teamspecializedlille.cc/"
 
 
 def post_notification(title, content, post_url, delay):

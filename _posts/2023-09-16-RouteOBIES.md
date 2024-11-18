@@ -9,11 +9,11 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 22 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve) : 17
+- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 17
 
 ### 3ème Catégorie
 61 participants
-- [DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier) : 34
+- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 34
 
 ### Scratch
 145 participants
@@ -36,7 +36,7 @@ image: assets/img/blog/road.jpeg
 | 14 | MARQUET VICTOR | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 19 | 1ère | 1:48:44 | 
 | 15 | DUHAMEL ARNAUD | AGNY ARTEAM | 19 | 1ère | 1:48:49 | 
 | 16 | GROSSEMY GREGORY | ETOILE CYCLISTE FEIGNIES | 19 | 1ère | 1:48:56 | 
-| **17** | **[DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **18** | **1ère** | **1:48:58** | 
+| **17** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **18** | **1ère** | **1:48:58** | 
 | 18 | LEFEVRE TOM | VELO CLUB BAVAISIEN | 17 | 2ème | 1:36:30 | 
 | 19 | HOTTON THEO | TEAM B.B.L. HERGNIES | 17 | 2ème | 1:36:32 | 
 | 20 | LEVEILLE STEPHANE | TEAM ENFER DU NORD | 17 | 2ème | 1:36:32 | 
@@ -104,7 +104,7 @@ image: assets/img/blog/road.jpeg
 | 82 | DEHON JOHAN | VELO CLUB BAVAISIEN | 15 | 2ème | 1:42:52 | 
 | 83 | DE RIDDER SEBASTIEN | NOUVELLE ETOILE SPORTIVE BOUE ETREUX | 14 | 1ère | 1:21:14 | 
 | 84 | RENAUT VINCENT | SAULZOIR MONTRECOURT CYCLING CLUB | 14 | 3ème | 1:21:17 | 
-| **85** | **[DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **14** | **3ème** | **1:30:9** | 
+| **85** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **14** | **3ème** | **1:30:9** | 
 | 86 | GRICOURT ALAIN | UNION VELOCIPEDIQUE FOURMISIENNE | 14 | 3ème | 1:30:19 | 
 | 87 | BERTIN PASCAL | TEAM DECOPUB PROVILLE | 14 | 3ème | 1:30:40 | 
 | 88 | CARDON . DAVID | CYCLO CLUB ORCHIES | 14 | 3ème | 1:31:1 | 

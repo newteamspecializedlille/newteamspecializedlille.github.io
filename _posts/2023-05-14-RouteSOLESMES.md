@@ -9,20 +9,20 @@ image: assets/img/blog/road.jpeg
 
 ### VTT Sénior B
 48 participants
-- [DUFOUR JONATHAN](https://teamspecializedlille.github.io/coureurs/dufourjonathan) : 12
-- [DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier) : 36
-- [DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael) : 37
+- [DUFOUR JONATHAN](https://teamspecializedlille.cc/coureurs/dufourjonathan) : 12
+- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 36
+- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 37
 
 ### VTT Vétérans A
 73 participants
-- [LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane) : 8
-- [HUBAUT CHRISTOPHE](https://teamspecializedlille.github.io/coureurs/hubautchristophe) : 12
+- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 8
+- [HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe) : 12
 
 ### VTT Vétérans B
 67 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald) : 1
-- [SCHERNU CHRISTOPHE](https://teamspecializedlille.github.io/coureurs/schernuchristophe) : 9
-- [DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve) : 13
+- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 1
+- [SCHERNU CHRISTOPHE](https://teamspecializedlille.cc/coureurs/schernuchristophe) : 9
+- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 13
 
 ### Scratch
 231 participants
@@ -61,7 +61,7 @@ image: assets/img/blog/road.jpeg
 | 30 | MARECHAL GUILLAUME | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 10 | Seniors B | 2:15:10 | 
 | 31 | ANTON LUDOVIC | NEW TEAM MAULDE | 10 | Seniors B | 2:15:10 | 
 | 32 | LORRIAUX JULIEN | VELO CLUB SOLESMES | 10 | Seniors B | 2:15:21 | 
-| **33** | **[DUFOUR JONATHAN](https://teamspecializedlille.github.io/coureurs/dufourjonathan)** | **TEAM SPECIALIZED LILLE** | **10** | **Seniors B** | **2:15:23** | 
+| **33** | **[DUFOUR JONATHAN](https://teamspecializedlille.cc/coureurs/dufourjonathan)** | **TEAM SPECIALIZED LILLE** | **10** | **Seniors B** | **2:15:23** | 
 | 34 | DE VREESE ALEXIS | RESILIENCE CLUB | 10 | Seniors B | 2:15:30 | 
 | 35 | CORNETTE STEPHANE | TEAM BIKE PRESEAU | 10 | Seniors B | 2:15:30 | 
 | 36 | TOURNEUX MICKAEL | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 10 | Seniors B | 2:15:31 | 
@@ -104,12 +104,12 @@ image: assets/img/blog/road.jpeg
 | 73 | MINGOA LUCIANO | NEW ORANGE TEAM BOUSBECQUE | 8 | Vétérans A | 1:57:25 | 
 | 74 | JABLONSKI SEBASTIEN | TEAM B.B.L. HERGNIES | 8 | Vétérans A | 1:57:25 | 
 | 75 | ALEXANDRE GREGORY | VELO CLUB SOLESMES | 8 | Vétérans A | 1:57:27 | 
-| **76** | **[LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans A** | **1:57:28** | 
+| **76** | **[LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans A** | **1:57:28** | 
 | 77 | GREVIN JEROME | VELO CLUB SOLESMES | 8 | Vétérans A | 1:57:29 | 
 | 78 | RIVART ADRIEN | ASSOCIATION CYCLISTE BELLAINGEOISE | 8 | Seniors A | 1:57:32 | 
 | 79 | MURRUZZU AURELIEN | UNION SPORTIVE SAINT ANDRE | 8 | Vétérans A | 1:58:55 | 
 | 80 | MASSON ARNAUD | ESEG DOUAI | 8 | Vétérans A | 1:59:28 | 
-| **81** | **[HUBAUT CHRISTOPHE](https://teamspecializedlille.github.io/coureurs/hubautchristophe)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans A** | **1:59:29** | 
+| **81** | **[HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans A** | **1:59:29** | 
 | 82 | VANDERMEIREN MANUEL | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 8 | Vétérans A | 1:59:30 | 
 | 83 | BUGNICOURT CYRIL | UNION VELOCIPEDIQUE FOURMISIENNE | 8 | Vétérans A | 1:59:30 | 
 | 84 | TONDELIER LUDOVIC | TEAM CYCLISTE PROVINOIS - PROVIN | 8 | Vétérans A | 1:59:30 | 
@@ -133,7 +133,7 @@ image: assets/img/blog/road.jpeg
 | 102 | LETUFFE SAMUEL | CYCLO CLUB WAVRIN | 8 | Vétérans A | 1:59:44 | 
 | 103 | BLONDEL FREDERIC | ESEG DOUAI | 8 | Vétérans A | 1:59:46 | 
 | 104 | LOMBARD SULLIVAN | TEAM BIKE PRESEAU | 8 | Vétérans A | 2:0:57 | 
-| **105** | **[MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans B** | **2:1:6** | 
+| **105** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans B** | **2:1:6** | 
 | 106 | NUYTTENS SEBASTIEN | ASSOCIATION CYCLISTE BELLAINGEOISE | 8 | Vétérans B | 2:1:6 | 
 | 107 | SOTTIAUX SEBASTIEN | UNION SPORTIVE SAINT ANDRE | 8 | Vétérans B | 2:1:6 | 
 | 108 | CHOTEAU PASCAL | VELO CLUB DE L'ESCAUT ANZIN | 8 | Vétérans B | 2:1:6 | 
@@ -141,11 +141,11 @@ image: assets/img/blog/road.jpeg
 | 110 | BELKEIR SLIMAN | NEW ORANGE TEAM BOUSBECQUE | 8 | Vétérans B | 2:1:6 | 
 | 111 | CAULIER NICOLAS | CYCLO CLUB BERGUES | 8 | Vétérans B | 2:1:7 | 
 | 112 | BOURGEOIS SYLVAIN | ETOILE CYCLISTE LIEU ST AMAND | 8 | Vétérans B | 2:1:7 | 
-| **113** | **[SCHERNU CHRISTOPHE](https://teamspecializedlille.github.io/coureurs/schernuchristophe)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans B** | **2:1:12** | 
+| **113** | **[SCHERNU CHRISTOPHE](https://teamspecializedlille.cc/coureurs/schernuchristophe)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans B** | **2:1:12** | 
 | 114 | LALEU DAVID | UNION SPORTIVE SAINT ANDRE | 8 | Vétérans B | 2:1:17 | 
 | 115 | RIGAUX JEAN JACQUES | CLUB CYCLISTE THUN ST MARTIN | 8 | Vétérans B | 2:1:17 | 
 | 116 | DAUMONT BRUNO | NEW ORANGE TEAM BOUSBECQUE | 8 | Vétérans B | 2:1:17 | 
-| **117** | **[DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans B** | **2:1:18** | 
+| **117** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans B** | **2:1:18** | 
 | 118 | BOS FABRICE | ASSOCIATION CYCLISTE BELLAINGEOISE | 8 | Vétérans B | 2:1:19 | 
 | 119 | DEBLIQUI PASCAL | VELO CLUB AMANDINOIS | 8 | Vétérans B | 2:1:19 | 
 | 120 | LEVAS LAURENT | UNION SPORTIVE VALENCIENNES CRESPIN | 8 | Vétérans B | 2:1:19 | 
@@ -161,7 +161,7 @@ image: assets/img/blog/road.jpeg
 | 130 | DEWALLENS STEPHANE | UNION CYCLISTE SOLRE LE CHATEAU | 8 | Vétérans A | 2:1:22 | 
 | 131 | DELMOTTE VINCENT | TEAM POLICE HDF - ROUBAIX | 8 | Vétérans B | 2:1:22 | 
 | 132 | CHALAS JEAN PIERRE | UNION SPORTIVE SAINT ANDRE | 8 | Vétérans B | 2:1:22 | 
-| **133** | **[DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **8** | **Seniors B** | **2:1:23** | 
+| **133** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **8** | **Seniors B** | **2:1:23** | 
 | 134 | TAISNE FABRICE | TEAM ENFER DU NORD WALLERS ARENBERG | 8 | Vétérans A | 2:1:23 | 
 | 135 | AUSSEMS JEAN-YVES | UNION SPORTIVE SAINT ANDRE | 8 | Vétérans A | 2:1:23 | 
 | 136 | TAISNE CHRISTOPHE | GAZ ELEC CLUB DE DOUAI | 8 | Vétérans A | 2:1:24 | 
@@ -171,7 +171,7 @@ image: assets/img/blog/road.jpeg
 | 140 | FREROT FRANCK | U.C. CAPELLOISE FOURMIES | 8 | Vétérans B | 2:1:27 | 
 | 141 | DEVAUX MICHAEL | ASSOCIATION CYCLISTE D'ETROEUNGT | 8 | Vétérans A | 2:1:34 | 
 | 142 | MACHADO UGO | UNION SPORTIVE VALENCIENNES CRESPIN | 8 | Seniors A | 2:1:45 | 
-| **143** | **[DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **8** | **Seniors B** | **2:2:19** | 
+| **143** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **8** | **Seniors B** | **2:2:19** | 
 | 144 | WINS JEAN FRANCOIS | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 8 | Vétérans B | 2:8:40 | 
 | 145 | MICHEL STEPHANE | ETOILE CYCLISTE FEIGNIES | 8 | Vétérans B | 2:8:41 | 
 | 146 | ALBERTINI LUDOVIC | VELO CLUB UNION HALLUIN | 8 | Vétérans A | 2:8:43 | 

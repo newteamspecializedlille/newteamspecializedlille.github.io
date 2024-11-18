@@ -9,7 +9,7 @@ image: assets/img/blog/cx.jpeg
 
 ### 3ème Catégorie
 27 participants
-- [MOULIN FELIX](https://teamspecializedlille.github.io/coureurs/moulinfelix) : 999
+- [MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix) : 999
 
 ### Scratch
 40 participants
@@ -53,6 +53,6 @@ image: assets/img/blog/cx.jpeg
 | 35 | LEVEILL? FLORIAN | UNION SPORTIVE VALENCIENN | 6 | Cadets | 0:42:6 | 
 | 36 | STAQUET AURELIEN | SAULZOIR MONTRECOURT CYCL | 6 | 3ème | 0:54:25 | 
 | 37 | MAGNIES CLÉMENT | CYCLO CLUB ORCHIES | 0 | 1ère | 0:38:53 | 
-| **38** | **[MOULIN FELIX](https://teamspecializedlille.github.io/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
+| **38** | **[MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
 | 39 | BOUTONNE FRÉDÉRIC | UNION SPORTIVE SAINT ANDR | 0 | 3ème | 0:38:53 | 
 | 40 | MARTINACHE ARNAUD | AS HELLEMMES CYCLISME | 0 | 3ème | 0:38:53 | 

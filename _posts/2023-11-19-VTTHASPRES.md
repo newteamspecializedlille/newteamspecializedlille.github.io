@@ -9,7 +9,7 @@ image: assets/img/resultats/2023-11-19-VTTHASPRES/1.jpeg
 
 ### VTT Vétérans B
 15 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald) : 1
+- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 1
 
 ### Scratch
 42 participants
@@ -29,7 +29,7 @@ image: assets/img/resultats/2023-11-19-VTTHASPRES/1.jpeg
 | 11 | DEMADE REMY | LES MOULIN'EUX - ST VAAST EN CAMBRESIS | 8 | Vétérans A | 1:1:40 | 
 | 12 | QUENTIN LAURENT | LA ROUE D'OR GUISARDE | 8 | Vétérans A | 1:1:59 | 
 | 13 | ROMAIN RICHARD | LES MOULIN'EUX - ST VAAST EN CAMBRESIS | 8 | Seniors B | 1:2:9 | 
-| **14** | **[MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans B** | **1:2:13** | 
+| **14** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans B** | **1:2:13** | 
 | 15 | SORET PASCAL | CAMPHIN EN CAREMBAULT CYCLING TEAM | 8 | Vétérans B | 1:2:51 | 
 | 16 | GAMACHE CHRISTOPHE | CYCLOS RANDONNEURS LA BASSEE | 8 | Vétérans B | 1:3:9 | 
 | 17 | HEDBAUT ANTONY | VELO CLUB SOLESMES | 8 | Seniors A | 1:3:13 | 

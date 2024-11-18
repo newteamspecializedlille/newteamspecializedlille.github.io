@@ -9,7 +9,7 @@ image: assets/img/blog/vtt.jpeg
 
 ### VTT Vétérans B
 29 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald) : 3
+- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 3
 
 ### Scratch
 83 participants
@@ -38,7 +38,7 @@ image: assets/img/blog/vtt.jpeg
 | 20 | DESTEIRDT MICKAEL | TEAM POLICE HDFN - ROUBAIX | 8 | Seniors B | 1:13:7 | 
 | 21 | KADDOUR-DJEBBAR FREDERIC | VTT  CLUB PONT SUR SAMBRE | 8 | Seniors B | 1:13:52 | 
 | 22 | CANONNE STEVEN | VELO SPRINT DE L'OSTREVENT - AUBERCHICOURT | 8 | Seniors A | 1:14:2 | 
-| **23** | **[MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans B** | **1:14:16** | 
+| **23** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans B** | **1:14:16** | 
 | 24 | DAILLY FABIEN | VERMELLES MTB RACING TEAM | 8 | Seniors B | 1:14:43 | 
 | 25 | GAMACHE CHRISTOPHE | CYCLOS RANDONNEURS LA BASSEE | 8 | Vétérans B | 1:15:23 | 
 | 26 | DUHAMEL ARNAUD | AGNY ARTEAM | 8 | Vétérans B | 1:15:23 | 

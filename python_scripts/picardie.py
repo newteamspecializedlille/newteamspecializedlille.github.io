@@ -27,7 +27,7 @@ SPECIALIZED = "TEAM SPECIALIZED LILLE"
 
 
 def get_member_with_link(team_member):
-    link = "https://teamspecializedlille.github.io/coureurs/"
+    link = "https://teamspecializedlille.cc/coureurs/"
     return "[" + team_member + "](" + link + team_member.replace(" ", "").lower() + ")"
 
 

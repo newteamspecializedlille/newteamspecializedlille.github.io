@@ -9,12 +9,12 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 44 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald) : 6
+- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 6
 
 ### 2ème Catégorie
 38 participants
-- [LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane) : 9
-- [DUFOUR JONATHAN](https://teamspecializedlille.github.io/coureurs/dufourjonathan) : 12
+- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 9
+- [DUFOUR JONATHAN](https://teamspecializedlille.cc/coureurs/dufourjonathan) : 12
 
 ### Scratch
 164 participants
@@ -26,7 +26,7 @@ image: assets/img/blog/road.jpeg
 | 3 | DOYEN MATHIS | CYCLO CLUB ORCHIES | 21 | 1ère | 2:0:55 | 
 | 4 | SEMOULIN JOAKIM | TEAM B.B.L. HERGNIES | 21 | 1ère | 2:0:56 | 
 | 5 | LORRIAUX JULIEN | VELO CLUB SOLESMES | 21 | 1ère | 2:0:58 | 
-| **6** | **[MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **21** | **1ère** | **2:0:59** | 
+| **6** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **21** | **1ère** | **2:0:59** | 
 | 7 | VEAUX CORENTIN | TEAM LINK AND RIDE HERIN | 21 | 1ère | 2:0:59 | 
 | 8 | WILMET FREDERIC | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 21 | 1ère | 2:0:59 | 
 | 9 | VANDERHAEGEN REGIS | ASSOCIATION CYCLISTE D'ETROEUNGT | 21 | 1ère | 2:0:59 | 
@@ -67,10 +67,10 @@ image: assets/img/blog/road.jpeg
 | 44 | REUTER SEBASTIEN | ESEG DOUAI | 18 | 2ème | 1:53:12 | 
 | 45 | RIGAUX JEAN JACQUES | CLUB CYCLISTE THUN ST MARTIN | 18 | 2ème | 1:53:13 | 
 | 46 | IERA GIOVAMBATTISTA | ASSOCIATION CYCLISTE BELLAINGEOISE | 18 | 2ème | 1:53:15 | 
-| **47** | **[LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **18** | **2ème** | **1:53:17** | 
+| **47** | **[LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **18** | **2ème** | **1:53:17** | 
 | 48 | DREMEAUX JOHAN | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 18 | 2ème | 1:53:20 | 
 | 49 | DELPIRE FREDERIC | VTT  CLUB PONT SUR SAMBRE | 18 | 2ème | 1:55:1 | 
-| **50** | **[DUFOUR JONATHAN](https://teamspecializedlille.github.io/coureurs/dufourjonathan)** | **TEAM SPECIALIZED LILLE** | **18** | **2ème** | **1:56:11** | 
+| **50** | **[DUFOUR JONATHAN](https://teamspecializedlille.cc/coureurs/dufourjonathan)** | **TEAM SPECIALIZED LILLE** | **18** | **2ème** | **1:56:11** | 
 | 51 | DRUART JEROME | VELO CLUB BAVAISIEN | 18 | 2ème | 1:56:52 | 
 | 52 | ROUSSEAU DIDIER | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 18 | 2ème | 1:56:52 | 
 | 53 | BROUTIN ANTOINE | ASSOCIATION CYCLISTE DE CUINCY | 18 | 2ème | 1:56:53 | 

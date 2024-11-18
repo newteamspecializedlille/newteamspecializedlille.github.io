@@ -9,7 +9,7 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 18 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve) : 6
+- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 6
 
 ### Scratch
 101 participants
@@ -21,7 +21,7 @@ image: assets/img/blog/road.jpeg
 | 3 | SEMOULIN JOAKIM | TEAM B.B.L. HERGNIES | 26 | 1ère | 1:49:51 | 
 | 4 | MONNIER FAGYAL MATEO | GAZ ELEC CLUB DE DOUAI | 26 | 1ère | 1:49:58 | 
 | 5 | MONIEZ ADRIEN | CLUB CYCLISTE THUN ST MARTIN | 26 | 1ère | 1:49:58 | 
-| **6** | **[DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **26** | **1ère** | **2:28:40** | 
+| **6** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **26** | **1ère** | **2:28:40** | 
 | 7 | BLONDEAU BENOIT | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 26 | 1ère | 3:20:44 | 
 | 8 | DERUEL ANTOINE | VELO CLUB BAVAISIEN | 25 | 1ère | 1:51:44 | 
 | 9 | RIVART ADRIEN | ASSOCIATION CYCLISTE BELLAINGEOISE | 25 | 1ère | 1:51:52 | 

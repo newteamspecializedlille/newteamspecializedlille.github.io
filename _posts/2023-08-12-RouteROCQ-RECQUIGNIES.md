@@ -9,8 +9,8 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 26 participants
-- [LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane) : 2
-- [MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald) : 4
+- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 2
+- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 4
 
 ### Scratch
 103 participants
@@ -18,9 +18,9 @@ image: assets/img/blog/road.jpeg
 | Place | Nom | Team | Tours | Catégorie | Temps |
 |---|---|---|---|---|---|
 | 1 | WINS STEPHANE | TEAM BOUSIES | 14 | 1ère | 1:42:45 | 
-| **2** | **[LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **14** | **1ère** | **1:42:45** | 
+| **2** | **[LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **14** | **1ère** | **1:42:45** | 
 | 3 | SEMOULIN JOAKIM | TEAM B.B.L. HERGNIES | 14 | 1ère | 1:44:25 | 
-| **4** | **[MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **14** | **1ère** | **1:44:28** | 
+| **4** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **14** | **1ère** | **1:44:28** | 
 | 5 | COUTELARD MATHYS | VELO CLUB SOLESMES | 14 | 1ère | 1:44:30 | 
 | 6 | DREMEAUX JOHAN | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 14 | 1ère | 1:44:32 | 
 | 7 | GOUTEAU FREDERIC | U.C. CAPELLOISE FOURMIES | 14 | 1ère | 1:44:32 | 

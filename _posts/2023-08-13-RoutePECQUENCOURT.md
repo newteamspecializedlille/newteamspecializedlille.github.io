@@ -9,12 +9,12 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 31 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien) : 14
-- [DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve) : 18
+- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 14
+- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 18
 
 ### 3ème Catégorie
 58 participants
-- [DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier) : 15
+- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 15
 
 ### Scratch
 184 participants
@@ -34,11 +34,11 @@ image: assets/img/blog/road.jpeg
 | 11 | DELPLANQUE DYLAN | VELO SPRINT DE L'OSTREVENT - AUBERCHICOURT | 29 | 1ère | 1:32:30 | 
 | 12 | DEWEZ CLOTAIRE | CYCLO CLUB ORCHIES | 29 | 1ère | 1:32:30 | 
 | 13 | VANDERHAEGEN REGIS | ASSOCIATION CYCLISTE D'ETROEUNGT | 29 | 1ère | 1:32:31 | 
-| **14** | **[DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **29** | **1ère** | **1:32:31** | 
+| **14** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **29** | **1ère** | **1:32:31** | 
 | 15 | MULAS YANN | VELO SPRINT DE L'OSTREVENT - AUBERCHICOURT | 29 | 1ère | 1:32:32 | 
 | 16 | HANNOT CHRISTOPHE | VELO CLUB UNION HALLUIN | 29 | 1ère | 1:32:33 | 
 | 17 | CAZE ALBAN | UNION SPORTIVE SAINT ANDRE | 29 | 1ère | 1:32:34 | 
-| **18** | **[DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **29** | **1ère** | **1:32:37** | 
+| **18** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **29** | **1ère** | **1:32:37** | 
 | 19 | BLONDEAU BENOIT | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 29 | 1ère | 1:32:39 | 
 | 20 | ANTON LUDOVIC | NEW TEAM MAULDE | 29 | 1ère | 1:32:39 | 
 | 21 | LANGLET GUILLAUME | CERCLE OLYMPIQUE MARCOING | 29 | 1ère | 1:32:39 | 
@@ -106,7 +106,7 @@ image: assets/img/blog/road.jpeg
 | 83 | WINS JEAN FRANCOIS | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 21 | 3ème | 1:9:38 | 
 | 84 | DRUART PASCAL | NEW TEAM MAULDE | 21 | 3ème | 1:9:38 | 
 | 85 | BROGNARD CORENTIN | UNION SPORTIVE SAINT ANDRE | 21 | 3ème | 1:9:38 | 
-| **86** | **[DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **21** | **3ème** | **1:9:38** | 
+| **86** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **21** | **3ème** | **1:9:38** | 
 | 87 | VANDEKERCKHOVE SYLVAIN | VELO CLUB ROUBAIX | 21 | 3ème | 1:9:38 | 
 | 88 | DEMOUILLER FREDERIC | UNION SPORTIVE VALENCIENNES CRESPIN | 21 | 3ème | 1:9:39 | 
 | 89 | HOMOLA JEAN CHARLES | VELO CLUB TALMAS | 21 | 3ème | 1:9:39 | 

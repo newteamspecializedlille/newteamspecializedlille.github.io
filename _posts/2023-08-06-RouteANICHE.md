@@ -9,12 +9,12 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 37 participants
-- [LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane) : 9
-- [DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien) : Ab
+- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 9
+- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : Ab
 
 ### 3ème Catégorie
 45 participants
-- [DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier) : 7
+- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 7
 
 ### Scratch
 160 participants
@@ -29,7 +29,7 @@ image: assets/img/blog/road.jpeg
 | 6 | MONIEZ ADRIEN | CLUB CYCLISTE THUN ST MARTIN | 21 | 1ère | 1:47:6 | 
 | 7 | BRASSART THEOPHILE | TEAM B.B.L. HERGNIES | 21 | 1ère | 1:47:9 | 
 | 8 | DOYEN MATHIS | CYCLO CLUB ORCHIES | 21 | 1ère | 1:47:9 | 
-| **9** | **[LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **21** | **1ère** | **1:47:11** | 
+| **9** | **[LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **21** | **1ère** | **1:47:11** | 
 | 10 | LEFEVRE SEBASTIEN | UNION VELOCIPEDIQUE FOURMISIENNE | 21 | 1ère | 1:47:12 | 
 | 11 | LALEU TIMOTHEE | UNION SPORTIVE SAINT ANDRE | 21 | 1ère | 1:47:27 | 
 | 12 | NAMANE STEVE | NEW ORANGE TEAM BOUSBECQUE | 21 | 1ère | 1:48:27 | 
@@ -91,7 +91,7 @@ image: assets/img/blog/road.jpeg
 | 68 | BARENNE LAURENT | ETOILE CYCLISTE TOURCOING | 17 | 3ème | 1:31:34 | 
 | 69 | GALIEN RUDDY | BETHUNE ROBECQ TEAM TBR | 17 | 3ème | 1:31:36 | 
 | 70 | CARPELS GUILLAUME | VELO CLUB UNION HALLUIN | 17 | 3ème | 1:31:51 | 
-| **71** | **[DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **17** | **3ème** | **1:31:55** | 
+| **71** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **17** | **3ème** | **1:31:55** | 
 | 72 | CANDELLIER THOMAS | TEAM CYCLISTE PROVINOIS - PROVIN | 17 | 3ème | 1:31:58 | 
 | 73 | ARGENTINO ANTHONY | UNION SPORTIVE SAINT ANDRE | 17 | 3ème | 1:31:59 | 
 | 74 | RIBEAUCOURT JEAN JACQUES | ASSOCIATION CYCLISTE BELLAINGEOISE | 17 | 3ème | 1:31:59 | 
@@ -166,7 +166,7 @@ image: assets/img/blog/road.jpeg
 | 143 | RICO ELODIE | VELO CLUB UNION HALLUIN | 10 | Féminines | 1:28:35 | 
 | 144 | KUBIK MATHIS | AGNY ARTEAM | 9 | 3ème | 0:46:24 | 
 | 145 | BRIAND KEVIN | ASSOCIATION SPORTIVE THOUROTTOISE CYCLISTE | 8 | 1ère | 0:37:27 | 
-| **146** | **[DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **8** | **1ère** | **0:37:56** | 
+| **146** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **8** | **1ère** | **0:37:56** | 
 | 147 | DOOM PATRICE (FILS) | UNION SPORTIVE SAINT ANDRE | 4 | 2ème | 0:16:26 | 
 | 148 | LEVAS MARCEL | UNION SPORTIVE VALENCIENNES CRESPIN | 3 | 4ème | 0:15:6 | 
 | 149 | CRIGNON PHILIPPE | CAMPHIN EN CAREMBAULT CYCLING TEAM | 1 | 3ème | 0:7:36 | 

@@ -9,12 +9,12 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 24 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien) : Ab
+- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : Ab
 
 ### 2ème Catégorie
 42 participants
-- [DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid) : 1
-- [LECOLIER BENOIT](https://teamspecializedlille.github.io/coureurs/lecolierbenoit) : 3
+- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 1
+- [LECOLIER BENOIT](https://teamspecializedlille.cc/coureurs/lecolierbenoit) : 3
 
 ### Scratch
 145 participants
@@ -33,9 +33,9 @@ image: assets/img/blog/road.jpeg
 | 10 | DELEPLACE HADRIEN | VELO CLUB ROUBAIX | 20 | 1ère | 1:53:49 | 
 | 11 | DORGE AURELIEN | VELO SPRINT BOUCHAIN | 20 | 1ère | 1:53:49 | 
 | 12 | LEFEVRE SEBASTIEN | UNION VELOCIPEDIQUE FOURMISIENNE | 20 | 1ère | 1:54:11 | 
-| **13** | **[DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **19** | **2ème** | **1:48:53** | 
+| **13** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **19** | **2ème** | **1:48:53** | 
 | 14 | LECCI PIERRE | HAVELUY CYCLO CLUB | 19 | 2ème | 1:49:0 | 
-| **15** | **[LECOLIER BENOIT](https://teamspecializedlille.github.io/coureurs/lecolierbenoit)** | **TEAM SPECIALIZED LILLE** | **19** | **2ème** | **1:49:0** | 
+| **15** | **[LECOLIER BENOIT](https://teamspecializedlille.cc/coureurs/lecolierbenoit)** | **TEAM SPECIALIZED LILLE** | **19** | **2ème** | **1:49:0** | 
 | 16 | GABELLE QUENTIN | ETOILE CYCLISTE LIEU ST AMAND | 19 | 2ème | 1:49:31 | 
 | 17 | VIVIER MATTHIAS | UNION SPORTIVE SAINT ANDRE | 19 | 2ème | 1:49:47 | 
 | 18 | MAGY MATHEO | ETOILE CYCLISTE FEIGNIES | 19 | 2ème | 1:49:59 | 
@@ -133,7 +133,7 @@ image: assets/img/blog/road.jpeg
 | 110 | GAILLEZ VINCENT | CERCLE OLYMPIQUE MARCOING | 0 | 1ère | 0:38:53 | 
 | 111 | SOTTIAUX SEBASTIEN | UNION SPORTIVE SAINT ANDRE | 0 | 1ère | 0:38:53 | 
 | 112 | ANTON LUDOVIC | NEW TEAM MAULDE | 0 | 1ère | 0:38:53 | 
-| **113** | **[DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **0** | **1ère** | **0:38:53** | 
+| **113** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **0** | **1ère** | **0:38:53** | 
 | 114 | AINI ISSAM | ENTENTE CYCLISTE DE FONTA | 0 | 1ère | 0:38:53 | 
 | 115 | DEWILDE LUDOVIC | VELO CLUB UNION HALLUIN | 0 | 1ère | 0:38:53 | 
 | 116 | LEFEBVRE JUSTIN | GAZ ELEC CLUB DE DOUAI | 0 | 1ère | 0:38:53 | 

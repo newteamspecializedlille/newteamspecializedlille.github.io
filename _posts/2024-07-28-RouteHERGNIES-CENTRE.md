@@ -9,18 +9,18 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 38 participants
-- [LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane) : 14
+- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 14
 
 ### 2ème Catégorie
 51 participants
-- [MINNECI ELIO](https://teamspecializedlille.github.io/coureurs/minnecielio) : 3
-- [DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve) : 18
-- [DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier) : 42
+- [MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio) : 3
+- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 18
+- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 42
 
 ### 3ème Catégorie
 62 participants
-- [WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit) : 11
-- [TRINEL EMILY](https://teamspecializedlille.github.io/coureurs/trinelemily) : 26
+- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 11
+- [TRINEL EMILY](https://teamspecializedlille.cc/coureurs/trinelemily) : 26
 
 ### Scratch
 197 participants
@@ -29,7 +29,7 @@ image: assets/img/blog/road.jpeg
 |---|---|---|---|---|---|
 | 1 | LOUETTE XAVIER | 52X11 HIRSON THIERACHE | 10 | 2ème | 1:48:10 | 
 | 2 | ROBERT BENJAMIN | U.C. CAPELLOISE FOURMIES | 10 | 2ème | 1:48:14 | 
-| **3** | **[MINNECI ELIO](https://teamspecializedlille.github.io/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **10** | **2ème** | **1:48:14** | 
+| **3** | **[MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **10** | **2ème** | **1:48:14** | 
 | 4 | FONTAINE THOMAS | ETOILE CYCLISTE FEIGNIES | 10 | 2ème | 1:48:14 | 
 | 5 | CHALAS JEAN PIERRE | UNION SPORTIVE SAINT ANDRE | 10 | 2ème | 1:48:14 | 
 | 6 | GWENAEL LEQUIEN | BARLIN CERCLE LAIQUE | 10 | 2ème | 1:48:14 | 
@@ -44,7 +44,7 @@ image: assets/img/blog/road.jpeg
 | 15 | VIVIER MATTHIAS | UNION SPORTIVE SAINT ANDRE | 10 | 2ème | 1:48:15 | 
 | 16 | CARPELS GUILLAUME | VELO CLUB UNION HALLUIN | 10 | 2ème | 1:48:15 | 
 | 17 | VANAUBERG EDDY | TEAM B.B.L. HERGNIES | 10 | 2ème | 1:48:15 | 
-| **18** | **[DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **10** | **2ème** | **1:48:15** | 
+| **18** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **10** | **2ème** | **1:48:15** | 
 | 19 | HUVELLE BENJAMIN | VTT  CLUB PONT SUR SAMBRE | 10 | 2ème | 1:48:15 | 
 | 20 | LECLAIRE LANCELOT | VELO CLUB UNION HALLUIN | 10 | 2ème | 1:48:16 | 
 | 21 | DOOM HERVE | NEW ORANGE TEAM BOUSBECQUE | 10 | 2ème | 1:48:16 | 
@@ -77,7 +77,7 @@ image: assets/img/blog/road.jpeg
 | 48 | LESAGE ANTHONY | ASSOCIATION CYCLISTE BELLAINGEOISE | 10 | 1ère | 1:55:22 | 
 | 49 | DOYEN MATHIS | CYCLO CLUB ORCHIES | 10 | 1ère | 1:55:22 | 
 | 50 | ANDERLINI NICOLAS | VELO CLUB UNION HALLUIN | 10 | 1ère | 1:55:22 | 
-| **51** | **[LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **10** | **1ère** | **1:55:22** | 
+| **51** | **[LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **10** | **1ère** | **1:55:22** | 
 | 52 | MASSIN ALEXANDRE | ESEG DOUAI | 10 | 1ère | 1:55:22 | 
 | 53 | LOGIE MATHIEU | NEW ORANGE TEAM BOUSBECQUE | 10 | 1ère | 1:55:22 | 
 | 54 | DEWILDE LUDOVIC | VELO CLUB UNION HALLUIN | 10 | 1ère | 1:55:22 | 
@@ -112,7 +112,7 @@ image: assets/img/blog/road.jpeg
 | 83 | SERE BENJAMIN | CYCLO CLUB WAVRIN | 9 | 3ème | 1:41:0 | 
 | 84 | LE CARDIEC VALENTIN | CYCLO CLUB WAVRIN | 9 | 3ème | 1:41:0 | 
 | 85 | VANAUBERG GAETAN | NEW TEAM MAULDE | 9 | 3ème | 1:41:0 | 
-| **86** | **[WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **9** | **3ème** | **1:41:0** | 
+| **86** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **9** | **3ème** | **1:41:0** | 
 | 87 | BIANCUCCI MARIO | VELO CLUB UNION HALLUIN | 9 | 3ème | 1:41:1 | 
 | 88 | BOUTONNE FREDERIC | TEAM BOUSIES | 9 | 3ème | 1:41:1 | 
 | 89 | TAISNE CHRISTOPHE | GAZ ELEC CLUB DE DOUAI | 9 | 3ème | 1:41:1 | 
@@ -127,7 +127,7 @@ image: assets/img/blog/road.jpeg
 | 98 | BROUTIN ERIC | ASSOCIATION CYCLISTE DE CUINCY | 9 | 3ème | 1:41:3 | 
 | 99 | BARENNE LAURENT | VELO CLUB UNION HALLUIN | 9 | 3ème | 1:41:3 | 
 | 100 | VEGA PABLO | ESEG DOUAI | 9 | 3ème | 1:41:3 | 
-| **101** | **[TRINEL EMILY](https://teamspecializedlille.github.io/coureurs/trinelemily)** | **TEAM SPECIALIZED LILLE** | **9** | **3ème** | **1:41:3** | 
+| **101** | **[TRINEL EMILY](https://teamspecializedlille.cc/coureurs/trinelemily)** | **TEAM SPECIALIZED LILLE** | **9** | **3ème** | **1:41:3** | 
 | 102 | CARON FABRICE | VELO CLUB AMANDINOIS | 9 | 3ème | 1:41:4 | 
 | 103 | JUNG PHILIPPE | UNION SPORTIVE SAINT ANDRE | 9 | 3ème | 1:41:4 | 
 | 104 | DUPUIS VALENTIN | NEW TEAM MAULDE | 9 | 3ème | 1:41:4 | 
@@ -145,7 +145,7 @@ image: assets/img/blog/road.jpeg
 | 116 | LALOUETTE PHILIPPE | LA CHERIZIENNE - VILLE DE CHAUNY | 9 | 3ème | 1:41:55 | 
 | 117 | LEONARDI FLORIAN | RESILIENCE CLUB | 9 | 2ème | 1:43:55 | 
 | 118 | PAILLARD CORENTIN | BARLIN CERCLE LAIQUE | 9 | 2ème | 1:44:39 | 
-| **119** | **[DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **9** | **2ème** | **1:45:48** | 
+| **119** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **9** | **2ème** | **1:45:48** | 
 | 120 | RIVART THIERRY | VTT  CLUB PONT SUR SAMBRE | 9 | 2ème | 1:48:32 | 
 | 121 | DOUCHET THIBAULT | GAZ ELEC CLUB DE DOUAI | 9 | 1ère | 1:49:35 | 
 | 122 | TREHOUST FRANCOIS | AGNY ARTeam | 9 | 3ème | 1:50:35 | 

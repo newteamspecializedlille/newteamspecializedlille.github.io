@@ -9,7 +9,7 @@ image: assets/img/blog/road.jpeg
 
 ### 2ème Catégorie
 41 participants
-- [HUBAUT CHRISTOPHE](https://teamspecializedlille.github.io/coureurs/hubautchristophe) : 8
+- [HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe) : 8
 
 ### Scratch
 156 participants
@@ -44,7 +44,7 @@ image: assets/img/blog/road.jpeg
 | 26 | GABELLE QUENTIN | ETOILE CYCLISTE LIEU ST AMAND | 11 | 2ème | 1:58:59 | 
 | 27 | RIGAUX JEAN JACQUES | CLUB CYCLISTE THUN ST MARTIN | 11 | 2ème | 1:59:5 | 
 | 28 | WINS JEAN FRANCOIS | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 11 | 2ème | 1:59:9 | 
-| **29** | **[HUBAUT CHRISTOPHE](https://teamspecializedlille.github.io/coureurs/hubautchristophe)** | **TEAM SPECIALIZED LILLE** | **11** | **2ème** | **1:59:9** | 
+| **29** | **[HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe)** | **TEAM SPECIALIZED LILLE** | **11** | **2ème** | **1:59:9** | 
 | 30 | DELPIRE FREDERIC | VTT  CLUB PONT SUR SAMBRE | 11 | 2ème | 1:59:10 | 
 | 31 | THOMAS MATTHIAS | TEAM B.B.L. HERGNIES | 11 | 2ème | 1:59:10 | 
 | 32 | TOURNEUX MICKAEL | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 11 | 2ème | 1:59:10 | 

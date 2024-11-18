@@ -9,11 +9,11 @@ image: assets/img/resultats/2024-01-07-VTTWALLERS-AREMBERG2/1.jpg
 
 ### VTT Vétérans A
 12 participants
-- [WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit) : 9
+- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 9
 
 ### VTT Vétérans B
 13 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald) : 1
+- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 1
 
 ### Scratch
 36 participants
@@ -24,7 +24,7 @@ image: assets/img/resultats/2024-01-07-VTTWALLERS-AREMBERG2/1.jpg
 | 2 | RIVART ADRIEN | ASSOCIATION CYCLISTE BELLAINGEOISE | 8 | Seniors A | 0:53:30 | 
 | 3 | DARTUS MIKAEL | VELO CLUB SOLESMES | 8 | Vétérans A | 0:53:38 | 
 | 4 | COMMONT DAVID | NOUVELLE ETOILE SPORTIVE BOUE ETREUX | 8 | Seniors B | 0:53:45 | 
-| **5** | **[MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans B** | **0:54:15** | 
+| **5** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans B** | **0:54:15** | 
 | 6 | JABLONSKI SEBASTIEN | TEAM B.B.L. HERGNIES | 8 | Vétérans A | 0:54:16 | 
 | 7 | FARDOUX DANY | FLEURBAIX TEAM SHARK VTT | 8 | Vétérans A | 0:55:4 | 
 | 8 | ROMAIN RICHARD | LES MOULIN'EUX - ST VAAST EN CAMBRESIS | 8 | Seniors B | 0:55:20 | 
@@ -48,7 +48,7 @@ image: assets/img/resultats/2024-01-07-VTTWALLERS-AREMBERG2/1.jpg
 | 26 | MERIAUX FREDERIC | FLEURBAIX TEAM SHARK VTT | 7 | Vétérans B | 0:52:54 | 
 | 27 | LALOT LAURENT | LES VIKINGS VTT MARCHE NORDIQUE OHAIN | 7 | Seniors B | 0:53:26 | 
 | 28 | TRINQUART YANNICK | TEAM PEVELE CAREMBAULT CYCLISME | 7 | Vétérans B | 0:53:29 | 
-| **29** | **[WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **7** | **Vétérans A** | **0:53:55** | 
+| **29** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **7** | **Vétérans A** | **0:53:55** | 
 | 30 | PORQUET LUDOVIC | SAULZOIR MONTRECOURT CYCLING CLUB | 7 | Vétérans A | 0:54:31 | 
 | 31 | DEJEAN GILLES | TEAM CYCLISTE LA BORDURE - BETTRECHIES | 7 | Vétérans A | 0:55:19 | 
 | 32 | LADENT JEROME | MERICOURT ULTRA VTT | 7 | Vétérans B | 0:57:11 | 

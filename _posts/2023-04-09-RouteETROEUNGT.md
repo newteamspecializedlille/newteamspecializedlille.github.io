@@ -9,8 +9,8 @@ image: assets/img/blog/road.jpeg
 
 ### 2ème Catégorie
 34 participants
-- [LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane) : 2
-- [DUFOUR JONATHAN](https://teamspecializedlille.github.io/coureurs/dufourjonathan) : 18
+- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 2
+- [DUFOUR JONATHAN](https://teamspecializedlille.cc/coureurs/dufourjonathan) : 18
 
 ### Scratch
 130 participants
@@ -45,7 +45,7 @@ image: assets/img/blog/road.jpeg
 | 26 | SIRO AURELIEN | ASSOCIATION CYCLISTE D'ETROEUNGT | 11 | 1ère | 2:14:21 | 
 | 27 | VANDIEST FREDERIC | VELO CLUB UNION HALLUIN | 11 | 1ère | 2:14:23 | 
 | 28 | ANCEAUX NICOLAS | NOUVELLE ETOILE SPORTIVE BOUE ETREUX | 10 | 2ème | 2:0:30 | 
-| **29** | **[LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **10** | **2ème** | **2:0:30** | 
+| **29** | **[LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **10** | **2ème** | **2:0:30** | 
 | 30 | DREMEAUX JOHAN | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 10 | 2ème | 2:0:39 | 
 | 31 | MISMAQUE JACQUES | ASSOCIATION CYCLISTE BELLAINGEOISE | 10 | 2ème | 2:0:59 | 
 | 32 | PIQUEUR ERWAN | TEAM B.B.L. HERGNIES | 10 | 2ème | 2:1:0 | 
@@ -61,7 +61,7 @@ image: assets/img/blog/road.jpeg
 | 42 | MOURAIN DORIAN | UNION VELOCIPEDIQUE FOURMISIENNE | 10 | 2ème | 2:2:30 | 
 | 43 | DRUART JEROME | VELO CLUB BAVAISIEN | 10 | 2ème | 2:2:30 | 
 | 44 | BAILLY FLORIAN | ESEG DOUAI | 10 | 2ème | 2:2:32 | 
-| **45** | **[DUFOUR JONATHAN](https://teamspecializedlille.github.io/coureurs/dufourjonathan)** | **TEAM SPECIALIZED LILLE** | **10** | **2ème** | **2:2:40** | 
+| **45** | **[DUFOUR JONATHAN](https://teamspecializedlille.cc/coureurs/dufourjonathan)** | **TEAM SPECIALIZED LILLE** | **10** | **2ème** | **2:2:40** | 
 | 46 | MOURAIN CEDRIC | UNION VELOCIPEDIQUE FOURMISIENNE | 10 | 2ème | 2:3:31 | 
 | 47 | BINETRUY VICTOR | TEAM B.B.L. HERGNIES | 9 | 3ème | 1:30:56 | 
 | 48 | HOTTON THEO | TEAM B.B.L. HERGNIES | 9 | 3ème | 1:30:57 | 

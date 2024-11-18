@@ -9,7 +9,7 @@ image: assets/img/blog/vtt.jpeg
 
 ### VTT Vétérans B
 25 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald) : 4
+- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 4
 
 ### Scratch
 69 participants
@@ -31,7 +31,7 @@ image: assets/img/blog/vtt.jpeg
 | 13 | LONCKE SEBASTIEN | VTT SAINT AMAND LES EAUX | 9 | Seniors B | 0:56:5 | 
 | 14 | LIEVIN FRANCK | VTT SAINT AMAND LES EAUX | 9 | Vétérans B | 0:56:17 | 
 | 15 | LEBRUN XAVIER | ENTENTE CYCLISTE QUEVILLAISE | 9 | Vétérans A | 0:56:32 | 
-| **16** | **[MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **9** | **Vétérans B** | **0:56:47** | 
+| **16** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **9** | **Vétérans B** | **0:56:47** | 
 | 17 | JABLONSKI SEBASTIEN | TEAM B.B.L. HERGNIES | 9 | Vétérans A | 0:56:52 | 
 | 18 | DUHAMEL ARNAUD | AGNY ARTEAM | 9 | Vétérans B | 0:57:15 | 
 | 19 | CAZE ALBAN | UNION SPORTIVE SAINT ANDRE | 9 | Vétérans A | 0:57:18 | 

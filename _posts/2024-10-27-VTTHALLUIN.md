@@ -9,7 +9,7 @@ image: assets/img/blog/vtt.jpeg
 
 ### VTT Vétérans A
 8 participants
-- [WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit) : Ab
+- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : Ab
 
 ### Scratch
 24 participants
@@ -38,5 +38,5 @@ image: assets/img/blog/vtt.jpeg
 | 20 | HAVET STEPHANE | BEUVRY CYCLO CLUB | 7 | Vétérans B | 0:50:51 | 
 | 21 | COCART RUDY | BETHUNE ROBECQ TEAM TBR | 7 | Seniors B | 0:52:3 | 
 | 22 | VAN LIERDE FRANCK | VELO CLUB UNION HALLUIN | 7 | Vétérans B | 0:56:51 | 
-| **23** | **[WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **0** | **Vétérans A** | **0:38:53** | 
+| **23** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **0** | **Vétérans A** | **0:38:53** | 
 | 24 | CORMAN SEBASTIEN | CAMPHIN EN CAREMBAULT CYC | 0 | Vétérans A | 0:38:53 | 

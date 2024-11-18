@@ -9,16 +9,16 @@ image: assets/img/resultats/2024-01-07-CycloCrossWALLERS-AREMBERG2/1.jpg
 
 ### Vétérans 50/59 ans
 19 participants 
-- [LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane) : 2
+- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 2
 
 ### Séniors 30-39 ans
 16 participants 
-- [MOULIN FELIX](https://teamspecializedlille.github.io/coureurs/moulinfelix) : 14
+- [MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix) : 14
 
 ### Juniors : 17-19 ans
 11 participants 
-- [DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid) : 7
-- [LECOLIER LOUIS](https://teamspecializedlille.github.io/coureurs/lecolierlouis) : 8
+- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 7
+- [LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis) : 8
 
 ### Scratch
 97 participants
@@ -43,7 +43,7 @@ image: assets/img/resultats/2024-01-07-CycloCrossWALLERS-AREMBERG2/1.jpg
 |16|ALEXANDRE GREGORY|VELO CLUB SOLESMES|8|Vétérans 40/49 ans|0:57:03|
 |17|GALLIEZ ANTHONY|CYCLO CLUB CAMBRESIEN|8|Séniors 30-39 ans|0:57:25|
 |18|BOUSSEKEY JEROME|NOEUX VELO CLUB NOEUXOIS|8|Vétérans 40/49 ans|0:57:30|
-|**19**|**[LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane)**|**TEAM SPECIALIZED LILLE**|**8**|**Vétérans 50/59 ans**|**0:57:36**|
+|**19**|**[LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane)**|**TEAM SPECIALIZED LILLE**|**8**|**Vétérans 50/59 ans**|**0:57:36**|
 |20|KNOCKAERT JULIEN|TEAM CYCLISTE PROVINOIS - PROVIN|8|Vétérans 40/49 ans|0:57:50|
 |21|MOURAIN CEDRIC|UNION VELOCIPEDIQUE FOURMISIENNE|8|Vétérans 40/49 ans|0:58:25|
 |22|DEFRISE GREGORY|TEAM BOUSIES|8|Vétérans 40/49 ans|0:58:51|
@@ -77,7 +77,7 @@ image: assets/img/resultats/2024-01-07-CycloCrossWALLERS-AREMBERG2/1.jpg
 |50|CAUDRELIER DAVID|VELO SPRINT DE L'OSTREVENT - AUBERCHICOURT|7|Vétérans 50/59 ans|0:57:21|
 |51|HOUSET SEBAS|TEAM POLICE HDF|7|Vétérans 40/49 ans|0:57:23|
 |52|VAAST JEAN SEBASTIEN|TEAM ENFER DU NORD WALLERS ARENBERG|7|Vétérans 40/49 ans|0:57:50|
-|**53**|**[MOULIN FELIX](https://teamspecializedlille.github.io/coureurs/moulinfelix)**|**TEAM SPECIALIZED LILLE**|**7**|**Séniors 30-39 ans**|**0:58:05**|
+|**53**|**[MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix)**|**TEAM SPECIALIZED LILLE**|**7**|**Séniors 30-39 ans**|**0:58:05**|
 |54|TOURLAND AUBIN|VELO CLUB DE L'ESCAUT ANZIN|7|Séniors 20-29 ans|0:58:57|
 |55|HENNO FABRICE|CYCLO CLUB ORCHIES|7|Vétérans 40/49 ans|0:58:59|
 |56|HAVET SEBASTIEN|GAZ ELEC CLUB DE DOUAI|7|Séniors 30-39 ans|0:59:31|
@@ -91,10 +91,10 @@ image: assets/img/resultats/2024-01-07-CycloCrossWALLERS-AREMBERG2/1.jpg
 |64|CHOQUET PIERRE|UNION SPORTIVE SAINT ANDRE|6|Juniors : 17-19 ans|0:45:45|
 |65|MOURAIN DORIAN|UNION VELOCIPEDIQUE FOURMISIENNE|6|Juniors : 17-19 ans|0:46:34|
 |66|MOUCHART MATHEO|ETOILE CYCLISTE FEIGNIES|6|Juniors : 17-19 ans|0:46:41|
-|**67**|**[DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid)**|**TEAM SPECIALIZED LILLE**|**6**|**Juniors : 17-19 ans**|**0:46:42**|
+|**67**|**[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)**|**TEAM SPECIALIZED LILLE**|**6**|**Juniors : 17-19 ans**|**0:46:42**|
 |68|PRISETTE JEAN-MICHEL|UNION VELOCIPEDIQUE FOURMISIENNE|6|Vétérans 60 ans et +|0:47:08|
 |69|JUNG PHILIPPE|UNION SPORTIVE SAINT ANDRE|6|Vétérans 60 ans et +|0:48:00|
-|**70**|**[LECOLIER LOUIS](https://teamspecializedlille.github.io/coureurs/lecolierlouis)**|**TEAM SPECIALIZED LILLE**|**6**|**Juniors : 17-19 ans**|**0:48:06**|
+|**70**|**[LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis)**|**TEAM SPECIALIZED LILLE**|**6**|**Juniors : 17-19 ans**|**0:48:06**|
 |71|LALOT LUCAS|UNION VELOCIPEDIQUE FOURMISIENNE|6|Juniors : 17-19 ans|0:48:17|
 |72|CSERNAK SYLVAIN|UNION SPORTIVE VALENCIENNES CRESPIN|6|Vétérans 60 ans et +|0:50:01|
 |73|VAILLANT LOUIS|ENTENTE CYCLISTE DE FONTAINE AU BOIS|6|Juniors : 17-19 ans|0:51:27|

@@ -9,7 +9,7 @@ image: assets/img/blog/vtt.jpeg
 
 ### VTT Sénior A
 0 participants
-- [BOONE NICOLAS](https://teamspecializedlille.github.io/coureurs/boonenicolas) : 8
+- [BOONE NICOLAS](https://teamspecializedlille.cc/coureurs/boonenicolas) : 8
 
 ### Scratch
 0 participants

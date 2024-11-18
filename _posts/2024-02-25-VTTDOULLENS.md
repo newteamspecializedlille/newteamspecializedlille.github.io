@@ -9,7 +9,7 @@ image: assets/img/resultats/2024-02-25-VTTDOULLENS/1.jpg
 
 ### VTT Vétérans B
 15 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald) : 1
+- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 1
 
 ### Scratch
 37 participants
@@ -18,7 +18,7 @@ image: assets/img/resultats/2024-02-25-VTTDOULLENS/1.jpg
 |---|---|---|---|---|---|
 | 1 | ASPEELE CEDRIC | TORCY TEAM PINK AND BLUE | 7 | Seniors B | 0:48:31 | 
 | 2 | FORRIERE MAXENCE | VELO CLUB SOLESMES | 7 | Seniors A | 0:48:48 | 
-| **3** | **[MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **7** | **Vétérans B** | **0:49:11** | 
+| **3** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **7** | **Vétérans B** | **0:49:11** | 
 | 4 | DARTUS MIKAEL | VELO CLUB SOLESMES | 7 | Vétérans A | 0:50:43 | 
 | 5 | DUHAMEL ARNAUD | AGNY ARTeam | 7 | Vétérans B | 0:52:8 | 
 | 6 | JOSSE MICKAEL | ESCL CYCLISME (BIKE) | 7 | Vétérans A | 0:52:20 | 

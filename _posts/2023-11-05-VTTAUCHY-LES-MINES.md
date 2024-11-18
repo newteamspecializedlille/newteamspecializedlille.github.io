@@ -9,7 +9,7 @@ image: assets/img/blog/vtt.jpeg
 
 ### VTT Vétérans A
 18 participants
-- [WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit) : 11
+- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 11
 
 ### Scratch
 48 participants
@@ -48,7 +48,7 @@ image: assets/img/blog/vtt.jpeg
 | 30 | HELLEBOIS ALAIN | CLUB CYCLISTE D'ISBERGUES MOLINGHEM | 8 | Vétérans B | 0:51:30 | 
 | 31 | GUYOT MICKAEL | VERMELLES MTB RACING TEAM | 8 | Vétérans B | 0:51:41 | 
 | 32 | NEDONCELLE RENALDO | TORCY TEAM PINK AND BLUE | 8 | Vétérans A | 0:51:43 | 
-| **33** | **[WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans A** | **0:51:43** | 
+| **33** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans A** | **0:51:43** | 
 | 34 | DELAIRE LUCAS | CAMPHIN EN CAREMBAULT CYCLING TEAM | 8 | Seniors A | 0:52:7 | 
 | 35 | DAUCHY FLORIAN | BETHUNE ROBECQ TEAM TBR | 8 | Seniors B | 0:52:54 | 
 | 36 | MERIAUX FREDERIC | FLEURBAIX TEAM SHARK VTT | 8 | Vétérans B | 0:53:33 | 

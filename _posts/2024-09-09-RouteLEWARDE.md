@@ -9,11 +9,11 @@ image: assets/img/blog/road.jpeg
 
 
 ### 2ème Catégorie
-- [BROUTIN ANTOINE](https://teamspecializedlille.github.io/coureurs/broutinantoine) : 2
-- [DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid) : 6
-- [LECOLIER BENOIT](https://teamspecializedlille.github.io/coureurs/lecolierbenoit) : 27
-- [DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve) : 47
+- [BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine) : 2
+- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 6
+- [LECOLIER BENOIT](https://teamspecializedlille.cc/coureurs/lecolierbenoit) : 27
+- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 47
 
 ### 3ème Catégorie
-- [WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit) : 25
-- [DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael) : 31
+- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 25
+- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 31

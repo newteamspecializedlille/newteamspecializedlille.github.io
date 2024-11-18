@@ -9,12 +9,12 @@ image: assets/img/resultats/2024-03-17-RoutePRIXDEPROUZEL/1.jpeg
 
 ### 3ème Catégorie
 22 participants
-- [DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid) : 1
-- [DERASSE PATRICK](https://teamspecializedlille.github.io/coureurs/derassepatrick) : Ab
+- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 1
+- [DERASSE PATRICK](https://teamspecializedlille.cc/coureurs/derassepatrick) : Ab
 
 | Place | Nom | Team |
 |---|---|---|
-|**1**|**[DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid)**|**TEAM SPECIALIZED LILLE**|
+|**1**|**[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)**|**TEAM SPECIALIZED LILLE**|
 |2|GOUEL BENJAMIN|VELO CLUB EUDOIS ET BRESLOIS|
 |3|NORDEST SEBASTIEN|BEAUVAIS TEAM CYCLISTE|
 |4|MIETTON TIMAUTHE|AMIS DU CYCLISME NESLOIS|
@@ -35,7 +35,7 @@ image: assets/img/resultats/2024-03-17-RoutePRIXDEPROUZEL/1.jpeg
 |19|DEPOILLY LUCAS|CLUB CYCLISTE DE OISEMONT|
 |20|POULET-FABBRI MATHEO|AMIS DU CYCLISME NESLOIS|
 |Ab|TORIO ERIC|LE SPRINTER CLUB DE ROCHY CONDE|
-|**Ab**|**[DERASSE PATRICK](https://teamspecializedlille.github.io/coureurs/derassepatrick)**|**TEAM SPECIALIZED LILLE**|
+|**Ab**|**[DERASSE PATRICK](https://teamspecializedlille.cc/coureurs/derassepatrick)**|**TEAM SPECIALIZED LILLE**|
 
 ![1](http://teamspecializedlille.github.io/assets/img/resultats/2024-03-17-RoutePRIXDEPROUZEL/1.jpeg)
 ![2](http://teamspecializedlille.github.io/assets/img/resultats/2024-03-17-RoutePRIXDEPROUZEL/2.jpeg)

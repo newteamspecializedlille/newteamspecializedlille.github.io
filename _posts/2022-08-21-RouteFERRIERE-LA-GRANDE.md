@@ -9,10 +9,10 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 32 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve) : Ab
-- [DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien) : Ab
+- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : Ab
+- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : Ab
 
 ### 3ème Catégorie
 57 participants
-- [HUBAUT CHRISTOPHE](https://teamspecializedlille.github.io/coureurs/hubautchristophe) : 21
-- [DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier) : 48
+- [HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe) : 21
+- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 48

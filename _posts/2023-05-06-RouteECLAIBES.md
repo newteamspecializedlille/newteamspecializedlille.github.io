@@ -9,8 +9,8 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 39 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald) : 5
-- [DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien) : Ab
+- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 5
+- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : Ab
 
 ### Scratch
 190 participants
@@ -21,7 +21,7 @@ image: assets/img/blog/road.jpeg
 | 2 | WINS STEPHANE | TEAM BOUSIES | 19 | 1ère | 1:40:9 | 
 | 3 | LORRIAUX JULIEN | VELO CLUB SOLESMES | 19 | 1ère | 1:40:9 | 
 | 4 | PAULUS JONATHAN | VELO CLUB UNION HALLUIN | 19 | 1ère | 1:40:10 | 
-| **5** | **[MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **19** | **1ère** | **1:40:10** | 
+| **5** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **19** | **1ère** | **1:40:10** | 
 | 6 | MARECHAL GUILLAUME | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 19 | 1ère | 1:40:10 | 
 | 7 | WILMET FREDERIC | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 19 | 1ère | 1:40:11 | 
 | 8 | COUTELARD MATHYS | VELO CLUB SOLESMES | 19 | 1ère | 1:40:11 | 
@@ -186,7 +186,7 @@ image: assets/img/blog/road.jpeg
 | 167 | BERNIER CLARA | U.C. CAPELLOISE FOURMIES | 10 | Féminines | 1:26:42 | 
 | 168 | LHOIR DOMINIQUE | TEAM B.B.L. HERGNIES | 9 | 4ème | 1:0:13 | 
 | 169 | LELUBRE THIBAULT | UNION CYCLISTE SOLRE LE C | 0 | 1ère | 0:38:53 | 
-| **170** | **[DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **0** | **1ère** | **0:38:53** | 
+| **170** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **0** | **1ère** | **0:38:53** | 
 | 171 | BERNIER DIMITRI | CLUB DES SUPPORTERS CYCLI | 0 | 1ère | 0:38:53 | 
 | 172 | ROULY FRANCK | ETOILE CYCLISTE LIEU ST A | 0 | 2ème | 0:38:53 | 
 | 173 | FERRO ORAZIO | TEAM B.B.L. HERGNIES | 0 | 2ème | 0:38:53 | 

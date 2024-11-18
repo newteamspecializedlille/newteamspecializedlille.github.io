@@ -9,11 +9,11 @@ image: assets/img/blog/vtt.jpeg
 
 ### VTT Vétérans A
 12 participants
-- [WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit) : 9
+- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 9
 
 ### VTT Vétérans B
 9 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald) : 1
+- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 1
 
 ### Scratch
 28 participants
@@ -22,7 +22,7 @@ image: assets/img/blog/vtt.jpeg
 |---|---|---|---|---|---|
 | 1 | MICHEL KEVIN | ETOILE CYCLISTE FEIGNIES | 8 | Seniors B | 0:47:16 | 
 | 2 | ORTEGA LUCAS | TEAM VTT JEUMONT | 8 | Seniors A | 0:48:2 | 
-| **3** | **[MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans B** | **0:52:22** | 
+| **3** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans B** | **0:52:22** | 
 | 4 | VANDERHAEGEN REGIS | ASSOCIATION CYCLISTE D'ETROEUNGT | 8 | Vétérans A | 0:52:41 | 
 | 5 | MAQUIGNON CEDRIC | TOURNEHEM LES MARCASSINS | 8 | Vétérans A | 0:54:18 | 
 | 6 | KADDOUR-DJEBBAR FREDERIC | VTT  CLUB PONT SUR SAMBRE | 7 | Vétérans A | 0:47:55 | 
@@ -36,7 +36,7 @@ image: assets/img/blog/vtt.jpeg
 | 14 | FREHAUT THIBAULT | ASSOCIATION CYCLISTE D'ETROEUNGT | 7 | Vétérans A | 0:51:42 | 
 | 15 | LEVAS LAURENT | MANQUEVILLE LILLERS CLUB CYCLISTE | 7 | Vétérans B | 0:51:47 | 
 | 16 | LECHAT RENAUD | UNION SPORTIVE VALENCIENNES CRESPIN | 7 | Vétérans A | 0:52:18 | 
-| **17** | **[WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **7** | **Vétérans A** | **0:54:2** | 
+| **17** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **7** | **Vétérans A** | **0:54:2** | 
 | 18 | GEORGES BENOIT | VELO CLUB UNION HALLUIN | 7 | Seniors B | 0:54:53 | 
 | 19 | PORQUET LUDOVIC | SAULZOIR MONTRECOURT CYCLING CLUB | 7 | Vétérans A | 0:55:7 | 
 | 20 | DELHAYE RUDY | VELO CLUB DE L'ESCAUT ANZIN | 7 | Seniors B | 0:56:26 | 

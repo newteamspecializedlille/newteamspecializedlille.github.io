@@ -9,16 +9,16 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 37 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien) : Ab
+- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : Ab
 
 ### 2ème Catégorie
 48 participants
-- [LECLERCQ FRANCK](https://teamspecializedlille.github.io/coureurs/leclercqfranck) : 6
-- [HUBAUT CHRISTOPHE](https://teamspecializedlille.github.io/coureurs/hubautchristophe) : 39
+- [LECLERCQ FRANCK](https://teamspecializedlille.cc/coureurs/leclercqfranck) : 6
+- [HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe) : 39
 
 ### 3ème Catégorie
 63 participants
-- [DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier) : 26
+- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 26
 
 ### Scratch
 181 participants
@@ -50,7 +50,7 @@ image: assets/img/blog/road.jpeg
 | 23 | MARTHE ROMUALD | ETOILE CYCLISTE LIEU ST AMAND | 14 | 2ème | 1:40:36 | 
 | 24 | IERA GIOVAMBATTISTA | ASSOCIATION CYCLISTE BELLAINGEOISE | 14 | 2ème | 1:40:37 | 
 | 25 | BRUNEBARBE SEBASTIEN | UNION SPORTIVE VALENCIENNES CRESPIN | 14 | 2ème | 1:41:17 | 
-| **26** | **[LECLERCQ FRANCK](https://teamspecializedlille.github.io/coureurs/leclercqfranck)** | **TEAM SPECIALIZED LILLE** | **14** | **2ème** | **1:41:18** | 
+| **26** | **[LECLERCQ FRANCK](https://teamspecializedlille.cc/coureurs/leclercqfranck)** | **TEAM SPECIALIZED LILLE** | **14** | **2ème** | **1:41:18** | 
 | 27 | REUTER SEBASTIEN | ESEG DOUAI | 14 | 2ème | 1:41:20 | 
 | 28 | DE VREESE ALEXIS | RESILIENCE CLUB | 14 | 2ème | 1:41:28 | 
 | 29 | HAIDON PASCAL | ASSOCIATION CYCLISTE BELLAINGEOISE | 14 | 2ème | 1:41:29 | 
@@ -99,7 +99,7 @@ image: assets/img/blog/road.jpeg
 | 72 | LECERF JEROME | VELO CLUB BAVAISIEN | 13 | 3ème | 1:52:26 | 
 | 73 | VANAUBERG GAETAN | NEW TEAM MAULDE | 13 | 3ème | 1:52:26 | 
 | 74 | DEMOL LEO | UNION SPORTIVE SAINT ANDRE | 13 | 3ème | 1:52:30 | 
-| **75** | **[DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **13** | **3ème** | **1:52:39** | 
+| **75** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **13** | **3ème** | **1:52:39** | 
 | 76 | D HELFT MATHIEU | LINSELLES CYCLISME | 13 | 3ème | 1:52:40 | 
 | 77 | PETIT FLORIAN | UNION CYCLISTE WATTIGNIES | 13 | 3ème | 1:53:17 | 
 | 78 | MARESSE LUDOVIC | VELO CLUB SOLESMES | 13 | 3ème | 1:58:20 | 
@@ -186,14 +186,14 @@ image: assets/img/blog/road.jpeg
 | 159 | LEDOUX MATTEO | UNION SPORTIVE SAINT ANDRE | 5 | 3ème | 0:49:43 | 
 | 160 | PLOMION JADE | GAZ ELEC CLUB DE DOUAI | 4 | 2ème | 0:27:35 | 
 | 161 | DUFOUR KEVIN | VELO CLUB DE L'ESCAUT ANZIN | 3 | 2ème | 0:16:28 | 
-| **162** | **[HUBAUT CHRISTOPHE](https://teamspecializedlille.github.io/coureurs/hubautchristophe)** | **TEAM SPECIALIZED LILLE** | **3** | **2ème** | **0:16:36** | 
+| **162** | **[HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe)** | **TEAM SPECIALIZED LILLE** | **3** | **2ème** | **0:16:36** | 
 | 163 | ROUZE ERIK | LA PEDALE MADELEINOISE | 2 | 2ème | 0:25:45 | 
 | 164 | HOUREZ CEDRIC | NEW TEAM MAULDE | 2 | 3ème | 0:27:13 | 
 | 165 | CAPELLE FRANCKY | ETOILE CYCLISTE TOURCOING | 1 | 2ème | 0:0:57 | 
 | 166 | HUBERT MATHIS | GAZ ELEC CLUB DE DOUAI | 1 | 1ère | 0:17:41 | 
 | 167 | CORNETTE STEPHANE | TEAM BIKE PRESEAU | 0 | 1ère | 0:38:53 | 
 | 168 | ZOLOPA JULES | TEAM AVESNOIS - LEVAL | 0 | 1ère | 0:38:53 | 
-| **169** | **[DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **0** | **1ère** | **0:38:53** | 
+| **169** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **0** | **1ère** | **0:38:53** | 
 | 170 | LEFEVRE SEBASTIEN | UNION VELOCIPEDIQUE FOURM | 0 | 1ère | 0:38:53 | 
 | 171 | DEBLIQUI PASCAL | VELO CLUB AMANDINOIS | 0 | 2ème | 0:38:53 | 
 | 172 | GWENAEL LEQUIEN | BARLIN CERCLE LAIQUE | 0 | 2ème | 0:38:53 | 

@@ -9,12 +9,12 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 37 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald) : 6
+- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 6
 
 ### 2ème Catégorie
 37 participants
-- [BROUTIN ANTOINE](https://teamspecializedlille.github.io/coureurs/broutinantoine) : 24
-- [LECOLIER BENOIT](https://teamspecializedlille.github.io/coureurs/lecolierbenoit) : 25
+- [BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine) : 24
+- [LECOLIER BENOIT](https://teamspecializedlille.cc/coureurs/lecolierbenoit) : 25
 
 ### Scratch
 159 participants
@@ -26,7 +26,7 @@ image: assets/img/blog/road.jpeg
 | 3 | WINS STEPHANE | ASSOCIATION CYCLISTE BELLAINGEOISE | 8 | 1ère | 1:47:33 | 
 | 4 | DEJARDIN EMMANUEL | NOUVELLE ETOILE SPORTIVE BOUE ETREUX | 8 | 1ère | 1:47:33 | 
 | 5 | AINI ISSAM | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 8 | 1ère | 1:47:34 | 
-| **6** | **[MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **8** | **1ère** | **1:47:34** | 
+| **6** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **8** | **1ère** | **1:47:34** | 
 | 7 | BOURGEOIS SYLVAIN | ETOILE CYCLISTE LIEU ST AMAND | 8 | 1ère | 1:47:35 | 
 | 8 | ANCELOT SEBASTIEN | NOUVELLE ETOILE SPORTIVE BOUE ETREUX | 8 | 1ère | 1:47:41 | 
 | 9 | TOMASINA TONY | LA PEDALE MADELEINOISE | 8 | 1ère | 1:48:30 | 
@@ -75,8 +75,8 @@ image: assets/img/blog/road.jpeg
 | 52 | DOCHNIAK LEO | HAVELUY CYCLO CLUB | 8 | 2ème | 1:55:15 | 
 | 53 | LECERF JEROME | VELO CLUB BAVAISIEN | 8 | 2ème | 1:55:15 | 
 | 54 | BLONDEL FREDERIC | ESEG DOUAI | 8 | 2ème | 1:55:16 | 
-| **55** | **[BROUTIN ANTOINE](https://teamspecializedlille.github.io/coureurs/broutinantoine)** | **TEAM SPECIALIZED LILLE** | **8** | **2ème** | **1:55:17** | 
-| **56** | **[LECOLIER BENOIT](https://teamspecializedlille.github.io/coureurs/lecolierbenoit)** | **TEAM SPECIALIZED LILLE** | **8** | **2ème** | **1:55:17** | 
+| **55** | **[BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine)** | **TEAM SPECIALIZED LILLE** | **8** | **2ème** | **1:55:17** | 
+| **56** | **[LECOLIER BENOIT](https://teamspecializedlille.cc/coureurs/lecolierbenoit)** | **TEAM SPECIALIZED LILLE** | **8** | **2ème** | **1:55:17** | 
 | 57 | MEDO NICOLAS | TEAM MELANTOIS - PERONNE EN MELANTOIS | 8 | 1ère | 1:58:45 | 
 | 58 | DERREVEAUX CHRISTOPHE | ETOILE CYCLISTE TOURCOING | 8 | 2ème | 1:59:34 | 
 | 59 | FREHAUT NICOLAS | ASSOCIATION CYCLISTE D'ETROEUNGT | 7 | 3ème | 1:43:33 | 

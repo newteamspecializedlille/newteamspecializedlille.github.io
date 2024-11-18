@@ -9,7 +9,7 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 42 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien) : 25
+- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 25
 
 ### Scratch
 270 participants

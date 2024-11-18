@@ -9,13 +9,13 @@ image: assets/img/blog/cx.jpeg
 
 ### 2ème Catégorie
 21 participants
-- [LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane) : 3
+- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 3
 
 ### 3ème Catégorie
 36 participants
-- [DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid) : 15
-- [MOULIN FELIX](https://teamspecializedlille.github.io/coureurs/moulinfelix) : 18
-- [LECOLIER LOUIS](https://teamspecializedlille.github.io/coureurs/lecolierlouis) : 23
+- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 15
+- [MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix) : 18
+- [LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis) : 23
 
 ### Scratch
 78 participants
@@ -37,7 +37,7 @@ image: assets/img/blog/cx.jpeg
 | 13 | BECQUET JORDAN | VELO CLUB UNION HALLUIN | 7 | 2ème | 0:51:40 | 
 | 14 | DUEZ GUILLAUME | UNION SPORTIVE SAINT ANDRE | 7 | 1ère | 0:53:28 | 
 | 15 | CHOQUET PIERRE | UNION SPORTIVE SAINT ANDRE | 7 | 2ème | 0:53:33 | 
-| **16** | **[LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **7** | **2ème** | **0:53:34** | 
+| **16** | **[LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **7** | **2ème** | **0:53:34** | 
 | 17 | VANWAELSCAPPEL GUILLAUME | CYCLO CLUB WAVRIN | 7 | 2ème | 0:54:31 | 
 | 18 | BARTKOWIAK CLEMENT | HENIN ETOILE CYCLISTE HENINOISE | 7 | 2ème | 0:55:3 | 
 | 19 | TORNU JEROME | LINSELLES CYCLISME | 7 | 3ème | 0:55:3 | 
@@ -67,16 +67,16 @@ image: assets/img/blog/cx.jpeg
 | 43 | VANWYNSBERGHE SAMUEL | NEW ORANGE TEAM BOUSBECQUE | 6 | 3ème | 0:51:40 | 
 | 44 | WACH ERIC | BEUVRY CLUB LEO LAGRANGE | 6 | 2ème | 0:51:58 | 
 | 45 | DAGHELET THOMAS | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 6 | 3ème | 0:52:0 | 
-| **46** | **[DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **6** | **3ème** | **0:52:2** | 
+| **46** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **6** | **3ème** | **0:52:2** | 
 | 47 | VANDEN TORREN MAXIME | MANQUEVILLE LILLERS CLUB CYCLISTE | 6 | 3ème | 0:53:22 | 
 | 48 | MARTIN GREGORY | AGNY ARTeam | 6 | 3ème | 0:54:13 | 
-| **49** | **[MOULIN FELIX](https://teamspecializedlille.github.io/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **6** | **3ème** | **0:54:15** | 
+| **49** | **[MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **6** | **3ème** | **0:54:15** | 
 | 50 | DE BRUYNE JOCELYN | TEAM LABIERE BAILLEUL | 6 | 3ème | 0:54:44 | 
 | 51 | LETOMBE CHRISTOPHE | BEUVRY CLUB LEO LAGRANGE | 6 | 3ème | 0:54:47 | 
 | 52 | DHAUSSY MELVIN | AGNY ARTeam | 6 | 3ème | 0:54:48 | 
 | 53 | VERHAEGHE THOMAS | LINSELLES CYCLISME | 6 | 2ème | 0:55:42 | 
 | 54 | DEHONGHER MATTHIEU | NOEUX VELO CLUB NOEUXOIS | 6 | 3ème | 0:55:49 | 
-| **55** | **[LECOLIER LOUIS](https://teamspecializedlille.github.io/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **6** | **3ème** | **0:57:19** | 
+| **55** | **[LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **6** | **3ème** | **0:57:19** | 
 | 56 | DEPREZ BENJAMIN | VELO CLUB UNION HALLUIN | 6 | 3ème | 0:58:37 | 
 | 57 | MORO GIANNI | FENAIN CYCLO CLUB | 6 | 3ème | 1:0:10 | 
 | 58 | BROQUIN XAVIER | CYCLO CLUB BERGUES | 6 | 3ème | 1:0:15 | 

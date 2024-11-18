@@ -9,12 +9,12 @@ image: assets/img/blog/road.jpeg
 
 ### 2ème Catégorie
 35 participants
-- [BROUTIN ANTOINE](https://teamspecializedlille.github.io/coureurs/broutinantoine) : 13
+- [BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine) : 13
 
 ### 3ème Catégorie
 52 participants
-- [DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael) : 39
-- [WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit) : Ab
+- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 39
+- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : Ab
 
 ### Scratch
 140 participants
@@ -54,7 +54,7 @@ image: assets/img/blog/road.jpeg
 | 31 | LAPOTRE FRANCOIS | UNION SPORTIVE VALENCIENNES CRESPIN | 17 | 2ème | 1:37:26 | 
 | 32 | BOITEL SYLVAIN | VELO CLUB SOLESMES | 17 | 2ème | 1:37:26 | 
 | 33 | POTIER FREDERIC | ETOILE CYCLISTE TOURCOING | 17 | 2ème | 1:37:26 | 
-| **34** | **[BROUTIN ANTOINE](https://teamspecializedlille.github.io/coureurs/broutinantoine)** | **TEAM SPECIALIZED LILLE** | **17** | **2ème** | **1:37:27** | 
+| **34** | **[BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine)** | **TEAM SPECIALIZED LILLE** | **17** | **2ème** | **1:37:27** | 
 | 35 | GOUBERT NOE | TEAM CYCLISTE LA BORDURE - BETTRECHIES | 17 | 2ème | 1:37:28 | 
 | 36 | DUHAMEL ARNAUD | AGNY ARTeam | 17 | 2ème | 1:37:29 | 
 | 37 | MATHIEU BERTRAND | TEAM CYCLISTE LA BORDURE - BETTRECHIES | 17 | 2ème | 1:37:30 | 
@@ -129,7 +129,7 @@ image: assets/img/blog/road.jpeg
 | 106 | LEFEBVRE XAVIER | ASSOCIATION CYCLISTE D'ETROEUNGT | 14 | 4ème | 1:36:8 | 
 | 107 | LANDAS PRIMEROSE | UNION SPORTIVE SAINT ANDRE | 14 | 4ème | 1:36:22 | 
 | 108 | CARDON . DAVID | CYCLO CLUB ORCHIES | 14 | 4ème | 1:36:52 | 
-| **109** | **[DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **13** | **3ème** | **1:14:43** | 
+| **109** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **13** | **3ème** | **1:14:43** | 
 | 110 | PRISETTE JEAN-MICHEL | UNION VELOCIPEDIQUE FOURMISIENNE | 13 | 4ème | 1:29:54 | 
 | 111 | VANHALWYN DIMITRI | VELO CLUB UNION HALLUIN | 13 | 3ème | 1:31:31 | 
 | 112 | LECOUSTRE ANDRE | OUTREAU CLUB SPORTIF OUTRELOIS (C.S.O) | 13 | 4ème | 1:34:43 | 
@@ -156,7 +156,7 @@ image: assets/img/blog/road.jpeg
 | 133 | LECHAT RENAUD | UNION SPORTIVE VALENCIENN | 0 | 2ème | 0:38:53 | 
 | 134 | MOLARD NICOLAS | CLUB DES SUPPORTERS CYCLI | 0 | 3ème | 0:38:53 | 
 | 135 | LAINELLE AURELIEN | TEAM LINK AND RIDE HERIN | 0 | 3ème | 0:38:53 | 
-| **136** | **[WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
+| **136** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
 | 137 | VERDIN FLAVIEN | UNION SPORTIVE SAINT ANDR | 0 | 3ème | 0:38:53 | 
 | 138 | JACOBS GUILLAUME | VTT  CLUB PONT SUR SAMBRE | 0 | 3ème | 0:38:53 | 
 | 139 | THORLET YANNICK | VELO CLUB DE L'ESCAUT ANZ | 0 | 3ème | 0:38:53 | 

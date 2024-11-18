@@ -9,8 +9,8 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 21 participants
-- [LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane) : 10
-- [DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien) : AB
+- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 10
+- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : AB
 
 ### Scratch
 135 participants

@@ -9,15 +9,15 @@ image: assets/img/resultats/2024-03-03-RouteORCHIES/1.jpeg
 
 ### 1ère Catégorie
 30 participants
-- [LECOLIER LOUIS](https://teamspecializedlille.github.io/coureurs/lecolierlouis) : 12
-- [LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane) : 17
+- [LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis) : 12
+- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 17
 
 ### 3ème Catégorie
 56 participants
-- [DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid) : 5
-- [DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier) : 13
-- [MINNECI ELIO](https://teamspecializedlille.github.io/coureurs/minnecielio) : 19
-- [WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit) : 42
+- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 5
+- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 13
+- [MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio) : 19
+- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 42
 
 ### Scratch
 162 participants
@@ -35,12 +35,12 @@ image: assets/img/resultats/2024-03-03-RouteORCHIES/1.jpeg
 | 9 | ANTON LUDOVIC | NEW TEAM MAULDE | 26 | 1ère | 1:35:51 | 
 | 10 | DELOBELLE OLIVIER | UNION SPORTIVE SAINT ANDRE | 26 | 1ère | 1:35:52 | 
 | 11 | GALLIEZ ANTHONY | CYCLO CLUB CAMBRESIEN | 26 | 1ère | 1:35:54 | 
-| **12** | **[LECOLIER LOUIS](https://teamspecializedlille.github.io/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **26** | **1ère** | **1:35:54** | 
+| **12** | **[LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **26** | **1ère** | **1:35:54** | 
 | 13 | UBETO MIGUEL | ASSOCIATION CYCLISTE BELLAINGEOISE | 26 | 1ère | 1:35:55 | 
 | 14 | ANDERLINI NICOLAS | VELO CLUB UNION HALLUIN | 26 | 1ère | 1:35:57 | 
 | 15 | MINGOA LUCIANO | NEW ORANGE TEAM BOUSBECQUE | 26 | 1ère | 1:35:57 | 
 | 16 | DELPLANQUE DYLAN | VELO SPRINT DE L'OSTREVENT - AUBERCHICOURT | 26 | 1ère | 1:36:20 | 
-| **17** | **[LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **26** | **1ère** | **1:36:35** | 
+| **17** | **[LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **26** | **1ère** | **1:36:35** | 
 | 18 | MEDO NICOLAS | TEAM MELANTOIS - PERONNE EN MELANTOIS | 25 | 1ère | 1:34:3 | 
 | 19 | DEWILDE LUDOVIC | VELO CLUB UNION HALLUIN | 25 | 1ère | 1:35:56 | 
 | 20 | LEBLON ROBIN | CYCLO CLUB WAVRIN | 23 | 2ème | 1:31:56 | 
@@ -73,7 +73,7 @@ image: assets/img/resultats/2024-03-03-RouteORCHIES/1.jpeg
 | 47 | CARPELS GUILLAUME | VELO CLUB UNION HALLUIN | 22 | 3ème | 1:22:49 | 
 | 48 | VAN DAMME THOMAS | CYCLO CLUB CAMBRESIEN | 22 | 3ème | 1:22:50 | 
 | 49 | BELE JULIEN | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 22 | 3ème | 1:22:50 | 
-| **50** | **[DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **22** | **3ème** | **1:22:50** | 
+| **50** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **22** | **3ème** | **1:22:50** | 
 | 51 | DEMOUILLER FREDERIC | UNION SPORTIVE VALENCIENNES CRESPIN | 22 | 3ème | 1:22:50 | 
 | 52 | FOULON RANDY | AGNY ARTeam | 22 | 3ème | 1:22:50 | 
 | 53 | FLAMENT JAMES | HARNES VELO CLUB HARNESIEN | 22 | 3ème | 1:22:50 | 
@@ -81,13 +81,13 @@ image: assets/img/resultats/2024-03-03-RouteORCHIES/1.jpeg
 | 55 | DEFRANCE SIMON | LA PEDALE MADELEINOISE | 22 | 3ème | 1:22:51 | 
 | 56 | SERE BENJAMIN | CYCLO CLUB WAVRIN | 22 | 3ème | 1:22:51 | 
 | 57 | RYCKEBUSH BAPTISTE | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 22 | 3ème | 1:22:51 | 
-| **58** | **[DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **22** | **3ème** | **1:22:52** | 
+| **58** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **22** | **3ème** | **1:22:52** | 
 | 59 | DAVAINE HUGUES | LA PEDALE MADELEINOISE | 22 | 3ème | 1:22:52 | 
 | 60 | AUSSEMS JEAN-YVES | UNION SPORTIVE SAINT ANDRE | 22 | 3ème | 1:22:52 | 
 | 61 | EVRARD CLEMENT | RESILIENCE CLUB | 22 | 3ème | 1:22:52 | 
 | 62 | CODDEVILLE KENNY | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 22 | 3ème | 1:22:52 | 
 | 63 | VANAUBERG GAETAN | NEW TEAM MAULDE | 22 | 3ème | 1:22:52 | 
-| **64** | **[MINNECI ELIO](https://teamspecializedlille.github.io/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **22** | **3ème** | **1:22:53** | 
+| **64** | **[MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **22** | **3ème** | **1:22:53** | 
 | 65 | DEBRIL BENJAMIN | CYCLO CLUB ORCHIES | 22 | 3ème | 1:22:53 | 
 | 66 | DUPRE SEBASTIEN | HENIN ETOILE CYCLISTE HENINOISE | 22 | 3ème | 1:22:53 | 
 | 67 | WALLE CLEMENT | RESILIENCE CLUB | 22 | 3ème | 1:22:54 | 
@@ -114,7 +114,7 @@ image: assets/img/resultats/2024-03-03-RouteORCHIES/1.jpeg
 | 88 | HAVET PIERRE | BEUVRY CYCLO CLUB | 20 | 3ème | 1:24:6 | 
 | 89 | LETOMBE CHRISTOPHE | BEUVRY CLUB LEO LAGRANGE | 20 | 3ème | 1:24:7 | 
 | 90 | WACH ERIC | BEUVRY CLUB LEO LAGRANGE | 20 | 3ème | 1:24:10 | 
-| **91** | **[WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **20** | **3ème** | **1:24:10** | 
+| **91** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **20** | **3ème** | **1:24:10** | 
 | 92 | GEORGES OLIVIER | UNION SPORTIVE VALENCIENNES CRESPIN | 20 | 3ème | 1:24:10 | 
 | 93 | MOREAU THOMAS | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 20 | 3ème | 1:25:49 | 
 | 94 | DEVOS CYRIL | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 20 | 2ème | 1:29:36 | 

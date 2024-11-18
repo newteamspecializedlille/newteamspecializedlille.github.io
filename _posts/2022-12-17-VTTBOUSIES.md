@@ -9,11 +9,11 @@ image: assets/img/blog/vtt.jpeg
 
 ### VTT Sénior B
 14 participants
-- [DUFOUR JONATHAN](https://teamspecializedlille.github.io/coureurs/dufourjonathan) : 2
+- [DUFOUR JONATHAN](https://teamspecializedlille.cc/coureurs/dufourjonathan) : 2
 
 ### VTT Vétérans B
 9 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald) : 1
+- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 1
 
 ### Scratch
 33 participants
@@ -22,8 +22,8 @@ image: assets/img/blog/vtt.jpeg
 |---|---|---|---|---|---|
 | 1 | MICHEL KEVIN | ASSOCIATION CYCLISTE BELLAINGEOISE | 9 | Seniors A | 0:50:9 | 
 | 2 | BONNET JOHNNY | UNION VELOCIPEDIQUE JEUMONT MARPENT | 9 | Seniors B | 0:50:47 | 
-| **3** | **[MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **9** | **Vétérans B** | **0:51:16** | 
-| **4** | **[DUFOUR JONATHAN](https://teamspecializedlille.github.io/coureurs/dufourjonathan)** | **TEAM SPECIALIZED LILLE** | **9** | **Seniors B** | **0:52:0** | 
+| **3** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **9** | **Vétérans B** | **0:51:16** | 
+| **4** | **[DUFOUR JONATHAN](https://teamspecializedlille.cc/coureurs/dufourjonathan)** | **TEAM SPECIALIZED LILLE** | **9** | **Seniors B** | **0:52:0** | 
 | 5 | KADDOUR-DJEBBAR FREDERIC | VTT  CLUB PONT SUR SAMBRE | 9 | Seniors B | 0:52:1 | 
 | 6 | RIVART THIERRY | VTT  CLUB PONT SUR SAMBRE | 9 | Seniors B | 0:52:48 | 
 | 7 | DUHAMEL ARNAUD | AGNY ARTEAM | 9 | Vétérans B | 0:53:0 | 

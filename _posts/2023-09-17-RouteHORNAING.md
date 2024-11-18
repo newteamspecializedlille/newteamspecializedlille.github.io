@@ -9,14 +9,14 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 43 participants
-- [LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane) : 10
-- [DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien) : 26
-- [DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve) : 33
+- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 10
+- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 26
+- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 33
 
 ### 3ème Catégorie
 64 participants
-- [DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael) : 31
-- [WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit) : 42
+- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 31
+- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 42
 
 ### Scratch
 167 participants
@@ -32,7 +32,7 @@ image: assets/img/blog/road.jpeg
 | 7 | ANTON LUDOVIC | NEW TEAM MAULDE | 18 | 1ère | 1:28:19 | 
 | 8 | LALEU TIMOTHEE | UNION SPORTIVE SAINT ANDRE | 18 | 1ère | 1:28:19 | 
 | 9 | MARTHE ROMUALD | ETOILE CYCLISTE LIEU ST AMAND | 18 | 1ère | 1:28:20 | 
-| **10** | **[LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **18** | **1ère** | **1:28:20** | 
+| **10** | **[LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **18** | **1ère** | **1:28:20** | 
 | 11 | DELANGUE THEO | NEW ORANGE TEAM BOUSBECQUE | 18 | 1ère | 1:28:21 | 
 | 12 | LACROIX FREDERIC | VELO CLUB ROUBAIX | 18 | 1ère | 1:28:21 | 
 | 13 | DELOBELLE OLIVIER | UNION SPORTIVE SAINT ANDRE | 18 | 1ère | 1:28:23 | 
@@ -48,14 +48,14 @@ image: assets/img/blog/road.jpeg
 | 23 | VEAUX CORENTIN | TEAM LINK AND RIDE HERIN | 18 | 1ère | 1:30:14 | 
 | 24 | BERTHIER THIBAUT | ETOILE CYCLISTE LIEU ST AMAND | 18 | 1ère | 1:30:15 | 
 | 25 | BRASSART THEOPHILE | TEAM B.B.L. HERGNIES | 18 | 1ère | 1:30:17 | 
-| **26** | **[DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **18** | **1ère** | **1:30:17** | 
+| **26** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **18** | **1ère** | **1:30:17** | 
 | 27 | LALEU DAVID | UNION SPORTIVE SAINT ANDRE | 18 | 1ère | 1:30:18 | 
 | 28 | DARQUE JEAN FRANCOIS | UNION SPORTIVE SAINT ANDRE | 18 | 1ère | 1:30:18 | 
 | 29 | CANON ANTOINE | ESEG DOUAI | 18 | 1ère | 1:30:19 | 
 | 30 | BALIN NATHAN | 52X11 HIRSON THIÉRACHE | 18 | 1ère | 1:30:20 | 
 | 31 | MEYS DAVID | VELO CLUB ROUBAIX | 18 | 1ère | 1:30:21 | 
 | 32 | DEWAILLY VINCENT | UNION SPORTIVE SAINT ANDRE | 18 | 1ère | 1:30:22 | 
-| **33** | **[DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **18** | **1ère** | **1:30:23** | 
+| **33** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **18** | **1ère** | **1:30:23** | 
 | 34 | DELEPLACE HADRIEN | VELO CLUB ROUBAIX | 18 | 1ère | 1:30:26 | 
 | 35 | HEUNET OLIVIER | GAZ ELEC CLUB DE DOUAI | 18 | 1ère | 1:32:16 | 
 | 36 | POTIER FREDERIC | ETOILE CYCLISTE TOURCOING | 17 | 2ème | 1:24:21 | 
@@ -141,7 +141,7 @@ image: assets/img/blog/road.jpeg
 | 116 | BERNARD PHILIPPE | ROUE D'OR COMINOISE | 16 | 3ème | 1:26:24 | 
 | 117 | VANWAELSCAPPEL JEROME | CYCLO CLUB WAVRIN | 16 | 3ème | 1:26:25 | 
 | 118 | TRAUET GUILLAUME | ARTOIS CYCLING TEAM | 16 | 3ème | 1:26:26 | 
-| **119** | **[DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **16** | **3ème** | **1:26:27** | 
+| **119** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **16** | **3ème** | **1:26:27** | 
 | 120 | PALAC SIMON | TEAM B.B.L. HERGNIES | 16 | 2ème | 1:26:28 | 
 | 121 | BROUTIN ERIC | ASSOCIATION CYCLISTE DE CUINCY | 16 | 3ème | 1:26:28 | 
 | 122 | ROBERT BENJAMIN | U.C. CAPELLOISE FOURMIES | 16 | 3ème | 1:26:31 | 
@@ -155,7 +155,7 @@ image: assets/img/blog/road.jpeg
 | 130 | BARBIEUX FRANCK | UNION SPORTIVE VALENCIENNES CRESPIN | 16 | 3ème | 1:27:3 | 
 | 131 | FLAMENT JAMES | HARNES VELO CLUB HARNESIEN | 16 | 3ème | 1:27:8 | 
 | 132 | THIERCELIN CYRIL | UNION SPORTIVE SAINT ANDRE | 16 | 3ème | 1:27:36 | 
-| **133** | **[WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **16** | **3ème** | **1:30:22** | 
+| **133** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **16** | **3ème** | **1:30:22** | 
 | 134 | DUPONT REMI | RESILIENCE CLUB | 16 | 3ème | 1:31:11 | 
 | 135 | ODENT STEPHANE | UNION SPORTIVE VALENCIENNES CRESPIN | 15 | 3ème | 1:26:24 | 
 | 136 | HOUREZ CEDRIC | NEW TEAM MAULDE | 15 | 3ème | 1:30:21 | 

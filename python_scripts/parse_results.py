@@ -22,7 +22,7 @@ def display_result_line_with_link(outfile, team_member, position):
 
 
 def get_member_with_link(team_member):
-    link = "https://teamspecializedlille.github.io/coureurs/"
+    link = "https://teamspecializedlille.cc/coureurs/"
     return "[" + team_member + "](" + link + team_member.replace(" ", "").lower() + ")"
 
 

@@ -9,18 +9,18 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 29 participants
-- [MINNECI ELIO](https://teamspecializedlille.github.io/coureurs/minnecielio) : 14
-- [DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien) : Ab
+- [MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio) : 14
+- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : Ab
 
 ### 2ème Catégorie
 38 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve) : 6
-- [BROUTIN ANTOINE](https://teamspecializedlille.github.io/coureurs/broutinantoine) : 28
+- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 6
+- [BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine) : 28
 
 ### 3ème Catégorie
 60 participants
-- [WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit) : 8
-- [DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael) : 27
+- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 8
+- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 27
 
 ### Scratch
 157 participants
@@ -32,7 +32,7 @@ image: assets/img/blog/road.jpeg
 | 3 | MAGY MATHEO | ETOILE CYCLISTE FEIGNIES | 13 | 2ème | 1:45:15 | 
 | 4 | LE VOURCH DAMIEN | AGNY ARTeam | 13 | 2ème | 1:45:19 | 
 | 5 | BLONDEL FREDERIC | ESEG DOUAI | 13 | 2ème | 1:45:19 | 
-| **6** | **[DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **13** | **2ème** | **1:45:21** | 
+| **6** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **13** | **2ème** | **1:45:21** | 
 | 7 | HARDY JEAN PHILIPPE | LA CHERIZIENNE - VILLE DE CHAUNY | 13 | 2ème | 1:45:21 | 
 | 8 | REILLE AGACINSKI TOM | GAZ ELEC CLUB DE DOUAI | 13 | 2ème | 1:45:21 | 
 | 9 | KNOCKAERT JULIEN | TEAM CYCLISTE PROVINOIS - PROVIN | 13 | 2ème | 1:45:21 | 
@@ -54,7 +54,7 @@ image: assets/img/blog/road.jpeg
 | 25 | BRAL JAN | ETOILE CYCLISTE LIEU ST AMAND | 13 | 2ème | 1:45:25 | 
 | 26 | LECHAT RENAUD | UNION SPORTIVE VALENCIENNES CRESPIN | 13 | 2ème | 1:45:26 | 
 | 27 | DEMOL LEO | UNION SPORTIVE SAINT ANDRE | 13 | 2ème | 1:45:27 | 
-| **28** | **[BROUTIN ANTOINE](https://teamspecializedlille.github.io/coureurs/broutinantoine)** | **TEAM SPECIALIZED LILLE** | **13** | **2ème** | **1:45:27** | 
+| **28** | **[BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine)** | **TEAM SPECIALIZED LILLE** | **13** | **2ème** | **1:45:27** | 
 | 29 | KUBIK MATHIS | AGNY ARTeam | 13 | 2ème | 1:45:27 | 
 | 30 | TISON CEDRIC | TEAM ENFER WALLERS ARENBERG | 13 | 2ème | 1:45:27 | 
 | 31 | BARENNE LAURENT | VELO CLUB UNION HALLUIN | 13 | 2ème | 1:45:29 | 
@@ -73,7 +73,7 @@ image: assets/img/blog/road.jpeg
 | 44 | SOTTIAUX SEBASTIEN | UNION SPORTIVE SAINT ANDRE | 13 | 1ère | 1:48:27 | 
 | 45 | SIRO ARNAUD | ASSOCIATION CYCLISTE D'ETROEUNGT | 13 | 1ère | 1:48:27 | 
 | 46 | MARECHAL GUILLAUME | VELO CLUB SOLESMES | 13 | 1ère | 1:48:28 | 
-| **47** | **[MINNECI ELIO](https://teamspecializedlille.github.io/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **13** | **1ère** | **1:48:29** | 
+| **47** | **[MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **13** | **1ère** | **1:48:29** | 
 | 48 | ALEXANDRE GREGORY | VELO CLUB SOLESMES | 13 | 1ère | 1:48:30 | 
 | 49 | LELUBRE THIBAULT | UNION CYCLISTE SOLRE LE CHATEAU | 13 | 1ère | 1:48:31 | 
 | 50 | VASSEUR HUGO | UNION SPORTIVE SAINT ANDRE | 13 | 1ère | 1:48:32 | 
@@ -91,7 +91,7 @@ image: assets/img/blog/road.jpeg
 | 62 | HEDBAUT ALEXIS | VELO CLUB SOLESMES | 12 | 3ème | 1:39:29 | 
 | 63 | FURNE JEAN CHRISTOPHE | VELO SPRINT DE L'OSTREVENT - AUBERCHICOURT | 12 | 3ème | 1:39:30 | 
 | 64 | FRANCOIS GERALD | SAULZOIR MONTRECOURT CYCLING CLUB | 12 | 3ème | 1:39:30 | 
-| **65** | **[WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **12** | **3ème** | **1:39:30** | 
+| **65** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **12** | **3ème** | **1:39:30** | 
 | 66 | LEVAS LAURENT | UNION SPORTIVE VALENCIENNES CRESPIN | 12 | 3ème | 1:39:30 | 
 | 67 | DEJEAN MATHIS | TEAM CYCLISTE LA BORDURE - BETTRECHIES | 12 | 3ème | 1:39:30 | 
 | 68 | DEFOSSEZ RODRIGUE | CLUB CYCLISTE THUN ST MARTIN | 12 | 3ème | 1:39:30 | 
@@ -110,7 +110,7 @@ image: assets/img/blog/road.jpeg
 | 81 | RENAUT VINCENT | SAULZOIR MONTRECOURT CYCLING CLUB | 12 | 3ème | 1:39:32 | 
 | 82 | LEPLAN BENJAMIN | AGNY ARTeam | 12 | 3ème | 1:39:33 | 
 | 83 | POULAIN CHRISTOPHE | TEAM DECOPUB PROVILLE | 12 | 3ème | 1:39:33 | 
-| **84** | **[DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **12** | **3ème** | **1:39:33** | 
+| **84** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **12** | **3ème** | **1:39:33** | 
 | 85 | DALLE FREDERIC | VELO CLUB SOLESMES | 12 | 3ème | 1:39:33 | 
 | 86 | BUREL THOMAS | ASSOCIATION SPORTIVE VELOCIPEDIQUE LA LONGUEVILLE | 12 | 3ème | 1:39:33 | 
 | 87 | LEFEBVRE FRANCK | SAULZOIR MONTRECOURT CYCLING CLUB | 12 | 3ème | 1:39:33 | 
@@ -169,7 +169,7 @@ image: assets/img/blog/road.jpeg
 | 140 | LIENARD ROMAIN | NOUVELLE ETOILE SPORTIVE | 0 | 1ère | 0:38:53 | 
 | 141 | ANCELOT SEBASTIEN | NOUVELLE ETOILE SPORTIVE | 0 | 1ère | 0:38:53 | 
 | 142 | DELSAUX DAMIEN | ENTENTE CYCLISTE DE FONTA | 0 | 1ère | 0:38:53 | 
-| **143** | **[DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **0** | **1ère** | **0:38:53** | 
+| **143** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **0** | **1ère** | **0:38:53** | 
 | 144 | ROQUE BENJAMIN | ESPOIR CYCLISTE WAMBRECHI | 0 | 2ème | 0:38:53 | 
 | 145 | KWIATKOWSKI SYLVAIN | ASSOCIATION SPORTIVE VELO | 0 | 3ème | 0:38:53 | 
 | 146 | JUNG PHILIPPE | UNION SPORTIVE SAINT ANDR | 0 | 3ème | 0:38:53 | 

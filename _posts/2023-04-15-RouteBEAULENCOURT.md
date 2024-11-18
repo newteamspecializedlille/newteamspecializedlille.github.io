@@ -9,16 +9,16 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 43 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien) : 31
-- [SCHERNU CHRISTOPHE](https://teamspecializedlille.github.io/coureurs/schernuchristophe) : 32
+- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 31
+- [SCHERNU CHRISTOPHE](https://teamspecializedlille.cc/coureurs/schernuchristophe) : 32
 
 ### 2ème Catégorie
 43 participants
-- [HUBAUT CHRISTOPHE](https://teamspecializedlille.github.io/coureurs/hubautchristophe) : 17
+- [HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe) : 17
 
 ### 3ème Catégorie
 65 participants
-- [DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael) : 42
+- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 42
 
 ### Scratch
 182 participants
@@ -55,8 +55,8 @@ image: assets/img/blog/road.jpeg
 | 28 | CORNU CHARLES | energy cycling club joncourt | 8 | 1ère | 2:0:2 | 
 | 29 | DEWAILLY VINCENT | UNION SPORTIVE SAINT ANDRE | 8 | 1ère | 2:0:2 | 
 | 30 | MASSON ARNAUD | ESEG DOUAI | 8 | 1ère | 2:0:3 | 
-| **31** | **[DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **8** | **1ère** | **2:0:4** | 
-| **32** | **[SCHERNU CHRISTOPHE](https://teamspecializedlille.github.io/coureurs/schernuchristophe)** | **TEAM SPECIALIZED LILLE** | **8** | **1ère** | **2:0:5** | 
+| **31** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **8** | **1ère** | **2:0:4** | 
+| **32** | **[SCHERNU CHRISTOPHE](https://teamspecializedlille.cc/coureurs/schernuchristophe)** | **TEAM SPECIALIZED LILLE** | **8** | **1ère** | **2:0:5** | 
 | 33 | MULAS YANN | VELO SPRINT DE L'OSTREVENT - AUBERCHICOURT | 8 | 1ère | 2:2:42 | 
 | 34 | HEUNET OLIVIER | GAZ ELEC CLUB DE DOUAI | 8 | 1ère | 2:5:10 | 
 | 35 | LETUFFE SAMUEL | CYCLO CLUB WAVRIN | 8 | 1ère | 2:5:13 | 
@@ -103,7 +103,7 @@ image: assets/img/blog/road.jpeg
 | 76 | MICHEL DAVID | CYCLO CLUB WAVRIN | 7 | 3ème | 1:47:37 | 
 | 77 | BARENNE LAURENT | ETOILE CYCLISTE TOURCOING | 7 | 3ème | 1:47:37 | 
 | 78 | POTIER CHARLES HUGO | ETOILE CYCLISTE TOURCOING | 7 | 2ème | 1:47:38 | 
-| **79** | **[DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **7** | **3ème** | **1:47:38** | 
+| **79** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **7** | **3ème** | **1:47:38** | 
 | 80 | CICHOWSKI DAVID | VELO CLUB HORNAING | 7 | 3ème | 1:47:38 | 
 | 81 | POIDEVIN LUDOVIC | TEAM BIKE PRESEAU | 7 | 3ème | 1:47:39 | 
 | 82 | BELKEIR SLIMAN | NEW ORANGE TEAM BOUSBECQUE | 7 | 2ème | 1:47:40 | 
@@ -123,7 +123,7 @@ image: assets/img/blog/road.jpeg
 | 96 | BAILLY FLORIAN | ESEG DOUAI | 7 | 2ème | 1:47:43 | 
 | 97 | CAILLARD ANTHONY | TEAM LINK AND RIDE HERIN | 7 | 2ème | 1:47:43 | 
 | 98 | DARTUS MIKAEL | VELO CLUB SOLESMES | 7 | 2ème | 1:47:44 | 
-| **99** | **[HUBAUT CHRISTOPHE](https://teamspecializedlille.github.io/coureurs/hubautchristophe)** | **TEAM SPECIALIZED LILLE** | **7** | **2ème** | **1:47:44** | 
+| **99** | **[HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe)** | **TEAM SPECIALIZED LILLE** | **7** | **2ème** | **1:47:44** | 
 | 100 | LECLERCQ JEAN LOUIS | CYCLISME EN CAMBRESIS - NEUVILLE ST REMY | 7 | 2ème | 1:47:45 | 
 | 101 | RENNUIT BENOIT | NOEUX VELO CLUB NOEUXOIS | 7 | 2ème | 1:47:45 | 
 | 102 | BLONDEL FREDERIC | ESEG DOUAI | 7 | 2ème | 1:47:45 | 

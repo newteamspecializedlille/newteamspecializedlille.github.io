@@ -9,7 +9,7 @@ image: assets/img/blog/vtt.jpeg
 
 ### VTT Vétérans B
 16 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald) : 3
+- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 3
 
 ### Scratch
 34 participants
@@ -22,7 +22,7 @@ image: assets/img/blog/vtt.jpeg
 | 4 | ALLART ERIC | THELUS TEAM UNIS-VERT VTT | 7 | Vétérans B | 0:55:5 | 
 | 5 | JABLONSKI SEBASTIEN | TEAM B.B.L. HERGNIES | 7 | Vétérans A | 0:55:30 | 
 | 6 | MEZOUED THOMAS | VTT SAINT AMAND LES EAUX | 7 | Seniors A | 0:55:31 | 
-| **7** | **[MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **7** | **Vétérans B** | **0:57:17** | 
+| **7** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **7** | **Vétérans B** | **0:57:17** | 
 | 8 | BREVIERE ALEXANDRE | CAMPHIN EN CAREMBAULT CYCLING TEAM | 7 | Vétérans B | 0:57:42 | 
 | 9 | ALEXANDRE GREGORY | VELO CLUB SOLESMES | 7 | Vétérans A | 0:58:17 | 
 | 10 | GAMACHE CHRISTOPHE | CYCLOS RANDONNEURS LA BASSEE | 7 | Vétérans B | 0:58:32 | 

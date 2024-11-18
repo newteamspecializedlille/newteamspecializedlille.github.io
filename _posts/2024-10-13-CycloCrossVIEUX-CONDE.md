@@ -9,12 +9,12 @@ image: http://teamspecializedlille.github.io/assets/img/resultats/2024-10-13-Cyc
 
 ### 2ème Catégorie
 33 participants
-- [ORBIER AXEL](https://teamspecializedlille.github.io/coureurs/orbieraxel) : 3
-- [DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid) : 12
+- [ORBIER AXEL](https://teamspecializedlille.cc/coureurs/orbieraxel) : 3
+- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 12
 
 ### 3ème Catégorie
 49 participants
-- [MOULIN FELIX](https://teamspecializedlille.github.io/coureurs/moulinfelix) : 13
+- [MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix) : 13
 
 ### Scratch
 108 participants
@@ -37,7 +37,7 @@ image: http://teamspecializedlille.github.io/assets/img/resultats/2024-10-13-Cyc
 | 14 | REUTER SEBASTIEN | VELO CLUB UNION HALLUIN | 8 | 1ère | 0:57:0 | 
 | 15 | THOMASSEY SEBASTIEN | CAMPHIN EN CAREMBAULT CYCLING TEAM | 8 | 1ère | 0:57:10 | 
 | 16 | SCHOUB LUDOVIC | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 8 | 2ème | 0:57:10 | 
-| **17** | **[ORBIER AXEL](https://teamspecializedlille.github.io/coureurs/orbieraxel)** | **TEAM SPECIALIZED LILLE** | **8** | **2ème** | **0:58:45** | 
+| **17** | **[ORBIER AXEL](https://teamspecializedlille.cc/coureurs/orbieraxel)** | **TEAM SPECIALIZED LILLE** | **8** | **2ème** | **0:58:45** | 
 | 18 | TOURNEUX MICKAEL | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 8 | 1ère | 0:59:1 | 
 | 19 | MORDACQ ENZO | ESEG DOUAI | 8 | 3ème | 0:59:4 | 
 | 20 | PONCET ALEXIS | TEAM ENFER WALLERS ARENBERG | 8 | 2ème | 0:59:37 | 
@@ -48,7 +48,7 @@ image: http://teamspecializedlille.github.io/assets/img/resultats/2024-10-13-Cyc
 | 25 | PIAT JEREMY | ETOILE CYCLISTE LIEU ST AMAND | 8 | 2ème | 1:0:14 | 
 | 26 | VANWAELSCAPPEL GUILLAUME | CYCLO CLUB WAVRIN | 8 | 2ème | 1:0:15 | 
 | 27 | DIMANCHE DAVID | CERCLE OLYMPIQUE MARCOING | 8 | 2ème | 1:0:15 | 
-| **28** | **[DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **8** | **2ème** | **1:0:16** | 
+| **28** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **8** | **2ème** | **1:0:16** | 
 | 29 | JABLONSKI SEBASTIEN | NEW TEAM MAULDE | 8 | 2ème | 1:0:30 | 
 | 30 | LIONNE DORIAN | HAVELUY CYCLO CLUB | 8 | 3ème | 1:0:46 | 
 | 31 | GOCHON VALENTIN | TEAM MELANTOIS - PERONNE EN MELANTOIS | 8 | 3ème | 1:0:58 | 
@@ -72,7 +72,7 @@ image: http://teamspecializedlille.github.io/assets/img/resultats/2024-10-13-Cyc
 | 49 | LARIVIERE STEPHANE | MANQUEVILLE LILLERS CLUB CYCLISTE | 7 | 3ème | 0:55:59 | 
 | 50 | WITTEK DASSONVILLE CELINE | NOEUX VELO CLUB NOEUXOIS | 7 | 3ème | 0:56:4 | 
 | 51 | CANU ERWAN | UNION SPORTIVE SAINT ANDRE | 7 | 2ème | 0:56:10 | 
-| **52** | **[MOULIN FELIX](https://teamspecializedlille.github.io/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **7** | **3ème** | **0:56:20** | 
+| **52** | **[MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **7** | **3ème** | **0:56:20** | 
 | 53 | HAUTEM GERY | UNION SPORTIVE SAINT ANDRE | 7 | 3ème | 0:56:46 | 
 | 54 | DAGHELET THOMAS | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 7 | 3ème | 0:56:51 | 
 | 55 | DEJEAN MATHIS | TEAM CYCLISTE LA BORDURE - BETTRECHIES | 7 | 3ème | 0:56:51 | 

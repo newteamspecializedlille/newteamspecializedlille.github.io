@@ -9,12 +9,12 @@ image: assets/img/resultats/2023-12-24-CycloCrossESTEVELLES/1.jpg
 
 ### 2ème Catégorie
 18 participants
-- [LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane) : 6
+- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 6
 
 ### 3ème Catégorie
 27 participants
-- [DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid) : 5
-- [LECOLIER LOUIS](https://teamspecializedlille.github.io/coureurs/lecolierlouis) : 6
+- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 5
+- [LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis) : 6
 
 ### Scratch
 62 participants
@@ -36,7 +36,7 @@ image: assets/img/resultats/2023-12-24-CycloCrossESTEVELLES/1.jpg
 | 13 | CHOQUET PIERRE | UNION SPORTIVE SAINT ANDRE | 7 | 2ème | 0:41:44 | 
 | 14 | HOEZ THEO | TEAM BOUSIES | 7 | 1ère | 0:41:50 | 
 | 15 | LEONARDI FLORIAN | RESILIENCE CLUB | 7 | 2ème | 0:41:50 | 
-| **16** | **[LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **7** | **2ème** | **0:42:33** | 
+| **16** | **[LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **7** | **2ème** | **0:42:33** | 
 | 17 | LOISELEUX JACKY | UNION SPORTIVE SAINT ANDRE | 7 | 2ème | 0:42:55 | 
 | 18 | CODDEVILLE KENNY | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 7 | 1ère | 0:43:4 | 
 | 19 | DEFRISE GREGORY | TEAM BOUSIES | 7 | 1ère | 0:43:5 | 
@@ -51,8 +51,8 @@ image: assets/img/resultats/2023-12-24-CycloCrossESTEVELLES/1.jpg
 | 28 | GRYMONPON SEBASTIEN | ASS. CYCLISTE CENTULOISE | 6 | 3ème | 0:36:57 | 
 | 29 | DEHONGHER MATTHIEU | NOEUX VELO CLUB NOEUXOIS | 6 | 3ème | 0:36:57 | 
 | 30 | TOURNEUX MICKAEL | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 6 | 1ère | 0:37:4 | 
-| **31** | **[DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **6** | **3ème** | **0:37:4** | 
-| **32** | **[LECOLIER LOUIS](https://teamspecializedlille.github.io/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **6** | **3ème** | **0:37:31** | 
+| **31** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **6** | **3ème** | **0:37:4** | 
+| **32** | **[LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **6** | **3ème** | **0:37:31** | 
 | 33 | WITTEK DASSONVILLE CELINE | NOEUX VELO CLUB NOEUXOIS | 6 | 3ème | 0:37:57 | 
 | 34 | BOCQUILLON JEROME | AGNY ARTeam | 6 | 3ème | 0:38:22 | 
 | 35 | DAGHELET THOMAS | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 6 | 3ème | 0:40:32 | 

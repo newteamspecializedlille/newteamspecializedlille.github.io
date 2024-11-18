@@ -9,7 +9,7 @@ image: assets/img/blog/cx.jpeg
 
 ### 2ème Catégorie
 32 participants
-- [DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid) : 12
+- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 12
 
 ### Scratch
 95 participants
@@ -42,7 +42,7 @@ image: assets/img/blog/cx.jpeg
 | 24 | VANDAMME THOMAS | CERCLE OLYMPIQUE MARCOING | 8 | 2ème | 0:49:16 | 
 | 25 | LEONARDI FLORIAN | RESILIENCE CLUB | 8 | 2ème | 0:49:39 | 
 | 26 | VANWAELSCAPPEL JEROME | CYCLO CLUB WAVRIN | 8 | 2ème | 0:49:54 | 
-| **27** | **[DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **8** | **2ème** | **0:50:5** | 
+| **27** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **8** | **2ème** | **0:50:5** | 
 | 28 | HEBERT PIERRICK | NEW ORANGE TEAM BOUSBECQUE | 8 | 2ème | 0:50:5 | 
 | 29 | RICHARD NICOLAS | ESEG DOUAI | 8 | 2ème | 0:50:13 | 
 | 30 | PLOUY THIERRY | LA PEDALE MADELEINOISE | 8 | 3ème | 0:50:15 | 

@@ -9,12 +9,12 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 53 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald) : 7
-- [DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve) : 19
+- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 7
+- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 19
 
 ### 2ème Catégorie
 57 participants
-- [DUFOUR JONATHAN](https://teamspecializedlille.github.io/coureurs/dufourjonathan) : 2
+- [DUFOUR JONATHAN](https://teamspecializedlille.cc/coureurs/dufourjonathan) : 2
 
 ### Scratch
 239 participants
@@ -27,7 +27,7 @@ image: assets/img/blog/road.jpeg
 | 4 | MONIEZ ADRIEN | CLUB CYCLISTE THUN ST MARTIN | 15 | 1ère | 1:58:49 | 
 | 5 | SEMOULIN JOAKIM | TEAM B.B.L. HERGNIES | 15 | 1ère | 1:59:19 | 
 | 6 | VANDERHAEGEN MAEL | ASSOCIATION CYCLISTE D'ETROEUNGT | 15 | 1ère | 1:59:25 | 
-| **7** | **[MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **15** | **1ère** | **1:59:45** | 
+| **7** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **15** | **1ère** | **1:59:45** | 
 | 8 | HURIAU BENOIT | ASSOCIATION CYCLISTE BELLAINGEOISE | 15 | 1ère | 1:59:46 | 
 | 9 | DOYEN MATHIS | CYCLO CLUB ORCHIES | 15 | 1ère | 1:59:49 | 
 | 10 | BERNIER DIMITRI | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 15 | 1ère | 1:59:49 | 
@@ -39,7 +39,7 @@ image: assets/img/blog/road.jpeg
 | 16 | MAGNIES CLEMENT | CYCLO CLUB ORCHIES | 15 | 1ère | 1:59:51 | 
 | 17 | VEAUX CORENTIN | TEAM LINK AND RIDE HERIN | 15 | 1ère | 1:59:51 | 
 | 18 | MULAS YANN | VELO SPRINT DE L'OSTREVENT - AUBERCHICOURT | 15 | 1ère | 1:59:51 | 
-| **19** | **[DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **15** | **1ère** | **1:59:52** | 
+| **19** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **15** | **1ère** | **1:59:52** | 
 | 20 | LESAGE ANTHONY | ASSOCIATION CYCLISTE BELLAINGEOISE | 15 | 1ère | 1:59:52 | 
 | 21 | ANASTASOAIE OGER DIMITRI | GAZ ELEC CLUB DE DOUAI | 15 | 1ère | 1:59:52 | 
 | 22 | CINQUINA GUISEPPE | ETOILE CYCLISTE LIEU ST AMAND | 15 | 1ère | 1:59:52 | 
@@ -63,7 +63,7 @@ image: assets/img/blog/road.jpeg
 | 40 | LEFEVRE EDDY | UNION VELOCIPEDIQUE FOURMISIENNE | 14 | 1ère | 2:0:7 | 
 | 41 | DELTOUR LUCAS | UNION VELOCIPEDIQUE FOURMISIENNE | 14 | 1ère | 2:4:33 | 
 | 42 | DASSONNEVILLE FRANCK | RESILIENCE CLUB | 13 | 2ème | 1:46:3 | 
-| **43** | **[DUFOUR JONATHAN](https://teamspecializedlille.github.io/coureurs/dufourjonathan)** | **TEAM SPECIALIZED LILLE** | **13** | **2ème** | **1:46:4** | 
+| **43** | **[DUFOUR JONATHAN](https://teamspecializedlille.cc/coureurs/dufourjonathan)** | **TEAM SPECIALIZED LILLE** | **13** | **2ème** | **1:46:4** | 
 | 44 | DELPLANQUE DYLAN | VELO SPRINT DE L'OSTREVENT - AUBERCHICOURT | 13 | 2ème | 1:46:4 | 
 | 45 | HOEZ THEO | TEAM BOUSIES | 13 | 2ème | 1:46:6 | 
 | 46 | BRUNEBARBE SEBASTIEN | UNION SPORTIVE VALENCIENNES CRESPIN | 13 | 2ème | 1:46:6 | 

@@ -9,7 +9,7 @@ image: assets/img/blog/cx.jpeg
 
 ### 3ème Catégorie
 66 participants
-- [MOULIN FELIX](https://teamspecializedlille.github.io/coureurs/moulinfelix) : 36
+- [MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix) : 36
 
 ### Scratch
 123 participants
@@ -98,7 +98,7 @@ image: assets/img/blog/cx.jpeg
 | 80 | ROULY FRANCK | ETOILE CYCLISTE LIEU ST A | 7 | 2ème | 0:55:26 | 
 | 81 | LARGEAU FREDERIC | SAULZOIR MONTRECOURT CYCL | 7 | 3ème | 0:55:26 | 
 | 82 | LAGNEAU PASCAL | UNION VELOCIPEDIQUE JEUMO | 7 | 2ème | 0:55:32 | 
-| **83** | **[MOULIN FELIX](https://teamspecializedlille.github.io/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **7** | **3ème** | **0:55:40** | 
+| **83** | **[MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **7** | **3ème** | **0:55:40** | 
 | 84 | CAPELLE FRANCKY | ETOILE CYCLISTE TOURCOING | 7 | 3ème | 0:55:51 | 
 | 85 | DANEL JEAN PIERRE | BIACHE ST VAAST VELO CLUB | 7 | 3ème | 0:55:58 | 
 | 86 | DEKOSTER MICKAEL | AGNY AMICALE LAIQUE | 7 | 3ème | 0:57:4 | 

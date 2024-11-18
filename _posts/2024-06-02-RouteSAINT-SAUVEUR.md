@@ -9,19 +9,19 @@ image: assets/img/resultats/2024-06-02-RouteSAINT-SAUVEUR/1.jpeg
 
 ### 3ème Catégorie
 30 participants
-- [DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid) : 3
-- [WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit) : 8
+- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 3
+- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 8
 
 | Place  | Nom                                                                          | Team                                     | Points  |
 |--------|------------------------------------------------------------------------------|------------------------------------------|---------|
 | 1	     | JOSSEMICKAEL	                                                                | ESCL CYCLISME (BIKE)                     | 	50     | 
 | 2	     | RODRIGUEZ PATRICK	                                                           | TEAM FLIXECOURT 80                       | 	45     |   
-| **3**	 | **[DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid)**	  | **TEAM SPECIALIZED LILLE**                   | 	**40** | 
+| **3**	 | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)**	  | **TEAM SPECIALIZED LILLE**                   | 	**40** | 
 | 4      | 	BAILLEUX CHRISTIAN	                                                         | ASS. CYCLISTE CENTULOISE                 | 	36     |    
 | 5      | 	VACOSAIT FREDERIC                                                           | 	TEAM CYCLISTES BRESLES                  | 	33     | 
 | 6      | 	BERNARD THIERRY                                                             | 	CYCLO SPORT ABBEVILLOIS                 | 	30     | 
 | 7      | 	DELMER LILIAN	                                                              | TEAM FLIXECOURT 80                       | 	27     | 
-| **8**      | 	**[WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit)**	 | **TEAM SPECIALIZED LILLE**                   | 	**24** | 
+| **8**      | 	**[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)**	 | **TEAM SPECIALIZED LILLE**                   | 	**24** | 
 | 9      | 	DAST REMI                                                                   | 	VELO CLUB TALMAS                        | 	21     | 
 | 10	    | HANOCQ GAETAN	                                                               | AMIS DU CYCLISME NESLOIS                 | 	18     | 
 | 11     | 	LEGRAND CHRISTOPHE                                                          | 	VELO CLUB TALMAS                        | 	15     | 

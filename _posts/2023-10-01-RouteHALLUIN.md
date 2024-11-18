@@ -9,17 +9,17 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 32 participants
-- [LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane) : 11
+- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 11
 
 ### 2ème Catégorie
 44 participants
-- [DENDIEVEL CYRIL](https://teamspecializedlille.github.io/coureurs/dendievelcyril) : 2
-- [LECOLIER BENOIT](https://teamspecializedlille.github.io/coureurs/lecolierbenoit) : 10
+- [DENDIEVEL CYRIL](https://teamspecializedlille.cc/coureurs/dendievelcyril) : 2
+- [LECOLIER BENOIT](https://teamspecializedlille.cc/coureurs/lecolierbenoit) : 10
 
 ### 3ème Catégorie
 44 participants
-- [DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael) : 23
-- [WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit) : 33
+- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 23
+- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 33
 
 ### Scratch
 140 participants
@@ -36,7 +36,7 @@ image: assets/img/blog/road.jpeg
 | 8 | DELANGUE THEO | NEW ORANGE TEAM BOUSBECQUE | 23 | 1ère | 1:47:51 | 
 | 9 | HOTTON THEO | TEAM B.B.L. HERGNIES | 23 | 1ère | 1:47:52 | 
 | 10 | VASSEUR HUGO | UNION SPORTIVE SAINT ANDRE | 23 | 1ère | 1:47:55 | 
-| **11** | **[LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **23** | **1ère** | **1:47:59** | 
+| **11** | **[LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **23** | **1ère** | **1:47:59** | 
 | 12 | JOLIS CLEMENT | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 23 | 1ère | 1:48:8 | 
 | 13 | PIAT JEREMY | ETOILE CYCLISTE LIEU ST AMAND | 23 | 1ère | 1:48:8 | 
 | 14 | DEBUISSON JULIAN | UNION SPORTIVE SAINT ANDRE | 23 | 1ère | 1:48:55 | 
@@ -47,7 +47,7 @@ image: assets/img/blog/road.jpeg
 | 19 | LEBON CYRIL | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 22 | 1ère | 1:50:17 | 
 | 20 | FAURE NATHANAEL | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 22 | 1ère | 1:50:17 | 
 | 21 | VISSIO MATHIEU | AGNY ARTEAM | 20 | 2ème | 1:34:43 | 
-| **22** | **[DENDIEVEL CYRIL](https://teamspecializedlille.github.io/coureurs/dendievelcyril)** | **TEAM SPECIALIZED LILLE** | **20** | **2ème** | **1:34:47** | 
+| **22** | **[DENDIEVEL CYRIL](https://teamspecializedlille.cc/coureurs/dendievelcyril)** | **TEAM SPECIALIZED LILLE** | **20** | **2ème** | **1:34:47** | 
 | 23 | DESMET SEBASTIEN | VELO CLUB UNION HALLUIN | 20 | 2ème | 1:34:52 | 
 | 24 | LECLAIRE LANCELOT | VELO CLUB UNION HALLUIN | 20 | 2ème | 1:35:8 | 
 | 25 | DEMOL LEO | UNION SPORTIVE SAINT ANDRE | 20 | 2ème | 1:35:9 | 
@@ -55,7 +55,7 @@ image: assets/img/blog/road.jpeg
 | 27 | SCHOUB LUDOVIC | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 20 | 2ème | 1:35:9 | 
 | 28 | BELKEIR SLIMAN | NEW ORANGE TEAM BOUSBECQUE | 20 | 2ème | 1:35:9 | 
 | 29 | CORNU ANDREAS | ETOILE CYCLISTE LIEU ST AMAND | 20 | 2ème | 1:35:10 | 
-| **30** | **[LECOLIER BENOIT](https://teamspecializedlille.github.io/coureurs/lecolierbenoit)** | **TEAM SPECIALIZED LILLE** | **20** | **2ème** | **1:35:10** | 
+| **30** | **[LECOLIER BENOIT](https://teamspecializedlille.cc/coureurs/lecolierbenoit)** | **TEAM SPECIALIZED LILLE** | **20** | **2ème** | **1:35:10** | 
 | 31 | COASNE CLEMENT | TEAM POLICE HDF - ROUBAIX | 20 | 2ème | 1:35:15 | 
 | 32 | VERHAEGHE MICHEL | LINSELLES CYCLISME | 20 | 2ème | 1:35:20 | 
 | 33 | DI CARLO DONATO | NEW ORANGE TEAM BOUSBECQUE | 20 | 2ème | 1:35:20 | 
@@ -104,7 +104,7 @@ image: assets/img/blog/road.jpeg
 | 76 | DEBRIL BENJAMIN | CYCLO CLUB ORCHIES | 18 | 3ème | 1:28:34 | 
 | 77 | DOOLAEGHE TERRY | VELO CLUB UNION HALLUIN | 18 | 3ème | 1:28:35 | 
 | 78 | BERNARD PHILIPPE | ROUE D'OR COMINOISE | 18 | 3ème | 1:28:35 | 
-| **79** | **[DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **18** | **3ème** | **1:28:35** | 
+| **79** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **18** | **3ème** | **1:28:35** | 
 | 80 | CODDEVILLE KENNY | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 18 | 3ème | 1:28:36 | 
 | 81 | AUSSEMS JEAN-YVES | UNION SPORTIVE SAINT ANDRE | 18 | 3ème | 1:28:40 | 
 | 82 | BARENNE LAURENT | ETOILE CYCLISTE TOURCOING | 18 | 3ème | 1:28:47 | 
@@ -116,7 +116,7 @@ image: assets/img/blog/road.jpeg
 | 88 | ODENT STEPHANE | UNION SPORTIVE VALENCIENNES CRESPIN | 17 | 3ème | 1:28:41 | 
 | 89 | TRINEL EMILY | LILLE | 17 | 3ème | 1:29:49 | 
 | 90 | KHOUALED DAVID | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 17 | 3ème | 1:31:6 | 
-| **91** | **[WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **17** | **3ème** | **1:33:12** | 
+| **91** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **17** | **3ème** | **1:33:12** | 
 | 92 | BOUVET GRICOURT HUGO | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 16 | 2ème | 1:15:10 | 
 | 93 | PETIT FLORIAN | UNION CYCLISTE WATTIGNIES | 16 | 3ème | 1:28:6 | 
 | 94 | NUEE VALENTIN | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 16 | 3ème | 1:28:58 | 

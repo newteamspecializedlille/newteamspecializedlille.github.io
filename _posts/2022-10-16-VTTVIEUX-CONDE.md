@@ -9,11 +9,11 @@ image: assets/img/blog/vtt.jpeg
 
 ### VTT Sénior B
 20 participants
-- [DUFOUR JONATHAN](https://teamspecializedlille.github.io/coureurs/dufourjonathan) : 4
+- [DUFOUR JONATHAN](https://teamspecializedlille.cc/coureurs/dufourjonathan) : 4
 
 ### VTT Vétérans B
 19 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald) : 3
+- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 3
 
 ### Scratch
 63 participants
@@ -31,7 +31,7 @@ image: assets/img/blog/vtt.jpeg
 | 9 | HERFEUIL ANTHONY | UNION SPORTIVE SAINT ANDRE | 0 | Seniors B | 0:38:53 | 
 | 10 | TAMBOUR EDOUARD | CAMPHIN EN CAREMBAULT CYCLING TEAM | 0 | Seniors B | 0:38:53 | 
 | 11 | HORCHOLLE REMI | VTT  CLUB PONT SUR SAMBRE | 0 | Seniors B | 0:38:53 | 
-| **12** | **[DUFOUR JONATHAN](https://teamspecializedlille.github.io/coureurs/dufourjonathan)** | **TEAM SPECIALIZED LILLE** | **0** | **Seniors B** | **0:38:53** | 
+| **12** | **[DUFOUR JONATHAN](https://teamspecializedlille.cc/coureurs/dufourjonathan)** | **TEAM SPECIALIZED LILLE** | **0** | **Seniors B** | **0:38:53** | 
 | 13 | CORMAN SEBASTIEN | CAMPHIN EN CAREMBAULT CYCLING TEAM | 0 | Seniors B | 0:38:53 | 
 | 14 | DESTEIRDT MICKAEL | TEAM POLICE HDFN - ROUBAIX | 0 | Seniors B | 0:38:53 | 
 | 15 | DELETTR? ANTHONY | VERMELLES MTB RACING TEAM | 0 | Seniors B | 0:38:53 | 
@@ -67,7 +67,7 @@ image: assets/img/blog/vtt.jpeg
 | 45 | THORLET YANNICK | VELO CLUB DE L'ESCAUT ANZIN | 0 | Vétérans A | 0:38:53 | 
 | 46 | NOWICKI FABRICE | THELUS TEAM UNIS-VERT VTT | 0 | Vétérans B | 0:38:53 | 
 | 47 | ALLART ERIC | THELUS TEAM UNIS-VERT VTT | 0 | Vétérans B | 0:38:53 | 
-| **48** | **[MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **0** | **Vétérans B** | **0:38:53** | 
+| **48** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **0** | **Vétérans B** | **0:38:53** | 
 | 49 | BREVIERE ALEXANDRE | CAMPHIN EN CAREMBAULT CYCLING TEAM | 0 | Vétérans B | 0:38:53 | 
 | 50 | DUHAMEL ARNAUD | AGNY ARTEAM | 0 | Vétérans B | 0:38:53 | 
 | 51 | GAMACHE CHRISTOPHE | CYCLOS RANDONNEURS LA BASSEE | 0 | Vétérans B | 0:38:53 | 

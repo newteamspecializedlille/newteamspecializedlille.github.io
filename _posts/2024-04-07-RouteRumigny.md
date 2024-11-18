@@ -8,8 +8,8 @@ image: assets/img/resultats/2024-04-07-RouteRumigny/1.jpeg
 ---
 
 ### 3ème Catégorie
-- [DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid) : 13
-- [DERASSE PATRICK](https://teamspecializedlille.github.io/coureurs/derassepatrick) : 43
+- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 13
+- [DERASSE PATRICK](https://teamspecializedlille.cc/coureurs/derassepatrick) : 43
 
 ### Scratch
 48 participants
@@ -28,7 +28,7 @@ image: assets/img/resultats/2024-04-07-RouteRumigny/1.jpeg
 | 10     | GEBLEUX FREDERIC                                                                   | ASSOCIATION CYCLISTE AMIENOISE      |
 | 11     | MORVAN LILIAN                                                                      | TEAM CYCLISTES BRESLES              |
 | 12     | DUBOIS GUILLAUME                                                                   | VELO CLUB TALMAS                    |
-|**13**  | **[DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid)**                                                                | **TEAM SPECIALIZED LILLE**          |
+|**13**  | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)**                                                                | **TEAM SPECIALIZED LILLE**          |
 | 14     | VAUDION REMI                                                                       | VELO CLUB TALMAS                    |
 | 15     | FARCY JEAN PIERRE                                                                  | VELO CLUB EUDOIS ET BRESLOIS        |
 | 16     | CARBONNIER CHRISTOPHE                                                              | HUCHENNEVILLE TURTLE BIKE           |
@@ -58,7 +58,7 @@ image: assets/img/resultats/2024-04-07-RouteRumigny/1.jpeg
 | 40     | DRON STEPHANE                                                                      | UNION CYCLISTE VERESCENCE           |
 | 41     | POMBOURCQ DIDIER                                                                   | AMIENS CYCLING TEAM                 |
 | 42     | PORQUET MAXIME                                                                     | CLUB CYCLISTE DE SALOUEL            |
-| **43** | **[DERASSE PATRICK](https://teamspecializedlille.github.io/coureurs/derassepatrick)** | **TEAM SPECIALIZED LILLE**          |
+| **43** | **[DERASSE PATRICK](https://teamspecializedlille.cc/coureurs/derassepatrick)** | **TEAM SPECIALIZED LILLE**          |
 | 44     | PEUPLE HUBERT                                                                      | VELO CLUB BICHOT ENERXIA            |
 | 45     | MIETTON TIMAUTHE                                                                   | AMIS DU CYCLISME NESLOIS            |
 | 46     | POIREL PIERRE                                                                      | CLUB CYCLISTE DE OISEMONT           |

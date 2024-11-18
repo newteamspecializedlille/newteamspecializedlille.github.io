@@ -9,7 +9,7 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 29 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve) : 18
+- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 18
 
 ### Scratch
 9 participants

@@ -9,11 +9,11 @@ image: assets/img/blog/road.jpeg
 
 ### 2ème Catégorie
 34 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve) : 22
+- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 22
 
 ### 3ème Catégorie
 53 participants
-- [MINNECI ELIO](https://teamspecializedlille.github.io/coureurs/minnecielio) : 5
+- [MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio) : 5
 
 ### Scratch
 129 participants
@@ -63,7 +63,7 @@ image: assets/img/blog/road.jpeg
 | 41 | LANDAS MARION | VELO SPRINT DE L'OSTREVENT - AUBERCHICOURT | 10 | 2ème | 1:52:9 | 
 | 42 | LECHAT RENAUD | UNION SPORTIVE VALENCIENNES CRESPIN | 10 | 2ème | 1:52:11 | 
 | 43 | LELUBRE THIBAULT | UNION CYCLISTE SOLRE LE CHATEAU | 10 | 1ère | 1:52:13 | 
-| **44** | **[DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **10** | **2ème** | **1:52:38** | 
+| **44** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **10** | **2ème** | **1:52:38** | 
 | 45 | MEUNIER ROSALIE | TEAM AVESNOIS - LEVAL | 10 | 2ème | 1:52:54 | 
 | 46 | HAIDON PASCAL | ASSOCIATION CYCLISTE BELLAINGEOISE | 10 | 2ème | 1:52:56 | 
 | 47 | MOLARD NICOLAS | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 10 | 2ème | 1:53:36 | 
@@ -75,7 +75,7 @@ image: assets/img/blog/road.jpeg
 | 53 | MISMAQUE JACQUES | ASPTT REIMS | 9 | 3ème | 1:33:2 | 
 | 54 | LOUETTE XAVIER | 52X11 HIRSON THIERACHE | 9 | 3ème | 1:33:2 | 
 | 55 | REILLE AGACINSKI TOM | GAZ ELEC CLUB DE DOUAI | 9 | 3ème | 1:33:4 | 
-| **56** | **[MINNECI ELIO](https://teamspecializedlille.github.io/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **9** | **3ème** | **1:33:4** | 
+| **56** | **[MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **9** | **3ème** | **1:33:4** | 
 | 57 | LIENARD KEVIN | LA CHERIZIENNE - VILLE DE CHAUNY | 9 | 3ème | 1:33:4 | 
 | 58 | VAN DAMME THOMAS | CYCLO CLUB CAMBRESIEN | 9 | 3ème | 1:33:5 | 
 | 59 | KONOPKA BAPTISTE | VELO CLUB SOLESMES | 9 | 3ème | 1:33:5 | 

@@ -9,7 +9,7 @@ image: assets/img/blog/cx.jpeg
 
 ### 2ème Catégorie
 15 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald) : 9
+- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 9
 
 ### Scratch
 51 participants
@@ -36,7 +36,7 @@ image: assets/img/blog/cx.jpeg
 | 18 | DRUESNE DAMIEN | UNION VELOCIPEDIQUE FOURMISIENNE | 7 | 2ème | 0:49:43 | 
 | 19 | VERDIN FLAVIEN | UNION SPORTIVE SAINT ANDRE | 7 | 2ème | 0:49:47 | 
 | 20 | DEWALLENS STEPHANE | UNION CYCLISTE SOLRE LE CHATEAU | 7 | 2ème | 0:50:5 | 
-| **21** | **[MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **7** | **2ème** | **0:50:17** | 
+| **21** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **7** | **2ème** | **0:50:17** | 
 | 22 | MOUCHON ARNAUD | ASSOCIATION CYCLISTE DE CUINCY | 7 | 3ème | 0:50:22 | 
 | 23 | SIRO AURELIEN | ASSOCIATION CYCLISTE D'ETROEUNGT | 7 | 2ème | 0:50:27 | 
 | 24 | CANDAT FABIEN | TEAM LINK AND RIDE HERIN | 7 | 3ème | 0:50:31 | 

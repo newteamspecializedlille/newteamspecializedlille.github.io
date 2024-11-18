@@ -9,13 +9,13 @@ image: assets/img/resultats/2023-12-03-CycloCrossBTWIN---LILLE/1.jpg
 
 ### 2ème Catégorie
 24 participants
-- [LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane) : 7
+- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 7
 
 ### 3ème Catégorie
 36 participants
-- [DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid) : 7
-- [MOULIN FELIX](https://teamspecializedlille.github.io/coureurs/moulinfelix) : 9
-- [LECOLIER LOUIS](https://teamspecializedlille.github.io/coureurs/lecolierlouis) : 17
+- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 7
+- [MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix) : 9
+- [LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis) : 17
 
 ### Scratch
 83 participants
@@ -41,7 +41,7 @@ image: assets/img/resultats/2023-12-03-CycloCrossBTWIN---LILLE/1.jpg
 | 17 | GOBAILLE FRANCOIS | BRUAY LA BUISSIERE U.S.O. CYCLISME | 7 | 1ère | 1:5:52 | 
 | 18 | THOMASSEY SEBASTIEN | CAMPHIN EN CAREMBAULT CYCLING TEAM | 7 | 2ème | 1:5:54 | 
 | 19 | VANDERMEIREN MANUEL | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 7 | 2ème | 1:6:25 | 
-| **20** | **[LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **7** | **2ème** | **1:6:27** | 
+| **20** | **[LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **7** | **2ème** | **1:6:27** | 
 | 21 | DEMOL LEO | UNION SPORTIVE SAINT ANDRE | 7 | 2ème | 1:6:29 | 
 | 22 | FOULON RANDY | AGNY ARTeam | 7 | 3ème | 1:6:30 | 
 | 23 | TISON CEDRIC | TEAM ENFER DU NORD WALLERS ARENBERG | 7 | 2ème | 1:6:36 | 
@@ -62,10 +62,10 @@ image: assets/img/resultats/2023-12-03-CycloCrossBTWIN---LILLE/1.jpg
 | 38 | LIONNE DORIAN | HAVELUY CYCLO CLUB | 6 | 3ème | 1:0:59 | 
 | 39 | PARDON CHRISTOPHE | LA CHERIZIENNE - VILLE DE CHAUNY | 6 | 3ème | 1:1:8 | 
 | 40 | CHALAS JEAN PIERRE | UNION SPORTIVE SAINT ANDRE | 6 | 1ère | 1:1:12 | 
-| **41** | **[DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **6** | **3ème** | **1:1:20** | 
+| **41** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **6** | **3ème** | **1:1:20** | 
 | 42 | WITTEK DASSONVILLE CELINE | NOEUX VELO CLUB NOEUXOIS | 6 | 3ème | 1:1:50 | 
 | 43 | CARPELS GUILLAUME | VELO CLUB UNION HALLUIN | 6 | 2ème | 1:1:54 | 
-| **44** | **[MOULIN FELIX](https://teamspecializedlille.github.io/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **6** | **3ème** | **1:2:10** | 
+| **44** | **[MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **6** | **3ème** | **1:2:10** | 
 | 45 | DUFOUR SYLVAIN | VELO CLUB UNION HALLUIN | 6 | 3ème | 1:2:21 | 
 | 46 | DEBLIQUI PASCAL | VELO CLUB AMANDINOIS | 6 | 3ème | 1:2:41 | 
 | 47 | HAUTEM GERY | UNION SPORTIVE SAINT ANDRE | 6 | 3ème | 1:2:59 | 
@@ -73,7 +73,7 @@ image: assets/img/resultats/2023-12-03-CycloCrossBTWIN---LILLE/1.jpg
 | 49 | DELACOURTE LAURENT | UNION SPORTIVE VALENCIENNES CRESPIN | 6 | 3ème | 1:3:1 | 
 | 50 | FOULON ANDRE | TEAM DECOPUB PROVILLE | 6 | 3ème | 1:3:20 | 
 | 51 | VANDEN TORREN MAXIME | MANQUEVILLE LILLERS CLUB CYCLISTE | 6 | 3ème | 1:3:44 | 
-| **52** | **[LECOLIER LOUIS](https://teamspecializedlille.github.io/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **6** | **3ème** | **1:4:21** | 
+| **52** | **[LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **6** | **3ème** | **1:4:21** | 
 | 53 | LETOMBE CHRISTOPHE | BEUVRY CLUB LEO LAGRANGE | 6 | 3ème | 1:4:39 | 
 | 54 | VERHAEGHE THOMAS | LINSELLES CYCLISME | 6 | 2ème | 1:4:50 | 
 | 55 | TAHON SIMON | AGNY ARTeam | 6 | 3ème | 1:5:21 | 

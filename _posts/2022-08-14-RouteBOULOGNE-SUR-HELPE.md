@@ -9,4 +9,4 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 15 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve) : 9
+- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 9

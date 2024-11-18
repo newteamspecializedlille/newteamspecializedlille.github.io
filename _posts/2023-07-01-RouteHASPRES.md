@@ -9,7 +9,7 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 20 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve) : 16
+- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 16
 
 ### Scratch
 104 participants
@@ -79,7 +79,7 @@ image: assets/img/blog/road.jpeg
 | 61 | LEPLAN BENJAMIN | AGNY ARTEAM | 21 | 2ème | 1:2:24 | 
 | 62 | NIEDZWIECKI VINCENT | NEW TEAM MAULDE | 21 | 2ème | 1:2:25 | 
 | 63 | GLINEUR MICHAEL | TEAM ENFER DU NORD WALLERS ARENBERG | 21 | 2ème | 1:2:41 | 
-| **64** | **[DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **21** | **1ère** | **1:5:53** | 
+| **64** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **21** | **1ère** | **1:5:53** | 
 | 65 | DUPONT XAVIER | NEW ORANGE TEAM BOUSBECQUE | 21 | 3ème | 1:6:24 | 
 | 66 | DEFOSSEZ RODRIGUE | CLUB CYCLISTE THUN ST MARTIN | 21 | 3ème | 1:6:28 | 
 | 67 | BIANCUCCI MARIO | VELO CLUB UNION HALLUIN | 21 | 3ème | 1:6:31 | 

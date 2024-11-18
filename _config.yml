@@ -5,7 +5,7 @@ email: "lobwick@hotmail.fr"
 description: "Team Specialized Lille - Équipe cycliste du nord de la france"
 author: "Félix"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://teamspecializedlille.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://teamspecializedlille.cc" # the base hostname & protocol for your site, e.g. http://example.com
 date_format: "%d %B %Y"
 
 # paginations & permalinks

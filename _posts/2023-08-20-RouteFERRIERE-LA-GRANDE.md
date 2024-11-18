@@ -9,12 +9,12 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 33 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald) : 6
-- [LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane) : 9
+- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 6
+- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 9
 
 ### 2ème Catégorie
 24 participants
-- [LECOLIER BENOIT](https://teamspecializedlille.github.io/coureurs/lecolierbenoit) : 9
+- [LECOLIER BENOIT](https://teamspecializedlille.cc/coureurs/lecolierbenoit) : 9
 
 ### Scratch
 102 participants
@@ -26,10 +26,10 @@ image: assets/img/blog/road.jpeg
 | 3 | DEBUISSON JULIAN | UNION SPORTIVE SAINT ANDRE | 9 | 1ère | 2:14:59 | 
 | 4 | BINETRUY VICTOR | TEAM B.B.L. HERGNIES | 9 | 1ère | 2:18:38 | 
 | 5 | DELPLANQUE DYLAN | VELO SPRINT DE L'OSTREVENT - AUBERCHICOURT | 9 | 1ère | 2:18:38 | 
-| **6** | **[MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **9** | **1ère** | **2:18:44** | 
+| **6** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **9** | **1ère** | **2:18:44** | 
 | 7 | LORRIAUX JULIEN | VELO CLUB SOLESMES | 9 | 1ère | 2:18:45 | 
 | 8 | SIRO AURELIEN | ASSOCIATION CYCLISTE D'ETROEUNGT | 9 | 1ère | 2:18:46 | 
-| **9** | **[LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **9** | **1ère** | **2:18:46** | 
+| **9** | **[LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **9** | **1ère** | **2:18:46** | 
 | 10 | DELOBELLE OLIVIER | UNION SPORTIVE SAINT ANDRE | 9 | 1ère | 2:18:46 | 
 | 11 | VANDERHAEGEN REGIS | ASSOCIATION CYCLISTE D'ETROEUNGT | 9 | 1ère | 2:18:46 | 
 | 12 | DERUEL ANTOINE | VELO CLUB BAVAISIEN | 9 | 1ère | 2:18:46 | 
@@ -50,7 +50,7 @@ image: assets/img/blog/road.jpeg
 | 27 | DELPIRE FREDERIC | VTT  CLUB PONT SUR SAMBRE | 8 | 2ème | 2:7:43 | 
 | 28 | DRUART JEROME | VELO CLUB BAVAISIEN | 8 | 2ème | 2:7:43 | 
 | 29 | TOURNEUX MICKAEL | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 8 | 2ème | 2:7:43 | 
-| **30** | **[LECOLIER BENOIT](https://teamspecializedlille.github.io/coureurs/lecolierbenoit)** | **TEAM SPECIALIZED LILLE** | **8** | **2ème** | **2:7:43** | 
+| **30** | **[LECOLIER BENOIT](https://teamspecializedlille.cc/coureurs/lecolierbenoit)** | **TEAM SPECIALIZED LILLE** | **8** | **2ème** | **2:7:43** | 
 | 31 | IMBERT JOHNNY | ETOILE CYCLISTE TOURCOING | 8 | 2ème | 2:7:43 | 
 | 32 | BONNET JOHNNY | TEAM VTT JEUMONT | 8 | 2ème | 2:7:43 | 
 | 33 | DUFOUR KEVIN | VELO CLUB DE L'ESCAUT ANZIN | 8 | 2ème | 2:7:44 | 

@@ -9,13 +9,13 @@ image: assets/img/blog/road.jpeg
 
 ### 2ème Catégorie
 30 participants
-- [DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier) : 1
-- [BROUTIN ANTOINE](https://teamspecializedlille.github.io/coureurs/broutinantoine) : 20
+- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 1
+- [BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine) : 20
 
 ### 3ème Catégorie
 47 participants
-- [WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit) : 7
-- [DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael) : 35
+- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 7
+- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 35
 
 ### Scratch
 131 participants
@@ -34,7 +34,7 @@ image: assets/img/blog/road.jpeg
 | 10 | BOURGEOIS SYLVAIN | ETOILE CYCLISTE LIEU ST AMAND | 10 | 1ère | 1:26:14 | 
 | 11 | RIVART ADRIEN | ASSOCIATION CYCLISTE BELLAINGEOISE | 10 | 1ère | 1:26:16 | 
 | 12 | LEFEVRE SEBASTIEN | UNION VELOCIPEDIQUE FOURMISIENNE | 10 | 1ère | 1:26:29 | 
-| **13** | **[DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **10** | **2ème** | **1:30:50** | 
+| **13** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **10** | **2ème** | **1:30:50** | 
 | 14 | RIGAUX JEAN JACQUES | CLUB CYCLISTE THUN ST MARTIN | 10 | 2ème | 1:30:50 | 
 | 15 | WAN MEENEN JULIEN | VTT  CLUB PONT SUR SAMBRE | 10 | 2ème | 1:30:50 | 
 | 16 | LENGLET GUILLAUME | NOUVELLE ETOILE SPORTIVE BOUE ETREUX | 10 | 2ème | 1:30:51 | 
@@ -61,7 +61,7 @@ image: assets/img/blog/road.jpeg
 | 37 | BARENNE LAURENT | VELO CLUB UNION HALLUIN | 9 | 3ème | 1:21:32 | 
 | 38 | DUPONT REMI | RESILIENCE CLUB | 9 | 3ème | 1:21:32 | 
 | 39 | DALLE CLEMENT | VELO CLUB SOLESMES | 9 | 3ème | 1:21:41 | 
-| **40** | **[WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **9** | **3ème** | **1:21:41** | 
+| **40** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **9** | **3ème** | **1:21:41** | 
 | 41 | POIDEVIN LUDOVIC | TEAM BIKE PRESEAU | 9 | 3ème | 1:21:41 | 
 | 42 | LIENAUX YVES | ASSOCIATION SPORTIVE VELOCIPEDIQUE LA LONGUEVILLE | 9 | 3ème | 1:21:42 | 
 | 43 | DEFOSSEZ RODRIGUE | CLUB CYCLISTE THUN ST MARTIN | 9 | 3ème | 1:21:42 | 
@@ -89,13 +89,13 @@ image: assets/img/blog/road.jpeg
 | 65 | GEORGES DAVID | UNION SPORTIVE VALENCIENNES CRESPIN | 9 | 3ème | 1:22:55 | 
 | 66 | LAGNEAU PASCAL | VTT  CLUB PONT SUR SAMBRE | 9 | 3ème | 1:22:56 | 
 | 67 | ROULY FRANCK | ETOILE CYCLISTE LIEU ST AMAND | 9 | 3ème | 1:22:57 | 
-| **68** | **[DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **9** | **3ème** | **1:22:58** | 
+| **68** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **9** | **3ème** | **1:22:58** | 
 | 69 | BRIXHE ALAIN | VTT  CLUB PONT SUR SAMBRE | 9 | 3ème | 1:22:59 | 
 | 70 | MOLARD NICOLAS | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 9 | 3ème | 1:22:59 | 
 | 71 | DECRUCQ ROMUALD | UNION VELOCIPEDIQUE FOURMISIENNE | 9 | 3ème | 1:22:59 | 
 | 72 | PORQUET LUDOVIC | SAULZOIR MONTRECOURT CYCLING CLUB | 9 | 3ème | 1:22:59 | 
 | 73 | ROUSSEAU DIDIER | ETOILE CYCLISTE FEIGNIES | 8 | 2ème | 1:11:21 | 
-| **74** | **[BROUTIN ANTOINE](https://teamspecializedlille.github.io/coureurs/broutinantoine)** | **TEAM SPECIALIZED LILLE** | **8** | **2ème** | **1:11:21** | 
+| **74** | **[BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine)** | **TEAM SPECIALIZED LILLE** | **8** | **2ème** | **1:11:21** | 
 | 75 | DEVILLE ANDY | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 8 | 2ème | 1:11:25 | 
 | 76 | LOGIE MATHIEU | NEW ORANGE TEAM BOUSBECQUE | 8 | 1ère | 1:13:4 | 
 | 77 | MORAUX KEVIN | UNION SPORTIVE VALENCIENNES CRESPIN | 8 | 1ère | 1:13:4 | 

@@ -9,18 +9,18 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 49 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien) : 32
+- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 32
 
 ### 2ème Catégorie
 70 participants
-- [BROUTIN ANTOINE](https://teamspecializedlille.github.io/coureurs/broutinantoine) : 60
-- [DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve) : 67
+- [BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine) : 60
+- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 67
 
 ### 3ème Catégorie
 93 participants
-- [DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid) : 5
-- [WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit) : 17
-- [DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier) : 23
+- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 5
+- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 17
+- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 23
 
 ### Scratch
 279 participants
@@ -58,7 +58,7 @@ image: assets/img/blog/road.jpeg
 | 29 | MURRUZZU AURELIEN | UNION SPORTIVE SAINT ANDRE | 8 | 1ère | 1:44:43 | 
 | 30 | DEWALLENS STEPHANE | UNION CYCLISTE SOLRE LE CHATEAU | 8 | 1ère | 1:44:44 | 
 | 31 | DEPRE SIMON | ESEG DOUAI | 8 | 1ère | 1:44:46 | 
-| **32** | **[DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **8** | **1ère** | **1:44:47** | 
+| **32** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **8** | **1ère** | **1:44:47** | 
 | 33 | LESAGE ANTHONY | ASSOCIATION CYCLISTE BELLAINGEOISE | 8 | 1ère | 1:44:47 | 
 | 34 | DELANGUE THOMAS | NEW ORANGE TEAM BOUSBECQUE | 8 | 1ère | 1:44:48 | 
 | 35 | VASSEUR HUGO | UNION SPORTIVE SAINT ANDRE | 8 | 1ère | 1:44:48 | 
@@ -131,21 +131,21 @@ image: assets/img/blog/road.jpeg
 | 102 | HAVET SEBASTIEN | GAZ ELEC CLUB DE DOUAI | 8 | 2ème | 1:54:3 | 
 | 103 | HARDY JEAN PHILIPPE | LA CHERIZIENNE - VILLE DE CHAUNY | 8 | 2ème | 1:54:4 | 
 | 104 | DI CARLO DAVID | NEW ORANGE TEAM BOUSBECQUE | 8 | 2ème | 1:54:5 | 
-| **105** | **[BROUTIN ANTOINE](https://teamspecializedlille.github.io/coureurs/broutinantoine)** | **TEAM SPECIALIZED LILLE** | **8** | **2ème** | **1:54:5** | 
+| **105** | **[BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine)** | **TEAM SPECIALIZED LILLE** | **8** | **2ème** | **1:54:5** | 
 | 106 | HERFEUIL ANTHONY | UNION SPORTIVE SAINT ANDRE | 8 | 2ème | 1:54:5 | 
 | 107 | CORNU ANDREAS | ETOILE CYCLISTE LIEU ST AMAND | 8 | 2ème | 1:54:5 | 
 | 108 | BOS FABRICE | ASSOCIATION CYCLISTE BELLAINGEOISE | 8 | 2ème | 1:54:5 | 
 | 109 | TISON CEDRIC | TEAM ENFER WALLERS ARENBERG | 8 | 2ème | 1:54:6 | 
 | 110 | SAINTRAIN GERARD | ETOILE CYCLISTE LIEU ST AMAND | 8 | 2ème | 1:54:7 | 
 | 111 | MUI PHILIPPE HOO TONG | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 8 | 2ème | 1:54:16 | 
-| **112** | **[DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **8** | **2ème** | **1:54:17** | 
+| **112** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **8** | **2ème** | **1:54:17** | 
 | 113 | BARTKOWIAK CLEMENT | HENIN ETOILE CYCLISTE HENINOISE | 8 | 1ère | 1:54:26 | 
 | 114 | LE VOURCH DAMIEN | AGNY ARTeam | 8 | 2ème | 1:54:33 | 
 | 115 | GUSTAVE DIMITRI | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 7 | 3ème | 1:37:37 | 
 | 116 | CODDEVILLE KENNY | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 7 | 3ème | 1:37:38 | 
 | 117 | VANAUBERG GAETAN | NEW TEAM MAULDE | 7 | 3ème | 1:37:38 | 
 | 118 | FLAMENT JAMES | HARNES VELO CLUB HARNESIEN | 7 | 3ème | 1:37:38 | 
-| **119** | **[DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **7** | **3ème** | **1:37:38** | 
+| **119** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **7** | **3ème** | **1:37:38** | 
 | 120 | VANHALWYN DIMITRI | VELO CLUB UNION HALLUIN | 7 | 3ème | 1:37:39 | 
 | 121 | HENNOCQ FRANCOIS | E2CJ - Energy Cycling Club Joncourt | 7 | 3ème | 1:37:39 | 
 | 122 | BIANCUCCI MARIO | VELO CLUB UNION HALLUIN | 7 | 3ème | 1:37:40 | 
@@ -157,13 +157,13 @@ image: assets/img/blog/road.jpeg
 | 128 | LEGRAND MICHAEL | RESILIENCE CLUB | 7 | 3ème | 1:37:41 | 
 | 129 | FELIX JOHNNY | TEAM MATERIEL-VELO.COM BONDUES | 7 | 3ème | 1:37:42 | 
 | 130 | CARPELS GUILLAUME | VELO CLUB UNION HALLUIN | 7 | 3ème | 1:37:42 | 
-| **131** | **[WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **7** | **3ème** | **1:37:42** | 
+| **131** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **7** | **3ème** | **1:37:42** | 
 | 132 | QUESTE DAVID | TEAM B.B.L. HERGNIES | 7 | 3ème | 1:37:43 | 
 | 133 | AUSSEMS JEAN-YVES | UNION SPORTIVE SAINT ANDRE | 7 | 3ème | 1:37:43 | 
 | 134 | MARTEL THOMAS | RESILIENCE CLUB | 7 | 3ème | 1:37:43 | 
 | 135 | BERNARD PHILIPPE | ROUE D'OR COMINOISE | 7 | 3ème | 1:37:43 | 
 | 136 | CONTESSE FREDERIC | ASSOCIATION CYCLISTE D'ETROEUNGT | 7 | 3ème | 1:37:44 | 
-| **137** | **[DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **7** | **3ème** | **1:37:44** | 
+| **137** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **7** | **3ème** | **1:37:44** | 
 | 138 | DELFORGE FABRICE | CYCLO CLUB ORCHIES | 7 | 3ème | 1:37:44 | 
 | 139 | SERE BENJAMIN | CYCLO CLUB WAVRIN | 7 | 3ème | 1:37:44 | 
 | 140 | DEBRUILLE MATHYS | TEAM PEVELE CAREMBAULT CYCLISME | 7 | 3ème | 1:37:44 | 

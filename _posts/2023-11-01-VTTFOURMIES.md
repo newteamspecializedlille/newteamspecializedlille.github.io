@@ -9,7 +9,7 @@ image: assets/img/blog/vtt.jpeg
 
 ### VTT Vétérans B
 8 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald) : 1
+- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 1
 
 ### Scratch
 41 participants
@@ -21,7 +21,7 @@ image: assets/img/blog/vtt.jpeg
 | 3 | DARTUS MIKAEL | VELO CLUB SOLESMES | 8 | Vétérans A | 1:3:46 | 
 | 4 | KADDOUR-DJEBBAR FREDERIC | VTT  CLUB PONT SUR SAMBRE | 8 | Vétérans A | 1:4:6 | 
 | 5 | QUENTIN LAURENT | LA ROUE D'OR GUISARDE | 8 | Vétérans A | 1:5:33 | 
-| **6** | **[MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans B** | **1:5:59** | 
+| **6** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans B** | **1:5:59** | 
 | 7 | DELADERIERE ROMAIN | pont sur sambre | 8 | Seniors A | 1:6:58 | 
 | 8 | LEFEVRE DONIPHAN | 52X11 HIRSON THIÉRACHE | 8 | Vétérans A | 1:7:32 | 
 | 9 | ROBERT BENJAMIN | U.C. CAPELLOISE FOURMIES | 8 | Seniors A | 1:7:37 | 

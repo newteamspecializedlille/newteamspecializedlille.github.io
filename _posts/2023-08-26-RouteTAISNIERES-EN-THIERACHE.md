@@ -9,7 +9,7 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 23 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve) : 12
+- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 12
 
 ### Scratch
 131 participants
@@ -27,7 +27,7 @@ image: assets/img/blog/road.jpeg
 | 9 | WINS ALEXIS | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 12 | 1ère | 1:55:55 | 
 | 10 | DE RIDDER SEBASTIEN | NOUVELLE ETOILE SPORTIVE BOUE ETREUX | 12 | 1ère | 1:59:11 | 
 | 11 | RIVART ADRIEN | ASSOCIATION CYCLISTE BELLAINGEOISE | 12 | 1ère | 1:59:11 | 
-| **12** | **[DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **12** | **1ère** | **1:59:11** | 
+| **12** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **12** | **1ère** | **1:59:11** | 
 | 13 | VAILLANT LOUIS | UNION SPORTIVE VALENCIENNES CRESPIN | 12 | 1ère | 1:59:14 | 
 | 14 | LEFEVRE EDDY | UNION VELOCIPEDIQUE FOURMISIENNE | 12 | 1ère | 1:59:19 | 
 | 15 | MICHEL ANTHONY | ASSOCIATION CYCLISTE BELLAINGEOISE | 12 | 1ère | 1:59:25 | 

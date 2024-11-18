@@ -9,7 +9,7 @@ image: assets/img/resultats/2023-12-03-VTTPONT-SUR-SAMBRE/1.jpg
 
 ### VTT Vétérans B
 15 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald) : 1
+- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 1
 
 ### Scratch
 38 participants
@@ -17,7 +17,7 @@ image: assets/img/resultats/2023-12-03-VTTPONT-SUR-SAMBRE/1.jpg
 | Place | Nom | Team | Tours | Catégorie | Temps |
 |---|---|---|---|---|---|
 | 1 | MICHEL KEVIN | ASSOCIATION CYCLISTE BELLAINGEOISE | 10 | Seniors A | 0:52:32 | 
-| **2** | **[MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **10** | **Vétérans B** | **0:53:49** | 
+| **2** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **10** | **Vétérans B** | **0:53:49** | 
 | 3 | DARTUS MIKAEL | VELO CLUB SOLESMES | 10 | Vétérans A | 0:54:53 | 
 | 4 | RIVART ADRIEN | ASSOCIATION CYCLISTE BELLAINGEOISE | 10 | Seniors A | 0:55:44 | 
 | 5 | LORRIAUX JULIEN | VELO CLUB SOLESMES | 10 | Seniors B | 0:55:55 | 

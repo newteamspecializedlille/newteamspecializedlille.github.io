@@ -9,7 +9,7 @@ image: assets/img/resultats/2024-01-13-VTTBOUVIGNIES/1.jpg
 
 ### VTT Vétérans B
 14 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald) : 1
+- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 1
 
 ### Scratch
 31 participants
@@ -22,7 +22,7 @@ image: assets/img/resultats/2024-01-13-VTTBOUVIGNIES/1.jpg
 | 4 | DARTUS MIKAEL | VELO CLUB SOLESMES | 8 | Vétérans A | 0:57:12 | 
 | 5 | LEPLAN BENJAMIN | AGNY ARTeam | 8 | Seniors B | 0:58:6 | 
 | 6 | JABLONSKI SEBASTIEN | TEAM B.B.L. HERGNIES | 8 | Vétérans A | 0:58:53 | 
-| **7** | **[MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans B** | **0:58:57** | 
+| **7** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans B** | **0:58:57** | 
 | 8 | COLLET LEO | ESEG DOUAI | 8 | Seniors A | 0:59:0 | 
 | 9 | CAZE ALBAN | UNION SPORTIVE SAINT ANDRE | 8 | Vétérans A | 0:59:28 | 
 | 10 | HANNOT CHRISTOPHE | UNION SPORTIVE VALENCIENNES CRESPIN | 8 | Vétérans A | 1:0:0 | 

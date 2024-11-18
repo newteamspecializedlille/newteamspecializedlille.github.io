@@ -9,19 +9,19 @@ image: assets/img/resultats/2024-03-10-RouteRIEULAY/1.jpeg
 
 ### 1ère Catégorie
 58 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien) : 36
+- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 36
 
 ### 2ème Catégorie
 86 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve) : 24
-- [BROUTIN ANTOINE](https://teamspecializedlille.github.io/coureurs/broutinantoine) : 55
+- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 24
+- [BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine) : 55
 
 ### 3ème Catégorie
 92 participants
-- [DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid) : 13
-- [DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier) : 16
-- [WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit) : 34
-- [DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael) : 53
+- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 13
+- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 16
+- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 34
+- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 53
 
 ### Scratch
 317 participants
@@ -63,7 +63,7 @@ image: assets/img/resultats/2024-03-10-RouteRIEULAY/1.jpeg
 | 33 | DE VREESE ALEXIS | UNION SPORTIVE SAINT ANDRE | 11 | 1ère | 1:36:16 | 
 | 34 | MULAS YANN | VELO SPRINT DE L'OSTREVENT - AUBERCHICOURT | 11 | 1ère | 1:36:16 | 
 | 35 | BUGNICOURT CYRIL | UNION VELOCIPEDIQUE FOURMISIENNE | 11 | 1ère | 1:36:16 | 
-| **36** | **[DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **11** | **1ère** | **1:36:16** | 
+| **36** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **11** | **1ère** | **1:36:16** | 
 | 37 | DERUEL ANTOINE | ASSOCIATION SPORTIVE VELOCIPEDIQUE LA LONGUEVILLE | 11 | 1ère | 1:36:16 | 
 | 38 | CINQUINA GUISEPPE | ETOILE CYCLISTE LIEU ST AMAND | 11 | 1ère | 1:36:17 | 
 | 39 | VAILLANT LOUIS | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 11 | 1ère | 1:36:17 | 
@@ -106,7 +106,7 @@ image: assets/img/resultats/2024-03-10-RouteRIEULAY/1.jpeg
 | 76 | JUILLET GLENN | TEAM MATERIEL-VELO.COM BONDUES | 11 | 2ème | 1:45:7 | 
 | 77 | BRUNEBARBE SEBASTIEN | UNION SPORTIVE VALENCIENNES CRESPIN | 11 | 2ème | 1:45:7 | 
 | 78 | LEMAITRE JULES | CYCLO CLUB ORCHIES | 11 | 2ème | 1:45:8 | 
-| **79** | **[DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **11** | **2ème** | **1:45:8** | 
+| **79** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **11** | **2ème** | **1:45:8** | 
 | 80 | DEBLIQUI PASCAL | VELO CLUB AMANDINOIS | 11 | 2ème | 1:45:8 | 
 | 81 | CHALAS JEAN PIERRE | UNION SPORTIVE SAINT ANDRE | 11 | 2ème | 1:45:8 | 
 | 82 | LEVAS LAURENT | UNION SPORTIVE VALENCIENNES CRESPIN | 11 | 2ème | 1:45:8 | 
@@ -137,7 +137,7 @@ image: assets/img/resultats/2024-03-10-RouteRIEULAY/1.jpeg
 | 107 | TRIOLO FLORENT | UNION SPORTIVE VALENCIENNES CRESPIN | 11 | 2ème | 1:45:10 | 
 | 108 | LECHAT RENAUD | UNION SPORTIVE VALENCIENNES CRESPIN | 11 | 2ème | 1:45:10 | 
 | 109 | DEVYNCK MATTHIEU | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 11 | 2ème | 1:45:11 | 
-| **110** | **[BROUTIN ANTOINE](https://teamspecializedlille.github.io/coureurs/broutinantoine)** | **TEAM SPECIALIZED LILLE** | **11** | **2ème** | **1:45:11** | 
+| **110** | **[BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine)** | **TEAM SPECIALIZED LILLE** | **11** | **2ème** | **1:45:11** | 
 | 111 | DUSSERRE ALEXANDRE | FENAIN CYCLO CLUB | 11 | 2ème | 1:45:12 | 
 | 112 | BLONDEL FREDERIC | ESEG DOUAI | 11 | 2ème | 1:45:12 | 
 | 113 | VANDEN TORREN MAXIME | MANQUEVILLE LILLERS CLUB CYCLISTE | 11 | 2ème | 1:45:13 | 
@@ -172,10 +172,10 @@ image: assets/img/resultats/2024-03-10-RouteRIEULAY/1.jpeg
 | 142 | DEBRIL BENJAMIN | CYCLO CLUB ORCHIES | 10 | 3ème | 1:32:52 | 
 | 143 | RENAUT VINCENT | SAULZOIR MONTRECOURT CYCLING CLUB | 10 | 3ème | 1:32:53 | 
 | 144 | CODDEVILLE RUDY | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 10 | 3ème | 1:32:53 | 
-| **145** | **[DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **10** | **3ème** | **1:32:53** | 
+| **145** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **10** | **3ème** | **1:32:53** | 
 | 146 | PENSERINI FABIEN | ETOILE CYCLISTE LIEU ST AMAND | 10 | 3ème | 1:32:53 | 
 | 147 | DROLET PHILIPPE | UNION SPORTIVE SAINT ANDRE | 10 | 3ème | 1:32:53 | 
-| **148** | **[DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **10** | **3ème** | **1:32:53** | 
+| **148** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **10** | **3ème** | **1:32:53** | 
 | 149 | DEMOUILLER FREDERIC | UNION SPORTIVE VALENCIENNES CRESPIN | 10 | 3ème | 1:32:53 | 
 | 150 | BIANCUCCI MARIO | VELO CLUB UNION HALLUIN | 10 | 3ème | 1:32:53 | 
 | 151 | MARCHANDISE PATRICE | VELO CLUB UNION HALLUIN | 10 | 3ème | 1:32:53 | 
@@ -193,7 +193,7 @@ image: assets/img/resultats/2024-03-10-RouteRIEULAY/1.jpeg
 | 163 | MARTINACHE AXEL | CYCLO CLUB ORCHIES | 10 | 3ème | 1:32:56 | 
 | 164 | BEREAUX LUCAS | TEAM MELANTOIS - PERONNE EN MELANTOIS | 10 | 3ème | 1:32:56 | 
 | 165 | DOOM PATRICE | ROUE D'OR COMINOISE | 10 | 3ème | 1:32:56 | 
-| **166** | **[WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **10** | **3ème** | **1:32:56** | 
+| **166** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **10** | **3ème** | **1:32:56** | 
 | 167 | BOUTONNE FREDERIC | TEAM BOUSIES | 10 | 3ème | 1:32:56 | 
 | 168 | FOULON RANDY | AGNY ARTeam | 10 | 3ème | 1:32:56 | 
 | 169 | BLONDEAU LUDIVINE | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 10 | 3ème | 1:32:57 | 
@@ -212,7 +212,7 @@ image: assets/img/resultats/2024-03-10-RouteRIEULAY/1.jpeg
 | 182 | COMBLIN DAVID | ASSOCIATION CYCLISTE BELLAINGEOISE | 10 | 3ème | 1:32:59 | 
 | 183 | LONGELIN LOIC | ESEG DOUAI | 10 | 3ème | 1:32:59 | 
 | 184 | GATOUX SULLIVAN | MANQUEVILLE LILLERS CLUB CYCLISTE | 10 | 3ème | 1:32:59 | 
-| **185** | **[DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **10** | **3ème** | **1:32:59** | 
+| **185** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **10** | **3ème** | **1:32:59** | 
 | 186 | FRANCOIS GERALD | SAULZOIR MONTRECOURT CYCLING CLUB | 10 | 3ème | 1:33:0 | 
 | 187 | KWIATKOWSKI SYLVAIN | ASSOCIATION SPORTIVE VELOCIPEDIQUE LA LONGUEVILLE | 10 | 3ème | 1:33:0 | 
 | 188 | CLAISSE ANAIS | UNION SPORTIVE VALENCIENNES CRESPIN | 10 | 3ème | 1:33:0 | 

@@ -9,16 +9,16 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 29 participants
-- [SCHERNU CHRISTOPHE](https://teamspecializedlille.github.io/coureurs/schernuchristophe) : 15
+- [SCHERNU CHRISTOPHE](https://teamspecializedlille.cc/coureurs/schernuchristophe) : 15
 
 ### 2ème Catégorie
 51 participants
-- [LECLERCQ FRANCK](https://teamspecializedlille.github.io/coureurs/leclercqfranck) : 5
-- [LECOLIER BENOIT](https://teamspecializedlille.github.io/coureurs/lecolierbenoit) : 28
+- [LECLERCQ FRANCK](https://teamspecializedlille.cc/coureurs/leclercqfranck) : 5
+- [LECOLIER BENOIT](https://teamspecializedlille.cc/coureurs/lecolierbenoit) : 28
 
 ### 3ème Catégorie
 57 participants
-- [MOULIN FELIX](https://teamspecializedlille.github.io/coureurs/moulinfelix) : 41
+- [MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix) : 41
 
 ### Scratch
 168 participants
@@ -39,7 +39,7 @@ image: assets/img/blog/road.jpeg
 | 12 | NAMANE STEVE | NEW ORANGE TEAM BOUSBECQUE | 26 | 1ère | 1:40:12 | 
 | 13 | LETUFFE SAMUEL | CYCLO CLUB WAVRIN | 26 | 1ère | 1:40:12 | 
 | 14 | HEUNET OLIVIER | GAZ ELEC CLUB DE DOUAI | 26 | 1ère | 1:40:13 | 
-| **15** | **[SCHERNU CHRISTOPHE](https://teamspecializedlille.github.io/coureurs/schernuchristophe)** | **TEAM SPECIALIZED LILLE** | **26** | **1ère** | **1:40:13** | 
+| **15** | **[SCHERNU CHRISTOPHE](https://teamspecializedlille.cc/coureurs/schernuchristophe)** | **TEAM SPECIALIZED LILLE** | **26** | **1ère** | **1:40:13** | 
 | 16 | MARQUET VICTOR | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 26 | 1ère | 1:40:13 | 
 | 17 | JOLIS CLEMENT | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 26 | 1ère | 1:40:13 | 
 | 18 | LUSTRE DAMIEN | AGNY ARTEAM | 26 | 1ère | 1:40:13 | 
@@ -50,7 +50,7 @@ image: assets/img/blog/road.jpeg
 | 23 | DEPARIS TRISTAN | LINSELLES CYCLISME | 24 | 2ème | 1:33:59 | 
 | 24 | VANWYNSBERGHE SAMUEL | NEW ORANGE TEAM BOUSBECQUE | 24 | 2ème | 1:33:59 | 
 | 25 | VANDERMEIREN MANUEL | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 24 | 2ème | 1:34:0 | 
-| **26** | **[LECLERCQ FRANCK](https://teamspecializedlille.github.io/coureurs/leclercqfranck)** | **TEAM SPECIALIZED LILLE** | **24** | **2ème** | **1:34:0** | 
+| **26** | **[LECLERCQ FRANCK](https://teamspecializedlille.cc/coureurs/leclercqfranck)** | **TEAM SPECIALIZED LILLE** | **24** | **2ème** | **1:34:0** | 
 | 27 | DELCOURT VINCENT | VELO CLUB UNION HALLUIN | 24 | 2ème | 1:34:1 | 
 | 28 | BOUVET GRICOURT HUGO | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 24 | 2ème | 1:34:1 | 
 | 29 | BOUDIN MATHIEU | TEAM POLICE HDF - ROUBAIX | 24 | 2ème | 1:34:1 | 
@@ -73,7 +73,7 @@ image: assets/img/blog/road.jpeg
 | 46 | POIRE JEREMY | HENIN ETOILE CYCLISTE HENINOISE | 24 | 2ème | 1:34:10 | 
 | 47 | POTIER FREDERIC | ETOILE CYCLISTE TOURCOING | 24 | 2ème | 1:34:22 | 
 | 48 | DOOM PATRICE | ROUE D'OR COMINOISE | 24 | 2ème | 1:35:29 | 
-| **49** | **[LECOLIER BENOIT](https://teamspecializedlille.github.io/coureurs/lecolierbenoit)** | **TEAM SPECIALIZED LILLE** | **23** | **2ème** | **1:30:37** | 
+| **49** | **[LECOLIER BENOIT](https://teamspecializedlille.cc/coureurs/lecolierbenoit)** | **TEAM SPECIALIZED LILLE** | **23** | **2ème** | **1:30:37** | 
 | 50 | PLOUVIEZ VINCENT | CYCLO CLUB WAVRIN | 23 | 2ème | 1:32:47 | 
 | 51 | BELKEIR SLIMAN | NEW ORANGE TEAM BOUSBECQUE | 23 | 2ème | 1:34:16 | 
 | 52 | LEPLAN BENJAMIN | AGNY ARTEAM | 23 | 2ème | 1:36:30 | 
@@ -142,7 +142,7 @@ image: assets/img/blog/road.jpeg
 | 115 | SERE MARC | CYCLO CLUB WAVRIN | 19 | 3ème | 1:27:20 | 
 | 116 | BRICHE ANTOINE | CYCLO CLUB WAVRIN | 19 | 3ème | 1:27:21 | 
 | 117 | ART FREDDY | FLEURBAIX TEAM SHARK VTT | 19 | 3ème | 1:27:29 | 
-| **118** | **[MOULIN FELIX](https://teamspecializedlille.github.io/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **19** | **3ème** | **1:29:24** | 
+| **118** | **[MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **19** | **3ème** | **1:29:24** | 
 | 119 | LEGRAND DENIS | BARLIN CERCLE LAIQUE | 19 | 3ème | 1:29:25 | 
 | 120 | VERHAEGHE ALEXANDRE | LINSELLES CYCLISME | 19 | 3ème | 1:30:55 | 
 | 121 | SMETS SEBASTIEN | CYCLO CLUB WAVRIN | 18 | 4ème | 1:19:57 | 

@@ -9,16 +9,16 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 65 participants
-- [LECLERCQ FRANCK](https://teamspecializedlille.github.io/coureurs/leclercqfranck) : 27
-- [DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve) : 28
-- [LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane) : 36
-- [DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien) : 55
+- [LECLERCQ FRANCK](https://teamspecializedlille.cc/coureurs/leclercqfranck) : 27
+- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 28
+- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 36
+- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 55
 
 ### 3ème Catégorie
 99 participants
-- [HULEUX LUDOVIC](https://teamspecializedlille.github.io/coureurs/huleuxludovic) : 20
-- [MOLKA MICHAEL](https://teamspecializedlille.github.io/coureurs/molkamichael) : 28
-- [LECLERCQ CLEMENT](https://teamspecializedlille.github.io/coureurs/leclercqclement) : 84
+- [HULEUX LUDOVIC](https://teamspecializedlille.cc/coureurs/huleuxludovic) : 20
+- [MOLKA MICHAEL](https://teamspecializedlille.cc/coureurs/molkamichael) : 28
+- [LECLERCQ CLEMENT](https://teamspecializedlille.cc/coureurs/leclercqclement) : 84
 
 ### Scratch
 0 participants

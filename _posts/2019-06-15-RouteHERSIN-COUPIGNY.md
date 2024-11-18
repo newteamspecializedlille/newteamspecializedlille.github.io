@@ -9,7 +9,7 @@ image: assets/img/blog/road.jpeg
 
 ### 2ème Catégorie
 13 participants
-- [DARQUE JEAN FRANCOIS](https://teamspecializedlille.github.io/coureurs/darquejeanfrancois) : 2
+- [DARQUE JEAN FRANCOIS](https://teamspecializedlille.cc/coureurs/darquejeanfrancois) : 2
 
 ### Scratch
 0 participants

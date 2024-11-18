@@ -9,7 +9,7 @@ image: assets/img/resultats/2024-03-24-VTT2024Departement/1.jpg
 
 ### VTT Vétérans B
 15 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald) : 1
+- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 1
 
 ### Scratch
 42 participants
@@ -20,7 +20,7 @@ image: assets/img/resultats/2024-03-24-VTT2024Departement/1.jpg
 | 2 | HERFEUIL ANTHONY | UNION SPORTIVE SAINT ANDRE | 8 | Seniors B | 0:53:2 | 
 | 3 | RIVART ADRIEN | ASSOCIATION CYCLISTE BELLAINGEOISE | 8 | Seniors A | 0:54:30 | 
 | 4 | DURANT DIDIER | TEAM POLICE HDF | 8 | Vétérans B | 0:55:36 | 
-| **5** | **[MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans B** | **0:56:52** | 
+| **5** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans B** | **0:56:52** | 
 | 6 | DARTUS MIKAEL | VELO CLUB SOLESMES | 8 | Vétérans A | 0:57:16 | 
 | 7 | VAN STAEN ELOUAN | CYCLO CLUB WAVRIN | 8 | Seniors A | 0:57:37 | 
 | 8 | RIVART THIERRY | VTT  CLUB PONT SUR SAMBRE | 8 | Seniors B | 0:58:19 | 

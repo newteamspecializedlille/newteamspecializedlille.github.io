@@ -9,7 +9,7 @@ image: assets/img/blog/road.jpeg
 
 ### 3ème Catégorie
 71 participants
-- [LECLERCQ CLEMENT](https://teamspecializedlille.github.io/coureurs/leclercqclement) : AB
+- [LECLERCQ CLEMENT](https://teamspecializedlille.cc/coureurs/leclercqclement) : AB
 
 ### Scratch
 0 participants

@@ -9,11 +9,11 @@ image: assets/img/blog/vtt.jpeg
 
 ### VTT Sénior B
 16 participants
-- [DUFOUR JONATHAN](https://teamspecializedlille.github.io/coureurs/dufourjonathan) : 3
+- [DUFOUR JONATHAN](https://teamspecializedlille.cc/coureurs/dufourjonathan) : 3
 
 ### VTT Vétérans B
 11 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald) : 2
+- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 2
 
 ### Scratch
 40 participants
@@ -25,12 +25,12 @@ image: assets/img/blog/vtt.jpeg
 | 3 | HORCHOLLE REMI | VTT  CLUB PONT SUR SAMBRE | 8 | Seniors B | 1:21:35 | 
 | 4 | BONNET JOHNNY | UNION VELOCIPEDIQUE JEUMONT MARPENT | 8 | Seniors B | 1:21:35 | 
 | 5 | HANNOT CHRISTOPHE | VELO CLUB UNION HALLUIN | 8 | Vétérans A | 1:21:47 | 
-| **6** | **[DUFOUR JONATHAN](https://teamspecializedlille.github.io/coureurs/dufourjonathan)** | **TEAM SPECIALIZED LILLE** | **8** | **Seniors B** | **1:21:53** | 
+| **6** | **[DUFOUR JONATHAN](https://teamspecializedlille.cc/coureurs/dufourjonathan)** | **TEAM SPECIALIZED LILLE** | **8** | **Seniors B** | **1:21:53** | 
 | 7 | LIEVIN FRANCK | VTT SAINT AMAND LES EAUX | 8 | Vétérans B | 1:22:33 | 
 | 8 | DARTUS MIKAEL | VELO CLUB SOLESMES | 8 | Vétérans A | 1:22:40 | 
 | 9 | JABLONSKI SEBASTIEN | TEAM B.B.L. HERGNIES | 8 | Vétérans A | 1:22:58 | 
 | 10 | ARDID DAVID | UNION CYCLISTE SOLRE LE CHATEAU | 8 | Vétérans A | 1:22:58 | 
-| **11** | **[MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans B** | **1:22:58** | 
+| **11** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans B** | **1:22:58** | 
 | 12 | CANONNE STEVEN | VELO SPRINT DE L'OSTREVENT - AUBERCHICOURT | 8 | Seniors A | 1:23:58 | 
 | 13 | QUINZIN YOURI | TEAM BOUSIES | 8 | Seniors B | 1:24:6 | 
 | 14 | RIVART THIERRY | VTT  CLUB PONT SUR SAMBRE | 8 | Seniors B | 1:24:48 | 

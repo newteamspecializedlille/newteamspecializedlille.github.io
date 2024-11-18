@@ -9,11 +9,11 @@ image: assets/img/blog/road.jpeg
 
 ### 2ème Catégorie
 68 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve) : 18
+- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 18
 
 ### 3ème Catégorie
 78 participants
-- [WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit) : 53
+- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 53
 
 ### Scratch
 265 participants
@@ -71,7 +71,7 @@ image: assets/img/blog/road.jpeg
 | 49 | VANWYNSBERGHE SAMUEL | NEW ORANGE TEAM BOUSBECQUE | 24 | 2ème | 1:48:56 | 
 | 50 | KRUELSKI FABIEN | SAULZOIR MONTRECOURT CYCLING CLUB | 24 | 2ème | 1:48:57 | 
 | 51 | MATHIEU BERTRAND | TEAM CYCLISTE LA BORDURE - BETTRECHIES | 24 | 2ème | 1:48:58 | 
-| **52** | **[DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **24** | **2ème** | **1:48:58** | 
+| **52** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **24** | **2ème** | **1:48:58** | 
 | 53 | THOMAS MATTHIAS | TEAM B.B.L. HERGNIES | 24 | 2ème | 1:48:58 | 
 | 54 | DEPARIS TRISTAN | LINSELLES CYCLISME | 24 | 2ème | 1:48:59 | 
 | 55 | HERFEUIL ANTHONY | UNION SPORTIVE SAINT ANDRE | 24 | 2ème | 1:48:59 | 
@@ -177,7 +177,7 @@ image: assets/img/blog/road.jpeg
 | 155 | DEJEAN MATHIS | TEAM CYCLISTE LA BORDURE - BETTRECHIES | 19 | 3ème | 1:34:47 | 
 | 156 | DALLE FREDERIC | VELO CLUB SOLESMES | 19 | 3ème | 1:34:47 | 
 | 157 | SAUVAGE CORENTIN | TEAM CYCLISTE PROVINOIS - PROVIN | 19 | 3ème | 1:34:48 | 
-| **158** | **[WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **19** | **3ème** | **1:34:48** | 
+| **158** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **19** | **3ème** | **1:34:48** | 
 | 159 | DUBRUILLE CHRISTOPHE | SAULZOIR MONTRECOURT CYCLING CLUB | 19 | 3ème | 1:34:49 | 
 | 160 | CROMMELINCK AXEL | VELO CLUB AMANDINOIS | 19 | 3ème | 1:34:49 | 
 | 161 | THIBEAU LOIC | TEAM CYCLISTE LA BORDURE - BETTRECHIES | 19 | 3ème | 1:34:51 | 

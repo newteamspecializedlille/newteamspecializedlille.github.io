@@ -9,7 +9,7 @@ image: assets/img/blog/cx.jpeg
 
 ### 3ème Catégorie
 48 participants
-- [DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid) : 21
+- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 21
 
 ### Scratch
 103 participants
@@ -68,7 +68,7 @@ image: assets/img/blog/cx.jpeg
 | 50 | VANDEN TORREN MAXIME | MANQUEVILLE LILLERS CLUB CYCLISTE | 8 | 3ème | 0:59:12 | 
 | 51 | HAUTEM GERY | UNION SPORTIVE SAINT ANDRE | 8 | 3ème | 0:59:13 | 
 | 52 | DAGHELET THOMAS | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 7 | 3ème | 0:51:4 | 
-| **53** | **[DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **7** | **3ème** | **0:51:6** | 
+| **53** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **7** | **3ème** | **0:51:6** | 
 | 54 | PINART MATTHIEU | TEAM MELANTOIS - PERONNE EN MELANTOIS | 7 | 3ème | 0:51:12 | 
 | 55 | BARTIER SERGE | CAMPHIN EN CAREMBAULT CYCLING TEAM | 7 | 2ème | 0:51:13 | 
 | 56 | CAPILLIEZ PIERRE -ALAIN | MANQUEVILLE LILLERS CLUB CYCLISTE | 7 | 3ème | 0:51:16 | 

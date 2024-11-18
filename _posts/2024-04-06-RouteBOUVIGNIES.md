@@ -9,12 +9,12 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 31 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien) : 12
-- [SCHERNU CHRISTOPHE](https://teamspecializedlille.github.io/coureurs/schernuchristophe) : 22
+- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 12
+- [SCHERNU CHRISTOPHE](https://teamspecializedlille.cc/coureurs/schernuchristophe) : 22
 
 ### 2ème Catégorie
 50 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve) : 25
+- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 25
 
 ### Scratch
 190 participants
@@ -32,7 +32,7 @@ image: assets/img/blog/road.jpeg
 | 9 | BOURGEOIS SYLVAIN | ETOILE CYCLISTE LIEU ST AMAND | 20 | 1ère | 1:39:35 | 
 | 10 | DE PARMENTIER MAXENCE | VELO CLUB SOLESMES | 20 | 1ère | 1:39:39 | 
 | 11 | MAGNIES CLEMENT | CYCLO CLUB ORCHIES | 20 | 1ère | 1:39:39 | 
-| **12** | **[DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **20** | **1ère** | **1:41:50** | 
+| **12** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **20** | **1ère** | **1:41:50** | 
 | 13 | DELEPLACE HADRIEN | VELO CLUB ROUBAIX | 20 | 1ère | 1:41:53 | 
 | 14 | DELOBELLE OLIVIER | UNION SPORTIVE SAINT ANDRE | 20 | 1ère | 1:41:57 | 
 | 15 | HAJAER EDGARD | NEW ORANGE TEAM BOUSBECQUE | 20 | 1ère | 1:41:58 | 
@@ -42,7 +42,7 @@ image: assets/img/blog/road.jpeg
 | 19 | VASSEUR HUGO | UNION SPORTIVE SAINT ANDRE | 20 | 1ère | 1:42:18 | 
 | 20 | GROSSEMY GREGORY | CERCLE OLYMPIQUE MARCOING | 20 | 1ère | 1:42:20 | 
 | 21 | ANTON LUDOVIC | NEW TEAM MAULDE | 20 | 1ère | 1:42:22 | 
-| **22** | **[SCHERNU CHRISTOPHE](https://teamspecializedlille.github.io/coureurs/schernuchristophe)** | **TEAM SPECIALIZED LILLE** | **20** | **1ère** | **1:42:22** | 
+| **22** | **[SCHERNU CHRISTOPHE](https://teamspecializedlille.cc/coureurs/schernuchristophe)** | **TEAM SPECIALIZED LILLE** | **20** | **1ère** | **1:42:22** | 
 | 23 | PIAT JEREMY | ETOILE CYCLISTE LIEU ST AMAND | 20 | 1ère | 1:42:27 | 
 | 24 | DELSAUX DAMIEN | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 19 | 2ème | 1:26:53 | 
 | 25 | DORGE AURELIEN | VELO SPRINT BOUCHAIN | 19 | 2ème | 1:32:19 | 
@@ -70,7 +70,7 @@ image: assets/img/blog/road.jpeg
 | 47 | CINQUINA GUISEPPE | ETOILE CYCLISTE LIEU ST AMAND | 19 | 1ère | 1:41:9 | 
 | 48 | BOURSIER FRANCK | CLUB CYCLISTE D'ISBERGUES MOLINGHEM | 18 | 2ème | 1:33:46 | 
 | 49 | DEKOSTER MICKAEL | AGNY ARTeam | 18 | 2ème | 1:33:50 | 
-| **50** | **[DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **18** | **2ème** | **1:33:50** | 
+| **50** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **18** | **2ème** | **1:33:50** | 
 | 51 | ROUZE ERIK | LA PEDALE MADELEINOISE | 18 | 2ème | 1:33:57 | 
 | 52 | WAERNIER ROMUALD | UNION SPORTIVE SAINT ANDRE | 18 | 2ème | 1:35:23 | 
 | 53 | MOUFTIER LOUKA | TEAM VTT JEUMONT | 17 | 2ème | 1:33:14 | 

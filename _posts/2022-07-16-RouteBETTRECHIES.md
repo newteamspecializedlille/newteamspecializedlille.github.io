@@ -9,4 +9,4 @@ image: assets/img/blog/road.jpeg
 
 ### 3ème Catégorie
 48 participants
-- [HUBAUT CHRISTOPHE](https://teamspecializedlille.github.io/coureurs/hubautchristophe) : 10
+- [HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe) : 10

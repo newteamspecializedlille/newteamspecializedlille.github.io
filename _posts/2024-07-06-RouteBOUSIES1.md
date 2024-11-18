@@ -9,20 +9,20 @@ image: assets/img/blog/road.jpeg
 
 ### 2ème Catégorie
 32 participants
-- [MINNECI ELIO](https://teamspecializedlille.github.io/coureurs/minnecielio) : 2
-- [DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve) : 6
+- [MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio) : 2
+- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 6
 
 ### 3ème Catégorie
 39 participants
-- [DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier) : 1
-- [DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael) : 22
+- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 1
+- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 22
 
 ### Scratch
 110 participants
 
 | Place | Nom | Team | Tours | Catégorie | Temps |
 |---|---|---|---|---|---|
-| **1** | **[DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **22** | **3ème** | **1:0:27** | 
+| **1** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **22** | **3ème** | **1:0:27** | 
 | 2 | LORRIAUX JULIEN | VELO CLUB SOLESMES | 22 | 1ère | 1:0:50 | 
 | 3 | DEPIL LOUIS | ASSOCIATION CYCLISTE D'ETROEUNGT | 22 | 1ère | 1:0:50 | 
 | 4 | BRION CLEMENT | VELO SPRINT DE L'OSTREVENT - AUBERCHICOURT | 22 | 3ème | 1:0:52 | 
@@ -51,7 +51,7 @@ image: assets/img/blog/road.jpeg
 | 27 | DUMONT SEBASTIEN | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 22 | 3ème | 1:1:0 | 
 | 28 | BARENNE LAURENT | VELO CLUB UNION HALLUIN | 22 | 3ème | 1:1:0 | 
 | 29 | LAGNEAU PASCAL | VTT  CLUB PONT SUR SAMBRE | 22 | 3ème | 1:1:0 | 
-| **30** | **[DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **22** | **3ème** | **1:1:1** | 
+| **30** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **22** | **3ème** | **1:1:1** | 
 | 31 | DEJEAN GILLES | TEAM CYCLISTE LA BORDURE - BETTRECHIES | 22 | 3ème | 1:1:2 | 
 | 32 | JACOBS GUILLAUME | VTT  CLUB PONT SUR SAMBRE | 22 | 3ème | 1:1:2 | 
 | 33 | FURNE JEAN CHRISTOPHE | VELO SPRINT DE L'OSTREVENT - AUBERCHICOURT | 22 | 3ème | 1:1:3 | 
@@ -68,11 +68,11 @@ image: assets/img/blog/road.jpeg
 | 44 | DELOT GREGORY | TEAM BIKE PRESEAU | 22 | 3ème | 1:1:23 | 
 | 45 | POULAIN NOAH | TEAM DECOPUB PROVILLE | 22 | 3ème | 1:1:33 | 
 | 46 | PAVIE MAXIME | UNION SPORTIVE SAINT ANDRE | 21 | 2ème | 0:58:42 | 
-| **47** | **[MINNECI ELIO](https://teamspecializedlille.github.io/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **21** | **2ème** | **0:58:55** | 
+| **47** | **[MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **21** | **2ème** | **0:58:55** | 
 | 48 | THOMAS MATTHIAS | TEAM B.B.L. HERGNIES | 21 | 2ème | 0:58:55 | 
 | 49 | DEVOS CYRIL | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 21 | 2ème | 0:58:56 | 
 | 50 | MICHALLET THEO | LINSELLES CYCLISME | 21 | 2ème | 0:58:56 | 
-| **51** | **[DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **21** | **2ème** | **0:58:56** | 
+| **51** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **21** | **2ème** | **0:58:56** | 
 | 52 | ALBERTINI LUDOVIC | NEW ORANGE TEAM BOUSBECQUE | 21 | 2ème | 0:58:57 | 
 | 53 | DELPIRE FREDERIC | NEW ORANGE TEAM BOUSBECQUE | 21 | 2ème | 0:58:57 | 
 | 54 | DI GIOVANNI GIANNI | ESEG DOUAI | 21 | 2ème | 0:58:57 | 

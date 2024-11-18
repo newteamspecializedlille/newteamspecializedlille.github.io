@@ -9,13 +9,13 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 41 participants
-- [CROMBEZ THOMAS](https://teamspecializedlille.github.io/coureurs/crombezthomas) : 3
-- [MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald) : 16
+- [CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas) : 3
+- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 16
 
 ### 2ème Catégorie
 39 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve) : 18
-- [BROUTIN ANTOINE](https://teamspecializedlille.github.io/coureurs/broutinantoine) : Ab
+- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 18
+- [BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine) : Ab
 
 ### Scratch
 182 participants
@@ -24,7 +24,7 @@ image: assets/img/blog/road.jpeg
 |---|---|---|---|---|---|
 | 1 | SEMOULIN JOAKIM | TEAM B.B.L. HERGNIES | 21 | 1ère | 1:59:42 | 
 | 2 | TOUBEAU ALEXANDRE | UNION SPORTIVE VALENCIENNES CRESPIN | 21 | 1ère | 1:59:43 | 
-| **3** | **[CROMBEZ THOMAS](https://teamspecializedlille.github.io/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **21** | **1ère** | **2:1:35** | 
+| **3** | **[CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **21** | **1ère** | **2:1:35** | 
 | 4 | JABLONSKI SEBASTIEN | TEAM B.B.L. HERGNIES | 21 | 1ère | 2:1:37 | 
 | 5 | MARTHE ROMUALD | ETOILE CYCLISTE LIEU ST AMAND | 21 | 1ère | 2:1:39 | 
 | 6 | MICHEL ANTHONY | ASSOCIATION CYCLISTE BELLAINGEOISE | 21 | 1ère | 2:1:40 | 
@@ -37,7 +37,7 @@ image: assets/img/blog/road.jpeg
 | 13 | MICHEL KEVIN | ASSOCIATION CYCLISTE BELLAINGEOISE | 21 | 1ère | 2:2:48 | 
 | 14 | BOURGEOIS SYLVAIN | ETOILE CYCLISTE LIEU ST AMAND | 21 | 1ère | 2:2:52 | 
 | 15 | LORRIAUX JULIEN | VELO CLUB SOLESMES | 21 | 1ère | 2:2:56 | 
-| **16** | **[MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **21** | **1ère** | **2:3:1** | 
+| **16** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **21** | **1ère** | **2:3:1** | 
 | 17 | HURIAU BENOIT | ASSOCIATION CYCLISTE BELLAINGEOISE | 21 | 1ère | 2:3:7 | 
 | 18 | ALEXANDRE GREGORY | VELO CLUB SOLESMES | 21 | 1ère | 2:3:32 | 
 | 19 | BOUTOUT LOUIS | GAZ ELEC CLUB DE DOUAI | 21 | 1ère | 2:3:44 | 
@@ -71,7 +71,7 @@ image: assets/img/blog/road.jpeg
 | 47 | HAIDON PASCAL | ASSOCIATION CYCLISTE BELLAINGEOISE | 19 | 2ème | 1:59:58 | 
 | 48 | DRUART JEROME | TEAM CYCLISTE LA BORDURE - BETTRECHIES | 19 | 2ème | 1:59:59 | 
 | 49 | LANDAS MARION | VELO SPRINT DE L'OSTREVENT - AUBERCHICOURT | 19 | 2ème | 2:0:0 | 
-| **50** | **[DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **19** | **2ème** | **2:0:0** | 
+| **50** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **19** | **2ème** | **2:0:0** | 
 | 51 | LAPOTRE FRANCOIS | UNION SPORTIVE VALENCIENNES CRESPIN | 19 | 2ème | 2:0:1 | 
 | 52 | LEFEBVRE JEAN-DANIEL | U.C. CAPELLOISE FOURMIES | 19 | 2ème | 2:0:2 | 
 | 53 | LECHAT RENAUD | UNION SPORTIVE VALENCIENNES CRESPIN | 19 | 2ème | 2:0:2 | 
@@ -196,7 +196,7 @@ image: assets/img/blog/road.jpeg
 | 172 | DECROIX JEAN CLAUDE | ETOILE CYCLISTE FEIGNIES | 4 | 4ème | 0:27:43 | 
 | 173 | LECLERCQ JEAN LOUIS | CYCLISME EN CAMBRESIS - NEUVILLE ST REMY | 3 | 2ème | 0:12:36 | 
 | 174 | LANDAS PRIMEROSE | UNION SPORTIVE SAINT ANDRE | 3 | 4ème | 0:15:24 | 
-| **175** | **[BROUTIN ANTOINE](https://teamspecializedlille.github.io/coureurs/broutinantoine)** | **TEAM SPECIALIZED LILLE** | **1** | **2ème** | **0:6:35** | 
+| **175** | **[BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine)** | **TEAM SPECIALIZED LILLE** | **1** | **2ème** | **0:6:35** | 
 | 176 | BLONDEAU BENOIT | CLUB DES SUPPORTERS CYCLI | 0 | 1ère | 0:38:53 | 
 | 177 | LELUBRE THIBAULT | UNION CYCLISTE SOLRE LE C | 0 | 1ère | 0:38:53 | 
 | 178 | PEQUIGNOT CLEMENT | VELO CLUB SOLESMES | 0 | 1ère | 0:38:53 | 

@@ -9,12 +9,12 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 31 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve) : 19
-- [DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien) : 22
+- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 19
+- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 22
 
 ### 2ème Catégorie
 48 participants
-- [LECOLIER BENOIT](https://teamspecializedlille.github.io/coureurs/lecolierbenoit) : 19
+- [LECOLIER BENOIT](https://teamspecializedlille.cc/coureurs/lecolierbenoit) : 19
 
 ### Scratch
 158 participants
@@ -39,10 +39,10 @@ image: assets/img/blog/road.jpeg
 | 16 | WINS ALEXIS | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 20 | 1ère | 1:52:24 | 
 | 17 | ALEXANDRE GREGORY | VELO CLUB SOLESMES | 20 | 1ère | 1:52:46 | 
 | 18 | VEAUX CORENTIN | TEAM LINK AND RIDE HERIN | 20 | 1ère | 1:52:46 | 
-| **19** | **[DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **20** | **1ère** | **1:52:46** | 
+| **19** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **20** | **1ère** | **1:52:46** | 
 | 20 | FAURE NATHANAEL | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 20 | 1ère | 1:52:47 | 
 | 21 | CARRIN JEROME | TEAM ENFER DU NORD WALLERS ARENBERG | 20 | 1ère | 1:52:48 | 
-| **22** | **[DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **20** | **1ère** | **1:52:49** | 
+| **22** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **20** | **1ère** | **1:52:49** | 
 | 23 | JABLONSKI SEBASTIEN | TEAM B.B.L. HERGNIES | 20 | 1ère | 1:52:49 | 
 | 24 | HAVET SEBASTIEN | GAZ ELEC CLUB DE DOUAI | 20 | 1ère | 1:52:54 | 
 | 25 | CAZE ALBAN | UNION SPORTIVE SAINT ANDRE | 20 | 1ère | 1:52:55 | 
@@ -66,7 +66,7 @@ image: assets/img/blog/road.jpeg
 | 43 | RENNUIT BENOIT | NOEUX VELO CLUB NOEUXOIS | 19 | 2ème | 1:47:29 | 
 | 44 | SAINTRAIN CORENTIN | ETOILE CYCLISTE LIEU ST AMAND | 19 | 2ème | 1:47:30 | 
 | 45 | HELLOT FRANCOIS | HAVELUY CYCLO CLUB | 19 | 2ème | 1:48:1 | 
-| **46** | **[LECOLIER BENOIT](https://teamspecializedlille.github.io/coureurs/lecolierbenoit)** | **TEAM SPECIALIZED LILLE** | **19** | **2ème** | **1:49:43** | 
+| **46** | **[LECOLIER BENOIT](https://teamspecializedlille.cc/coureurs/lecolierbenoit)** | **TEAM SPECIALIZED LILLE** | **19** | **2ème** | **1:49:43** | 
 | 47 | PRIAT AURELIEN | ESEG DOUAI | 19 | 2ème | 1:49:47 | 
 | 48 | BIANCUCCI GIOVANNI | UNION SPORTIVE VALENCIENNES CRESPIN | 19 | 2ème | 1:49:47 | 
 | 49 | GOCHON VALENTIN | ETOILE CYCLISTE TOURCOING | 19 | 2ème | 1:49:48 | 

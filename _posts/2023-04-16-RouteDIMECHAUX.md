@@ -9,14 +9,14 @@ image: assets/img/blog/road.jpeg
 
 ### 2ème Catégorie
 29 participants
-- [DUFOUR JONATHAN](https://teamspecializedlille.github.io/coureurs/dufourjonathan) : 4
-- [LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane) : 5
-- [LECOLIER BENOIT](https://teamspecializedlille.github.io/coureurs/lecolierbenoit) : 17
-- [LECLERCQ FRANCK](https://teamspecializedlille.github.io/coureurs/leclercqfranck) : Ab
+- [DUFOUR JONATHAN](https://teamspecializedlille.cc/coureurs/dufourjonathan) : 4
+- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 5
+- [LECOLIER BENOIT](https://teamspecializedlille.cc/coureurs/lecolierbenoit) : 17
+- [LECLERCQ FRANCK](https://teamspecializedlille.cc/coureurs/leclercqfranck) : Ab
 
 ### 3ème Catégorie
 57 participants
-- [DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael) : Ab
+- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : Ab
 
 ### Scratch
 129 participants
@@ -44,8 +44,8 @@ image: assets/img/blog/road.jpeg
 | 19 | DELPLANQUE DYLAN | VELO SPRINT DE L'OSTREVENT - AUBERCHICOURT | 12 | 2ème | 1:50:5 | 
 | 20 | ALEXANDRE GREGORY | VELO CLUB SOLESMES | 12 | 2ème | 1:50:7 | 
 | 21 | DRUART JEROME | VELO CLUB BAVAISIEN | 12 | 2ème | 1:50:8 | 
-| **22** | **[DUFOUR JONATHAN](https://teamspecializedlille.github.io/coureurs/dufourjonathan)** | **TEAM SPECIALIZED LILLE** | **12** | **2ème** | **1:50:8** | 
-| **23** | **[LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **12** | **2ème** | **1:50:29** | 
+| **22** | **[DUFOUR JONATHAN](https://teamspecializedlille.cc/coureurs/dufourjonathan)** | **TEAM SPECIALIZED LILLE** | **12** | **2ème** | **1:50:8** | 
+| **23** | **[LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **12** | **2ème** | **1:50:29** | 
 | 24 | MISMAQUE JACQUES | ASSOCIATION CYCLISTE BELLAINGEOISE | 12 | 2ème | 1:50:47 | 
 | 25 | ROUSSEAU DIDIER | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 12 | 2ème | 1:50:49 | 
 | 26 | PIQUEUR ERWAN | TEAM B.B.L. HERGNIES | 12 | 2ème | 1:50:50 | 
@@ -57,7 +57,7 @@ image: assets/img/blog/road.jpeg
 | 32 | TOURNEUX MICKAEL | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 12 | 2ème | 1:51:20 | 
 | 33 | MILLET FABRICE | VTT  CLUB PONT SUR SAMBRE | 12 | 2ème | 1:51:21 | 
 | 34 | DUFOUR KEVIN | VELO CLUB DE L'ESCAUT ANZIN | 12 | 2ème | 1:51:22 | 
-| **35** | **[LECOLIER BENOIT](https://teamspecializedlille.github.io/coureurs/lecolierbenoit)** | **TEAM SPECIALIZED LILLE** | **12** | **2ème** | **1:51:27** | 
+| **35** | **[LECOLIER BENOIT](https://teamspecializedlille.cc/coureurs/lecolierbenoit)** | **TEAM SPECIALIZED LILLE** | **12** | **2ème** | **1:51:27** | 
 | 36 | BONNET JOHNNY | TEAM VTT JEUMONT | 12 | 2ème | 1:55:23 | 
 | 37 | WAERNIER ROMUALD | UNION SPORTIVE SAINT ANDRE | 12 | 2ème | 1:55:38 | 
 | 38 | BOUZIN BENJAMIN | ASSOCIATION CYCLISTE D'ETROEUNGT | 12 | 2ème | 1:55:39 | 
@@ -144,10 +144,10 @@ image: assets/img/blog/road.jpeg
 | 119 | DERUEL ANTOINE | VELO CLUB BAVAISIEN | 0 | 1ère | 0:38:53 | 
 | 120 | BLONDEAU BENOIT | CLUB DES SUPPORTERS CYCLI | 0 | 1ère | 0:38:53 | 
 | 121 | DERODE BAPTISTE | HAVELUY CYCLO CLUB | 0 | 2ème | 0:38:53 | 
-| **122** | **[LECLERCQ FRANCK](https://teamspecializedlille.github.io/coureurs/leclercqfranck)** | **TEAM SPECIALIZED LILLE** | **0** | **2ème** | **0:38:53** | 
+| **122** | **[LECLERCQ FRANCK](https://teamspecializedlille.cc/coureurs/leclercqfranck)** | **TEAM SPECIALIZED LILLE** | **0** | **2ème** | **0:38:53** | 
 | 123 | FLAMENT LOICK | ETOILE CYCLISTE FEIGNIES | 0 | 2ème | 0:38:53 | 
 | 124 | HOTTON THEO | TEAM B.B.L. HERGNIES | 0 | 3ème | 0:38:53 | 
-| **125** | **[DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
+| **125** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
 | 126 | DELY ANTHONY | TEAM B.B.L. HERGNIES | 0 | 3ème | 0:38:53 | 
 | 127 | KRUELSKI FABIEN | SAULZOIR MONTRECOURT CYCL | 0 | 3ème | 0:38:53 | 
 | 128 | DESSAINT BENOIT | TEAM BOUSIES | 0 | 3ème | 0:38:53 | 

@@ -9,14 +9,14 @@ image: assets/img/blog/cx.jpeg
 
 ### 2ème Catégorie
 33 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald) : 3
-- [LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane) : Ab
+- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 3
+- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : Ab
 
 ### 3ème Catégorie
 62 participants
-- [DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid) : 17
-- [LECOLIER LOUIS](https://teamspecializedlille.github.io/coureurs/lecolierlouis) : 24
-- [MOULIN FELIX](https://teamspecializedlille.github.io/coureurs/moulinfelix) : 26
+- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 17
+- [LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis) : 24
+- [MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix) : 26
 
 ### Scratch
 112 participants
@@ -25,7 +25,7 @@ image: assets/img/blog/cx.jpeg
 |---|---|---|---|---|---|
 | 1 | DOCHNIAK LEO | HAVELUY CYCLO CLUB | 8 | 2ème | 0:52:7 | 
 | 2 | BECQUET JORDAN | VELO CLUB UNION HALLUIN | 8 | 2ème | 0:52:33 | 
-| **3** | **[MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **8** | **2ème** | **0:52:34** | 
+| **3** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **8** | **2ème** | **0:52:34** | 
 | 4 | VIVIER MATTHIAS | UNION SPORTIVE SAINT ANDRE | 8 | 2ème | 0:52:51 | 
 | 5 | VANWAELSCAPPEL JEROME | CYCLO CLUB WAVRIN | 8 | 2ème | 0:53:1 | 
 | 6 | HOUDART PHILIPPE | CAMPHIN EN CAREMBAULT CYCLING TEAM | 8 | 2ème | 0:53:1 | 
@@ -67,14 +67,14 @@ image: assets/img/blog/cx.jpeg
 | 42 | CAUDRELIER DAVID | VELO SPRINT DE L'OSTREVENT - AUBERCHICOURT | 7 | 3ème | 0:49:38 | 
 | 43 | HAVET SEBASTIEN | GAZ ELEC CLUB DE DOUAI | 7 | 2ème | 0:49:43 | 
 | 44 | VARLET VINCENT | VELO CLUB UNION HALLUIN | 7 | 3ème | 0:49:45 | 
-| **45** | **[DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **7** | **3ème** | **0:49:49** | 
+| **45** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **7** | **3ème** | **0:49:49** | 
 | 46 | VAAST JEAN SEBASTIEN | TEAM ENFER DU NORD WALLERS ARENBERG | 7 | 3ème | 0:49:55 | 
 | 47 | RICHET CHRISTOPHE | ASSOCIATION CYCLISTE D'ETROEUNGT | 7 | 3ème | 0:50:3 | 
 | 48 | DEJEAN MATHIS | TEAM CYCLISTE LA BORDURE - BETTRECHIES | 7 | 3ème | 0:50:8 | 
 | 49 | DUFOUR SYLVAIN | VELO CLUB UNION HALLUIN | 7 | 3ème | 0:50:10 | 
 | 50 | CROMMELINCK PATRICK | CYCLOS RANDONNEURS LA BASSEE | 7 | 3ème | 0:50:16 | 
 | 51 | VANDEN TORREN MAXIME | MANQUEVILLE LILLERS CLUB CYCLISTE | 7 | 3ème | 0:50:24 | 
-| **52** | **[LECOLIER LOUIS](https://teamspecializedlille.github.io/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **7** | **3ème** | **0:50:24** | 
+| **52** | **[LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **7** | **3ème** | **0:50:24** | 
 | 53 | LINDAUER FLORIAN | ETOILE CYCLISTE LIEU ST AMAND | 7 | 1ère | 0:50:30 | 
 | 54 | LEGUEUX LAURENT | UNION VELOCIPEDIQUE FOURMISIENNE | 7 | 1ère | 0:50:47 | 
 | 55 | DOCHNIAK DAVID | HAVELUY CYCLO CLUB | 7 | 3ème | 0:50:48 | 
@@ -125,10 +125,10 @@ image: assets/img/blog/cx.jpeg
 | 100 | STAQUET AURELIEN | UNION SPORTIVE VALENCIENNES CRESPIN | 5 | 3ème | 0:52:14 | 
 | 101 | ALEXANDRE GREGORY | VELO CLUB SOLESMES | 0 | 1ère | 0:38:53 | 
 | 102 | VANWAELSCAPPEL GUILLAUME | CYCLO CLUB WAVRIN | 0 | 2ème | 0:38:53 | 
-| **103** | **[LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **0** | **2ème** | **0:38:53** | 
+| **103** | **[LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **0** | **2ème** | **0:38:53** | 
 | 104 | SAINTRAIN CORENTIN | ETOILE CYCLISTE LIEU ST A | 0 | 2ème | 0:38:53 | 
 | 105 | ROULY ALEXIS | ETOILE CYCLISTE LIEU ST A | 0 | 2ème | 0:38:53 | 
-| **106** | **[MOULIN FELIX](https://teamspecializedlille.github.io/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
+| **106** | **[MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
 | 107 | TOURLAND AUBIN | VELO CLUB DE L'ESCAUT ANZ | 0 | 3ème | 0:38:53 | 
 | 108 | NUEE VALENTIN | ESPOIR CYCLISTE WAMBRECHI | 0 | 3ème | 0:38:53 | 
 | 109 | THIERCELIN CYRIL | UNION SPORTIVE VALENCIENN | 0 | 3ème | 0:38:53 | 

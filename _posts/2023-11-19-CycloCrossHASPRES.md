@@ -9,7 +9,7 @@ image: assets/img/resultats/2023-11-19-CycloCrossHASPRES/1.jpg
 
 ### 3ème Catégorie
 36 participants
-- [MOULIN FELIX](https://teamspecializedlille.github.io/coureurs/moulinfelix) : 17
+- [MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix) : 17
 
 ### Scratch
 97 participants
@@ -75,7 +75,7 @@ image: assets/img/resultats/2023-11-19-CycloCrossHASPRES/1.jpg
 | 57 | GOCHON VALENTIN | TEAM MELANTOIS - PERONNE EN MELANTOIS | 7 | 3ème | 0:57:34 | 
 | 58 | LETOMBE CHRISTOPHE | BEUVRY CLUB LEO LAGRANGE | 7 | 3ème | 0:57:46 | 
 | 59 | BOUTONNE FREDERIC | TEAM BOUSIES | 7 | 3ème | 0:58:13 | 
-| **60** | **[MOULIN FELIX](https://teamspecializedlille.github.io/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **7** | **3ème** | **0:58:47** | 
+| **60** | **[MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **7** | **3ème** | **0:58:47** | 
 | 61 | DEJEAN MATHIS | TEAM CYCLISTE LA BORDURE - BETTRECHIES | 7 | 3ème | 0:58:56 | 
 | 62 | DOCHNIAK DAVID | HAVELUY CYCLO CLUB | 7 | 3ème | 0:58:57 | 
 | 63 | CONTESSE FREDERIC | ASSOCIATION CYCLISTE D'ETROEUNGT | 7 | 3ème | 0:59:10 | 

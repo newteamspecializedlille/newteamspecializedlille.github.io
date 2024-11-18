@@ -9,15 +9,15 @@ image: assets/img/blog/cx.jpeg
 
 ### 1ère Catégorie
 18 participants
-- [ORBIER AXEL](https://teamspecializedlille.github.io/coureurs/orbieraxel) : 11
+- [ORBIER AXEL](https://teamspecializedlille.cc/coureurs/orbieraxel) : 11
 
 ### 2ème Catégorie
 35 participants
-- [DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid) : 21
+- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 21
 
 ### 3ème Catégorie
 43 participants
-- [MOULIN FELIX](https://teamspecializedlille.github.io/coureurs/moulinfelix) : 26
+- [MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix) : 26
 
 ### Scratch
 105 participants
@@ -34,7 +34,7 @@ image: assets/img/blog/cx.jpeg
 | 8 | LEGUEUX LAURENT | UNION VELOCIPEDIQUE FOURMISIENNE | 7 | 1ère | 1:0:31 | 
 | 9 | VIVIER MATTHIAS | UNION SPORTIVE SAINT ANDRE | 7 | 1ère | 1:1:6 | 
 | 10 | DEMOL LEO | UNION SPORTIVE SAINT ANDRE | 7 | 1ère | 1:1:15 | 
-| **11** | **[ORBIER AXEL](https://teamspecializedlille.github.io/coureurs/orbieraxel)** | **TEAM SPECIALIZED LILLE** | **7** | **1ère** | **1:1:46** | 
+| **11** | **[ORBIER AXEL](https://teamspecializedlille.cc/coureurs/orbieraxel)** | **TEAM SPECIALIZED LILLE** | **7** | **1ère** | **1:1:46** | 
 | 12 | GALLIEZ ANTHONY | ESEG DOUAI | 7 | 1ère | 1:2:4 | 
 | 13 | DUPUIS JULIEN | CERCLE OLYMPIQUE MARCOING | 7 | 2ème | 1:2:46 | 
 | 14 | LEFEBVRE JEAN-DANIEL | U.C. CAPELLOISE FOURMIES | 7 | 1ère | 1:2:52 | 
@@ -61,7 +61,7 @@ image: assets/img/blog/cx.jpeg
 | 35 | DIMANCHE DAVID | CERCLE OLYMPIQUE MARCOING | 6 | 2ème | 0:56:34 | 
 | 36 | HORCHOLLE REMI | VTT  CLUB PONT SUR SAMBRE | 6 | 2ème | 0:56:36 | 
 | 37 | RIVART THIERRY | VTT  CLUB PONT SUR SAMBRE | 6 | 2ème | 0:56:38 | 
-| **38** | **[DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **6** | **2ème** | **0:56:51** | 
+| **38** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **6** | **2ème** | **0:56:51** | 
 | 39 | VANWAELSCAPPEL JEROME | CYCLO CLUB WAVRIN | 6 | 2ème | 0:57:5 | 
 | 40 | BREVIERE ALEXANDRE | CAMPHIN EN CAREMBAULT CYCLING TEAM | 6 | 2ème | 0:57:6 | 
 | 41 | RICHET CHRISTOPHE | ASSOCIATION CYCLISTE D'ETROEUNGT | 6 | 3ème | 0:57:15 | 
@@ -98,7 +98,7 @@ image: assets/img/blog/cx.jpeg
 | 72 | CROMMELINCK PATRICK | CYCLOS RANDONNEURS LA BASSEE | 6 | 3ème | 1:2:58 | 
 | 73 | KNOCKAERT JULIEN | TEAM CYCLISTE PROVINOIS - PROVIN | 6 | 1ère | 1:3:5 | 
 | 74 | VANDEN TORREN MAXIME | MANQUEVILLE LILLERS CLUB CYCLISTE | 6 | 3ème | 1:3:13 | 
-| **75** | **[MOULIN FELIX](https://teamspecializedlille.github.io/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **6** | **3ème** | **1:4:5** | 
+| **75** | **[MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **6** | **3ème** | **1:4:5** | 
 | 76 | LETOMBE CHRISTOPHE | BEUVRY CLUB LEO LAGRANGE | 6 | 3ème | 1:4:54 | 
 | 77 | CARDON . DAVID | CYCLO CLUB ORCHIES | 6 | 3ème | 1:5:13 | 
 | 78 | DEBOCQ JULIE | HAVELUY CYCLO CLUB | 6 | 3ème | 1:5:20 | 

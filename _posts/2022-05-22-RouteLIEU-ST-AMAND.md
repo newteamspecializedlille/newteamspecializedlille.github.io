@@ -9,9 +9,9 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 50 participants
-- [SCHERNU CHRISTOPHE](https://teamspecializedlille.github.io/coureurs/schernuchristophe) : 17
-- [DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve) : 24
+- [SCHERNU CHRISTOPHE](https://teamspecializedlille.cc/coureurs/schernuchristophe) : 17
+- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 24
 
 ### 2ème Catégorie
 55 participants
-- [LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane) : 2
+- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 2

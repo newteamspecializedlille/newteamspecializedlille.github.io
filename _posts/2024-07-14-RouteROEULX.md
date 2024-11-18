@@ -9,12 +9,12 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 27 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien) : 18
+- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 18
 
 ### 2ème Catégorie
 42 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve) : 16
-- [DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier) : 19
+- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 16
+- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 19
 
 ### Scratch
 126 participants
@@ -38,7 +38,7 @@ image: assets/img/blog/road.jpeg
 | 15 | HAJAER EDGARD | NEW ORANGE TEAM BOUSBECQUE | 22 | 1ère | 1:3:49 | 
 | 16 | LEMAITRE JULES | CYCLO CLUB ORCHIES | 22 | 1ère | 1:3:49 | 
 | 17 | LACROIX FREDERIC | VELO CLUB ROUBAIX | 22 | 1ère | 1:3:49 | 
-| **18** | **[DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **22** | **1ère** | **1:3:49** | 
+| **18** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **22** | **1ère** | **1:3:49** | 
 | 19 | MARECHAL GUILLAUME | VELO CLUB SOLESMES | 22 | 1ère | 1:3:50 | 
 | 20 | BALIN NATHAN | 52X11 HIRSON THIERACHE | 22 | 1ère | 1:3:53 | 
 | 21 | BRASSART THEOPHILE | TEAM B.B.L. HERGNIES | 22 | 1ère | 1:3:55 | 
@@ -59,10 +59,10 @@ image: assets/img/blog/road.jpeg
 | 36 | LIONNE DORIAN | HAVELUY CYCLO CLUB | 21 | 2ème | 0:59:52 | 
 | 37 | DELPIRE FREDERIC | VTT  CLUB PONT SUR SAMBRE | 21 | 2ème | 0:59:52 | 
 | 38 | REILLE AGACINSKI TOM | GAZ ELEC CLUB DE DOUAI | 21 | 2ème | 0:59:52 | 
-| **39** | **[DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **21** | **2ème** | **0:59:52** | 
+| **39** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **21** | **2ème** | **0:59:52** | 
 | 40 | DEVOS CYRIL | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 21 | 2ème | 0:59:53 | 
 | 41 | LEONARDI FLORIAN | RESILIENCE CLUB | 21 | 2ème | 0:59:53 | 
-| **42** | **[DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **21** | **2ème** | **0:59:53** | 
+| **42** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **21** | **2ème** | **0:59:53** | 
 | 43 | PAVIE MAXIME | UNION SPORTIVE SAINT ANDRE | 21 | 2ème | 0:59:53 | 
 | 44 | LECERF JEROME | VELO CLUB BAVAISIEN | 21 | 2ème | 0:59:55 | 
 | 45 | DUFOUR MICHEL | ASSOCIATION CYCLISTE BELLAINGEOISE | 21 | 2ème | 0:59:56 | 

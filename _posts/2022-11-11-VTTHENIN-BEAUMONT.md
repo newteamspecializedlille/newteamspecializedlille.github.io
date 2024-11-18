@@ -9,7 +9,7 @@ image: assets/img/blog/vtt.jpeg
 
 ### VTT Sénior B
 14 participants
-- [DUFOUR JONATHAN](https://teamspecializedlille.github.io/coureurs/dufourjonathan) : 4
+- [DUFOUR JONATHAN](https://teamspecializedlille.cc/coureurs/dufourjonathan) : 4
 
 ### Scratch
 64 participants
@@ -30,7 +30,7 @@ image: assets/img/blog/vtt.jpeg
 | 12 | LIEVIN FRANCK | VTT SAINT AMAND LES EAUX | 9 | Vétérans B | 1:6:39 | 
 | 13 | OLIVIER ALEXANDRE | ESEG DOUAI | 9 | Seniors A | 1:6:50 | 
 | 14 | KROL MICHAEL | FLEURBAIX TEAM SHARK VTT | 9 | Vétérans A | 1:6:54 | 
-| **15** | **[DUFOUR JONATHAN](https://teamspecializedlille.github.io/coureurs/dufourjonathan)** | **TEAM SPECIALIZED LILLE** | **9** | **Seniors B** | **1:6:56** | 
+| **15** | **[DUFOUR JONATHAN](https://teamspecializedlille.cc/coureurs/dufourjonathan)** | **TEAM SPECIALIZED LILLE** | **9** | **Seniors B** | **1:6:56** | 
 | 16 | CAZE ALBAN | UNION SPORTIVE SAINT ANDRE | 9 | Vétérans A | 1:7:9 | 
 | 17 | DUHAMEL ARNAUD | AGNY ARTEAM | 9 | Vétérans B | 1:8:20 | 
 | 18 | BREVIERE ALEXANDRE | CAMPHIN EN CAREMBAULT CYCLING TEAM | 9 | Vétérans B | 1:8:42 | 

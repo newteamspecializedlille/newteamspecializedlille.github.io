@@ -9,19 +9,19 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 32 participants
-- [LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane) : 16
-- [SCHERNU CHRISTOPHE](https://teamspecializedlille.github.io/coureurs/schernuchristophe) : 23
-- [LECOLIER LOUIS](https://teamspecializedlille.github.io/coureurs/lecolierlouis) : 24
+- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 16
+- [SCHERNU CHRISTOPHE](https://teamspecializedlille.cc/coureurs/schernuchristophe) : 23
+- [LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis) : 24
 
 ### 2ème Catégorie
 51 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve) : 17
-- [BOONE NICOLAS](https://teamspecializedlille.github.io/coureurs/boonenicolas) : Ab
+- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 17
+- [BOONE NICOLAS](https://teamspecializedlille.cc/coureurs/boonenicolas) : Ab
 
 ### 3ème Catégorie
 49 participants
-- [DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid) : 15
-- [DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier) : 16
+- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 15
+- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 16
 
 ### Scratch
 160 participants
@@ -43,15 +43,15 @@ image: assets/img/blog/road.jpeg
 | 13 | DELPLANQUE DYLAN | VELO SPRINT DE L'OSTREVENT - AUBERCHICOURT | 23 | 1ère | 1:52:15 | 
 | 14 | BOURGEOIS SYLVAIN | ETOILE CYCLISTE LIEU ST AMAND | 23 | 1ère | 1:52:16 | 
 | 15 | DEWILDE LUDOVIC | VELO CLUB UNION HALLUIN | 23 | 1ère | 1:52:17 | 
-| **16** | **[LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **23** | **1ère** | **1:52:17** | 
+| **16** | **[LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **23** | **1ère** | **1:52:17** | 
 | 17 | LACROIX FREDERIC | VELO CLUB ROUBAIX | 23 | 1ère | 1:52:18 | 
 | 18 | DELOBELLE OLIVIER | UNION SPORTIVE SAINT ANDRE | 23 | 1ère | 1:52:18 | 
 | 19 | LEFEVRE SEBASTIEN | UNION VELOCIPEDIQUE FOURMISIENNE | 23 | 1ère | 1:52:20 | 
 | 20 | MINGOA LUCIANO | NEW ORANGE TEAM BOUSBECQUE | 23 | 1ère | 1:52:21 | 
 | 21 | DELANGUE THOMAS | NEW ORANGE TEAM BOUSBECQUE | 23 | 1ère | 1:52:24 | 
 | 22 | MEYS DAVID | VELO CLUB ROUBAIX | 23 | 1ère | 1:53:17 | 
-| **23** | **[SCHERNU CHRISTOPHE](https://teamspecializedlille.github.io/coureurs/schernuchristophe)** | **TEAM SPECIALIZED LILLE** | **22** | **1ère** | **1:49:57** | 
-| **24** | **[LECOLIER LOUIS](https://teamspecializedlille.github.io/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **22** | **1ère** | **1:49:57** | 
+| **23** | **[SCHERNU CHRISTOPHE](https://teamspecializedlille.cc/coureurs/schernuchristophe)** | **TEAM SPECIALIZED LILLE** | **22** | **1ère** | **1:49:57** | 
+| **24** | **[LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **22** | **1ère** | **1:49:57** | 
 | 25 | BECQUET JORDAN | VELO CLUB UNION HALLUIN | 22 | 1ère | 1:50:59 | 
 | 26 | MEDO NICOLAS | TEAM MELANTOIS - PERONNE EN MELANTOIS | 22 | 1ère | 1:51:40 | 
 | 27 | BLARY GILLES | HAVELUY CYCLO CLUB | 21 | 1ère | 1:53:28 | 
@@ -72,7 +72,7 @@ image: assets/img/blog/road.jpeg
 | 42 | KNOCKAERT JULIEN | TEAM CYCLISTE PROVINOIS - PROVIN | 20 | 2ème | 1:38:54 | 
 | 43 | MAES LOUIS | CYCLO CLUB WAVRIN | 20 | 2ème | 1:38:54 | 
 | 44 | POLLET ANTOINE | VELO CLUB UNION HALLUIN | 20 | 2ème | 1:38:54 | 
-| **45** | **[DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **20** | **2ème** | **1:38:54** | 
+| **45** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **20** | **2ème** | **1:38:54** | 
 | 46 | SOETENS MAXIME | VELO CLUB UNION HALLUIN | 20 | 2ème | 1:38:55 | 
 | 47 | ZAFFUTO ARNAUD | VELO CLUB UNION HALLUIN | 20 | 2ème | 1:38:55 | 
 | 48 | LABRE MAXIME | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 20 | 2ème | 1:38:55 | 
@@ -110,8 +110,8 @@ image: assets/img/blog/road.jpeg
 | 80 | QUESTE DAVID | TEAM B.B.L. HERGNIES | 18 | 3ème | 1:30:28 | 
 | 81 | LEURENT MAXIME | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 18 | 3ème | 1:30:28 | 
 | 82 | RYCKEBUSH BAPTISTE | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 18 | 3ème | 1:30:28 | 
-| **83** | **[DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **18** | **3ème** | **1:30:29** | 
-| **84** | **[DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **18** | **3ème** | **1:30:29** | 
+| **83** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **18** | **3ème** | **1:30:29** | 
+| **84** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **18** | **3ème** | **1:30:29** | 
 | 85 | LEONARDI FLORIAN | RESILIENCE CLUB | 18 | 3ème | 1:30:29 | 
 | 86 | FOULON RANDY | AGNY ARTeam | 18 | 3ème | 1:30:30 | 
 | 87 | LEGRAND DENIS | BARLIN CERCLE LAIQUE | 18 | 3ème | 1:30:32 | 
@@ -181,7 +181,7 @@ image: assets/img/blog/road.jpeg
 | 151 | RICO ELODIE | VELO CLUB UNION HALLUIN | 7 | Féminines | 0:53:26 | 
 | 152 | VASSEUR HUGO | UNION SPORTIVE SAINT ANDRE | 2 | 1ère | 0:7:3 | 
 | 153 | VAILLANT LOUIS | ENTENTE CYCLISTE DE FONTA | 0 | 1ère | 0:38:53 | 
-| **154** | **[BOONE NICOLAS](https://teamspecializedlille.github.io/coureurs/boonenicolas)** | **TEAM SPECIALIZED LILLE** | **0** | **2ème** | **0:38:53** | 
+| **154** | **[BOONE NICOLAS](https://teamspecializedlille.cc/coureurs/boonenicolas)** | **TEAM SPECIALIZED LILLE** | **0** | **2ème** | **0:38:53** | 
 | 155 | BROUILLARD LOIC | ETOILE CYCLISTE LIEU ST A | 0 | 2ème | 0:38:53 | 
 | 156 | ROQUE BENJAMIN | ESPOIR CYCLISTE WAMBRECHI | 0 | 2ème | 0:38:53 | 
 | 157 | LEPLAN BENJAMIN | AGNY ARTeam | 0 | 2ème | 0:38:53 | 

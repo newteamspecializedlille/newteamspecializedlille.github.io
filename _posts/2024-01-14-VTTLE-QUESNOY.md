@@ -9,7 +9,7 @@ image: assets/img/resultats/2024-01-14-VTTLE-QUESNOY/1.jpg
 
 ### VTT Vétérans B
 13 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald) : 2
+- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 2
 
 ### Scratch
 40 participants
@@ -19,7 +19,7 @@ image: assets/img/resultats/2024-01-14-VTTLE-QUESNOY/1.jpg
 | 1 | RIVART ADRIEN | ASSOCIATION CYCLISTE BELLAINGEOISE | 9 | Seniors A | 0:58:7 | 
 | 2 | COMMONT DAVID | NOUVELLE ETOILE SPORTIVE BOUE ETREUX | 9 | Seniors B | 0:58:15 | 
 | 3 | MAERTENS DAVID | U. S. HAM | 9 | Vétérans B | 0:58:23 | 
-| **4** | **[MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **9** | **Vétérans B** | **0:58:28** | 
+| **4** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **9** | **Vétérans B** | **0:58:28** | 
 | 5 | JABLONSKI SEBASTIEN | TEAM B.B.L. HERGNIES | 9 | Vétérans A | 0:58:33 | 
 | 6 | DELY JULIEN | TEAM VTT JEUMONT | 9 | Seniors B | 0:59:56 | 
 | 7 | DARTUS MIKAEL | VELO CLUB SOLESMES | 9 | Vétérans A | 1:0:16 | 

@@ -9,15 +9,15 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 30 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald) : 11
+- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 11
 
 ### 2ème Catégorie
 33 participants
-- [BROUTIN ANTOINE](https://teamspecializedlille.github.io/coureurs/broutinantoine) : 23
+- [BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine) : 23
 
 ### 3ème Catégorie
 59 participants
-- [MINNECI ELIO](https://teamspecializedlille.github.io/coureurs/minnecielio) : 2
+- [MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio) : 2
 
 ### Scratch
 144 participants
@@ -34,7 +34,7 @@ image: assets/img/blog/road.jpeg
 | 8 | LORRIAUX JULIEN | VELO CLUB SOLESMES | 15 | 1ère | 1:42:15 | 
 | 9 | BERTHIER THIBAUT | NEW ORANGE TEAM BOUSBECQUE | 15 | 1ère | 1:42:15 | 
 | 10 | TOUBEAU ALEXANDRE | UNION SPORTIVE VALENCIENNES CRESPIN | 15 | 1ère | 1:42:15 | 
-| **11** | **[MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **15** | **1ère** | **1:42:18** | 
+| **11** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **15** | **1ère** | **1:42:18** | 
 | 12 | LESAGE ANTHONY | ASSOCIATION CYCLISTE BELLAINGEOISE | 15 | 1ère | 1:42:19 | 
 | 13 | DELSAUX DAMIEN | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 15 | 1ère | 1:42:19 | 
 | 14 | HURIAU BENOIT | ASSOCIATION CYCLISTE BELLAINGEOISE | 15 | 1ère | 1:42:19 | 
@@ -72,7 +72,7 @@ image: assets/img/blog/road.jpeg
 | 46 | MOUFTIER LOUKA | TEAM VTT JEUMONT | 14 | 2ème | 1:39:39 | 
 | 47 | DI GIOVANNI GIANNI | ESEG DOUAI | 14 | 2ème | 1:39:39 | 
 | 48 | DELCROIX GABIN | E2CJ - Energy Cycling Club Joncourt | 14 | 2ème | 1:39:39 | 
-| **49** | **[BROUTIN ANTOINE](https://teamspecializedlille.github.io/coureurs/broutinantoine)** | **TEAM SPECIALIZED LILLE** | **14** | **2ème** | **1:39:40** | 
+| **49** | **[BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine)** | **TEAM SPECIALIZED LILLE** | **14** | **2ème** | **1:39:40** | 
 | 50 | VERHAEGHE THOMAS | LINSELLES CYCLISME | 14 | 2ème | 1:39:40 | 
 | 51 | LOGIE MATHIEU | NEW ORANGE TEAM BOUSBECQUE | 14 | 2ème | 1:39:40 | 
 | 52 | VANAUBERG EDDY | TEAM B.B.L. HERGNIES | 14 | 2ème | 1:39:40 | 
@@ -85,7 +85,7 @@ image: assets/img/blog/road.jpeg
 | 59 | MASSIN ALEXANDRE | ESEG DOUAI | 14 | 1ère | 1:41:10 | 
 | 60 | VANDERHAEGEN REGIS | ASSOCIATION CYCLISTE D'ETROEUNGT | 14 | 1ère | 1:42:48 | 
 | 61 | MORDACQ ENZO | RESILIENCE CLUB | 13 | 3ème | 1:36:24 | 
-| **62** | **[MINNECI ELIO](https://teamspecializedlille.github.io/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **13** | **3ème** | **1:36:24** | 
+| **62** | **[MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **13** | **3ème** | **1:36:24** | 
 | 63 | LEONARDI FLORIAN | RESILIENCE CLUB | 13 | 3ème | 1:36:25 | 
 | 64 | LALOT LUCAS | UNION VELOCIPEDIQUE FOURMISIENNE | 13 | 3ème | 1:36:25 | 
 | 65 | BIANCUCCI MARIO | VELO CLUB UNION HALLUIN | 13 | 3ème | 1:36:26 | 

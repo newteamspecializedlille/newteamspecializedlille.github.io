@@ -9,12 +9,12 @@ image: assets/img/blog/road.jpeg
 
 ### 2ème Catégorie
 28 participants
-- [DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier) : Ab
+- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : Ab
 
 ### 3ème Catégorie
 42 participants
-- [WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit) : 7
-- [DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael) : Ab
+- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 7
+- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : Ab
 
 ### Scratch
 99 participants
@@ -57,7 +57,7 @@ image: assets/img/blog/road.jpeg
 | 34 | BEREAUX LUCAS | TEAM MELANTOIS - PERONNE EN MELANTOIS | 15 | 3ème | 1:39:12 | 
 | 35 | DENDIEVEL JULIEN | VELO CLUB UNION HALLUIN | 15 | 3ème | 1:39:13 | 
 | 36 | DUPONT REMI | RESILIENCE CLUB | 15 | 3ème | 1:39:15 | 
-| **37** | **[WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **15** | **3ème** | **1:39:17** | 
+| **37** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **15** | **3ème** | **1:39:17** | 
 | 38 | DUFOUR SYLVAIN | VELO CLUB UNION HALLUIN | 15 | 3ème | 1:39:17 | 
 | 39 | SERE BENJAMIN | CYCLO CLUB WAVRIN | 15 | 3ème | 1:39:18 | 
 | 40 | LEPLAN BENJAMIN | AGNY ARTeam | 15 | 3ème | 1:39:35 | 
@@ -109,9 +109,9 @@ image: assets/img/blog/road.jpeg
 | 86 | DELCOURT VINCENT | VELO CLUB UNION HALLUIN | 0 | 2ème | 0:38:53 | 
 | 87 | COASNE CLEMENT | ESEG DOUAI | 0 | 2ème | 0:38:53 | 
 | 88 | DOOM PATRICE (FILS) | UNION SPORTIVE SAINT ANDR | 0 | 2ème | 0:38:53 | 
-| **89** | **[DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **0** | **2ème** | **0:38:53** | 
+| **89** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **0** | **2ème** | **0:38:53** | 
 | 90 | DOOM HERVE | NEW ORANGE TEAM BOUSBECQU | 0 | 2ème | 0:38:53 | 
-| **91** | **[DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
+| **91** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
 | 92 | PETIT CHRISTOPHE | NEW ORANGE TEAM BOUSBECQU | 0 | 3ème | 0:38:53 | 
 | 93 | VANWAELSCAPPEL GUILLAUME | CYCLO CLUB WAVRIN | 0 | 3ème | 0:38:53 | 
 | 94 | DAVAINE HUGUES | LA PEDALE MADELEINOISE | 0 | 3ème | 0:38:53 | 

@@ -9,7 +9,7 @@ image: assets/img/blog/vtt.jpeg
 
 ### VTT Vétérans B
 16 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald) : 1
+- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 1
 
 ### Scratch
 35 participants
@@ -19,7 +19,7 @@ image: assets/img/blog/vtt.jpeg
 | 1 | MICHEL KEVIN | ASSOCIATION CYCLISTE BELLAINGEOISE | 10 | Seniors A | 0:53:5 | 
 | 2 | BLANPAIN KEVIN | NOEUX VELO CLUB NOEUXOIS | 10 | Seniors B | 0:55:1 | 
 | 3 | DASSONVILLE SEBASTIEN | NOEUX VELO CLUB NOEUXOIS | 10 | Vétérans A | 0:56:3 | 
-| **4** | **[MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **10** | **Vétérans B** | **0:56:8** | 
+| **4** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **10** | **Vétérans B** | **0:56:8** | 
 | 5 | WIERRE MATHIEU | ST POL SUR TERNOISE VELO CLUB ST POLOIS | 10 | Seniors B | 0:56:16 | 
 | 6 | DARTUS MIKAEL | VELO CLUB SOLESMES | 10 | Vétérans A | 0:56:42 | 
 | 7 | MINETTE LOIC | VELO CLUB SOLESMES | 10 | Seniors A | 0:56:53 | 

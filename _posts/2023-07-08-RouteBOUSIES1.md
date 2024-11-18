@@ -9,7 +9,7 @@ image: assets/img/blog/road.jpeg
 
 ### 3ème Catégorie
 39 participants
-- [DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael) : 9
+- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 9
 
 ### Scratch
 97 participants
@@ -54,7 +54,7 @@ image: assets/img/blog/road.jpeg
 | 36 | DUPUIS VALENTIN | NEW TEAM MAULDE | 20 | 3ème | 1:37:29 | 
 | 37 | MICHEL JEROME | U.C. CAPELLOISE FOURMIES | 20 | 3ème | 1:37:34 | 
 | 38 | FRANCOIS GERALD | SAULZOIR MONTRECOURT CYCLING CLUB | 20 | 3ème | 1:37:34 | 
-| **39** | **[DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **20** | **3ème** | **1:37:34** | 
+| **39** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **20** | **3ème** | **1:37:34** | 
 | 40 | POULAIN CHRISTOPHE | TEAM DECOPUB PROVILLE | 20 | 3ème | 1:37:34 | 
 | 41 | DAVAINE HUGUES | LA PEDALE MADELEINOISE | 20 | 3ème | 1:37:34 | 
 | 42 | DEBRIL BENJAMIN | CYCLO CLUB ORCHIES | 20 | 3ème | 1:37:34 | 

@@ -9,13 +9,13 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 44 participants
-- [DARQUE JEAN FRANCOIS](https://teamspecializedlille.github.io/coureurs/darquejeanfrancois) : 23
-- [DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien) : 33
+- [DARQUE JEAN FRANCOIS](https://teamspecializedlille.cc/coureurs/darquejeanfrancois) : 23
+- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 33
 
 ### 2ème Catégorie
 52 participants
-- [BOONE NICOLAS](https://teamspecializedlille.github.io/coureurs/boonenicolas) : 32
+- [BOONE NICOLAS](https://teamspecializedlille.cc/coureurs/boonenicolas) : 32
 
 ### 3ème Catégorie
 82 participants
-- [DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier) : 35
+- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 35

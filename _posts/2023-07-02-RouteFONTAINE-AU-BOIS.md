@@ -9,13 +9,13 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 52 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve) : 20
-- [LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane) : 21
+- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 20
+- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 21
 
 ### 2ème Catégorie
 63 participants
-- [LECOLIER BENOIT](https://teamspecializedlille.github.io/coureurs/lecolierbenoit) : 16
-- [HUBAUT CHRISTOPHE](https://teamspecializedlille.github.io/coureurs/hubautchristophe) : 29
+- [LECOLIER BENOIT](https://teamspecializedlille.cc/coureurs/lecolierbenoit) : 16
+- [HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe) : 29
 
 ### Scratch
 246 participants
@@ -41,8 +41,8 @@ image: assets/img/blog/road.jpeg
 | 17 | VEAUX CORENTIN | TEAM LINK AND RIDE HERIN | 14 | 1ère | 2:0:4 | 
 | 18 | SAINT-QUENTIN HUGO | GAZ ELEC CLUB DE DOUAI | 14 | 1ère | 2:0:4 | 
 | 19 | HIERNAUX TANGUY | ASSOCIATION CYCLISTE D'ETROEUNGT | 14 | 1ère | 2:0:4 | 
-| **20** | **[DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **14** | **1ère** | **2:0:4** | 
-| **21** | **[LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **14** | **1ère** | **2:0:4** | 
+| **20** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **14** | **1ère** | **2:0:4** | 
+| **21** | **[LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **14** | **1ère** | **2:0:4** | 
 | 22 | MINGOA LUCIANO | NEW ORANGE TEAM BOUSBECQUE | 14 | 1ère | 2:0:4 | 
 | 23 | MARQUET VICTOR | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 14 | 1ère | 2:0:4 | 
 | 24 | VASSEUR HUGO | UNION SPORTIVE SAINT ANDRE | 14 | 1ère | 2:0:5 | 
@@ -84,7 +84,7 @@ image: assets/img/blog/road.jpeg
 | 60 | GILLOT JULIEN | GILLOT CYCLING CLUB FEIGNIES | 13 | 2ème | 1:57:2 | 
 | 61 | MISMAQUE JACQUES | ASSOCIATION CYCLISTE BELLAINGEOISE | 13 | 2ème | 1:57:2 | 
 | 62 | DEVYNCK MATTHIEU | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 13 | 2ème | 1:57:2 | 
-| **63** | **[LECOLIER BENOIT](https://teamspecializedlille.github.io/coureurs/lecolierbenoit)** | **TEAM SPECIALIZED LILLE** | **13** | **2ème** | **1:57:2** | 
+| **63** | **[LECOLIER BENOIT](https://teamspecializedlille.cc/coureurs/lecolierbenoit)** | **TEAM SPECIALIZED LILLE** | **13** | **2ème** | **1:57:2** | 
 | 64 | DI CARLO DONATO | NEW ORANGE TEAM BOUSBECQUE | 13 | 2ème | 1:57:3 | 
 | 65 | IMBERT JOHNNY | ETOILE CYCLISTE TOURCOING | 13 | 2ème | 1:57:4 | 
 | 66 | PRIAT AURELIEN | ESEG DOUAI | 13 | 2ème | 1:57:5 | 
@@ -97,7 +97,7 @@ image: assets/img/blog/road.jpeg
 | 73 | LECHAT RENAUD | UNION SPORTIVE VALENCIENNES CRESPIN | 13 | 2ème | 1:58:21 | 
 | 74 | WINS ALEXIS | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 13 | 2ème | 1:58:21 | 
 | 75 | LEFEBVRE JEAN-DANIEL | U.C. CAPELLOISE FOURMIES | 13 | 2ème | 1:58:21 | 
-| **76** | **[HUBAUT CHRISTOPHE](https://teamspecializedlille.github.io/coureurs/hubautchristophe)** | **TEAM SPECIALIZED LILLE** | **13** | **2ème** | **1:58:21** | 
+| **76** | **[HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe)** | **TEAM SPECIALIZED LILLE** | **13** | **2ème** | **1:58:21** | 
 | 77 | BIANCUCCI GIOVANNI | UNION SPORTIVE VALENCIENNES CRESPIN | 13 | 2ème | 1:58:21 | 
 | 78 | LESUR ANTHONY | SAULZOIR MONTRECOURT CYCLING CLUB | 13 | 2ème | 1:58:22 | 
 | 79 | CORNU ANDREAS | ETOILE CYCLISTE LIEU ST AMAND | 13 | 2ème | 1:58:22 | 

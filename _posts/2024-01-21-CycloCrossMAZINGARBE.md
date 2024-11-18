@@ -9,7 +9,7 @@ image: assets/img/resultats/2024-01-21-CycloCrossMAZINGARBE/1.jpg
 
 ### 3ème Catégorie
 23 participants
-- [DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid) : 2
+- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 2
 
 ### Scratch
 53 participants
@@ -33,7 +33,7 @@ image: assets/img/resultats/2024-01-21-CycloCrossMAZINGARBE/1.jpg
 | 15 | VANWAELSCAPPEL JEROME | CYCLO CLUB WAVRIN | 10 | 2ème | 0:59:3 | 
 | 16 | VANWAELSCAPPEL GUILLAUME | CYCLO CLUB WAVRIN | 10 | 2ème | 0:59:31 | 
 | 17 | GATOUX SULLIVAN | MANQUEVILLE LILLERS CLUB CYCLISTE | 10 | 2ème | 0:59:35 | 
-| **18** | **[DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **10** | **3ème** | **0:59:40** | 
+| **18** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **10** | **3ème** | **0:59:40** | 
 | 19 | DRUESNE DAMIEN | UNION VELOCIPEDIQUE FOURMISIENNE | 10 | 2ème | 1:0:23 | 
 | 20 | CHALAS JEAN PIERRE | UNION SPORTIVE SAINT ANDRE | 9 | 1ère | 0:48:45 | 
 | 21 | WITTEK DASSONVILLE CELINE | NOEUX VELO CLUB NOEUXOIS | 9 | 3ème | 0:54:22 | 

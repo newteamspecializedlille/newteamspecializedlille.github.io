@@ -9,8 +9,8 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 31 participants
-- [SHERNU CHRISTOPHE](https://teamspecializedlille.github.io/coureurs/shernuchristophe) : 24
-- [DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve) : Ab
+- [SHERNU CHRISTOPHE](https://teamspecializedlille.cc/coureurs/shernuchristophe) : 24
+- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : Ab
 
 ### Scratch
 0 participants

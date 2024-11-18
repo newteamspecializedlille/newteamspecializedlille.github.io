@@ -9,16 +9,16 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 42 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve) : 37
+- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 37
 
 ### 2ème Catégorie
 57 participants
-- [LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane) : 25
-- [DENDIEVEL CYRIL](https://teamspecializedlille.github.io/coureurs/dendievelcyril) : 35
+- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 25
+- [DENDIEVEL CYRIL](https://teamspecializedlille.cc/coureurs/dendievelcyril) : 35
 
 ### 3ème Catégorie
 73 participants
-- [DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier) : Ab
+- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : Ab
 
 ### Scratch
 217 participants
@@ -59,7 +59,7 @@ image: assets/img/blog/road.jpeg
 | 32 | AINI ISSAM | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 26 | 1ère | 1:34:12 | 
 | 33 | JOLIS CLEMENT | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 26 | 1ère | 1:35:14 | 
 | 34 | DUHAMEL ARNAUD | AGNY ARTEAM | 25 | 1ère | 1:32:2 | 
-| **35** | **[DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **25** | **1ère** | **1:32:2** | 
+| **35** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **25** | **1ère** | **1:32:2** | 
 | 36 | DELANGUE THEO | NEW ORANGE TEAM BOUSBECQUE | 24 | 1ère | 1:26:59 | 
 | 37 | DELEPLACE JULES | VELO CLUB ROUBAIX | 24 | 1ère | 1:32:0 | 
 | 38 | CAILLARD ANTHONY | TEAM LINK AND RIDE HERIN | 24 | 2ème | 1:34:49 | 
@@ -86,7 +86,7 @@ image: assets/img/blog/road.jpeg
 | 59 | DASSONNEVILLE FRANCK | RESILIENCE CLUB | 24 | 2ème | 1:34:54 | 
 | 60 | KNOCKAERT JULIEN | TEAM CYCLISTE PROVINOIS - PROVIN | 24 | 2ème | 1:34:54 | 
 | 61 | DEKOSTER MICKAEL | AGNY ARTEAM | 24 | 2ème | 1:34:54 | 
-| **62** | **[LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **24** | **2ème** | **1:34:54** | 
+| **62** | **[LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **24** | **2ème** | **1:34:54** | 
 | 63 | DEVYNCK MATTHIEU | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 24 | 2ème | 1:34:54 | 
 | 64 | BELKEIR SLIMAN | NEW ORANGE TEAM BOUSBECQUE | 24 | 2ème | 1:34:54 | 
 | 65 | ROUZE ERIK | LA PEDALE MADELEINOISE | 24 | 2ème | 1:34:55 | 
@@ -96,7 +96,7 @@ image: assets/img/blog/road.jpeg
 | 69 | VISSIO MATHIEU | AGNY ARTEAM | 24 | 2ème | 1:34:59 | 
 | 70 | DESMET SEBASTIEN | VELO CLUB UNION HALLUIN | 24 | 2ème | 1:35:0 | 
 | 71 | CHOTEAU PASCAL | VELO CLUB DE L'ESCAUT ANZIN | 24 | 2ème | 1:35:10 | 
-| **72** | **[DENDIEVEL CYRIL](https://teamspecializedlille.github.io/coureurs/dendievelcyril)** | **TEAM SPECIALIZED LILLE** | **24** | **2ème** | **1:35:16** | 
+| **72** | **[DENDIEVEL CYRIL](https://teamspecializedlille.cc/coureurs/dendievelcyril)** | **TEAM SPECIALIZED LILLE** | **24** | **2ème** | **1:35:16** | 
 | 73 | POIRE JEREMY | HENIN ETOILE CYCLISTE HENINOISE | 24 | 2ème | 1:35:35 | 
 | 74 | VERHAEGHE THOMAS | LINSELLES CYCLISME | 24 | 2ème | 1:36:38 | 
 | 75 | DELABAUT SYLVAIN | TEAM CYCLISTE PROVINOIS - PROVIN | 24 | 2ème | 1:36:38 | 
@@ -235,7 +235,7 @@ image: assets/img/blog/road.jpeg
 | 208 | DOOM HERVE | NEW ORANGE TEAM BOUSBECQU | 0 | 2ème | 0:38:53 | 
 | 209 | TOURNEUX MICKAEL | ENTENTE CYCLISTE DE FONTA | 0 | 2ème | 0:38:53 | 
 | 210 | LEDOUX LAURENT | UNION SPORTIVE SAINT ANDR | 0 | 2ème | 0:38:53 | 
-| **211** | **[DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
+| **211** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
 | 212 | VANWAELSCAPPEL JEROME | CYCLO CLUB WAVRIN | 0 | 3ème | 0:38:53 | 
 | 213 | FLAMENT JAMES | HARNES VELO CLUB HARNESIE | 0 | 3ème | 0:38:53 | 
 | 214 | FRANCOIS PIERRE | ENTENTE CYCLISTE FACHES-T | 0 | 3ème | 0:38:53 | 

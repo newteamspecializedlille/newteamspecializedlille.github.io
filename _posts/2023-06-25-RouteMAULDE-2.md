@@ -9,11 +9,11 @@ image: assets/img/blog/road.jpeg
 
 ### 2ème Catégorie
 45 participants
-- [HUBAUT CHRISTOPHE](https://teamspecializedlille.github.io/coureurs/hubautchristophe) : 11
+- [HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe) : 11
 
 ### 3ème Catégorie
 69 participants
-- [DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael) : 34
+- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 34
 
 ### Scratch
 218 participants
@@ -51,7 +51,7 @@ image: assets/img/blog/road.jpeg
 | 29 | SAINTRAIN GERARD | ETOILE CYCLISTE LIEU ST AMAND | 15 | 2ème | 1:48:4 | 
 | 30 | CORNETTE STEPHANE | TEAM BIKE PRESEAU | 15 | 2ème | 1:48:11 | 
 | 31 | DUFOUR KEVIN | VELO CLUB DE L'ESCAUT ANZIN | 15 | 2ème | 1:48:11 | 
-| **32** | **[HUBAUT CHRISTOPHE](https://teamspecializedlille.github.io/coureurs/hubautchristophe)** | **TEAM SPECIALIZED LILLE** | **15** | **2ème** | **1:48:12** | 
+| **32** | **[HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe)** | **TEAM SPECIALIZED LILLE** | **15** | **2ème** | **1:48:12** | 
 | 33 | LECHAT RENAUD | UNION SPORTIVE VALENCIENNES CRESPIN | 15 | 2ème | 1:48:13 | 
 | 34 | MAZURE DAVID | VELO CLUB HORNAING | 15 | 2ème | 1:48:13 | 
 | 35 | BAILLY FLORIAN | ESEG DOUAI | 15 | 2ème | 1:48:14 | 
@@ -124,7 +124,7 @@ image: assets/img/blog/road.jpeg
 | 102 | BOURGEAULT LOUIS | VELO CLUB SOLESMES | 14 | 3ème | 1:39:54 | 
 | 103 | CHOQUET DAVID | UNION SPORTIVE SAINT ANDRE | 14 | 3ème | 1:39:55 | 
 | 104 | FIEVET JEAN PAUL | energy cycling club joncourt | 14 | 3ème | 1:39:56 | 
-| **105** | **[DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **14** | **3ème** | **1:39:56** | 
+| **105** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **14** | **3ème** | **1:39:56** | 
 | 106 | CARON FABRICE | VELO CLUB AMANDINOIS | 14 | 3ème | 1:39:57 | 
 | 107 | MARCHANDISE PATRICE | VELO CLUB UNION HALLUIN | 14 | 3ème | 1:39:57 | 
 | 108 | CHEVAL EDDY | SAULZOIR MONTRECOURT CYCLING CLUB | 14 | 3ème | 1:39:57 | 

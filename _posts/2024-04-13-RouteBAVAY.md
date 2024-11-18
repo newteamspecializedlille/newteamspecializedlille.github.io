@@ -9,12 +9,12 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 46 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald) : Ab
+- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : Ab
 
 ### 3ème Catégorie
 84 participants
-- [MINNECI ELIO](https://teamspecializedlille.github.io/coureurs/minnecielio) : 7
-- [DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid) : 19
+- [MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio) : 7
+- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 19
 
 ### Scratch
 210 participants
@@ -90,7 +90,7 @@ image: assets/img/blog/road.jpeg
 | 67 | BALLEUX ANTOINE | ETOILE CYCLISTE FEIGNIES | 14 | 3ème | 1:37:11 | 
 | 68 | DEPAEPE THIBAUT | TEAM ENFER WALLERS ARENBERG | 14 | 3ème | 1:37:16 | 
 | 69 | MISMAQUE JACQUES | ASPTT REIMS | 14 | 3ème | 1:37:41 | 
-| **70** | **[MINNECI ELIO](https://teamspecializedlille.github.io/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **14** | **3ème** | **1:37:49** | 
+| **70** | **[MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **14** | **3ème** | **1:37:49** | 
 | 71 | CARPELS GUILLAUME | VELO CLUB UNION HALLUIN | 14 | 3ème | 1:37:50 | 
 | 72 | WELVAERT RICHARD | AGNY ARTeam | 14 | 3ème | 1:37:52 | 
 | 73 | PANCZAK MAXIME | ROUE D'OR COMINOISE | 14 | 3ème | 1:37:52 | 
@@ -102,7 +102,7 @@ image: assets/img/blog/road.jpeg
 | 79 | LEONARDI FLORIAN | RESILIENCE CLUB | 14 | 3ème | 1:38:12 | 
 | 80 | DROLET PHILIPPE | UNION SPORTIVE SAINT ANDRE | 14 | 3ème | 1:38:13 | 
 | 81 | ZANOLINO FABRICE | COMPIEGNE SPORTS CYCLISTES | 14 | 3ème | 1:38:19 | 
-| **82** | **[DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **14** | **3ème** | **1:39:1** | 
+| **82** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **14** | **3ème** | **1:39:1** | 
 | 83 | KONOPKA BAPTISTE | VELO CLUB SOLESMES | 14 | 3ème | 1:40:5 | 
 | 84 | BONNET JOHNNY | TEAM VTT JEUMONT | 14 | 2ème | 1:40:39 | 
 | 85 | MILLET FABRICE | VTT  CLUB PONT SUR SAMBRE | 14 | 2ème | 1:40:39 | 
@@ -208,7 +208,7 @@ image: assets/img/blog/road.jpeg
 | 185 | QUINZIN LOANE | ETOILE CYCLISTE FEIGNIES | 7 | Féminines | 1:1:38 | 
 | 186 | LEFEVRE JOFFREY | LA CALOTERIE OMNISPORT | 6 | 1ère | 0:35:56 | 
 | 187 | BERNIER CLARA | VTT  CLUB PONT SUR SAMBRE | 6 | Féminines | 1:1:28 | 
-| **188** | **[MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **5** | **1ère** | **0:20:27** | 
+| **188** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **5** | **1ère** | **0:20:27** | 
 | 189 | DELEPLACE HADRIEN | VELO CLUB ROUBAIX | 5 | 1ère | 0:28:46 | 
 | 190 | BATAILLE ARNAUD | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 4 | 2ème | 0:22:28 | 
 | 191 | BIENFAIT LIONEL | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 4 | 3ème | 0:24:10 | 

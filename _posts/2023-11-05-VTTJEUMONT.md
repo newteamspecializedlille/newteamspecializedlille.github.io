@@ -9,7 +9,7 @@ image: assets/img/blog/vtt.jpeg
 
 ### VTT Vétérans B
 9 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald) : 1
+- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 1
 
 ### Scratch
 39 participants
@@ -22,7 +22,7 @@ image: assets/img/blog/vtt.jpeg
 | 4 | BONNET JOHNNY | TEAM VTT JEUMONT | 8 | Seniors B | 0:54:33 | 
 | 5 | MARECHAL GUILLAUME | VELO CLUB SOLESMES | 8 | Seniors B | 0:55:6 | 
 | 6 | VAN CLEEMPUT MARTIAL | FLEURBAIX TEAM SHARK VTT | 8 | Seniors A | 0:55:16 | 
-| **7** | **[MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans B** | **0:56:35** | 
+| **7** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans B** | **0:56:35** | 
 | 8 | JABLONSKI SEBASTIEN | TEAM B.B.L. HERGNIES | 8 | Vétérans A | 0:57:38 | 
 | 9 | DELADERIERE ROMAIN | pont sur sambre | 8 | Seniors A | 0:57:44 | 
 | 10 | ORTEGA JULIEN | TEAM VTT JEUMONT | 7 | Vétérans A | 0:51:20 | 

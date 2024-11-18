@@ -9,9 +9,9 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 47 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien) : 28
+- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 28
 
 ### 3ème Catégorie
 54 participants
-- [MINNECI ELIO](https://teamspecializedlille.github.io/coureurs/minnecielio) : 2
-- [DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier) : 7
+- [MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio) : 2
+- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 7

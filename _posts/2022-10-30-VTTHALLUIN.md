@@ -9,7 +9,7 @@ image: assets/img/blog/vtt.jpeg
 
 ### VTT Sénior B
 11 participants
-- [DUFOUR JONATHAN](https://teamspecializedlille.github.io/coureurs/dufourjonathan) : 3
+- [DUFOUR JONATHAN](https://teamspecializedlille.cc/coureurs/dufourjonathan) : 3
 
 ### Scratch
 30 participants
@@ -26,7 +26,7 @@ image: assets/img/blog/vtt.jpeg
 | 8 | HANNOT CHRISTOPHE | VELO CLUB UNION HALLUIN | 8 | Vétérans A | 0:49:58 | 
 | 9 | DURAND DIDIER | THELUS TEAM UNIS-VERT VTT | 8 | Vétérans B | 0:49:58 | 
 | 10 | VAN STAEN ELOUAN | CYCLO CLUB WAVRIN | 8 | Seniors A | 0:50:11 | 
-| **11** | **[DUFOUR JONATHAN](https://teamspecializedlille.github.io/coureurs/dufourjonathan)** | **TEAM SPECIALIZED LILLE** | **8** | **Seniors B** | **0:50:20** | 
+| **11** | **[DUFOUR JONATHAN](https://teamspecializedlille.cc/coureurs/dufourjonathan)** | **TEAM SPECIALIZED LILLE** | **8** | **Seniors B** | **0:50:20** | 
 | 12 | CAZE ALBAN | UNION SPORTIVE SAINT ANDRE | 8 | Vétérans A | 0:50:32 | 
 | 13 | OLIVIER ALEXANDRE | #N/A | 8 | Seniors A | 0:50:35 | 
 | 14 | LONCKE SEBASTIEN | VTT SAINT AMAND LES EAUX | 8 | Seniors B | 0:50:59 | 

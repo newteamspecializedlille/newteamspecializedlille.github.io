@@ -9,8 +9,8 @@ image: assets/img/blog/cx.jpeg
 
 ### 2ème Catégorie
 30 participants
-- [ORBIER AXEL](https://teamspecializedlille.github.io/coureurs/orbieraxel) : 5
+- [ORBIER AXEL](https://teamspecializedlille.cc/coureurs/orbieraxel) : 5
 
 ### 3ème Catégorie
 47 participants
-- [MOULIN FELIX](https://teamspecializedlille.github.io/coureurs/moulinfelix) : 14
+- [MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix) : 14

@@ -9,17 +9,17 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 60 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve) : 34
+- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 34
 
 ### 2ème Catégorie
 72 participants
-- [LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane) : 1
-- [HUBAUT CHRISTOPHE](https://teamspecializedlille.github.io/coureurs/hubautchristophe) : 26
-- [DENDIEVEL CYRIL](https://teamspecializedlille.github.io/coureurs/dendievelcyril) : 55
+- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 1
+- [HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe) : 26
+- [DENDIEVEL CYRIL](https://teamspecializedlille.cc/coureurs/dendievelcyril) : 55
 
 ### 3ème Catégorie
 93 participants
-- [DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael) : 18
+- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 18
 
 ### Scratch
 289 participants
@@ -59,7 +59,7 @@ image: assets/img/blog/road.jpeg
 | 31 | ZAWODA ROMAN | GAZ ELEC CLUB DE DOUAI | 20 | 1ère | 1:48:21 | 
 | 32 | DUHAMEL ARNAUD | AGNY ARTEAM | 20 | 1ère | 1:48:21 | 
 | 33 | HAVET SEBASTIEN | GAZ ELEC CLUB DE DOUAI | 20 | 1ère | 1:48:21 | 
-| **34** | **[DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **20** | **1ère** | **1:48:21** | 
+| **34** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **20** | **1ère** | **1:48:21** | 
 | 35 | CARRIN JEROME | TEAM ENFER DU NORD WALLERS ARENBERG | 20 | 1ère | 1:48:22 | 
 | 36 | PIAT JEREMY | ETOILE CYCLISTE LIEU ST AMAND | 20 | 1ère | 1:48:25 | 
 | 37 | LEFEVRE SEBASTIEN | UNION VELOCIPEDIQUE FOURMISIENNE | 20 | 1ère | 1:48:25 | 
@@ -77,7 +77,7 @@ image: assets/img/blog/road.jpeg
 | 49 | HIERNAUX TANGUY | ASSOCIATION CYCLISTE D'ETROEUNGT | 20 | 1ère | 1:48:48 | 
 | 50 | BRIAND KEVIN | ASSOCIATION SPORTIVE THOUROTTOISE CYCLISTE | 20 | 1ère | 1:49:2 | 
 | 51 | RIVART ADRIEN | ASSOCIATION CYCLISTE BELLAINGEOISE | 20 | 1ère | 1:49:14 | 
-| **52** | **[LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **19** | **2ème** | **1:43:34** | 
+| **52** | **[LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **19** | **2ème** | **1:43:34** | 
 | 53 | DASSONNEVILLE FRANCK | RESILIENCE CLUB | 19 | 2ème | 1:43:38 | 
 | 54 | DE VREESE ALEXIS | RESILIENCE CLUB | 19 | 2ème | 1:43:43 | 
 | 55 | PRIAT AURELIEN | ESEG DOUAI | 19 | 2ème | 1:43:44 | 
@@ -102,7 +102,7 @@ image: assets/img/blog/road.jpeg
 | 74 | GILLOT JULIEN | GILLOT CYCLING CLUB FEIGNIES | 19 | 2ème | 1:43:58 | 
 | 75 | MARTHE ROMUALD | ETOILE CYCLISTE LIEU ST AMAND | 19 | 2ème | 1:43:58 | 
 | 76 | DELANNOY JULIEN | ETOILE CYCLISTE TOURCOING | 19 | 2ème | 1:43:59 | 
-| **77** | **[HUBAUT CHRISTOPHE](https://teamspecializedlille.github.io/coureurs/hubautchristophe)** | **TEAM SPECIALIZED LILLE** | **19** | **2ème** | **1:43:59** | 
+| **77** | **[HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe)** | **TEAM SPECIALIZED LILLE** | **19** | **2ème** | **1:43:59** | 
 | 78 | BOS FABRICE | ASSOCIATION CYCLISTE BELLAINGEOISE | 19 | 2ème | 1:43:59 | 
 | 79 | DELMOTTE VINCENT | TEAM POLICE HDF - ROUBAIX | 19 | 2ème | 1:43:59 | 
 | 80 | SOTTIAUX SEBASTIEN | UNION SPORTIVE SAINT ANDRE | 19 | 2ème | 1:44:0 | 
@@ -131,7 +131,7 @@ image: assets/img/blog/road.jpeg
 | 103 | VERHAEGHE MICHEL | LINSELLES CYCLISME | 19 | 2ème | 1:44:8 | 
 | 104 | GLINEUR MICHAEL | TEAM ENFER DU NORD WALLERS ARENBERG | 19 | 2ème | 1:44:8 | 
 | 105 | VINCENT ETIENNE | ETOILE CYCLISTE FEIGNIES | 19 | 2ème | 1:44:8 | 
-| **106** | **[DENDIEVEL CYRIL](https://teamspecializedlille.github.io/coureurs/dendievelcyril)** | **TEAM SPECIALIZED LILLE** | **19** | **2ème** | **1:44:9** | 
+| **106** | **[DENDIEVEL CYRIL](https://teamspecializedlille.cc/coureurs/dendievelcyril)** | **TEAM SPECIALIZED LILLE** | **19** | **2ème** | **1:44:9** | 
 | 107 | DERODE BAPTISTE | HAVELUY CYCLO CLUB | 19 | 2ème | 1:44:25 | 
 | 108 | TOUZEAU FLORIAN | VELO CLUB AMANDINOIS | 19 | 2ème | 1:44:30 | 
 | 109 | TAISNE CHRISTOPHE | GAZ ELEC CLUB DE DOUAI | 19 | 2ème | 1:46:48 | 
@@ -156,7 +156,7 @@ image: assets/img/blog/road.jpeg
 | 128 | PETIT CHRISTOPHE | NEW ORANGE TEAM BOUSBECQUE | 18 | 3ème | 1:42:47 | 
 | 129 | AUSSEMS JEAN-YVES | UNION SPORTIVE SAINT ANDRE | 18 | 3ème | 1:42:47 | 
 | 130 | DELOT GREGORY | TEAM BIKE PRESEAU | 18 | 3ème | 1:42:48 | 
-| **131** | **[DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **18** | **3ème** | **1:42:50** | 
+| **131** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **18** | **3ème** | **1:42:50** | 
 | 132 | NOGARD ALEXANDRE | ESEG DOUAI | 18 | 3ème | 1:42:52 | 
 | 133 | FREROT FRANCK | U.C. CAPELLOISE FOURMIES | 18 | 3ème | 1:42:53 | 
 | 134 | CICHOWSKI DAVID | VELO CLUB HORNAING | 18 | 3ème | 1:42:53 | 

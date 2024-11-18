@@ -9,19 +9,19 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 63 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien) : 38
-- [DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve) : 41
+- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 38
+- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 41
 
 ### 2ème Catégorie
 84 participants
-- [DENDIEVEL CYRIL](https://teamspecializedlille.github.io/coureurs/dendievelcyril) : 4
-- [DUFOUR JONATHAN](https://teamspecializedlille.github.io/coureurs/dufourjonathan) : 6
-- [HUBAUT CHRISTOPHE](https://teamspecializedlille.github.io/coureurs/hubautchristophe) : 13
-- [LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane) : 42
+- [DENDIEVEL CYRIL](https://teamspecializedlille.cc/coureurs/dendievelcyril) : 4
+- [DUFOUR JONATHAN](https://teamspecializedlille.cc/coureurs/dufourjonathan) : 6
+- [HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe) : 13
+- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 42
 
 ### 3ème Catégorie
 89 participants
-- [DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael) : 59
+- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 59
 
 ### Scratch
 313 participants
@@ -65,10 +65,10 @@ image: assets/img/blog/road.jpeg
 | 35 | DERUEL ANTOINE | VELO CLUB BAVAISIEN | 11 | 1ère | 1:40:18 | 
 | 36 | DUHAMEL ARNAUD | AGNY ARTEAM | 11 | 1ère | 1:40:20 | 
 | 37 | COMMONT DAVID | RELAIS CYCLISTE MOY DE L'AISNE | 11 | 1ère | 1:40:21 | 
-| **38** | **[DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **11** | **1ère** | **1:40:21** | 
+| **38** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **11** | **1ère** | **1:40:21** | 
 | 39 | JABLONSKI SEBASTIEN | TEAM B.B.L. HERGNIES | 11 | 1ère | 1:40:22 | 
 | 40 | DEVILLE ANDY | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 11 | 1ère | 1:40:22 | 
-| **41** | **[DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **11** | **1ère** | **1:40:23** | 
+| **41** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **11** | **1ère** | **1:40:23** | 
 | 42 | VAILLANT LOUIS | UNION SPORTIVE VALENCIENNES CRESPIN | 11 | 1ère | 1:40:23 | 
 | 43 | BLONDEAU BENOIT | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 11 | 1ère | 1:40:23 | 
 | 44 | MONIEZ ADRIEN | CLUB CYCLISTE THUN ST MARTIN | 11 | 1ère | 1:40:23 | 
@@ -92,16 +92,16 @@ image: assets/img/blog/road.jpeg
 | 62 | MARTHE ROMUALD | ETOILE CYCLISTE LIEU ST AMAND | 11 | 2ème | 2:5:0 | 
 | 63 | DEVIGNE NICOLAS | ARTOIS CYCLING TEAM | 11 | 2ème | 2:5:1 | 
 | 64 | SOTTIAUX SEBASTIEN | UNION SPORTIVE SAINT ANDRE | 11 | 2ème | 2:5:4 | 
-| **65** | **[DENDIEVEL CYRIL](https://teamspecializedlille.github.io/coureurs/dendievelcyril)** | **TEAM SPECIALIZED LILLE** | **11** | **2ème** | **2:5:5** | 
+| **65** | **[DENDIEVEL CYRIL](https://teamspecializedlille.cc/coureurs/dendievelcyril)** | **TEAM SPECIALIZED LILLE** | **11** | **2ème** | **2:5:5** | 
 | 66 | KNOCKAERT JULIEN | TEAM CYCLISTE PROVINOIS - PROVIN | 11 | 2ème | 2:5:9 | 
-| **67** | **[DUFOUR JONATHAN](https://teamspecializedlille.github.io/coureurs/dufourjonathan)** | **TEAM SPECIALIZED LILLE** | **11** | **2ème** | **2:6:12** | 
+| **67** | **[DUFOUR JONATHAN](https://teamspecializedlille.cc/coureurs/dufourjonathan)** | **TEAM SPECIALIZED LILLE** | **11** | **2ème** | **2:6:12** | 
 | 68 | DESMET SEBASTIEN | VELO CLUB UNION HALLUIN | 11 | 2ème | 2:6:57 | 
 | 69 | HIERNAUX TANGUY | ASSOCIATION CYCLISTE D'ETROEUNGT | 11 | 2ème | 2:7:2 | 
 | 70 | BROUTIN ANTOINE | ASSOCIATION CYCLISTE DE CUINCY | 11 | 2ème | 2:7:2 | 
 | 71 | VANDERMEIREN MANUEL | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 11 | 2ème | 2:7:2 | 
 | 72 | DE PARMENTIER MAXENCE | VELO CLUB SOLESMES | 11 | 2ème | 2:7:2 | 
 | 73 | LECHAT RENAUD | UNION SPORTIVE VALENCIENNES CRESPIN | 11 | 2ème | 2:7:2 | 
-| **74** | **[HUBAUT CHRISTOPHE](https://teamspecializedlille.github.io/coureurs/hubautchristophe)** | **TEAM SPECIALIZED LILLE** | **11** | **2ème** | **2:7:3** | 
+| **74** | **[HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe)** | **TEAM SPECIALIZED LILLE** | **11** | **2ème** | **2:7:3** | 
 | 75 | SAVREUX SAMUEL | UNION SPORTIVE DE CAMON SECTION CYCLISTE | 11 | 2ème | 2:7:3 | 
 | 76 | TECHEL GREGORY | VELO CLUB UNION HALLUIN | 11 | 2ème | 2:7:3 | 
 | 77 | ALBERTINI LUDOVIC | VELO CLUB UNION HALLUIN | 11 | 2ème | 2:7:3 | 
@@ -130,7 +130,7 @@ image: assets/img/blog/road.jpeg
 | 100 | BRAL JAN | ETOILE CYCLISTE LIEU ST AMAND | 11 | 2ème | 2:7:5 | 
 | 101 | TAISNE CHRISTOPHE | GAZ ELEC CLUB DE DOUAI | 11 | 2ème | 2:7:6 | 
 | 102 | CONTESSE THIBAUD | UNION SPORTIVE VALENCIENNES CRESPIN | 11 | 2ème | 2:7:6 | 
-| **103** | **[LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **11** | **2ème** | **2:7:6** | 
+| **103** | **[LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **11** | **2ème** | **2:7:6** | 
 | 104 | ROUZE ERIK | LA PEDALE MADELEINOISE | 11 | 2ème | 2:7:7 | 
 | 105 | SAINTRAIN CORENTIN | ETOILE CYCLISTE LIEU ST AMAND | 11 | 2ème | 2:7:7 | 
 | 106 | HERFEUIL ANTHONY | UNION SPORTIVE SAINT ANDRE | 11 | 2ème | 2:7:7 | 
@@ -219,7 +219,7 @@ image: assets/img/blog/road.jpeg
 | 189 | DELOT GREGORY | TEAM BIKE PRESEAU | 9 | 3ème | 1:37:17 | 
 | 190 | VERDIN GREGORY | UNION SPORTIVE SAINT ANDRE | 9 | 3ème | 1:37:17 | 
 | 191 | BEAUDART BRUNO | TEAM MATERIEL-VELO.COM BONDUES | 9 | 3ème | 1:37:17 | 
-| **192** | **[DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **9** | **3ème** | **1:37:19** | 
+| **192** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **9** | **3ème** | **1:37:19** | 
 | 193 | SEVERIN LOIC | GAZ ELEC CLUB DE DOUAI | 9 | 3ème | 1:37:19 | 
 | 194 | DRUART PASCAL | NEW TEAM MAULDE | 9 | 3ème | 1:37:19 | 
 | 195 | SCHIAVONE VIRGILIO | AS HELLEMMES CYCLISME | 9 | 3ème | 1:37:24 | 

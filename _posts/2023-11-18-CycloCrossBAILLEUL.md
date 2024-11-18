@@ -9,13 +9,13 @@ image: assets/img/resultats/2023-11-18-CycloCrossBAILLEUL/1.jpeg
 
 ### 2ème Catégorie
 17 participants
-- [LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane) : Ab
+- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : Ab
 
 ### 3ème Catégorie
 33 participants
-- [LECOLIER LOUIS](https://teamspecializedlille.github.io/coureurs/lecolierlouis) : 4
-- [MOULIN FELIX](https://teamspecializedlille.github.io/coureurs/moulinfelix) : 5
-- [DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid) : Ab
+- [LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis) : 4
+- [MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix) : 5
+- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : Ab
 
 ### Scratch
 69 participants
@@ -42,8 +42,8 @@ image: assets/img/resultats/2023-11-18-CycloCrossBAILLEUL/1.jpeg
 | 18 | GRARD RODRIGUE | CYCLO CLUB ORCHIES | 7 | 2ème | 1:11:38 | 
 | 19 | HAUTEM GERY | UNION SPORTIVE SAINT ANDRE | 6 | 3ème | 1:1:3 | 
 | 20 | HAVET SEBASTIEN | GAZ ELEC CLUB DE DOUAI | 6 | 2ème | 1:1:25 | 
-| **21** | **[LECOLIER LOUIS](https://teamspecializedlille.github.io/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **6** | **3ème** | **1:1:35** | 
-| **22** | **[MOULIN FELIX](https://teamspecializedlille.github.io/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **6** | **3ème** | **1:2:40** | 
+| **21** | **[LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **6** | **3ème** | **1:1:35** | 
+| **22** | **[MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **6** | **3ème** | **1:2:40** | 
 | 23 | DOLLET ETIENNE | MANQUEVILLE LILLERS CLUB CYCLISTE | 6 | 2ème | 1:2:42 | 
 | 24 | CARPELS GUILLAUME | VELO CLUB UNION HALLUIN | 6 | 2ème | 1:2:50 | 
 | 25 | CSERNAK SYLVAIN | UNION SPORTIVE VALENCIENNES CRESPIN | 6 | 3ème | 1:3:15 | 
@@ -82,12 +82,12 @@ image: assets/img/resultats/2023-11-18-CycloCrossBAILLEUL/1.jpeg
 | 58 | LEFEBVRE STEPHANIE | HENIN ETOILE CYCLISTE HENINOISE | 4 | Féminines | 0:42:26 | 
 | 59 | RIVART FANNY | GAZ ELEC CLUB DE DOUAI | 3 | Féminines | 0:33:31 | 
 | 60 | HEBERT PIERRICK | NEW ORANGE TEAM BOUSBECQU | 0 | 2ème | 0:38:53 | 
-| **61** | **[LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **0** | **2ème** | **0:38:53** | 
+| **61** | **[LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **0** | **2ème** | **0:38:53** | 
 | 62 | DELPIRE FREDERIC | VTT  CLUB PONT SUR SAMBRE | 0 | 2ème | 0:38:53 | 
 | 63 | BURY RANDY | TEAM BOUSIES | 0 | 2ème | 0:38:53 | 
 | 64 | DOOLAEGHE TERRY | VELO CLUB UNION HALLUIN | 0 | 3ème | 0:38:53 | 
 | 65 | BOULOGNE JEROME | LINSELLES CYCLISME | 0 | 3ème | 0:38:53 | 
-| **66** | **[DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
+| **66** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
 | 67 | BAUW EDOUARD | TEAM LABIERE BAILLEUL | 0 | 3ème | 0:38:53 | 
 | 68 | POUBLANG CYRILLE | CYCLO CLUB BERGUES | 0 | 3ème | 0:38:53 | 
 | 69 | ANTOGNARELLI MARINE | ESPOIR CYCLISTE WAMBRECHI | 0 | Féminines | 0:38:53 | 

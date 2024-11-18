@@ -9,11 +9,11 @@ image: assets/img/blog/vtt.jpeg
 
 ### VTT Sénior A
 0 participants
-- [DE GRAAL ROBIN](https://teamspecializedlille.github.io/coureurs/degraalrobin) : 2
+- [DE GRAAL ROBIN](https://teamspecializedlille.cc/coureurs/degraalrobin) : 2
 
 ### VTT Vétérans A
 13 participants
-- [WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit) : 9
+- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 9
 
 ### Scratch
 32 participants
@@ -36,9 +36,9 @@ image: assets/img/blog/vtt.jpeg
 | 14 | DEVIENNE ARNAUD | HERSIN VELO CLUB HERSIN COUPIGNY | 7 | Seniors B | 0:56:15 | 
 | 15 | HAVRET STEPHANE | 52X11 HIRSON THIÉRACHE | 7 | Vétérans A | 0:57:51 | 
 | 16 | MIENS JEROME | VELO CLUB SOLESMES | 7 | Vétérans A | 0:58:45 | 
-| **17** | **[DE GRAAL ROBIN](https://teamspecializedlille.github.io/coureurs/degraalrobin)** | **TEAM SPECIALIZED LILLE** | **6** | **Seniors A** | **0:49:58** | 
+| **17** | **[DE GRAAL ROBIN](https://teamspecializedlille.cc/coureurs/degraalrobin)** | **TEAM SPECIALIZED LILLE** | **6** | **Seniors A** | **0:49:58** | 
 | 18 | PLOUVIEZ VINCENT | CYCLO CLUB WAVRIN | 6 | Vétérans B | 0:49:58 | 
-| **19** | **[WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **6** | **Vétérans A** | **0:50:7** | 
+| **19** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **6** | **Vétérans A** | **0:50:7** | 
 | 20 | MERIAUX FREDERIC | FLEURBAIX TEAM SHARK VTT | 6 | Vétérans B | 0:50:13 | 
 | 21 | DHIERS EDGAR | AGNY ARTeam | 6 | Seniors A | 0:50:35 | 
 | 22 | DELAIRE LUCAS | CAMPHIN EN CAREMBAULT CYCLING TEAM | 6 | Seniors A | 0:50:54 | 

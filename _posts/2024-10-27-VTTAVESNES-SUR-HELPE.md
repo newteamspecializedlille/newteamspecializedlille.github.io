@@ -9,4 +9,4 @@ image: assets/img/blog/vtt.jpeg
 
 ### VTT Vétérans B
 12 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald) : 1
+- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 1

@@ -9,7 +9,7 @@ image: assets/img/blog/cx.jpeg
 
 ### 2ème Catégorie
 24 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald) : 1
+- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 1
 
 ### Scratch
 71 participants
@@ -21,7 +21,7 @@ image: assets/img/blog/cx.jpeg
 | 3 | ALEXANDRE GREGORY | VELO CLUB SOLESMES | 9 | 1ère | 0:49:43 | 
 | 4 | LINDAUER FLORIAN | ETOILE CYCLISTE LIEU ST AMAND | 9 | 1ère | 0:50:26 | 
 | 5 | LEGUEUX LAURENT | UNION VELOCIPEDIQUE FOURMISIENNE | 9 | 1ère | 0:51:30 | 
-| **6** | **[MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **9** | **2ème** | **0:51:53** | 
+| **6** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **9** | **2ème** | **0:51:53** | 
 | 7 | VANDERHAEGEN REGIS | ASSOCIATION CYCLISTE D'ETROEUNGT | 9 | 2ème | 0:51:53 | 
 | 8 | DOCHNIAK LEO | HAVELUY CYCLO CLUB | 9 | 2ème | 0:52:16 | 
 | 9 | MOURAIN DORIAN | UNION VELOCIPEDIQUE FOURMISIENNE | 9 | 1ère | 0:53:30 | 

@@ -9,11 +9,11 @@ image: assets/img/blog/vtt.jpeg
 
 ### VTT Vétérans A
 9 participants
-- [WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit) : 5
+- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 5
 
 ### VTT Vétérans B
 11 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald) : 1
+- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 1
 
 ### Scratch
 29 participants
@@ -23,7 +23,7 @@ image: assets/img/blog/vtt.jpeg
 | 1 | GREVIN JEROME | VELO CLUB SOLESMES | 12 | Vétérans A | 0:47:22 | 
 | 2 | DARTUS MIKAEL | VELO CLUB SOLESMES | 12 | Vétérans A | 0:48:36 | 
 | 3 | WINS STEPHANE | TEAM BOUSIES | 12 | Vétérans A | 0:48:54 | 
-| **4** | **[MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **12** | **Vétérans B** | **0:49:1** | 
+| **4** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **12** | **Vétérans B** | **0:49:1** | 
 | 5 | LIONNE LIONEL | HAVELUY CYCLO CLUB | 12 | Vétérans A | 0:49:36 | 
 | 6 | SOTTIAUX SEBASTIEN | UNION SPORTIVE SAINT ANDRE | 12 | Vétérans B | 0:50:0 | 
 | 7 | ALEXANDRE JIMMY | VELO CLUB SOLESMES | 12 | Vétérans B | 0:50:2 | 
@@ -33,7 +33,7 @@ image: assets/img/blog/vtt.jpeg
 | 11 | DUBRUILLE CHRISTOPHE | SAULZOIR MONTRECOURT CYCLING CLUB | 11 | Vétérans B | 0:47:37 | 
 | 12 | DUCARNE JEAN PHILIPPE | NEW TEAM MAULDE | 11 | Vétérans B | 0:49:21 | 
 | 13 | MICHEL KEVIN | ASSOCIATION CYCLISTE BELLAINGEOISE | 11 | Seniors A | 0:49:49 | 
-| **14** | **[WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **11** | **Vétérans A** | **0:50:36** | 
+| **14** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **11** | **Vétérans A** | **0:50:36** | 
 | 15 | HOEZ THEO | TEAM BOUSIES | 11 | Seniors A | 0:50:54 | 
 | 16 | MINETTE LOIC | VELO CLUB SOLESMES | 11 | Seniors A | 0:51:15 | 
 | 17 | DELFORGE FABRICE | CYCLO CLUB ORCHIES | 11 | Vétérans B | 0:51:20 | 

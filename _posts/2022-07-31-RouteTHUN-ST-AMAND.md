@@ -9,4 +9,4 @@ image: assets/img/blog/road.jpeg
 
 ### 3ème Catégorie
 49 participants
-- [DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier) : 40
+- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 40

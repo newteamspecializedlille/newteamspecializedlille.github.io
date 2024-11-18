@@ -9,11 +9,11 @@ image: assets/img/blog/road.jpeg
 
 ### 2ème Catégorie
 37 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve) : 20
+- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 20
 
 ### 3ème Catégorie
 49 participants
-- [WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit) : 6
+- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 6
 
 ### Scratch
 139 participants
@@ -61,7 +61,7 @@ image: assets/img/blog/road.jpeg
 | 39 | DEVOS CYRIL | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 39 | 2ème | 1:3:10 | 
 | 40 | MILLET FABRICE | VTT  CLUB PONT SUR SAMBRE | 39 | 2ème | 1:3:11 | 
 | 41 | CAILLARD ANTHONY | TEAM LINK AND RIDE HERIN | 39 | 2ème | 1:3:11 | 
-| **42** | **[DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **39** | **2ème** | **1:3:11** | 
+| **42** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **39** | **2ème** | **1:3:11** | 
 | 43 | LAPOTRE FRANCOIS | UNION SPORTIVE VALENCIENNES CRESPIN | 39 | 2ème | 1:3:11 | 
 | 44 | DUFOUR MICHEL | ASSOCIATION CYCLISTE BELLAINGEOISE | 39 | 2ème | 1:3:11 | 
 | 45 | LEFEBVRE JEAN-DANIEL | U.C. CAPELLOISE FOURMIES | 39 | 2ème | 1:3:13 | 
@@ -79,7 +79,7 @@ image: assets/img/blog/road.jpeg
 | 57 | SERE BENJAMIN | CYCLO CLUB WAVRIN | 36 | 3ème | 0:59:23 | 
 | 58 | POULAIN NOAH | TEAM DECOPUB PROVILLE | 36 | 3ème | 0:59:45 | 
 | 59 | BALLEUX ANTOINE | ETOILE CYCLISTE FEIGNIES | 36 | 3ème | 0:59:45 | 
-| **60** | **[WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **36** | **3ème** | **0:59:46** | 
+| **60** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **36** | **3ème** | **0:59:46** | 
 | 61 | POULAIN CHRISTOPHE | TEAM DECOPUB PROVILLE | 36 | 3ème | 0:59:46 | 
 | 62 | LEMAITRE STEPHANE | TEAM DECOPUB PROVILLE | 36 | 3ème | 0:59:46 | 
 | 63 | MEUNIER GERARD | GILLOT CYCLING CLUB FEIGNIES | 36 | 3ème | 0:59:46 | 

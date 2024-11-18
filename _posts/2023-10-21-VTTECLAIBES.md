@@ -9,7 +9,7 @@ image: assets/img/blog/vtt.jpeg
 
 ### VTT Vétérans B
 11 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald) : 1
+- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 1
 
 ### Scratch
 32 participants
@@ -23,7 +23,7 @@ image: assets/img/blog/vtt.jpeg
 | 5 | DELY JULIEN | TEAM VTT JEUMONT | 9 | Seniors B | 0:54:23 | 
 | 6 | DARTUS MIKAEL | VELO CLUB SOLESMES | 9 | Vétérans A | 0:56:56 | 
 | 7 | KADDOUR-DJEBBAR FREDERIC | VTT  CLUB PONT SUR SAMBRE | 9 | Vétérans A | 0:57:43 | 
-| **8** | **[MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **9** | **Vétérans B** | **0:58:8** | 
+| **8** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **9** | **Vétérans B** | **0:58:8** | 
 | 9 | QUINZIN YOURI | TEAM BOUSIES | 9 | Seniors B | 0:58:25 | 
 | 10 | DELADERIERE ROMAIN | pont sur sambre | 8 | Seniors A | 0:52:16 | 
 | 11 | BAUDOIN ETIENNE | LES VIKINGS VTT MARCHE NORDIQUE OHAIN | 8 | Seniors B | 0:53:18 | 

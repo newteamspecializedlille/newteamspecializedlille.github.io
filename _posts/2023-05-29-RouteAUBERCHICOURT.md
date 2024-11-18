@@ -9,17 +9,17 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 38 participants
-- [SCHERNU CHRISTOPHE](https://teamspecializedlille.github.io/coureurs/schernuchristophe) : 22
-- [DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve) : Ab
+- [SCHERNU CHRISTOPHE](https://teamspecializedlille.cc/coureurs/schernuchristophe) : 22
+- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : Ab
 
 ### 2ème Catégorie
 56 participants
-- [LECLERCQ FRANCK](https://teamspecializedlille.github.io/coureurs/leclercqfranck) : 4
-- [LECOLIER BENOIT](https://teamspecializedlille.github.io/coureurs/lecolierbenoit) : 11
+- [LECLERCQ FRANCK](https://teamspecializedlille.cc/coureurs/leclercqfranck) : 4
+- [LECOLIER BENOIT](https://teamspecializedlille.cc/coureurs/lecolierbenoit) : 11
 
 ### 3ème Catégorie
 77 participants
-- [DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael) : 25
+- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 25
 
 ### Scratch
 218 participants
@@ -47,7 +47,7 @@ image: assets/img/blog/road.jpeg
 | 19 | CORNU CHARLES | energy cycling club joncourt | 8 | 1ère | 1:41:30 | 
 | 20 | HIERNAUX TANGUY | ASSOCIATION CYCLISTE D'ETROEUNGT | 8 | 1ère | 1:42:14 | 
 | 21 | DUHAMEL ARNAUD | AGNY ARTEAM | 8 | 1ère | 1:42:15 | 
-| **22** | **[SCHERNU CHRISTOPHE](https://teamspecializedlille.github.io/coureurs/schernuchristophe)** | **TEAM SPECIALIZED LILLE** | **8** | **1ère** | **1:42:17** | 
+| **22** | **[SCHERNU CHRISTOPHE](https://teamspecializedlille.cc/coureurs/schernuchristophe)** | **TEAM SPECIALIZED LILLE** | **8** | **1ère** | **1:42:17** | 
 | 23 | HURIAU BENOIT | ASSOCIATION CYCLISTE BELLAINGEOISE | 8 | 1ère | 1:42:21 | 
 | 24 | LELUBRE THIBAULT | UNION CYCLISTE SOLRE LE CHATEAU | 8 | 1ère | 1:42:45 | 
 | 25 | DELESCLUSE NICOLAS | BARLIN CERCLE LAIQUE | 8 | 1ère | 1:45:50 | 
@@ -57,14 +57,14 @@ image: assets/img/blog/road.jpeg
 | 29 | RIGAUX JEAN JACQUES | CLUB CYCLISTE THUN ST MARTIN | 8 | 2ème | 1:45:51 | 
 | 30 | FONTAINE EMMANUEL | TEAM POLICE HDF - ROUBAIX | 8 | 2ème | 1:45:52 | 
 | 31 | BLONDEL FREDERIC | ESEG DOUAI | 8 | 2ème | 1:45:52 | 
-| **32** | **[LECLERCQ FRANCK](https://teamspecializedlille.github.io/coureurs/leclercqfranck)** | **TEAM SPECIALIZED LILLE** | **8** | **2ème** | **1:45:53** | 
+| **32** | **[LECLERCQ FRANCK](https://teamspecializedlille.cc/coureurs/leclercqfranck)** | **TEAM SPECIALIZED LILLE** | **8** | **2ème** | **1:45:53** | 
 | 33 | DEPARIS TRISTAN | LINSELLES CYCLISME | 8 | 2ème | 1:45:53 | 
 | 34 | SIJNESAEL REMI | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 8 | 2ème | 1:45:53 | 
 | 35 | LALEU DAVID | UNION SPORTIVE SAINT ANDRE | 8 | 2ème | 1:45:54 | 
 | 36 | HELLOT FRANCOIS | HAVELUY CYCLO CLUB | 8 | 2ème | 1:45:55 | 
 | 37 | CORNETTE STEPHANE | TEAM BIKE PRESEAU | 8 | 2ème | 1:45:55 | 
 | 38 | REUTER SEBASTIEN | ESEG DOUAI | 8 | 2ème | 1:45:55 | 
-| **39** | **[LECOLIER BENOIT](https://teamspecializedlille.github.io/coureurs/lecolierbenoit)** | **TEAM SPECIALIZED LILLE** | **8** | **2ème** | **1:45:55** | 
+| **39** | **[LECOLIER BENOIT](https://teamspecializedlille.cc/coureurs/lecolierbenoit)** | **TEAM SPECIALIZED LILLE** | **8** | **2ème** | **1:45:55** | 
 | 40 | VERHAEGHE MICHEL | LINSELLES CYCLISME | 8 | 2ème | 1:45:57 | 
 | 41 | BAILLY FLORIAN | ESEG DOUAI | 8 | 2ème | 1:47:57 | 
 | 42 | VISSIO MATHIEU | AGNY ARTEAM | 8 | 2ème | 1:47:57 | 
@@ -123,7 +123,7 @@ image: assets/img/blog/road.jpeg
 | 95 | VANHALWYN DIMITRI | VELO CLUB UNION HALLUIN | 7 | 3ème | 1:34:52 | 
 | 96 | FREROT FRANCK | U.C. CAPELLOISE FOURMIES | 7 | 3ème | 1:34:52 | 
 | 97 | CONTESSE FREDERIC | ASSOCIATION CYCLISTE D'ETROEUNGT | 7 | 3ème | 1:34:52 | 
-| **98** | **[DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **7** | **3ème** | **1:34:53** | 
+| **98** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **7** | **3ème** | **1:34:53** | 
 | 99 | KWIATOWSKI SYLVAIN | VELO CLUB BAVAISIEN | 7 | 3ème | 1:34:53 | 
 | 100 | MARCHANDISE PATRICE | VELO CLUB UNION HALLUIN | 7 | 3ème | 1:34:53 | 
 | 101 | FARTEK DAVID | VELO CLUB SOLESMES | 7 | 3ème | 1:34:53 | 
@@ -208,7 +208,7 @@ image: assets/img/blog/road.jpeg
 | 180 | CANIPEL ALEXANDRE | VELO CLUB SOLESMES | 6 | 3ème | 1:41:35 | 
 | 181 | BERTHIER DENIS | TEAM ENFER DU NORD WALLERS ARENBERG | 6 | 3ème | 1:41:36 | 
 | 182 | VOISIN FRANCIS | BARLIN CERCLE LAIQUE | 6 | 3ème | 1:47:12 | 
-| **183** | **[DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **5** | **1ère** | **1:4:3** | 
+| **183** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **5** | **1ère** | **1:4:3** | 
 | 184 | COASNE CLEMENT | TEAM POLICE HDF - ROUBAIX | 5 | 1ère | 1:4:3 | 
 | 185 | GWENAEL LEQUIEN | BARLIN CERCLE LAIQUE | 5 | 2ème | 1:7:33 | 
 | 186 | HARDY JEAN PHILIPPE | LA CHERIZIENNE - VILLE DE CHAUNY | 5 | 2ème | 1:11:48 | 

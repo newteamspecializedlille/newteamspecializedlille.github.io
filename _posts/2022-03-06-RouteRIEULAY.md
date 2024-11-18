@@ -9,15 +9,15 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 62 participants
-- [DARQUE JEAN FRANCOIS](https://teamspecializedlille.github.io/coureurs/darquejeanfrancois) : 8
-- [DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve) : 38
-- [DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien) : 51
+- [DARQUE JEAN FRANCOIS](https://teamspecializedlille.cc/coureurs/darquejeanfrancois) : 8
+- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 38
+- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 51
 
 ### 2ème Catégorie
 63 participants
-- [LECLERCQ FRANCK](https://teamspecializedlille.github.io/coureurs/leclercqfranck) : 16
+- [LECLERCQ FRANCK](https://teamspecializedlille.cc/coureurs/leclercqfranck) : 16
 
 ### 3ème Catégorie
 106 participants
-- [DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier) : 50
-- [DEBUY SEBASTIEN](https://teamspecializedlille.github.io/coureurs/debuysebastien) : 66
+- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 50
+- [DEBUY SEBASTIEN](https://teamspecializedlille.cc/coureurs/debuysebastien) : 66

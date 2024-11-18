@@ -9,18 +9,18 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 26 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien) : 19
+- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 19
 
 ### 2ème Catégorie
 43 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve) : 31
+- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 31
 
 ### 3ème Catégorie
 56 participants
-- [MINNECI ELIO](https://teamspecializedlille.github.io/coureurs/minnecielio) : 4
-- [DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid) : 12
-- [DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier) : 17
-- [WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit) : 21
+- [MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio) : 4
+- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 12
+- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 17
+- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 21
 
 ### Scratch
 157 participants
@@ -50,7 +50,7 @@ image: assets/img/blog/road.jpeg
 | 21 | KNOCKAERT JULIEN | TEAM CYCLISTE PROVINOIS - PROVIN | 19 | 2ème | 1:5:4 | 
 | 22 | LOGIE MATHIEU | NEW ORANGE TEAM BOUSBECQUE | 19 | 2ème | 1:5:4 | 
 | 23 | DE PARMENTIER MAXENCE | VELO CLUB SOLESMES | 19 | 1ère | 1:5:5 | 
-| **24** | **[DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **19** | **1ère** | **1:5:5** | 
+| **24** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **19** | **1ère** | **1:5:5** | 
 | 25 | NAMANE STEVE | NEW ORANGE TEAM BOUSBECQUE | 19 | 1ère | 1:5:5 | 
 | 26 | LALEU DAVID | UNION SPORTIVE SAINT ANDRE | 19 | 2ème | 1:5:5 | 
 | 27 | ZAWODA ROMAN | GAZ ELEC CLUB DE DOUAI | 19 | 1ère | 1:5:6 | 
@@ -78,7 +78,7 @@ image: assets/img/blog/road.jpeg
 | 49 | BELE JULIEN | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 19 | 3ème | 1:11:29 | 
 | 50 | BAILLEUX THOMAS | NOEUX LES MINES VTT XC TEAM | 19 | 3ème | 1:11:29 | 
 | 51 | PAVIE MAXIME | UNION SPORTIVE SAINT ANDRE | 19 | 3ème | 1:11:35 | 
-| **52** | **[MINNECI ELIO](https://teamspecializedlille.github.io/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **19** | **3ème** | **1:11:41** | 
+| **52** | **[MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **19** | **3ème** | **1:11:41** | 
 | 53 | REILLE AGACINSKI TOM | GAZ ELEC CLUB DE DOUAI | 19 | 3ème | 1:12:48 | 
 | 54 | MARCHANDISE PATRICE | VELO CLUB UNION HALLUIN | 19 | 3ème | 1:13:3 | 
 | 55 | DEBRIL BENJAMIN | CYCLO CLUB ORCHIES | 19 | 3ème | 1:13:4 | 
@@ -86,16 +86,16 @@ image: assets/img/blog/road.jpeg
 | 57 | BURY RANDY | TEAM BOUSIES | 19 | 3ème | 1:13:5 | 
 | 58 | MISMAQUE JACQUES | ASPTT REIMS | 19 | 3ème | 1:13:5 | 
 | 59 | DALLE CLEMENT | VELO CLUB SOLESMES | 19 | 3ème | 1:13:5 | 
-| **60** | **[DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **19** | **3ème** | **1:13:5** | 
+| **60** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **19** | **3ème** | **1:13:5** | 
 | 61 | WELVAERT RICHARD | AGNY ARTeam | 19 | 3ème | 1:13:5 | 
 | 62 | FLAMENT JAMES | HARNES VELO CLUB HARNESIEN | 19 | 3ème | 1:13:5 | 
 | 63 | PETIT FLORIAN | UNION CYCLISTE WATTIGNIES | 19 | 3ème | 1:13:6 | 
 | 64 | MEUNIER GERARD | GILLOT CYCLING CLUB FEIGNIES | 19 | 3ème | 1:13:6 | 
-| **65** | **[DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **19** | **3ème** | **1:13:6** | 
+| **65** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **19** | **3ème** | **1:13:6** | 
 | 66 | DROLET PHILIPPE | UNION SPORTIVE SAINT ANDRE | 19 | 3ème | 1:13:6 | 
 | 67 | LABALETTE ELIE | CYCLO CLUB WAVRIN | 19 | 3ème | 1:13:6 | 
 | 68 | CARPELS GUILLAUME | VELO CLUB UNION HALLUIN | 19 | 3ème | 1:13:7 | 
-| **69** | **[WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **19** | **3ème** | **1:13:7** | 
+| **69** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **19** | **3ème** | **1:13:7** | 
 | 70 | CHOQUET PIERRE | UNION SPORTIVE SAINT ANDRE | 19 | 3ème | 1:13:7 | 
 | 71 | BRION CLEMENT | VELO SPRINT DE L'OSTREVENT - AUBERCHICOURT | 19 | 3ème | 1:13:7 | 
 | 72 | QUESTE DAVID | TEAM B.B.L. HERGNIES | 19 | 3ème | 1:13:8 | 
@@ -115,7 +115,7 @@ image: assets/img/blog/road.jpeg
 | 86 | LECERF JEROME | VELO CLUB BAVAISIEN | 18 | 2ème | 1:3:9 | 
 | 87 | LEVAS LAURENT | UNION SPORTIVE VALENCIENNES CRESPIN | 18 | 2ème | 1:3:45 | 
 | 88 | VERHAEGHE THOMAS | LINSELLES CYCLISME | 18 | 2ème | 1:3:46 | 
-| **89** | **[DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **18** | **2ème** | **1:3:49** | 
+| **89** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **18** | **2ème** | **1:3:49** | 
 | 90 | BLONDEL FREDERIC | ESEG DOUAI | 18 | 2ème | 1:5:7 | 
 | 91 | FARDOUX DANY | FLEURBAIX TEAM SHARK VTT | 18 | 2ème | 1:5:13 | 
 | 92 | CREPEL FLORIAN | UNION SPORTIVE VALENCIENNES CRESPIN | 18 | 2ème | 1:5:17 | 

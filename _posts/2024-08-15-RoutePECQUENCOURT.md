@@ -9,13 +9,13 @@ image: assets/img/blog/road.jpeg
 
 ### 2ème Catégorie
 34 participants
-- [DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier) : 26
-- [MEAUSOONE HENRI](https://teamspecializedlille.github.io/coureurs/meausoonehenri) : 27
+- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 26
+- [MEAUSOONE HENRI](https://teamspecializedlille.cc/coureurs/meausoonehenri) : 27
 
 ### 3ème Catégorie
 43 participants
-- [DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael) : 14
-- [WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit) : Ab
+- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 14
+- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : Ab
 
 ### Scratch
 138 participants
@@ -62,8 +62,8 @@ image: assets/img/blog/road.jpeg
 | 38 | BERNARD SACHA | AGNY ARTeam | 19 | 2ème | 1:31:45 | 
 | 39 | LECCI PIERRE | HAVELUY CYCLO CLUB | 19 | 2ème | 1:31:46 | 
 | 40 | BAILLY FLORIAN | ESEG DOUAI | 19 | 2ème | 1:31:46 | 
-| **41** | **[DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **19** | **2ème** | **1:31:58** | 
-| **42** | **[MEAUSOONE HENRI](https://teamspecializedlille.github.io/coureurs/meausoonehenri)** | **TEAM SPECIALIZED LILLE** | **19** | **2ème** | **1:32:5** | 
+| **41** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **19** | **2ème** | **1:31:58** | 
+| **42** | **[MEAUSOONE HENRI](https://teamspecializedlille.cc/coureurs/meausoonehenri)** | **TEAM SPECIALIZED LILLE** | **19** | **2ème** | **1:32:5** | 
 | 43 | HERBERT ALEXANDRE | LINSELLES CYCLISME | 19 | 2ème | 1:42:14 | 
 | 44 | DEVOS CYRIL | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 19 | 2ème | 1:42:16 | 
 | 45 | GALIEN RUDDY | BETHUNE ROBECQ TEAM TBR | 18 | 3ème | 1:22:17 | 
@@ -79,7 +79,7 @@ image: assets/img/blog/road.jpeg
 | 55 | BOUTONNE FREDERIC | TEAM BOUSIES | 18 | 3ème | 1:22:19 | 
 | 56 | FURNE JEAN CHRISTOPHE | VELO SPRINT DE L'OSTREVENT - AUBERCHICOURT | 18 | 3ème | 1:22:20 | 
 | 57 | RENAUT VINCENT | SAULZOIR MONTRECOURT CYCLING CLUB | 18 | 3ème | 1:22:20 | 
-| **58** | **[DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **18** | **3ème** | **1:22:21** | 
+| **58** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **18** | **3ème** | **1:22:21** | 
 | 59 | BERNARD PHILIPPE | ROUE D'OR COMINOISE | 18 | 3ème | 1:22:21 | 
 | 60 | FARTEK DAVID | TEAM ENFER WALLERS ARENBERG | 18 | 3ème | 1:22:21 | 
 | 61 | CHOQUET DAVID | UNION SPORTIVE SAINT ANDRE | 18 | 3ème | 1:22:21 | 
@@ -158,5 +158,5 @@ image: assets/img/blog/road.jpeg
 | 134 | LEMAITRE JULES | CYCLO CLUB ORCHIES | 0 | 1ère | 0:38:53 | 
 | 135 | SAUVAGE FRANCOIS | VELO CLUB DE L'ESCAUT ANZIN | 0 | 2ème | 0:38:53 | 
 | 136 | HOUREZ CEDRIC | NEW TEAM MAULDE | 0 | 3ème | 0:38:53 | 
-| **137** | **[WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
+| **137** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
 | 138 | GOCHON CEDRIC | TEAM MELANTOIS - PERONNE | 0 | 4ème | 0:38:53 | 

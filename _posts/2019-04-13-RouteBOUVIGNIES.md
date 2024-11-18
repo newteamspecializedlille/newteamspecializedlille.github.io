@@ -9,11 +9,11 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 42 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien) : 33
+- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 33
 
 ### 2ème Catégorie
 50 participants
-- [DARQUE JEAN FRANCOIS](https://teamspecializedlille.github.io/coureurs/darquejeanfrancois) : 24
+- [DARQUE JEAN FRANCOIS](https://teamspecializedlille.cc/coureurs/darquejeanfrancois) : 24
 
 ### Scratch
 0 participants

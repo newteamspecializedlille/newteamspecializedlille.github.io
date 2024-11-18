@@ -9,18 +9,18 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 25 participants
-- [LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane) : 7
-- [LECOLIER LOUIS](https://teamspecializedlille.github.io/coureurs/lecolierlouis) : 19
+- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 7
+- [LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis) : 19
 
 ### 2ème Catégorie
 26 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve) : 7
+- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 7
 
 ### 3ème Catégorie
 44 participants
-- [DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid) : 13
-- [WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit) : 14
-- [DERASSE PATRICK](https://teamspecializedlille.github.io/coureurs/derassepatrick) : 33
+- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 13
+- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 14
+- [DERASSE PATRICK](https://teamspecializedlille.cc/coureurs/derassepatrick) : 33
 
 ### Scratch
 121 participants
@@ -33,7 +33,7 @@ image: assets/img/blog/road.jpeg
 | 4 | ANTON LUDOVIC | NEW TEAM MAULDE | 19 | 1ère | 2:4:23 | 
 | 5 | ALEXANDRE GREGORY | VELO CLUB SOLESMES | 19 | 1ère | 2:4:23 | 
 | 6 | DEJARDIN EMMANUEL | NOUVELLE ETOILE SPORTIVE BOUE ETREUX | 19 | 1ère | 2:4:23 | 
-| **7** | **[LECOLIER STEPHANE](https://teamspecializedlille.github.io/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **19** | **1ère** | **2:4:23** | 
+| **7** | **[LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **19** | **1ère** | **2:4:23** | 
 | 8 | VANDERHAEGEN MAEL | ASSOCIATION CYCLISTE D'ETROEUNGT | 19 | 1ère | 2:4:24 | 
 | 9 | DERUEL ANTOINE | ASSOCIATION SPORTIVE VELOCIPEDIQUE LA LONGUEVILLE | 19 | 1ère | 2:4:24 | 
 | 10 | VAN SNICK FLORIAN | NOUVELLE ETOILE SPORTIVE BOUE ETREUX | 19 | 1ère | 2:4:24 | 
@@ -45,7 +45,7 @@ image: assets/img/blog/road.jpeg
 | 16 | LIENARD ROMAIN | NOUVELLE ETOILE SPORTIVE BOUE ETREUX | 18 | 1ère | 2:2:51 | 
 | 17 | DEWALLENS STEPHANE | UNION CYCLISTE SOLRE LE CHATEAU | 18 | 1ère | 2:2:52 | 
 | 18 | MOYART TITOUAN | CLUB CYCLISTE DE CHAVIGNON | 18 | 1ère | 2:2:53 | 
-| **19** | **[LECOLIER LOUIS](https://teamspecializedlille.github.io/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **18** | **1ère** | **2:7:11** | 
+| **19** | **[LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **18** | **1ère** | **2:7:11** | 
 | 20 | FEYAERT EVAN | UNION CYCLISTE SOLRE LE CHATEAU | 18 | 1ère | 2:8:19 | 
 | 21 | HAMMANUKA YEVHENII | ASSOCIATION CYCLISTE D'ETROEUNGT | 17 | 1ère | 2:2:52 | 
 | 22 | KRUHELSKI VIANNEY | SAULZOIR MONTRECOURT CYCLING CLUB | 16 | 2ème | 1:45:47 | 
@@ -54,7 +54,7 @@ image: assets/img/blog/road.jpeg
 | 25 | DRUART JEROME | TEAM CYCLISTE LA BORDURE - BETTRECHIES | 16 | 2ème | 1:45:47 | 
 | 26 | LECERF JEROME | VELO CLUB BAVAISIEN | 16 | 2ème | 1:45:48 | 
 | 27 | FONTAINE THOMAS | ETOILE CYCLISTE FEIGNIES | 16 | 2ème | 1:45:48 | 
-| **28** | **[DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **16** | **2ème** | **1:45:48** | 
+| **28** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **16** | **2ème** | **1:45:48** | 
 | 29 | LEFEBVRE JEAN-DANIEL | U.C. CAPELLOISE FOURMIES | 16 | 2ème | 1:45:48 | 
 | 30 | COPPEE THOMAS | 52X11 HIRSON THIERACHE | 16 | 2ème | 1:45:49 | 
 | 31 | HUART GUILLAUME | CYCLO CLUB ORCHIES | 16 | 2ème | 1:45:49 | 
@@ -85,8 +85,8 @@ image: assets/img/blog/road.jpeg
 | 56 | FRANCOIS GERALD | SAULZOIR MONTRECOURT CYCLING CLUB | 14 | 3ème | 1:35:36 | 
 | 57 | VANAUBERG GAETAN | NEW TEAM MAULDE | 14 | 3ème | 1:35:36 | 
 | 58 | AMIOT YOANN | SAULZOIR MONTRECOURT CYCLING CLUB | 14 | 3ème | 1:35:36 | 
-| **59** | **[DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **14** | **3ème** | **1:35:36** | 
-| **60** | **[WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **14** | **3ème** | **1:35:37** | 
+| **59** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **14** | **3ème** | **1:35:36** | 
+| **60** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **14** | **3ème** | **1:35:37** | 
 | 61 | DHAINE VINCENT | VELO CLUB DE L'ESCAUT ANZIN | 14 | 3ème | 1:35:37 | 
 | 62 | GRAVEZ SAMUEL | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 14 | 3ème | 1:35:37 | 
 | 63 | FREROT FRANCK | U.C. CAPELLOISE FOURMIES | 14 | 3ème | 1:35:38 | 
@@ -125,7 +125,7 @@ image: assets/img/blog/road.jpeg
 | 96 | JABLONSKI EVA | TEAM B.B.L. HERGNIES | 12 | Féminines | 1:31:45 | 
 | 97 | JUNG PHILIPPE | UNION SPORTIVE SAINT ANDRE | 12 | 3ème | 1:35:42 | 
 | 98 | DELOT GREGORY | TEAM BIKE PRESEAU | 12 | 3ème | 1:35:47 | 
-| **99** | **[DERASSE PATRICK](https://teamspecializedlille.github.io/coureurs/derassepatrick)** | **TEAM SPECIALIZED LILLE** | **12** | **3ème** | **1:36:3** | 
+| **99** | **[DERASSE PATRICK](https://teamspecializedlille.cc/coureurs/derassepatrick)** | **TEAM SPECIALIZED LILLE** | **12** | **3ème** | **1:36:3** | 
 | 100 | GREVIN JEROME | VELO CLUB SOLESMES | 11 | 1ère | 1:8:5 | 
 | 101 | VANAUBERG HERVE | TEAM B.B.L. HERGNIES | 11 | 4ème | 1:28:36 | 
 | 102 | BRASSART LEA | TEAM B.B.L. HERGNIES | 11 | Féminines | 1:32:1 | 

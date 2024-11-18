@@ -9,18 +9,18 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 30 participants
-- [MINNECI ELIO](https://teamspecializedlille.github.io/coureurs/minnecielio) : 9
-- [DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien) : 16
+- [MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio) : 9
+- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 16
 
 ### 2ème Catégorie
 37 participants
-- [LECOLIER BENOIT](https://teamspecializedlille.github.io/coureurs/lecolierbenoit) : 3
-- [DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid) : 12
-- [DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier) : 21
+- [LECOLIER BENOIT](https://teamspecializedlille.cc/coureurs/lecolierbenoit) : 3
+- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 12
+- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 21
 
 ### 3ème Catégorie
 47 participants
-- [DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael) : 23
+- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 23
 
 ### Scratch
 149 participants
@@ -35,14 +35,14 @@ image: assets/img/blog/road.jpeg
 | 6 | LIENARD ROMAIN | NOUVELLE ETOILE SPORTIVE BOUE ETREUX | 0 | 1ère | 0:38:53 | 
 | 7 | MARTHE ROMUALD | ETOILE CYCLISTE LIEU ST AMAND | 0 | 1ère | 0:38:53 | 
 | 8 | DELEPLACE HADRIEN | VELO CLUB ROUBAIX | 0 | 1ère | 0:38:53 | 
-| **9** | **[MINNECI ELIO](https://teamspecializedlille.github.io/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **0** | **1ère** | **0:38:53** | 
+| **9** | **[MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **0** | **1ère** | **0:38:53** | 
 | 10 | BERTHIER THIBAUT | NEW ORANGE TEAM BOUSBECQUE | 0 | 1ère | 0:38:53 | 
 | 11 | GAILLEZ VINCENT | CERCLE OLYMPIQUE MARCOING | 0 | 1ère | 0:38:53 | 
 | 12 | HEBERT PIERRICK | NEW ORANGE TEAM BOUSBECQUE | 0 | 1ère | 0:38:53 | 
 | 13 | DEBUISSON JULIAN | UNION SPORTIVE SAINT ANDRE | 0 | 1ère | 0:38:53 | 
 | 14 | PIAT JEREMY | ETOILE CYCLISTE LIEU ST AMAND | 0 | 1ère | 0:38:53 | 
 | 15 | LEFEBVRE JUSTIN | GAZ ELEC CLUB DE DOUAI | 0 | 1ère | 0:38:53 | 
-| **16** | **[DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **0** | **1ère** | **0:38:53** | 
+| **16** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **0** | **1ère** | **0:38:53** | 
 | 17 | GOBEAUX MATTEO | UNION SPORTIVE VALENCIENNES CRESPIN | 0 | 1ère | 0:38:53 | 
 | 18 | NAMANE STEVE | NEW ORANGE TEAM BOUSBECQUE | 0 | 1ère | 0:38:53 | 
 | 19 | LOGIE MATHIEU | NEW ORANGE TEAM BOUSBECQUE | 0 | 1ère | 0:38:53 | 
@@ -58,7 +58,7 @@ image: assets/img/blog/road.jpeg
 | 29 | MEDO NICOLAS | TEAM MELANTOIS - PERONNE EN MELANTOIS | 0 | 1ère | 0:38:53 | 
 | 30 | GWENAEL LEQUIEN | BARLIN CERCLE LAIQUE | 0 | 2ème | 0:38:53 | 
 | 31 | DI CARLO DONATO | NEW ORANGE TEAM BOUSBECQUE | 0 | 2ème | 0:38:53 | 
-| **32** | **[LECOLIER BENOIT](https://teamspecializedlille.github.io/coureurs/lecolierbenoit)** | **TEAM SPECIALIZED LILLE** | **0** | **2ème** | **0:38:53** | 
+| **32** | **[LECOLIER BENOIT](https://teamspecializedlille.cc/coureurs/lecolierbenoit)** | **TEAM SPECIALIZED LILLE** | **0** | **2ème** | **0:38:53** | 
 | 33 | VERHAEGHE THOMAS | LINSELLES CYCLISME | 0 | 2ème | 0:38:53 | 
 | 34 | DUHAMEL ARNAUD | AGNY ARTeam | 0 | 2ème | 0:38:53 | 
 | 35 | ROY SEBASTIEN | TEAM CYCLISTE PROVINOIS - PROVIN | 0 | 2ème | 0:38:53 | 
@@ -67,7 +67,7 @@ image: assets/img/blog/road.jpeg
 | 38 | DOOM HERVE | NEW ORANGE TEAM BOUSBECQUE | 0 | 2ème | 0:38:53 | 
 | 39 | CARPELS GUILLAUME | VELO CLUB UNION HALLUIN | 0 | 2ème | 0:38:53 | 
 | 40 | TOURNEUX MICKAEL | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 0 | 2ème | 0:38:53 | 
-| **41** | **[DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **0** | **2ème** | **0:38:53** | 
+| **41** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **0** | **2ème** | **0:38:53** | 
 | 42 | DUFOUR KEVIN | VELO CLUB DE L'ESCAUT ANZIN | 0 | 2ème | 0:38:53 | 
 | 43 | LECHAT RENAUD | UNION SPORTIVE VALENCIENNES CRESPIN | 0 | 2ème | 0:38:53 | 
 | 44 | BRAL JAN | ETOILE CYCLISTE LIEU ST AMAND | 0 | 2ème | 0:38:53 | 
@@ -76,7 +76,7 @@ image: assets/img/blog/road.jpeg
 | 47 | VANAUBERG EDDY | TEAM B.B.L. HERGNIES | 0 | 2ème | 0:38:53 | 
 | 48 | LESUR ANTHONY | SAULZOIR MONTRECOURT CYCLING CLUB | 0 | 2ème | 0:38:53 | 
 | 49 | ALBERTINI LUDOVIC | NEW ORANGE TEAM BOUSBECQUE | 0 | 2ème | 0:38:53 | 
-| **50** | **[DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **0** | **2ème** | **0:38:53** | 
+| **50** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **0** | **2ème** | **0:38:53** | 
 | 51 | HAVET SEBASTIEN | GAZ ELEC CLUB DE DOUAI | 0 | 2ème | 0:38:53 | 
 | 52 | TONDELIER LUDOVIC | TEAM CYCLISTE PROVINOIS - PROVIN | 0 | 2ème | 0:38:53 | 
 | 53 | DEMOL LEO | UNION SPORTIVE SAINT ANDRE | 0 | 2ème | 0:38:53 | 
@@ -114,7 +114,7 @@ image: assets/img/blog/road.jpeg
 | 85 | EECKHOUT JULIEN | VELO CLUB UNION HALLUIN | 0 | 3ème | 0:38:53 | 
 | 86 | CARON FABRICE | VELO CLUB AMANDINOIS | 0 | 3ème | 0:38:53 | 
 | 87 | AUSSEMS JEAN-YVES | UNION SPORTIVE SAINT ANDRE | 0 | 3ème | 0:38:53 | 
-| **88** | **[DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
+| **88** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
 | 89 | MAINGUEUX NICOLAS | ESEG DOUAI | 0 | 3ème | 0:38:53 | 
 | 90 | CHOQUET JULIEN | UNION SPORTIVE SAINT ANDRE | 0 | 3ème | 0:38:53 | 
 | 91 | DOOLAEGHE TERRY | VELO CLUB UNION HALLUIN | 0 | 3ème | 0:38:53 | 

@@ -9,7 +9,7 @@ image: assets/img/blog/road.jpeg
 
 ### 2ème Catégorie
 30 participants
-- [LECOLIER BENOIT](https://teamspecializedlille.github.io/coureurs/lecolierbenoit) : 3
+- [LECOLIER BENOIT](https://teamspecializedlille.cc/coureurs/lecolierbenoit) : 3
 
 ### Scratch
 118 participants
@@ -34,7 +34,7 @@ image: assets/img/blog/road.jpeg
 | 16 | DEWALLENS STEPHANE | UNION CYCLISTE SOLRE LE CHATEAU | 20 | 1ère | 1:57:1 | 
 | 17 | CAILLARD ANTHONY | TEAM LINK AND RIDE HERIN | 19 | 2ème | 1:46:23 | 
 | 18 | LAPOTRE FRANCOIS | UNION SPORTIVE VALENCIENNES CRESPIN | 19 | 2ème | 1:46:24 | 
-| **19** | **[LECOLIER BENOIT](https://teamspecializedlille.github.io/coureurs/lecolierbenoit)** | **TEAM SPECIALIZED LILLE** | **19** | **2ème** | **1:46:25** | 
+| **19** | **[LECOLIER BENOIT](https://teamspecializedlille.cc/coureurs/lecolierbenoit)** | **TEAM SPECIALIZED LILLE** | **19** | **2ème** | **1:46:25** | 
 | 20 | THIBAUT LOUIS | UNION SPORTIVE VALENCIENNES CRESPIN | 19 | 2ème | 1:46:26 | 
 | 21 | DIMANCHE DAVID | VELO CLUB SANTERRE ET VERMANDOIS | 19 | 2ème | 1:46:27 | 
 | 22 | RICHET JEREMY | GILLOT CYCLING CLUB FEIGNIES | 19 | 2ème | 1:46:27 | 

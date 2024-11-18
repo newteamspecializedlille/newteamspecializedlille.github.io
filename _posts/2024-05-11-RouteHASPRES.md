@@ -9,17 +9,17 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 38 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald) : 16
+- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 16
 
 ### 2ème Catégorie
 46 participants
-- [BROUTIN ANTOINE](https://teamspecializedlille.github.io/coureurs/broutinantoine) : Ab
+- [BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine) : Ab
 
 ### 3ème Catégorie
 81 participants
-- [DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid) : 11
-- [DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael) : 37
-- [MINNECI ELIO](https://teamspecializedlille.github.io/coureurs/minnecielio) : 58
+- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 11
+- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 37
+- [MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio) : 58
 
 ### Scratch
 214 participants
@@ -41,7 +41,7 @@ image: assets/img/blog/road.jpeg
 | 13 | DELPLANQUE DYLAN | VELO SPRINT DE L'OSTREVENT - AUBERCHICOURT | 9 | 1ère | 2:7:30 | 
 | 14 | ANTON LUDOVIC | NEW TEAM MAULDE | 9 | 1ère | 2:7:30 | 
 | 15 | COMMONT DAVID | NOUVELLE ETOILE SPORTIVE BOUE ETREUX | 9 | 1ère | 2:7:31 | 
-| **16** | **[MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **9** | **1ère** | **2:7:31** | 
+| **16** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **9** | **1ère** | **2:7:31** | 
 | 17 | DELOBELLE OLIVIER | UNION SPORTIVE SAINT ANDRE | 9 | 1ère | 2:7:31 | 
 | 18 | DEWAILLY VINCENT | UNION SPORTIVE SAINT ANDRE | 9 | 1ère | 2:7:31 | 
 | 19 | LE MOUEL DIMITRI | VELO SPRINT BOUCHAIN | 9 | 1ère | 2:7:33 | 
@@ -106,7 +106,7 @@ image: assets/img/blog/road.jpeg
 | 78 | LEGRAND MICHAEL | RESILIENCE CLUB | 7 | 3ème | 1:37:34 | 
 | 79 | DEPREZ BENJAMIN | VELO CLUB UNION HALLUIN | 7 | 3ème | 1:37:34 | 
 | 80 | BURY RANDY | TEAM BOUSIES | 7 | 3ème | 1:37:34 | 
-| **81** | **[DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **7** | **3ème** | **1:37:34** | 
+| **81** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **7** | **3ème** | **1:37:34** | 
 | 82 | MEUNIER GERARD | GILLOT CYCLING CLUB FEIGNIES | 7 | 3ème | 1:37:34 | 
 | 83 | FRANCOIS GERALD | SAULZOIR MONTRECOURT CYCLING CLUB | 7 | 3ème | 1:37:34 | 
 | 84 | MORDACQ ENZO | RESILIENCE CLUB | 7 | 3ème | 1:37:35 | 
@@ -132,7 +132,7 @@ image: assets/img/blog/road.jpeg
 | 104 | PETIT CHRISTOPHE | NEW ORANGE TEAM BOUSBECQUE | 7 | 3ème | 1:37:38 | 
 | 105 | RENAUT VINCENT | SAULZOIR MONTRECOURT CYCLING CLUB | 7 | 3ème | 1:37:38 | 
 | 106 | BARENNE LAURENT | VELO CLUB UNION HALLUIN | 7 | 3ème | 1:37:38 | 
-| **107** | **[DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **7** | **3ème** | **1:37:38** | 
+| **107** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **7** | **3ème** | **1:37:38** | 
 | 108 | BROUTIN ERIC | ASSOCIATION CYCLISTE DE CUINCY | 7 | 3ème | 1:37:39 | 
 | 109 | COTTON FABIEN | VELO CLUB UNION HALLUIN | 7 | 3ème | 1:37:40 | 
 | 110 | HELLE FABRICE | VELO SPRINT BOUCHAIN | 7 | 3ème | 1:37:40 | 
@@ -158,7 +158,7 @@ image: assets/img/blog/road.jpeg
 | 130 | DEHON JOHAN | VELO CLUB BAVAISIEN | 7 | 2ème | 1:58:43 | 
 | 131 | RIVART THIERRY | VTT  CLUB PONT SUR SAMBRE | 7 | 2ème | 1:59:16 | 
 | 132 | RICHARD NICOLA | CERCLE OLYMPIQUE MARCOING | 7 | 2ème | 2:6:23 | 
-| **133** | **[MINNECI ELIO](https://teamspecializedlille.github.io/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **6** | **3ème** | **1:21:21** | 
+| **133** | **[MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **6** | **3ème** | **1:21:21** | 
 | 134 | MICHEL STEPHANE | ETOILE CYCLISTE FEIGNIES | 6 | 3ème | 1:21:22 | 
 | 135 | DEBRIL BENJAMIN | CYCLO CLUB ORCHIES | 6 | 3ème | 1:21:23 | 
 | 136 | VAILLANT LOUIS | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 6 | 1ère | 1:23:15 | 
@@ -232,7 +232,7 @@ image: assets/img/blog/road.jpeg
 | 204 | CAVALLA GILLES | CYCLO CLUB ORCHIES | 2 | 4ème | 0:18:17 | 
 | 205 | HOUREZ CEDRIC | NEW TEAM MAULDE | 1 | 3ème | 0:0:15 | 
 | 206 | DELSAUX DAMIEN | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 1 | 1ère | 0:6:41 | 
-| **207** | **[BROUTIN ANTOINE](https://teamspecializedlille.github.io/coureurs/broutinantoine)** | **TEAM SPECIALIZED LILLE** | **0** | **2ème** | **0:38:53** | 
+| **207** | **[BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine)** | **TEAM SPECIALIZED LILLE** | **0** | **2ème** | **0:38:53** | 
 | 208 | LANDAS JEROME | VELO SPRINT DE L'OSTREVEN | 0 | 2ème | 0:38:53 | 
 | 209 | LIENARD ROMAIN | NOUVELLE ETOILE SPORTIVE | 0 | 3ème | 0:38:53 | 
 | 210 | TOURNEUX LOUNA | ENTENTE CYCLISTE DE FONTA | 0 | 3ème | 0:38:53 | 

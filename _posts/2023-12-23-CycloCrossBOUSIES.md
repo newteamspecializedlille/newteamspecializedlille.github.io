@@ -9,7 +9,7 @@ image: assets/img/resultats/2023-12-23-CycloCrossBOUSIES/1.jpg
 
 ### 2ème Catégorie
 20 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald) : 2
+- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 2
 
 ### Scratch
 62 participants
@@ -24,7 +24,7 @@ image: assets/img/resultats/2023-12-23-CycloCrossBOUSIES/1.jpg
 | 6 | DEWEZ CLOTAIRE | CYCLO CLUB ORCHIES | 8 | 1ère | 0:51:5 | 
 | 7 | AECK GAUTIER | UNION SPORTIVE SAINT ANDRE | 8 | 2ème | 0:51:21 | 
 | 8 | DEFRISE GREGORY | TEAM BOUSIES | 8 | 1ère | 0:51:43 | 
-| **9** | **[MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **8** | **2ème** | **0:52:29** | 
+| **9** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **8** | **2ème** | **0:52:29** | 
 | 10 | DELTOUR LUCAS | UNION VELOCIPEDIQUE FOURMISIENNE | 8 | 1ère | 0:52:30 | 
 | 11 | BEAUSSART CEDRIC | ENERGY CYCLING CLUB JONCOURT | 8 | 2ème | 0:52:31 | 
 | 12 | LOISELEUX JACKY | UNION SPORTIVE SAINT ANDRE | 8 | 2ème | 0:53:44 | 

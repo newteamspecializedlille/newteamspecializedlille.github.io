@@ -9,11 +9,11 @@ image: assets/img/blog/vtt.jpeg
 
 ### VTT Vétérans A
 16 participants
-- [WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit) : 10
+- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 10
 
 ### VTT Vétérans B
 13 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald) : 1
+- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 1
 
 ### Scratch
 40 participants
@@ -24,7 +24,7 @@ image: assets/img/blog/vtt.jpeg
 | 2 | ORTEGA LUCAS | TEAM VTT JEUMONT | 9 | Seniors A | 1:2:40 | 
 | 3 | WINS STEPHANE | HAVELUY CYCLO CLUB | 9 | Vétérans A | 1:2:46 | 
 | 4 | JABLONSKI SEBASTIEN | NEW TEAM MAULDE | 9 | Vétérans A | 1:5:40 | 
-| **5** | **[MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **9** | **Vétérans B** | **1:5:47** | 
+| **5** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **9** | **Vétérans B** | **1:5:47** | 
 | 6 | BONNET JOHNNY | TEAM VTT JEUMONT | 9 | Seniors B | 1:6:2 | 
 | 7 | PLUCHARD MATHIS | VELO CLUB ROUBAIX | 9 | Seniors A | 1:6:24 | 
 | 8 | DHIERS EDGAR | ARTeam Artois Racing Team | 9 | Seniors A | 1:6:52 | 
@@ -42,7 +42,7 @@ image: assets/img/blog/vtt.jpeg
 | 20 | LECHAT RENAUD | UNION SPORTIVE VALENCIENNES CRESPIN | 8 | Vétérans A | 1:5:52 | 
 | 21 | PORQUET LUDOVIC | SAULZOIR MONTRECOURT CYCLING CLUB | 8 | Vétérans A | 1:6:9 | 
 | 22 | DALLE FREDERIC | VELO CLUB SOLESMES | 8 | Vétérans B | 1:6:38 | 
-| **23** | **[WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans A** | **1:6:40** | 
+| **23** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans A** | **1:6:40** | 
 | 24 | LEMAITRE JULES | CYCLO CLUB ORCHIES | 8 | Seniors A | 1:7:27 | 
 | 25 | JACOBS GUILLAUME | VTT  CLUB PONT SUR SAMBRE | 8 | Vétérans A | 1:7:44 | 
 | 26 | MERIAUX FREDERIC | TEAM SHARK VTT | 8 | Vétérans B | 1:8:4 | 

@@ -9,13 +9,13 @@ image: assets/img/blog/road.jpeg
 
 ### 2ème Catégorie
 42 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve) : 4
-- [BROUTIN ANTOINE](https://teamspecializedlille.github.io/coureurs/broutinantoine) : 26
+- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 4
+- [BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine) : 26
 
 ### 3ème Catégorie
 57 participants
-- [WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit) : 9
-- [DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael) : 15
+- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 9
+- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 15
 
 ### Scratch
 161 participants
@@ -25,7 +25,7 @@ image: assets/img/blog/road.jpeg
 | 1 | LEMAITRE JULES | CYCLO CLUB ORCHIES | 26 | 2ème | 1:37:48 | 
 | 2 | HEBERT PIERRICK | NEW ORANGE TEAM BOUSBECQUE | 26 | 2ème | 1:37:48 | 
 | 3 | LECERF JEROME | VELO CLUB BAVAISIEN | 26 | 2ème | 1:37:49 | 
-| **4** | **[DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **26** | **2ème** | **1:37:49** | 
+| **4** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **26** | **2ème** | **1:37:49** | 
 | 5 | DIMANCHE DAVID | VELO CLUB SANTERRE ET VERMANDOIS | 26 | 2ème | 1:37:50 | 
 | 6 | KRUHELSKI VIANNEY | SAULZOIR MONTRECOURT CYCLING CLUB | 26 | 2ème | 1:37:50 | 
 | 7 | DUPONT DAMIEN | HASPRES ASSO CYCLISTE 59 | 26 | 2ème | 1:37:50 | 
@@ -47,7 +47,7 @@ image: assets/img/blog/road.jpeg
 | 23 | TOURNEUX MICKAEL | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 26 | 2ème | 1:37:52 | 
 | 24 | MAGY MATHEO | ETOILE CYCLISTE FEIGNIES | 26 | 2ème | 1:37:53 | 
 | 25 | VAN DAMME THOMAS | CYCLO CLUB CAMBRESIEN | 26 | 2ème | 1:37:53 | 
-| **26** | **[BROUTIN ANTOINE](https://teamspecializedlille.github.io/coureurs/broutinantoine)** | **TEAM SPECIALIZED LILLE** | **26** | **2ème** | **1:37:53** | 
+| **26** | **[BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine)** | **TEAM SPECIALIZED LILLE** | **26** | **2ème** | **1:37:53** | 
 | 27 | TRIOLO FLORENT | UNION SPORTIVE VALENCIENNES CRESPIN | 26 | 2ème | 1:37:53 | 
 | 28 | BLONDEAU BENOIT |  | 26 | 2ème | 1:37:53 | 
 | 29 | MOUFTIER LOUKA | TEAM VTT JEUMONT | 26 | 2ème | 1:37:54 | 
@@ -114,13 +114,13 @@ image: assets/img/blog/road.jpeg
 | 90 | BOURGEAULT LOUIS | VELO CLUB SOLESMES | 20 | 3ème | 1:19:28 | 
 | 91 | PLOUY THIERRY | LA PEDALE MADELEINOISE | 20 | 3ème | 1:19:29 | 
 | 92 | SERE BENJAMIN | CYCLO CLUB WAVRIN | 20 | 3ème | 1:19:29 | 
-| **93** | **[WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **20** | **3ème** | **1:19:29** | 
+| **93** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **20** | **3ème** | **1:19:29** | 
 | 94 | DROLET PHILIPPE | UNION SPORTIVE SAINT ANDRE | 20 | 3ème | 1:19:29 | 
 | 95 | VANAUBERG GAETAN | NEW TEAM MAULDE | 20 | 3ème | 1:19:30 | 
 | 96 | HEDBAUT ALEXIS | VELO CLUB SOLESMES | 20 | 3ème | 1:19:32 | 
 | 97 | FREHAUT NICOLAS | ASSOCIATION CYCLISTE D'ETROEUNGT | 20 | 3ème | 1:19:32 | 
 | 98 | POULAIN CHRISTOPHE | TEAM DECOPUB PROVILLE | 20 | 3ème | 1:19:32 | 
-| **99** | **[DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **20** | **3ème** | **1:19:32** | 
+| **99** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **20** | **3ème** | **1:19:32** | 
 | 100 | COTTON FABIEN | VELO CLUB UNION HALLUIN | 20 | 3ème | 1:19:33 | 
 | 101 | CORETTE DOMINIQUE | UNION SPORTIVE SAINT ANDRE | 20 | 3ème | 1:19:33 | 
 | 102 | DAVAINE HUGUES | LA PEDALE MADELEINOISE | 20 | 3ème | 1:19:34 | 

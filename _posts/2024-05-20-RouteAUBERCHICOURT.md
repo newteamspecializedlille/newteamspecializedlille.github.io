@@ -9,15 +9,15 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 44 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien) : 19
+- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 19
 
 ### 2ème Catégorie
 68 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve) : 28
+- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 28
 
 ### 3ème Catégorie
 75 participants
-- [DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael) : 44
+- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 44
 
 ### Scratch
 241 participants
@@ -51,7 +51,7 @@ image: assets/img/blog/road.jpeg
 | 25 | HELLEBOIS ALAIN | CLUB CYCLISTE D'ISBERGUES MOLINGHEM | 8 | 2ème | 1:46:22 | 
 | 26 | DUHAMEL ARNAUD | AGNY ARTeam | 8 | 2ème | 1:46:22 | 
 | 27 | GOCHON VALENTIN | TEAM MELANTOIS - PERONNE EN MELANTOIS | 8 | 2ème | 1:46:22 | 
-| **28** | **[DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **8** | **2ème** | **1:46:22** | 
+| **28** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **8** | **2ème** | **1:46:22** | 
 | 29 | DEBRUYNE LOIC | TEAM MATERIEL-VELO.COM BONDUES | 8 | 2ème | 1:46:22 | 
 | 30 | CHOQUET PIERRE | UNION SPORTIVE SAINT ANDRE | 8 | 2ème | 1:46:22 | 
 | 31 | KUBIK MATHIS | AGNY ARTeam | 8 | 2ème | 1:46:23 | 
@@ -99,7 +99,7 @@ image: assets/img/blog/road.jpeg
 | 73 | DELPLANQUE DYLAN | VELO SPRINT DE L'OSTREVENT - AUBERCHICOURT | 8 | 1ère | 1:49:4 | 
 | 74 | DELANGUE THOMAS | NEW ORANGE TEAM BOUSBECQUE | 8 | 1ère | 1:49:4 | 
 | 75 | CAZE ALBAN | UNION SPORTIVE SAINT ANDRE | 8 | 1ère | 1:49:4 | 
-| **76** | **[DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **8** | **1ère** | **1:49:4** | 
+| **76** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **8** | **1ère** | **1:49:4** | 
 | 77 | VEAUX CORENTIN | TEAM LINK AND RIDE HERIN | 8 | 1ère | 1:49:4 | 
 | 78 | MONNIER FAGYAL MATEO | GAZ ELEC CLUB DE DOUAI | 8 | 1ère | 1:49:4 | 
 | 79 | BERNIER DIMITRI | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 8 | 1ère | 1:49:4 | 
@@ -163,7 +163,7 @@ image: assets/img/blog/road.jpeg
 | 137 | FURNE JEAN CHRISTOPHE | VELO SPRINT DE L'OSTREVENT - AUBERCHICOURT | 7 | 3ème | 1:42:25 | 
 | 138 | CANONNE STEVEN | VELO SPRINT DE L'OSTREVENT - AUBERCHICOURT | 7 | 1ère | 1:42:26 | 
 | 139 | MICHEL STEPHANE | ETOILE CYCLISTE FEIGNIES | 7 | 3ème | 1:42:26 | 
-| **140** | **[DEJONGHE MICKAEL](https://teamspecializedlille.github.io/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **7** | **3ème** | **1:42:27** | 
+| **140** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **7** | **3ème** | **1:42:27** | 
 | 141 | LE CARDIEC VALENTIN | CYCLO CLUB WAVRIN | 7 | 3ème | 1:42:32 | 
 | 142 | KARAOUZENE YANIS | VELO CLUB UNION HALLUIN | 7 | 3ème | 1:42:38 | 
 | 143 | ZANOLINO FABRICE | COMPIEGNE SPORTS CYCLISTES | 7 | 3ème | 1:42:41 | 

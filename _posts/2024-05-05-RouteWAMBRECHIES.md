@@ -9,19 +9,19 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 27 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien) : 16
-- [SCHERNU CHRISTOPHE](https://teamspecializedlille.github.io/coureurs/schernuchristophe) : 23
+- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 16
+- [SCHERNU CHRISTOPHE](https://teamspecializedlille.cc/coureurs/schernuchristophe) : 23
 
 ### 2ème Catégorie
 35 participants
-- [BROUTIN ANTOINE](https://teamspecializedlille.github.io/coureurs/broutinantoine) : Ab
+- [BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine) : Ab
 
 ### 3ème Catégorie
 56 participants
-- [DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid) : 6
-- [WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit) : 17
-- [MINNECI ELIO](https://teamspecializedlille.github.io/coureurs/minnecielio) : 22
-- [DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier) : 34
+- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 6
+- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 17
+- [MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio) : 22
+- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 34
 
 ### Scratch
 156 participants
@@ -43,21 +43,21 @@ image: assets/img/blog/road.jpeg
 | 13 | NAMANE STEVE | NEW ORANGE TEAM BOUSBECQUE | 13 | 1ère | 1:48:41 | 
 | 14 | DI CARLO GIUSEPPE | NEW ORANGE TEAM BOUSBECQUE | 13 | 1ère | 1:48:41 | 
 | 15 | DELOBELLE OLIVIER | UNION SPORTIVE SAINT ANDRE | 13 | 1ère | 1:48:42 | 
-| **16** | **[DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **13** | **1ère** | **1:48:44** | 
+| **16** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **13** | **1ère** | **1:48:44** | 
 | 17 | BARTKOWIAK CLEMENT | HENIN ETOILE CYCLISTE HENINOISE | 13 | 1ère | 1:48:44 | 
 | 18 | MARQUET VICTOR | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 13 | 1ère | 1:48:45 | 
 | 19 | LACROIX FREDERIC | VELO CLUB ROUBAIX | 13 | 1ère | 1:48:45 | 
 | 20 | GOBERT JEAN FRANCOIS | ARTOIS CYCLING TEAM | 13 | 1ère | 1:48:45 | 
 | 21 | DELANGUE THOMAS | NEW ORANGE TEAM BOUSBECQUE | 13 | 1ère | 1:48:46 | 
 | 22 | MEDO NICOLAS | TEAM MELANTOIS - PERONNE EN MELANTOIS | 13 | 1ère | 1:48:48 | 
-| **23** | **[SCHERNU CHRISTOPHE](https://teamspecializedlille.github.io/coureurs/schernuchristophe)** | **TEAM SPECIALIZED LILLE** | **13** | **1ère** | **1:48:52** | 
+| **23** | **[SCHERNU CHRISTOPHE](https://teamspecializedlille.cc/coureurs/schernuchristophe)** | **TEAM SPECIALIZED LILLE** | **13** | **1ère** | **1:48:52** | 
 | 24 | HAVET SEBASTIEN | GAZ ELEC CLUB DE DOUAI | 12 | 1ère | 1:50:49 | 
 | 25 | HARDEMAN HUGO | ETOILE CYCLISTE TOURCOING | 11 | 3ème | 1:28:21 | 
 | 26 | MARCHANDISE PATRICE | VELO CLUB UNION HALLUIN | 11 | 3ème | 1:28:29 | 
 | 27 | FOULON RANDY | AGNY ARTeam | 11 | 3ème | 1:28:30 | 
 | 28 | MORDACQ ENZO | RESILIENCE CLUB | 11 | 3ème | 1:28:30 | 
 | 29 | GRUSON ANTOINE | LA PEDALE MADELEINOISE | 11 | 3ème | 1:28:31 | 
-| **30** | **[DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **11** | **3ème** | **1:28:31** | 
+| **30** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **11** | **3ème** | **1:28:31** | 
 | 31 | PLOUY THIERRY | LA PEDALE MADELEINOISE | 11 | 3ème | 1:28:31 | 
 | 32 | PETIT CHRISTOPHE | NEW ORANGE TEAM BOUSBECQUE | 11 | 3ème | 1:28:31 | 
 | 33 | LABALETTE ELIE | CYCLO CLUB WAVRIN | 11 | 3ème | 1:28:31 | 
@@ -68,12 +68,12 @@ image: assets/img/blog/road.jpeg
 | 38 | BEREAUX LUCAS | TEAM MELANTOIS - PERONNE EN MELANTOIS | 11 | 3ème | 1:28:32 | 
 | 39 | DONDAINE PASCAL | NEW ORANGE TEAM BOUSBECQUE | 11 | 3ème | 1:28:32 | 
 | 40 | VANWAELSCAPPEL GUILLAUME | CYCLO CLUB WAVRIN | 11 | 3ème | 1:28:32 | 
-| **41** | **[WALTER BENOIT](https://teamspecializedlille.github.io/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **11** | **3ème** | **1:28:32** | 
+| **41** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **11** | **3ème** | **1:28:32** | 
 | 42 | VANWAELSCAPPEL JEROME | CYCLO CLUB WAVRIN | 11 | 3ème | 1:28:33 | 
 | 43 | VANDEKERCKHOVE SYLVAIN | VELO CLUB UNION HALLUIN | 11 | 3ème | 1:28:33 | 
 | 44 | PANCZAK MAXIME | ROUE D'OR COMINOISE | 11 | 3ème | 1:28:33 | 
 | 45 | FARTEK DAVID | TEAM ENFER WALLERS ARENBERG | 11 | 3ème | 1:28:34 | 
-| **46** | **[MINNECI ELIO](https://teamspecializedlille.github.io/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **11** | **3ème** | **1:28:34** | 
+| **46** | **[MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **11** | **3ème** | **1:28:34** | 
 | 47 | LEONARDI FLORIAN | RESILIENCE CLUB | 11 | 3ème | 1:28:34 | 
 | 48 | DUPRE SEBASTIEN | HENIN ETOILE CYCLISTE HENINOISE | 11 | 3ème | 1:28:35 | 
 | 49 | GUSTAVE DIMITRI | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 11 | 3ème | 1:28:37 | 
@@ -85,7 +85,7 @@ image: assets/img/blog/road.jpeg
 | 55 | FLAMENT JAMES | HARNES VELO CLUB HARNESIEN | 11 | 3ème | 1:28:55 | 
 | 56 | CODDEVILLE RUDY | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 11 | 3ème | 1:29:8 | 
 | 57 | DUEZ GUILLAUME | UNION SPORTIVE SAINT ANDRE | 11 | 3ème | 1:29:35 | 
-| **58** | **[DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **11** | **3ème** | **1:31:26** | 
+| **58** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **11** | **3ème** | **1:31:26** | 
 | 59 | CARPELS GUILLAUME | VELO CLUB UNION HALLUIN | 11 | 3ème | 1:31:27 | 
 | 60 | BROUTIN ERIC | ASSOCIATION CYCLISTE DE CUINCY | 11 | 3ème | 1:31:44 | 
 | 61 | DOOLAEGHE TERRY | VELO CLUB UNION HALLUIN | 11 | 3ème | 1:31:45 | 
@@ -179,7 +179,7 @@ image: assets/img/blog/road.jpeg
 | 149 | LEFEVRE JOFFREY | LA CALOTERIE OMNISPORT | 0 | 1ère | 0:38:53 | 
 | 150 | GELLE MAXIME | CYCLO CLUB WAVRIN | 0 | 1ère | 0:38:53 | 
 | 151 | STORME NICOLAS | VELO CLUB UNION HALLUIN | 0 | 2ème | 0:38:53 | 
-| **152** | **[BROUTIN ANTOINE](https://teamspecializedlille.github.io/coureurs/broutinantoine)** | **TEAM SPECIALIZED LILLE** | **0** | **2ème** | **0:38:53** | 
+| **152** | **[BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine)** | **TEAM SPECIALIZED LILLE** | **0** | **2ème** | **0:38:53** | 
 | 153 | BENAISSA FARID | TEAM POLICE HDF | 0 | 2ème | 0:38:53 | 
 | 154 | LECLERCQ JULIEN | AGNY ARTeam | 0 | 2ème | 0:38:53 | 
 | 155 | LEFEVRE HUGO | TEAM MELANTOIS - PERONNE | 0 | 3ème | 0:38:53 | 

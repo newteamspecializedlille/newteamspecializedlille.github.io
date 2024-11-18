@@ -9,11 +9,11 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 25 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien) : 18
+- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 18
 
 ### 3ème Catégorie
 53 participants
-- [DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier) : 28
+- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 28
 
 ### Scratch
 128 participants
@@ -37,7 +37,7 @@ image: assets/img/blog/road.jpeg
 | 15 | BERNIER DIMITRI | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 30 | 1ère | 1:3:59 | 
 | 16 | DELEPLACE HADRIEN | VELO CLUB ROUBAIX | 30 | 1ère | 1:3:59 | 
 | 17 | COASNE CLEMENT | TEAM POLICE HDF - ROUBAIX | 29 | 1ère | 1:3:33 | 
-| **18** | **[DUFOUR JULIEN](https://teamspecializedlille.github.io/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **29** | **1ère** | **1:3:58** | 
+| **18** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **29** | **1ère** | **1:3:58** | 
 | 19 | IERA GIOVAMBATTISTA | ASSOCIATION CYCLISTE BELLAINGEOISE | 28 | 2ème | 1:2:21 | 
 | 20 | MELEUC LUDOVIC | VELO CLUB AMANDINOIS | 28 | 2ème | 1:2:29 | 
 | 21 | POIRE RYAN | HENIN ETOILE CYCLISTE HENINOISE | 28 | 2ème | 1:2:36 | 
@@ -87,7 +87,7 @@ image: assets/img/blog/road.jpeg
 | 65 | LONGELIN LOIC | ESEG DOUAI | 27 | 3ème | 1:8:52 | 
 | 66 | DALLE CLEMENT | VELO CLUB SOLESMES | 27 | 3ème | 1:8:52 | 
 | 67 | LOMBARD SULLIVAN | TEAM BIKE PRESEAU | 27 | 3ème | 1:8:52 | 
-| **68** | **[DEFER OLIVIER](https://teamspecializedlille.github.io/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **27** | **3ème** | **1:8:53** | 
+| **68** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **27** | **3ème** | **1:8:53** | 
 | 69 | LEDAIN JONATHAN | VELO CLUB DE L'ESCAUT ANZIN | 27 | 3ème | 1:8:55 | 
 | 70 | BIANCUCCI MARIO | VELO CLUB UNION HALLUIN | 27 | 3ème | 1:8:57 | 
 | 71 | DELOT GREGORY | TEAM BIKE PRESEAU | 27 | 3ème | 1:9:5 | 

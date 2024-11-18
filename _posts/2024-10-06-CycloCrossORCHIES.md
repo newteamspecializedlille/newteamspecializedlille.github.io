@@ -9,8 +9,8 @@ image: assets/img/blog/cx.jpeg
 
 ### 2ème Catégorie
 31 participants
-- [ORBIER AXEL](https://teamspecializedlille.github.io/coureurs/orbieraxel) : 8
-- [DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid) : 16
+- [ORBIER AXEL](https://teamspecializedlille.cc/coureurs/orbieraxel) : 8
+- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 16
 
 ### Scratch
 108 participants
@@ -41,7 +41,7 @@ image: assets/img/blog/cx.jpeg
 | 22 | AECK GAUTIER | UNION SPORTIVE SAINT ANDRE | 8 | 1ère | 0:55:38 | 
 | 23 | MINGOA LUCIANO | NEW ORANGE TEAM BOUSBECQUE | 8 | 2ème | 0:55:53 | 
 | 24 | PIAT JEREMY | ETOILE CYCLISTE LIEU ST AMAND | 8 | 2ème | 0:56:6 | 
-| **25** | **[ORBIER AXEL](https://teamspecializedlille.github.io/coureurs/orbieraxel)** | **TEAM SPECIALIZED LILLE** | **8** | **2ème** | **0:57:5** | 
+| **25** | **[ORBIER AXEL](https://teamspecializedlille.cc/coureurs/orbieraxel)** | **TEAM SPECIALIZED LILLE** | **8** | **2ème** | **0:57:5** | 
 | 26 | FARDOUX DANY | TEAM SHARK VTT | 8 | 2ème | 0:57:6 | 
 | 27 | VANWAELSCAPPEL GUILLAUME | CYCLO CLUB WAVRIN | 8 | 2ème | 0:57:31 | 
 | 28 | PONCET ALEXIS | TEAM ENFER WALLERS ARENBERG | 8 | 2ème | 0:58:3 | 
@@ -54,7 +54,7 @@ image: assets/img/blog/cx.jpeg
 | 35 | GOCHON VALENTIN | TEAM MELANTOIS - PERONNE EN MELANTOIS | 7 | 3ème | 0:50:28 | 
 | 36 | RIVART THIERRY | VTT  CLUB PONT SUR SAMBRE | 7 | 2ème | 0:50:30 | 
 | 37 | MOURAIN CEDRIC | UNION VELOCIPEDIQUE FOURMISIENNE | 7 | 1ère | 0:50:44 | 
-| **38** | **[DERASSE DAVID](https://teamspecializedlille.github.io/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **7** | **2ème** | **0:51:13** | 
+| **38** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **7** | **2ème** | **0:51:13** | 
 | 39 | HIERNAUX TANGUY | ASSOCIATION CYCLISTE D'ETROEUNGT | 7 | 3ème | 0:51:18 | 
 | 40 | PLOUY THIERRY | LA PEDALE MADELEINOISE | 7 | 3ème | 0:51:36 | 
 | 41 | BREVIERE ALEXANDRE | CAMPHIN EN CAREMBAULT CYCLING TEAM | 7 | 2ème | 0:51:54 | 

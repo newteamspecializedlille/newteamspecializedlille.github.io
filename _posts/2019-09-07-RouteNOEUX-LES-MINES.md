@@ -9,11 +9,11 @@ image: assets/img/blog/road.jpeg
 
 ### 1ère Catégorie
 21 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.github.io/coureurs/defosseherve) : 8
+- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 8
 
 ### 3ème Catégorie
 38 participants
-- [LECLERCQ CLEMENT](https://teamspecializedlille.github.io/coureurs/leclercqclement) : AB
+- [LECLERCQ CLEMENT](https://teamspecializedlille.cc/coureurs/leclercqclement) : AB
 
 ### Scratch
 0 participants
