@@ -224,7 +224,7 @@ class ParseResults:
                 output = open('test.xls', 'wb')
                 output.write(r.content)
 
-                coureurbook = xlrd.open_coureurbook('test.xls')
+                coureurbook = xlrd.open_workbook('test.xls')
                 self.parse_results_race_sheet(coureurbook, 0, season)
                 self.parse_results_race_sheet(coureurbook, 1, season)
                 self.parse_results_race_sheet(coureurbook, 2, season)
