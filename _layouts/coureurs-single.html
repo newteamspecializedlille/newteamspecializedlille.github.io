@@ -91,6 +91,15 @@ layout: default
                                                                 <span class="sub-title fw-200 value"><a href="https://instagram.com/{{ page.instagram }}" target="_blank">@{{ page.instagram }}</a></span>
                                                             </div>
                                                     {% endif %}
+                                                   {% assign runner_points = site.data.boue2025.challenge[page.title] %}
+                                                    {% if runner_points and runner_points != 0 %}
+                                                        {% assign sorted_runners = site.data.boue2025.challenge  %}
+                                                        {% assign runner_position = sorted_runners | index_of: page.title %}
+                                                        <div class="d-flex align-items-center">
+                                                            <span class="sub-title fw-200 label">Position in Boue 2025 : </span>
+                                                            <span class="sub-title fw-200 value">{{ runner_position | plus: 1 }}</span>
+                                                        </div>
+                                                    {% endif %}
                                         </div>
                                     </div>
                         </div>
