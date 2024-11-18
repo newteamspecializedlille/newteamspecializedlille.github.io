@@ -1,9 +1,9 @@
-# This coureurflow uses actions that are not certified by GitHub.
+# This workflow uses actions that are not certified by GitHub.
 # They are provided by a third-party and are governed by
 # separate terms of service, privacy policy, and support
 # documentation.
 
-# Sample coureurflow for building and deploying a Jekyll site to GitHub Pages
+# Sample workflow for building and deploying a Jekyll site to GitHub Pages
 name: Deploy Jekyll site to Pages
 
 on:
@@ -14,8 +14,8 @@ on:
     # * is a special character in YAML so you have to quote this string
     - cron:  '0 */2 * * *'
 
-  # Allows you to run this coureurflow manually from the Actions tab
-  coureurflow_dispatch:
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
