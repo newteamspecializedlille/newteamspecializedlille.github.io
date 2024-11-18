@@ -65,7 +65,25 @@
     });
     window.addEventListener("resize", updateDisplay);
 
-    gtag('config', 'G-L8GMTBYT7Q');
+
+    fetch('/search.json')
+        .then(response => response.json())
+        .then(data => {
+            const idx = lunr(function () {
+            this.field('title')
+            this.field('content')
+            this.ref('url')
+            data.forEach(doc => this.add(doc))
+            })
+            document.getElementById('search').addEventListener('input', function () {
+            const query = this.value
+            const results = idx.search(query)
+            document.getElementById('results').innerHTML = results.map(result => {
+            const item = data.find(doc => doc.url === result.ref)
+            return `<a href="${item.url}">${item.title}</a>`
+            }).join('<br>')
+        })
+    })
   </script>
 
 
@@ -79,4 +97,6 @@
     });
   });
 </script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js"></script>
+
 </head>
