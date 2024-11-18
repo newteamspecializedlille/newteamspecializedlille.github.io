@@ -60,10 +60,9 @@
                     <ul class="main-menu rest">
                         {% for nav in navigation %}
                             {% assign nav_url = nav.url | relative_url %}
-                            <li data-scroll-nav="0">
+                            <li>
                                 <div class="o-hidden">
-                                    <div class="link cursor-pointer dmenu"><span class="fill-text"
-                                            data-text="{{ nav_url | relative_url }}">{{ nav.title }}</span></div>
+                                    <a href="{{ nav_url | relative_url }}" class="link"><span class="fill-text" data-text="{{ nav.title }}">{{ nav.title }}</span></a>
                                 </div>
                             </li>
                         {% endfor %}
