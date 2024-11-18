@@ -32,6 +32,7 @@
     <script src="{{ 'assets/js/country-flag.js' | relative_url }}"></script>
 
     <script src="{{ 'assets/js/simple-jekyll-search.js' | relative_url }}"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js/dist/fuse.min.js"></script>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js"></script>
 
@@ -70,7 +71,7 @@
             var sjs = SimpleJekyllSearch({
               searchInput: document.getElementById('search'),
               resultsContainer: document.getElementById('results-list'),
-              json: '/search.json',
+              json: '/search-data.json',
               searchResultTemplate: '<li><span><a href="{{ site.url }}{url}">{title}</a></span></li>'
         });
 	}

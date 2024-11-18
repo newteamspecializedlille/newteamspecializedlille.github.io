@@ -1,0 +1,125 @@
+---
+layout: default
+comments: true
+---
+
+{% assign ui_text = site.data.ui-text['ui_text'] %}
+{% assign toto = page.query %}
+
+<!-- ==================== Start Header ==================== -->
+
+<header class="page-header bg-img section-padding" data-background="{{ 'assets/imgs/header/header.jpeg' | relative_url }}"
+	data-overlay-dark="4" style="background-position: center;">
+    <div class="container pt-100">
+        <div class="text-center">
+            <h1>{{ page.title }}</h1>
+            <div class="mt-15">
+                <a href="{{ '' | absolute_url }}">Home</a>
+                <span class="padding-rl-20">|</span>
+                <span class="main-color">{{ page.title }}</span>
+            </div>
+        </div>
+    </div>
+</header>
+
+<!-- ==================== End Header ==================== -->
+
+
+
+<!-- ==================== Start Blogs ==================== -->
+
+
+<section class="blog-main section-padding">
+    <div class="container">
+        <div class="row lg-marg justify-content-around">
+
+            <div class="col-lg-7">
+                <div class="sidebar" style="margin-bottom: 50px;">
+                    <div class="search-box">
+                        <input type="text" id="hidden-data-search"  name="search-post" placeholder="Recherche ...">
+                        <span class="icon pe-7s-search"></span>
+                    </div>
+                </div>
+                <ul class="md-mb80" id="results-list-page">
+
+                </ul>
+            </div>
+
+            {%- include sidebar.html -%}
+
+        </div>
+    </div>
+</section>
+
+<!-- ==================== End Blogs ==================== -->
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    const query = new URLSearchParams(window.location.search).get('search');
+    const hiddenDataSearchElement = document.getElementById('hidden-data-search');
+    hiddenDataSearchElement.value = query;
+
+   function formatDate(dateString) {
+        const date = new Date(dateString);
+        return date.toLocaleDateString('en-GB', {
+            day: '2-digit',
+            month: 'long',
+            year: 'numeric'
+        });
+    }
+	 function searchAndUpdate(textToSearch) {
+		 fetch('/search-data.json')
+			 .then(response => response.json())
+			 .then(data => {
+				 const options = {
+					 keys: ['title', 'content'],
+					 threshold: 0.4 // Taux de correspondance floue (0 = exact, 1 = très flou)
+				 };
+
+				 const fuse = new Fuse(data, options);
+				 const results = fuse.search(textToSearch ? textToSearch : '');
+
+				 const resultsContainer = document.getElementById('results-list-page');
+				 resultsContainer.innerHTML = '';
+				 if (results.length > 0) {
+					 results.forEach(result => {
+						 const item = result.item;
+						 const li = document.createElement('li');
+						 li.innerHTML = `
+                            <div class="item mb-50">
+                                <div class="img">
+                                    <img src="${item.image}" alt="${item.title}" loading="lazy">
+                                </div>
+                                <div class="content main-bg">
+                                    <div class="d-flex align-items-center mb-15">
+                                        <div class="post-date">${formatDate(item.date)}</div>
+                                    </div>
+                                    <h4 class="mb-15">
+                                        <a href="${item.url}">${item.title}</a>
+                                    </h4>
+                                    <a href="${item.url}" class="d-flex align-items-center mt-40">
+                                        <span class="text mr-15">Découvrir</span>
+                                        <span class="ti-arrow-top-right"></span>
+                                    </a>
+                                </div>
+                            </div>`;
+resultsContainer.appendChild(li);
+					 });
+				 } else {
+					 resultsContainer.innerHTML = 'Aucun résultat trouvé.';
+				 }
+			 })
+			 .catch(error => console.error("Erreur lors du chargement du fichier JSON :", error));
+	 }
+	 searchAndUpdate(query);
+
+      hiddenDataSearchElement.addEventListener('input', function () {
+        const newUrl = new URL(window.location.href);
+        newUrl.searchParams.set('search', hiddenDataSearchElement.value);
+        window.history.pushState({}, '', newUrl);
+        searchAndUpdate(hiddenDataSearchElement.value)
+    });
+});
+</script>
+
+
