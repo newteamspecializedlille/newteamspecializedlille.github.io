@@ -1,0 +1,54 @@
+---
+layout: post
+title: VTT - RAISMES - 2025
+date: 2024-11-17
+category: VTT
+tags: VTT
+image: assets/img/blog/vtt.jpeg
+---
+
+### VTT Vétérans B
+14 participants
+- [MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald) : 1
+
+### Scratch
+36 participants
+
+| Place | Nom | Team | Tours | Catégorie | Temps |
+|---|---|---|---|---|---|
+| 1 | BRADFER GERY | ETOILE CYCLISTE LIEU ST AMAND | 6 | Vétérans A | 0:49:10 | 
+| 2 | FORRIERE MAXENCE | VELO CLUB SOLESMES | 6 | Seniors A | 0:50:9 | 
+| 3 | POUBEL-DIENG YANNICK | TEAM SHARK VTT | 6 | Seniors A | 0:51:20 | 
+| 4 | JABLONSKI SEBASTIEN | NEW TEAM MAULDE | 6 | Vétérans A | 0:52:23 | 
+| 5 | MARECHAL GUILLAUME | VELO CLUB SOLESMES | 6 | Seniors B | 0:52:38 | 
+| **6** | **[MATTIOLI RONALD](https://teamspecializedlille.github.io/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **6** | **Vétérans B** | **0:52:52** | 
+| 7 | LONCKE SEBASTIEN | CAMPHIN EN CAREMBAULT CYCLING TEAM | 6 | Seniors B | 0:53:0 | 
+| 8 | MARTINEZ JEROME | NEW TEAM MAULDE | 6 | Vétérans B | 0:53:1 | 
+| 9 | MEESMAECKER WILLIAM | UNION SPORTIVE SAINT ANDRE | 6 | Seniors A | 0:53:31 | 
+| 10 | RICHARD ROMAIN | VELO CLUB DE L'ESCAUT ANZIN | 6 | Seniors B | 0:53:45 | 
+| 11 | BRUNIAUX STEPHANE | LES VIKINGS VTT MARCHE NORDIQUE OHAIN | 6 | Vétérans A | 0:54:5 | 
+| 12 | GAMACHE CHRISTOPHE | CYCLOS RANDONNEURS LA BASSEE | 6 | Vétérans B | 0:54:31 | 
+| 13 | LEPLAN BENJAMIN | ARTeam Artois Racing Team | 6 | Seniors B | 0:54:45 | 
+| 14 | SORET PASCAL | CAMPHIN EN CAREMBAULT CYCLING TEAM | 6 | Vétérans B | 0:54:47 | 
+| 15 | CASE ALBAN | NOEUX VELO CLUB NOEUXOIS | 6 | Vétérans A | 0:55:29 | 
+| 16 | DUPUIS ARNAUD | VTT SAINT AMAND LES EAUX | 6 | Vétérans B | 0:57:18 | 
+| 17 | KORDOWIAK SEBASTIEN | MAROEUIL VELO VERT MAROEUILLOIS V.V.M | 6 | Vétérans A | 0:58:7 | 
+| 18 | PORQUET LUDOVIC | SAULZOIR MONTRECOURT CYCLING CLUB | 6 | Vétérans A | 0:58:19 | 
+| 19 | LIONNE LIONEL | HAVELUY CYCLO CLUB | 6 | Vétérans A | 0:58:57 | 
+| 20 | LADENT JEROME | MERICOURT ULTRA VTT | 6 | Vétérans B | 0:58:59 | 
+| 21 | DECONINCK MAXIMILIEN | CYCLO CLUB ORCHIES | 6 | Seniors B | 0:59:0 | 
+| 22 | PLANQUE LOIC | VELO CLUB ARMENTIERES | 6 | Seniors B | 0:59:33 | 
+| 23 | VAN DE MEULEBROEKE ARNAUD | VTT SAINT AMAND LES EAUX | 6 | Vétérans B | 0:59:43 | 
+| 24 | BAUDOIN ETIENNE | LES VIKINGS VTT MARCHE NORDIQUE OHAIN | 6 | Seniors B | 1:0:55 | 
+| 25 | DEGRELLE BENJAMIN | LES VIKINGS VTT MARCHE NORDIQUE OHAIN | 5 | Seniors B | 0:49:41 | 
+| 26 | RAMETTE SAMUEL | VTT  CLUB PONT SUR SAMBRE | 5 | Vétérans B | 0:50:8 | 
+| 27 | MERIAUX FREDERIC | TEAM SHARK VTT | 5 | Vétérans B | 0:50:47 | 
+| 28 | DALLE FREDERIC | VELO CLUB SOLESMES | 5 | Vétérans B | 0:50:55 | 
+| 29 | FLAMENT LOICK | ETOILE CYCLISTE FEIGNIES | 5 | Seniors A | 0:51:52 | 
+| 30 | ROUSSEL NICOLAS | VELO SPRINT DE L'OSTREVENT - ANICHE | 5 | Vétérans A | 0:52:1 | 
+| 31 | GEORGES BENOIT | VELO CLUB UNION HALLUIN | 5 | Seniors B | 0:52:26 | 
+| 32 | POT FREDERIC | ETOILE CYCLISTE FEIGNIES | 5 | Vétérans B | 0:54:7 | 
+| 33 | LEPORCQ LUDOVIC | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 5 | Vétérans A | 0:55:54 | 
+| 34 | HAVET STEPHANE | BEUVRY CYCLO CLUB | 5 | Vétérans B | 0:56:23 | 
+| 35 | BERNIER STEPHANE | VTT  CLUB PONT SUR SAMBRE | 5 | Vétérans B | 0:57:10 | 
+| 36 | EDOIRE ARNAUD | VELO CLUB DE L'ESCAUT ANZIN | 4 | Vétérans A | 0:50:27 | 
