@@ -22,6 +22,47 @@ layout: default
 {% assign name = full_name[1] %}
 {% assign surname = full_name[0] %}
 
+
+{% assign boue2025_position = 0 %}
+{% for item in site.data.boue2025.challenge %}
+    {% assign boue2025_position = boue2025_position | plus: 1 %}
+    {% if item[0] == page.title %}
+        {% break %}
+    {% endif %}
+{% endfor %}
+{% if boue2025_position == 1 %}
+    {% assign boue2025_position = "<span>&#129351;</span>" %}
+{% elsif boue2025_position == 2 %}
+    {% assign boue2025_position = "<span>&#129352;</span>" %}
+{% elsif boue2025_position == 3 %}
+   {% assign boue2025_position = "<span>&#129353;</span>" %}
+{% else %}
+    {% capture boue2025_position %}
+        {{ boue2025_position }}
+    {% endcapture %}
+{% endif %}
+
+
+{% assign challenge_position = 0 %}
+{% for item in site.data.challenge.challenge %}
+    {% assign challenge_position = challenge_position | plus: 1 %}
+    {% if item[0] == page.title %}
+        {% break %}
+    {% endif %}
+{% endfor %}
+{% if challenge_position == 1 %}
+    {% assign challenge_position = "<span>&#129351;</span>" %}
+{% elsif challenge_position == 2 %}
+    {% assign challenge_position = "<span>&#129352;</span>" %}
+{% elsif challenge_position == 3 %}
+   {% assign challenge_position = "<span>&#129353;</span>" %}
+{% else %}
+    {% capture challenge_position %}
+        {{ challenge_position }}
+    {% endcapture %}
+{% endif %}
+
+
 <!-- ==================== Start Coureur ==================== -->
 
   <section class="container">
@@ -91,14 +132,19 @@ layout: default
                                                                 <span class="sub-title fw-200 value"><a href="https://instagram.com/{{ page.instagram }}" target="_blank">@{{ page.instagram }}</a></span>
                                                             </div>
                                                     {% endif %}
-                                                   {% assign runner_points = site.data.boue2025.challenge[page.title] %}
-                                                    {% if runner_points and runner_points != 0 %}
-                                                        {% assign sorted_runners = site.data.boue2025.challenge  %}
-                                                        {% assign runner_position = sorted_runners | index_of: page.title %}
-                                                        <div class="d-flex align-items-center">
-                                                            <span class="sub-title fw-200 label">Position in Boue 2025 : </span>
-                                                            <span class="sub-title fw-200 value">{{ runner_position | plus: 1 }}</span>
-                                                        </div>
+
+
+                                                    {% if boue2025_position != 0 %}
+                                                    <div class="d-flex align-items-center">
+                                                        <span class="sub-title fw-200 label">Challenge Boue 2025 : </span>
+                                                        <span class="sub-title fw-200 value">{{ boue2025_position }}</span>
+                                                    </div>
+                                                    {% endif %}
+                                                    {% if challenge_position != 0 %}
+                                                    <div class="d-flex align-items-center">
+                                                        <span class="sub-title fw-200 label">Challenge 2024 : </span>
+                                                        <span class="sub-title fw-200 value">{{ challenge_position }}</span>
+                                                    </div>
                                                     {% endif %}
                                         </div>
                                     </div>
@@ -165,7 +211,7 @@ layout: default
                                                         {% for res in team_people.cx[year_string] %}
                                                             {% assign split_race = res[0] | split: "|" %}
                                                             <div class="col-md-10">
-                                                                <p class="mt-15 fz-14">- <a href="/route/{{ split_race[0] | append: '/Route' | append: split_race[1] | replace: ' ', '-' }}">{{ split_race[0] }} - {{ split_race[1] }}</a> ~ {{ res[1] }}</p>
+                                                                <p class="mt-15 fz-14">- <a href="/cyclo%20cross/{{ split_race[0] | append: '/CycloCross' | append: split_race[1] | replace: ' ', '-' }}">{{ split_race[0] }} - {{ split_race[1] }}</a> ~ {{ res[1] }}</p>
                                                             </div>
                                                         {% endfor %}
                                                     </div>
@@ -175,7 +221,7 @@ layout: default
                                                         {% for res in team_people.vtt[year_string] %}
                                                             {% assign split_race = res[0] | split: "|" %}
                                                             <div class="col-md-10">
-                                                                <p class="mt-15 fz-14">- <a href="/route/{{ split_race[0] | append: '/Route' | append: split_race[1] | replace: ' ', '-' }}">{{ split_race[0] }} - {{ split_race[1] }}</a> ~ {{ res[1] }}</p>
+                                                                <p class="mt-15 fz-14">- <a href="/vtt/{{ split_race[0] | append: '/VTT' | append: split_race[1] | replace: ' ', '-' }}">{{ split_race[0] }} - {{ split_race[1] }}</a> ~ {{ res[1] }}</p>
                                                             </div>
                                                         {% endfor %}
                                                     </div>

@@ -18,7 +18,7 @@ tr,th,td {
 }
 
 .label {
-    min-width: 190px; /* Adjust this value based on the longest label */
+    min-width: 215px; /* Adjust this value based on the longest label */
 }
 
 .no-background {
