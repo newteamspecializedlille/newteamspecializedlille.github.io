@@ -8,7 +8,14 @@
     <meta name="description" content="{{ site.description }}">
     <meta name="author" content="Félix Moulin">
     {%- seo -%}
+    <link rel="manifest" href="{{ '/manifest.json' | relative_url }}">
+    <link rel="apple-touch-icon" href="{{ '/assets/images/favicons/android-chrome-192x192.png' | relative_url }}">
 
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+    <!-- Mode "Standalone" pour iOS -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-title" content="{{ site.title }}">
     <!-- Title  -->
     <title>{{ site.title }}</title>
 
@@ -41,13 +48,13 @@
 	    const narrow_screen = window.matchMedia("(max-width: 768px)").matches;
 	    const smoothWrapper = document.getElementById("smooth-wrapper");
 		const titleLarge = document.getElementById("title-large");
-	    if (narrow_screen && smoothWrapper) {
+	    if (narrow_screen && smoothWrapper && titleLarge) {
             smoothWrapper.removeAttribute("data-background");
             smoothWrapper.classList.add("no-background");
             titleLarge.style.display = "none";
             console.log("data-background attribute removed");
 
-        } else if (smoothWrapper) {
+        } else if (smoothWrapper && titleLarge) {
 			const image = smoothWrapper.getAttribute("data-name");
             smoothWrapper.setAttribute("data-background", image);
 			titleLarge.style.display = "block";
