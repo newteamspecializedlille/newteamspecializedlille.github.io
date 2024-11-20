@@ -6,6 +6,7 @@ name: DEFOSSE HERVE
 category:  Route
 category_slug:  road
 image: assets/imgs/team/small/empty.png
+large: assets/imgs/team/large/empty.png
 
 # full details
 live_preview: https://bslthemes.com

@@ -7,6 +7,8 @@ category: Route
 category_slug: road
 image: assets/imgs/team/small/empty.png
 strava: https://www.strava.com/athletes/65224301
+large: assets/imgs/team/large/empty.png
+
 # full details
 live_preview: https://bslthemes.com
 #1920 / 1020
