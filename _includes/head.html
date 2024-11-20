@@ -40,14 +40,17 @@
     function updateDisplay() {
 	    const narrow_screen = window.matchMedia("(max-width: 768px)").matches;
 	    const smoothWrapper = document.getElementById("smooth-wrapper");
+		const titleLarge = document.getElementById("title-large");
 	    if (narrow_screen && smoothWrapper) {
             smoothWrapper.removeAttribute("data-background");
             smoothWrapper.classList.add("no-background");
+            titleLarge.style.display = "none";
             console.log("data-background attribute removed");
 
         } else if (smoothWrapper) {
 			const image = smoothWrapper.getAttribute("data-name");
             smoothWrapper.setAttribute("data-background", image);
+			titleLarge.style.display = "block";
         }
 
         var element = document.querySelector(".conditional-display");

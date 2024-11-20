@@ -62,7 +62,21 @@ layout: default
     {% endcapture %}
 {% endif %}
 
-
+<header class="freelancer conditional-display" data-scroll-index="0" >
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-6">
+                <div class="img">
+                    <img src="{{ page.image | replace: 'small', 'nobg' | replace: 'jpeg', 'png' | relative_url }}" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="caption">
+        <h1 class="up stroke" style="color: white"><span>{{ name }}</span><span>{{ surname }}</span></h1>
+        <h1 class="down"><span>{{ name }}</span><span>{{ surname }}</span></h1>
+    </div>
+</header>
 <!-- ==================== Start Coureur ==================== -->
 
   <section class="container">
@@ -76,15 +90,15 @@ layout: default
                         <div class="container" style="translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
                             <div class="lg-text">
 
-                                <h1>{{ page.title }}</h1>
+                                <h1 id="title-large">{{ page.title }}</h1>
                                 <div class="d-flex">
                                     <h6 class="ml-auto">{{ page.sports }}</h6>
                                 </div>
                             </div>
                         </div>
-                        <div class="img conditional-display">
+                        <!--<div class="img conditional-display">
                             <img src="{{ page.large | relative_url }}" alt="">
-                        </div>
+                        </div>-->
                     </div>
             </div>
 
