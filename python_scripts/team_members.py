@@ -28,42 +28,48 @@ class TeamMember:
                "road": dict(sorted(self.road.items(), reverse=True))}
         return res
 
-    def challenge_calcul_point(self, year):
+    def challenge_calcul_point(self, year, points_challenge):
         points = 0
         if self.road.get(year):
             for race in self.road[year].items():
                 if isinstance(race[1], int):
                     if race[1] == 1:
-                        points += point_win
+                        points += points_challenge.point_win
                     elif race[1] <= 5:
-                        points += point_top5
+                        points += points_challenge.point_top5
                     elif race[1] <= 10:
-                        points += point_top10
-                    points += point_participation
+                        points += points_challenge.point_top10
+                    elif race[1] <= 15:
+                        points += points_challenge.point_top15
+                    points += points_challenge.point_participation
         return points
 
-    def challenge_calcul_point_boue(self, year):
+    def challenge_calcul_point_boue(self, year, points_challenge):
         points = 0
         if self.cx.get(year):
             for race in self.cx[year].items():
                 if isinstance(race[1], int):
                     if race[1] == 1:
-                        points += point_win
+                        points += points_challenge.point_win
                     elif race[1] <= 5:
-                        points += point_top5
+                        points += points_challenge.point_top5
                     elif race[1] <= 10:
-                        points += point_top10
-                    points += point_participation
+                        points += points_challenge.point_top10
+                    elif race[1] <= 15:
+                        points += points_challenge.point_top15
+                    points += points_challenge.point_participation
         if self.vtt.get(year):
             for race in self.vtt[year].items():
                 if isinstance(race[1], int):
                     if race[1] == 1:
-                        points += point_win
+                        points += points_challenge.point_win
                     elif race[1] <= 5:
-                        points += point_top5
+                        points += points_challenge.point_top5
                     elif race[1] <= 10:
-                        points += point_top10
-                    points += point_participation
+                        points += points_challenge.point_top10
+                    elif race[1] <= 15:
+                        points += points_challenge.point_top15
+                    points += points_challenge.point_participation
         return points
 
 
@@ -81,10 +87,10 @@ def update_challenge(team: dict[str, TeamMember], challenge_year, challenge):
     challenge_res = {}
     if challenge == "boue":
         for m in team.values():
-            challenge_res[m.name] = m.challenge_calcul_point_boue(challenge_year)
+            challenge_res[m.name] = m.challenge_calcul_point_boue(challenge_year, points_challenge)
     elif challenge == "challenge":
         for m in team.values():
-            challenge_res[m.name] = m.challenge_calcul_point(challenge_year)
+            challenge_res[m.name] = m.challenge_calcul_point(challenge_year, points_challenge)
     data["point_win"] = points_challenge.point_win
     data["point_top5"] = points_challenge.point_top5
     data["point_top10"] = points_challenge.point_top10
