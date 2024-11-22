@@ -123,6 +123,9 @@ layout: default
                 <li>Victoire : {{ data.point_win }} points</li>
                 <li>Top 5 : {{ data.point_top5 }} points</li>
                 <li>Top 10 : {{ data.point_top10 }} points</li>
+                {% if data.point_top15 %}
+                <li>Top 15 : {{ data.point_top15 }} points</li>
+                {% endif %}
             </ul>
             Mis à jour le {{ data.update_date }}
         </div>
