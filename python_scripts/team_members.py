@@ -4,11 +4,14 @@ import operator
 
 team_path_file = '../_data/team.json'
 challenge_path_file = "../_data/challenge.json"
-point_win = 3
-point_top5 = 2
-point_top10 = 1
-point_participation = 10
 
+class ChallengePoints:
+    def __init__(self, point_win, point_top5, point_top10, point_top15, point_participation):
+        self.point_win = point_win
+        self.point_top5 = point_top5
+        self.point_top10 = point_top10
+        self.point_top15 = point_top15
+        self.point_participation = point_participation
 
 class TeamMember:
     def __init__(self, name):
@@ -64,38 +67,35 @@ class TeamMember:
         return points
 
 
-def update_challenge(team: dict[str, TeamMember], challenge_year):
+def get_points_challenge(file_challenge):
+    with open(file_challenge, 'r') as challenge_file:
+        data_challenge = json.load(challenge_file)
+        return ChallengePoints(data_challenge["point_win"], data_challenge["point_top5"], data_challenge["point_top10"], data_challenge[
+            "point_top15"], data_challenge["point_participation"])
+
+
+def update_challenge(team: dict[str, TeamMember], challenge_year, challenge):
+    file_name = "../_data/" + challenge + challenge_year + ".json"
+    points_challenge = get_points_challenge(file_name)
     data = {}
     challenge_res = {}
-    for m in team.values():
-        challenge_res[m.name] = m.challenge_calcul_point(challenge_year)
-    data["point_win"] = 3
-    data["point_top5"] = 2
-    data["point_top10"] = 1
-    data["point_participation"] = 10
+    if challenge == "boue":
+        for m in team.values():
+            challenge_res[m.name] = m.challenge_calcul_point_boue(challenge_year)
+    elif challenge == "challenge":
+        for m in team.values():
+            challenge_res[m.name] = m.challenge_calcul_point(challenge_year)
+    data["point_win"] = points_challenge.point_win
+    data["point_top5"] = points_challenge.point_top5
+    data["point_top10"] = points_challenge.point_top10
+    data["point_top15"] = points_challenge.point_top15
+    data["point_participation"] = points_challenge.point_participation
     data["update_date"] = datetime.datetime.now().strftime("%d %B %Y")
     data["challenge_year"] = challenge_year
     data["challenge"] = dict(sorted(challenge_res.items(), key=operator.itemgetter(1), reverse=True))
     json_object = json.dumps(data, ensure_ascii=False, indent=4)
-    with open("../_data/challenge"+challenge_year+".json", "w", encoding='utf8') as outfile:
+    with open(file_name, "w", encoding='utf8') as outfile:
         outfile.write(json_object)
-
-def update_challenge_boue(team: dict[str, TeamMember], challenge_year):
-    data = {}
-    challenge_res = {}
-    for m in team.values():
-        challenge_res[m.name] = m.challenge_calcul_point_boue(challenge_year)
-    data["point_win"] = 3
-    data["point_top5"] = 2
-    data["point_top10"] = 1
-    data["point_participation"] = 10
-    data["update_date"] = datetime.datetime.now().strftime("%d %B %Y")
-    data["challenge_year"] = challenge_year
-    data["challenge"] = dict(sorted(challenge_res.items(), key=operator.itemgetter(1), reverse=True))
-    json_object = json.dumps(data, ensure_ascii=False, indent=4)
-    with open("../_data/boue"+challenge_year+".json", "w", encoding='utf8') as outfile:
-        outfile.write(json_object)
-
 
 def load_team_from_file(team: dict[str, TeamMember]) -> dict[str, TeamMember]:
     team_file = open(team_path_file, 'r')
@@ -143,6 +143,7 @@ def remove_old_team(team):
         team.pop("THEIL MICKAEL")
     if "HOUREZ CEDRIC" in team:
         team.pop("HOUREZ CEDRIC")
+
 
 def update_team_file(team):
     data = {}
