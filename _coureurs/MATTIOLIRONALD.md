@@ -6,8 +6,9 @@ name: MATTIOLI RONALD
 
 
 sports: VTT Route
-image: assets/imgs/team/small/mattioli_ronald.jpeg
-large: assets/imgs/team/large/mattioli_ronald.png
+image: assets/imgs/team/small/empty.png
+
+large: assets/imgs/team/large/empty.png
 nationality: be
 date_of_birth: 28/12/1973
 category: 1ère
