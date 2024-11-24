@@ -114,7 +114,7 @@
         },
         {
             "name": "DERASSE DAVID",
-            "course": 102,
+            "course": 103,
             "cx": {
                 "2025": {
                     "2024/10/06|ORCHIES|2ème": 16,
@@ -124,7 +124,8 @@
                     "2024/11/01|HENIN BEAUMONT|3ème": 13,
                     "2024/11/11|PORTE DU HAINAUT - AREMBERG|2ème": 44,
                     "2024/11/16|HASPRES|2ème": 44,
-                    "2024/11/17|RAISMES|2ème": 21
+                    "2024/11/17|RAISMES|2ème": 21,
+                    "2024/11/24|BTWIN|2ème": 31
                 },
                 "2024": {
                     "2024/01/27|2024National|17-19 ans": 49,
@@ -328,7 +329,7 @@
         },
         {
             "name": "MOULIN FELIX",
-            "course": 104,
+            "course": 105,
             "cx": {
                 "2025": {
                     "2024/10/13|VIEUX CONDE|3ème": 13,
@@ -337,7 +338,8 @@
                     "2024/11/03|WILLEMS|3ème": 14,
                     "2024/11/11|PORTE DU HAINAUT - AREMBERG|3ème": 40,
                     "2024/11/16|HASPRES|3ème": 40,
-                    "2024/11/17|RAISMES|3ème": 26
+                    "2024/11/17|RAISMES|3ème": 26,
+                    "2024/11/24|BTWIN|3ème": 13
                 },
                 "2024": {
                     "2024/02/11|MERICOURT (62680) ULTRA VTT|3ème": 3,
@@ -1166,7 +1168,7 @@
         },
         {
             "name": "ORBIER AXEL",
-            "course": 5,
+            "course": 6,
             "cx": {
                 "2025": {
                     "2024/10/06|ORCHIES|2ème": 8,
@@ -1176,7 +1178,8 @@
                     "2024/11/03|WILLEMS|2ème": 5,
                     "2024/11/11|PORTE DU HAINAUT - AREMBERG|2ème": 1,
                     "2024/11/16|HASPRES|2ème": 1,
-                    "2024/11/17|RAISMES|1ère": 11
+                    "2024/11/17|RAISMES|1ère": 11,
+                    "2024/11/24|BTWIN|1ère": 8
                 }
             },
             "vtt": {},
