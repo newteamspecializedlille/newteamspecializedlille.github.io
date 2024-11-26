@@ -9,7 +9,7 @@ image: assets/imgs/team/small/dufour_julien.jpeg
 large: assets/imgs/team/large/dufour_julien.png
 nationality: fr
 date_of_birth: 09/08/1988
-category: 3ème
+category: 1ère
   
 
 gallery:
