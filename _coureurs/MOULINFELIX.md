@@ -1,7 +1,7 @@
 ---
 # preview details
 layout: coureurs-single
-title: Félix Moulin
+title: MOULIN FELIX
 name: MOULIN FELIX
 
 sports: Cyclo-Cross Route

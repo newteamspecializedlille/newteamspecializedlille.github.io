@@ -25,29 +25,30 @@ layout: default
 
 {% assign boue2025_position = 0 %}
 {% for item in site.data.boue2025.challenge %}
-    {% assign boue2025_position = boue2025_position | plus: 1 %}
-    {% if item[0] == page.title %}
-        {% break %}
+    {% if item[1] > 0 %}
+        {% if item[0] == page.title %}
+            {% assign boue2025_position = forloop.index %}
+            {% break %}
+        {% endif %}
     {% endif %}
 {% endfor %}
+
 {% if boue2025_position == 1 %}
     {% assign boue2025_position = "<span>&#129351;</span>" %}
 {% elsif boue2025_position == 2 %}
     {% assign boue2025_position = "<span>&#129352;</span>" %}
 {% elsif boue2025_position == 3 %}
    {% assign boue2025_position = "<span>&#129353;</span>" %}
-{% else %}
-    {% capture boue2025_position %}
-        {{ boue2025_position }}
-    {% endcapture %}
 {% endif %}
 
 
 {% assign challenge_position = 0 %}
 {% for item in site.data.challenge.challenge %}
-    {% assign challenge_position = challenge_position | plus: 1 %}
-    {% if item[0] == page.title %}
-        {% break %}
+    {% if item[1] > 0 %}
+        {% if item[0] == page.title %}
+            {% assign challenge_position = forloop.index %}
+            {% break %}
+        {% endif %}
     {% endif %}
 {% endfor %}
 {% if challenge_position == 1 %}
@@ -56,10 +57,6 @@ layout: default
     {% assign challenge_position = "<span>&#129352;</span>" %}
 {% elsif challenge_position == 3 %}
    {% assign challenge_position = "<span>&#129353;</span>" %}
-{% else %}
-    {% capture challenge_position %}
-        {{ challenge_position }}
-    {% endcapture %}
 {% endif %}
 
 <header class="freelancer conditional-display" data-scroll-index="0" >
@@ -146,7 +143,6 @@ layout: default
                                                                 <span class="sub-title fw-200 value"><a href="https://instagram.com/{{ page.instagram }}" target="_blank">@{{ page.instagram }}</a></span>
                                                             </div>
                                                     {% endif %}
-
 
                                                     {% if boue2025_position != 0 %}
                                                     <div class="d-flex align-items-center">
