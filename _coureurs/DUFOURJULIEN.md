@@ -4,14 +4,13 @@ layout: coureurs-single
 title: DUFOUR JULIEN
 name: DUFOUR JULIEN
 
-sports: Route
 image: assets/imgs/team/small/dufour_julien.jpeg
 large: assets/imgs/team/large/dufour_julien.png
 nationality: fr
 date_of_birth: 09/08/1988
-category: 1ère
   
-
+sports: Route
+category: 1ère
 gallery:
   - assets/imgs/team/small/dufour_julien.jpeg
   - assets/img/team/DUFOURJULIEN_2.jpeg

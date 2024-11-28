@@ -3,8 +3,7 @@
 layout: coureurs-single
 title: DEFER OLIVIER
 name: DEFER OLIVIER
-category:  Route
-category_slug:  road
+
 image: assets/imgs/team/small/empty.png
 large: assets/imgs/team/large/empty.png
 
@@ -18,7 +17,8 @@ info:
     value: 21/11/1985
  #- label: Catégorie 
  #   value: 3ème
-
+sports: Route
+category: 2ème
 gallery:
 
 

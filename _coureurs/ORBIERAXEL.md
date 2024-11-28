@@ -10,9 +10,8 @@ strava: https://www.strava.com/athletes/20939373
 large: assets/imgs/team/large/empty.png
 
 live_preview: https://bslthemes.com
-category: 2ème
 date_of_birth: 14/08/1996
 gallery:
 
-
+category: 1ère
 ---

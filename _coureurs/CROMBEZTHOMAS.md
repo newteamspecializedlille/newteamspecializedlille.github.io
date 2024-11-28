@@ -3,8 +3,6 @@
 layout: coureurs-single
 title: CROMBEZ THOMAS
 name: CROMBEZ THOMAS
-category: Route
-category_slug: road
 image: assets/imgs/team/small/empty.png
 strava: https://www.strava.com/athletes/65224301
 large: assets/imgs/team/large/empty.png
@@ -18,7 +16,8 @@ info:
     value: 06/05/1991
  #- label: Catégorie 
  #   value: 3ème
-
+sports: Route
+category: 1ère
 gallery:
 
 ---

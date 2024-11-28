@@ -5,14 +5,13 @@ title: DERASSE DAVID
 name: DERASSE DAVID
 
   
-sports: Cyclo-Cross Route
 image: assets/imgs/team/small/derasse_david.JPG
 large: assets/imgs/team/large/derasse_david.png
 nationality: fr
 date_of_birth: 09/01/2007
-category: 3ème
 
-
+sports: Route
+category: 2ème
 strava: https://www.strava.com/athletes/95634890
 gallery:
   - assets/imgs/team/small/derasse_david.JPG

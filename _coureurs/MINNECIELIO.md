@@ -10,7 +10,7 @@ image: assets/imgs/team/small/minneci_elio.jpeg
 large: assets/imgs/team/large/minneci_elio.png
 nationality: fr
 date_of_birth: 18/09/2004
-category: 3ème
+category: 1ère
 
 gallery:
   - assets/imgs/team/small/minneci_elio.jpeg

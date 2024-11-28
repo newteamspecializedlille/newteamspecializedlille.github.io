@@ -5,7 +5,7 @@ title: TRINEL EMILY
 name: TRINEL EMILY
 
 
-sports: Route
+sports: Route VTT
 image: assets/imgs/team/small/trine_emily.jpeg
 large: assets/imgs/team/large/trine_emily.png
 nationality: fr

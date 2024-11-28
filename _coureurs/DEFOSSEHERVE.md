@@ -3,8 +3,6 @@
 layout: coureurs-single
 title: DEFOSSE HERVE
 name: DEFOSSE HERVE
-category:  Route
-category_slug:  road
 image: assets/imgs/team/small/empty.png
 large: assets/imgs/team/large/empty.png
 
@@ -18,7 +16,8 @@ info:
  #- label: Catégorie 
  #   value: 3ème
 strava: https://www.strava.com/athletes/105331433
-
+sports: Route
+category: 2ème
 gallery:
   - assets/imgs/team/small/empty.png
   - assets/img/blog/blog8.jpg
