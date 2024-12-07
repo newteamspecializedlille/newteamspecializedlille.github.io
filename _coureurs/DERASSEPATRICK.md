@@ -3,9 +3,9 @@
 layout: coureurs-single
 title: DERASSE PATRICK
 name: DERASSE PATRICK
-image: assets/imgs/team/small/empty.png
+image: assets/imgs/team/small/derasse_patrick.png
 
-large: assets/imgs/team/large/empty.png
+large: assets/imgs/team/large/derasse_patrick.png
 
 strava: https://www.strava.com/athletes/104406709
 gallery:

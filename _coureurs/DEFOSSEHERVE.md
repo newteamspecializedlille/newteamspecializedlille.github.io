@@ -3,8 +3,8 @@
 layout: coureurs-single
 title: DEFOSSE HERVE
 name: DEFOSSE HERVE
-image: assets/imgs/team/small/empty.png
-large: assets/imgs/team/large/empty.png
+image: assets/imgs/team/small/defosse_herve.png
+large: assets/imgs/team/large/defosse_herve.png
 
 # full details
 live_preview: https://bslthemes.com
