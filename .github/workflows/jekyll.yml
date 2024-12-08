@@ -61,6 +61,7 @@ jobs:
           cd python_scripts
           python main.py > ../output.txt
           python notifications.py
+          python parse_comments.py
           rm -rf ../output.txt
 
       - name: Save change in git
