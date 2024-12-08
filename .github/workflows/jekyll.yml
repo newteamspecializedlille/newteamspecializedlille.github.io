@@ -52,7 +52,7 @@ jobs:
           python3 -m pip install requests
           python3 -m pip install xlrd
           python3 -m pip install urllib3
-          python3 -m pip install BeautifulSoup
+          python3 -m pip install beautifulsoup4
       - name: Run update of website
         env:
           API_KEY: ${{ secrets.API_KEY }}
