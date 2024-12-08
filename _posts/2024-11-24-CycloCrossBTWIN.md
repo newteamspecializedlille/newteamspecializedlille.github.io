@@ -4,7 +4,7 @@ title: Cyclo Cross - BTWIN - 2025
 date: 2024-11-24
 category: Cyclo Cross
 tags: cyclo-cross
-image: assets/img/blog/cx.jpeg
+image: assets/img/disqus_pictures/2024-11-24-CycloCrossBTWIN.jpg
 ---
 
 ### 1ère Catégorie
