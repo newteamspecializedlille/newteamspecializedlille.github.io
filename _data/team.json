@@ -2,7 +2,7 @@
     "team_members": [
         {
             "name": "MATTIOLI RONALD",
-            "course": 551,
+            "course": 552,
             "cx": {
                 "2024": {
                     "2023/12/23|BOUSIES|2ème": 2,
@@ -28,7 +28,8 @@
                     "2024/11/10|PONT SUR SAMBRE|Vétérans B": 2,
                     "2024/11/17|RAISMES|Vétérans B": 1,
                     "2024/11/30|FOURMIES|Vétérans B": 1,
-                    "2024/12/01|AVESNES LES AUBERT|Vétérans B": 2
+                    "2024/12/01|AVESNES LES AUBERT|Vétérans B": 2,
+                    "2024/12/22|ROUVROY|Vétérans B": 3
                 },
                 "2024": {
                     "2024/03/24|2024Departement|Vétérans B": 1,
@@ -116,7 +117,7 @@
         },
         {
             "name": "DERASSE DAVID",
-            "course": 104,
+            "course": 105,
             "cx": {
                 "2025": {
                     "2024/10/06|ORCHIES|2ème": 16,
@@ -129,7 +130,8 @@
                     "2024/11/17|RAISMES|2ème": 21,
                     "2024/11/24|BTWIN|2ème": 31,
                     "2024/12/01|VERLINGHEM|2ème": 8,
-                    "2024/12/15|NORD|17-19 ans": 8
+                    "2024/12/15|NORD|17-19 ans": 8,
+                    "2024/12/22|ROUVROY|2ème": 8
                 },
                 "2024": {
                     "2024/01/27|2024National|17-19 ans": 49,
