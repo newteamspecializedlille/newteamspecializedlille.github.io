@@ -2,7 +2,7 @@
     "team_members": [
         {
             "name": "MATTIOLI RONALD",
-            "course": 552,
+            "course": 553,
             "cx": {
                 "2024": {
                     "2023/12/23|BOUSIES|2ème": 2,
@@ -29,7 +29,8 @@
                     "2024/11/17|RAISMES|Vétérans B": 1,
                     "2024/11/30|FOURMIES|Vétérans B": 1,
                     "2024/12/01|AVESNES LES AUBERT|Vétérans B": 2,
-                    "2024/12/22|ROUVROY|Vétérans B": 3
+                    "2024/12/22|ROUVROY|Vétérans B": 3,
+                    "2024/12/28|MARQUETTE EN OSTREVENT|Vétérans B": "Ab"
                 },
                 "2024": {
                     "2024/03/24|2024Departement|Vétérans B": 1,
