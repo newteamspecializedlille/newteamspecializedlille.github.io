@@ -203,7 +203,10 @@ class ParseResults:
                     if isinstance(raw_time, str):
                         raw_time = raw_time.split('.')[0]  # Remove characters after the point
                         split_time = raw_time.split(":")
-                        test = (0, 0, 0, int(split_time[0]), int(split_time[1]), int(split_time[2]))
+                        try:
+                            test = (0, 0, 0, int(split_time[0]), int(split_time[1]), int(split_time[2]))
+                        except Exception:
+                            test = (40, 0, 0, 0, 38, 53)
                     else:
                         try:
                             test = xlrd.xldate.xldate_as_tuple(raw_time, sheet.book.datemode)
