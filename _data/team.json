@@ -2,7 +2,7 @@
     "team_members": [
         {
             "name": "MATTIOLI RONALD",
-            "course": 553,
+            "course": 555,
             "cx": {
                 "2024": {
                     "2023/12/23|BOUSIES|2ème": 2,
@@ -30,7 +30,9 @@
                     "2024/11/30|FOURMIES|Vétérans B": 1,
                     "2024/12/01|AVESNES LES AUBERT|Vétérans B": 2,
                     "2024/12/22|ROUVROY|Vétérans B": 3,
-                    "2024/12/28|MARQUETTE EN OSTREVENT|Vétérans B": "Ab"
+                    "2024/12/28|MARQUETTE EN OSTREVENT|Vétérans B": "Ab",
+                    "2025/01/05|LE QUESNOY1|Vétérans B": "Ab",
+                    "2025/01/12|NOYELLES LES VERMELLES|Vétérans B": 2
                 },
                 "2024": {
                     "2024/03/24|2024Departement|Vétérans B": 1,
@@ -118,7 +120,7 @@
         },
         {
             "name": "DERASSE DAVID",
-            "course": 106,
+            "course": 107,
             "cx": {
                 "2025": {
                     "2024/10/06|ORCHIES|2ème": 16,
@@ -133,7 +135,8 @@
                     "2024/12/01|VERLINGHEM|2ème": 8,
                     "2024/12/15|NORD|17-19 ans": 8,
                     "2024/12/22|ROUVROY|2ème": 8,
-                    "2024/12/29|ESTEVELLE|2ème": 3
+                    "2024/12/29|ESTEVELLE|2ème": 3,
+                    "2025/01/12|NOYELLES LES VERMELLES|17-19 ans": 7
                 },
                 "2024": {
                     "2024/01/27|2024National|17-19 ans": 49,
@@ -1176,7 +1179,7 @@
         },
         {
             "name": "ORBIER AXEL",
-            "course": 6,
+            "course": 7,
             "cx": {
                 "2025": {
                     "2024/10/06|ORCHIES|2ème": 8,
@@ -1188,7 +1191,8 @@
                     "2024/11/16|HASPRES|2ème": 1,
                     "2024/11/17|RAISMES|1ère": 11,
                     "2024/11/24|BTWIN|1ère": 8,
-                    "2024/12/15|NORD|SeniorA": 9
+                    "2024/12/15|NORD|SeniorA": 9,
+                    "2025/01/12|NOYELLES LES VERMELLES|20-29 ans": 5
                 }
             },
             "vtt": {},

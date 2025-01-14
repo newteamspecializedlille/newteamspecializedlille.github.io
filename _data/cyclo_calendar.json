@@ -1,0 +1,23 @@
+[
+    {
+        "date": "2024-02-12",
+        "start": "Lille",
+        "map": "merde",
+        "km": "80-100",
+        "time": "10:00"
+    },
+    {
+        "date": "2024-02-13",
+        "start": "Lille",
+        "map": "Test parcours 1",
+        "km": "80",
+        "time": "10:00"
+    },
+    {
+        "date": "2024-09-11",
+        "start": "Herlies",
+        "map": "herlies parcorus",
+        "km": "79",
+        "time": "10:30"
+    }
+]

@@ -1,0 +1,56 @@
+---
+layout: default
+---
+
+{% assign ui_text = site.data.ui-text['ui_text'] %}
+
+{% assign data = site.data.cyclo_calendar %}
+
+
+
+<!-- ==================== Start Header ==================== -->
+<header class="page-header-cerv bg-img section-padding" data-background="{{ 'assets/imgs/header/cyclos.jpeg' | relative_url }}"
+	data-overlay-dark="1" style="background-position: center;">
+	<div class="container pt-100 ontop">
+		<div class="text-center">
+			<h1 class="fz-100">{{ page.title }}</h1>
+			<div class="mt-15">
+				<a href="{{ '/' | relative_url }}">Home</a>
+				<span class="padding-rl-20">|</span>
+				<span class="main-color">{{ page.title }}</span>
+			</div>
+		</div>
+	</div>
+</header>
+
+<!-- ==================== End Header ==================== -->
+
+<!-- ==================== Start Table ==================== -->
+
+<section class="about-crev section-padding position-re" data-scroll-index="2">
+	<div class="container">
+ <div class="resume section-padding bord-thin-top" data-scroll-index="2">
+	<div class="sec-head mb-50">
+		<h3><span class="fw-200">Les cyclos de la </span> Team</h3>
+	</div>
+	<div>
+		<div class="resume-clumn">
+			{% for event in data %}
+			<div class="items mb-40">
+				<h6 class="date fz-14">{{ event.date | date: "%d %B %Y"  }} - {{ event.time }}</h6>
+				<h5>{{ event.map }}<span class="fw-200 ml-15">départ à {{ event.start }}</span></h5>
+				<div class="row" >
+					<div class="col-md-10">
+						<p class="mt-15 fz-14">{{ event.km }} km</p>
+					</div>
+				</div>
+			</div>
+			{% endfor %}
+		</div>
+	</div>
+</div>
+		</div>
+</section><!-- ==================== End Table ==================== -->
+
+
+{%- include recent-blog.html -%}
