@@ -33,21 +33,63 @@ layout: default
 	<div class="sec-head mb-50">
 		<h3><span class="fw-200">Les cyclos de la </span> Team</h3>
 	</div>
-	<div>
-		<div class="resume-clumn">
-			{% for event in data %}
-			<div class="items mb-40">
-				<h6 class="date fz-14">{{ event.date | date: "%d %B %Y"  }} - {{ event.time }}</h6>
-				<h5>{{ event.map }}<span class="fw-200 ml-15">départ à {{ event.start }}</span></h5>
-				<div class="row" >
-					<div class="col-md-10">
-						<p class="mt-15 fz-14">{{ event.km }} km</p>
-					</div>
-				</div>
-			</div>
-			{% endfor %}
-		</div>
-	</div>
+	<div class="col-lg-12">
+        <div class="list-serv">
+            <div class="accordion bord">
+                {% assign current_date = 'now' | date: "%Y-%m-%d" %}
+                {% assign past_events = "" | split: "" %}
+                {% assign future_events = "" | split: "" %}
+
+                {% for event in data %}
+                    {% if event.date < current_date %}
+                        {% assign past_events = past_events | push: event %}
+                    {% else %}
+                        {% assign future_events = future_events | push: event %}
+                    {% endif %}
+                {% endfor %}
+
+                <!-- Past Events Accordion -->
+                <div class="item mb-15 wow fadeInUp" data-wow-delay=".1s">
+                    <div class="title">
+                        <h6>Anciens événements</h6>
+                        <span class="ico ti-plus"></span>
+                    </div>
+                    <div class="accordion-info">
+                        {% for event in past_events %}
+                            <div class="row">
+                                <div class="col-md-10">
+                                    <p class="mt-15 fz-14">- <a href="/route/{{ event.map | replace: ' ', '-' }}">{{ event.map }}</a> ~ {{ event.date | date: "%d %B %Y" }} - {{ event.time }}</p>
+                                </div>
+                            </div>
+                        {% endfor %}
+                    </div>
+                </div>
+
+                <!-- Future Events Accordion -->
+                <div class="item mb-15 wow fadeInUp active" data-wow-delay=".1s">
+                    <div class="title">
+                        <h6>Futurs événements</h6>
+                        <span class="ico ti-plus"></span>
+                    </div>
+                    <div class="accordion-info">
+                        {% for event in future_events %}
+                            <div class="row">
+                                <div class="col-md-10">
+                                    <p class="mt-15 fz-14">- <a href="/route/{{ event.map | replace: ' ', '-' }}">{{ event.map }}</a> ~ {{ event.date | date: "%d %B %Y" }} - {{ event.time }}</p>
+                                </div>
+                            </div>
+                        {% endfor %}
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+          <div class="row" style="padding-top: 50px; padding-bottom: 50px;">
+            <b>Les jours et les heures des sorties peuvent changer en fonction de la météo et du départ des randonnées organisées.
+Quand Tintin est absent, ce sont Éric A et Éric B qui se chargent des départs et du choix de la boucle.</b>
+        </div>
+    </div>
 </div>
 		</div>
 </section><!-- ==================== End Table ==================== -->

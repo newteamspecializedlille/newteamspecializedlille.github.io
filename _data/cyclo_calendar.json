@@ -1,23 +1,394 @@
 [
     {
-        "date": "2024-02-12",
-        "start": "Lille",
-        "map": "merde",
+        "date": "2025-01-19",
+        "start": "Place de Bailleul",
+        "map": "Boucle de Béthune",
         "km": "80-100",
-        "time": "10:00"
+        "time": "9h00"
     },
     {
-        "date": "2024-02-13",
-        "start": "Lille",
-        "map": "Test parcours 1",
-        "km": "80",
-        "time": "10:00"
+        "date": "2025-01-26",
+        "start": "Place de Bailleul",
+        "map": "S ’ Works inverse",
+        "km": "80-100",
+        "time": "9h00"
     },
     {
-        "date": "2024-09-11",
-        "start": "Herlies",
-        "map": "herlies parcorus",
-        "km": "79",
-        "time": "10:30"
+        "date": "2025-02-02",
+        "start": "Place de Bailleul",
+        "map": "Boucle de Ypres",
+        "km": "80-100",
+        "time": "9h00"
+    },
+    {
+        "date": "2025-02-09",
+        "start": "Place de Bailleul",
+        "map": "Boucle Esquelbecq",
+        "km": "80-100",
+        "time": "9h00"
+    },
+    {
+        "date": "2025-02-16",
+        "start": "Place de Bailleul",
+        "map": "Prépa Gent Wevelgem",
+        "km": "80-100",
+        "time": "9H00"
+    },
+    {
+        "date": "2025-02-23",
+        "start": "Place de Bailleul",
+        "map": "Boucle à Eric B",
+        "km": "80-100",
+        "time": "9H00"
+    },
+    {
+        "date": "2025-03-02",
+        "start": "Place de Bailleul",
+        "map": "Boucle à Patrice Popering",
+        "km": "80-100",
+        "time": "9h00"
+    },
+    {
+        "date": "2025-03-09",
+        "start": "Place de Bailleul",
+        "map": "Mons en Pévèle",
+        "km": "80-100",
+        "time": "7h30"
+    },
+    {
+        "date": "2025-03-29",
+        "start": "Gent-Wevelgem",
+        "map": "Grand Gent-Wevelgem",
+        "km": "220",
+        "time": "7h00"
+    },
+    {
+        "date": "2025-03-30",
+        "start": "Place de Bailleul",
+        "map": "Boucle à Eric A Helfau",
+        "km": "120",
+        "time": "8h00"
+    },
+    {
+        "date": "2025-04-06",
+        "start": "Place de Bailleul",
+        "map": "wavrin",
+        "km": "100-120",
+        "time": "7h30"
+    },
+    {
+        "date": "2025-04-20",
+        "start": "Place de Bailleul",
+        "map": "Boucle d’Olain",
+        "km": "100-135",
+        "time": "7h30"
+    },
+    {
+        "date": "2025-04-21",
+        "start": "Place de Bailleul",
+        "map": "Houplines",
+        "km": "100-120",
+        "time": "7h30"
+    },
+    {
+        "date": "2025-04-27",
+        "start": "Place de Bailleul",
+        "map": "Pérenchies",
+        "km": "100-120",
+        "time": "7h30"
+    },
+    {
+        "date": "2025-05-01",
+        "start": "Place de Bailleul",
+        "map": "Boeschepe",
+        "km": "100-120",
+        "time": "7h30"
+    },
+    {
+        "date": "2025-05-04",
+        "start": "Place de Bailleul",
+        "map": "Lambersart ou boucle de Watten",
+        "km": "100-120",
+        "time": "7h30"
+    },
+    {
+        "date": "2025-05-08",
+        "start": "Place de Bailleul",
+        "map": "Steenwerck",
+        "km": "100-120",
+        "time": "7h30"
+    },
+    {
+        "date": "2025-05-11",
+        "start": "Place de Bailleul",
+        "map": "Boucle à Eric A Helfau",
+        "km": "100-130",
+        "time": "7h30"
+    },
+    {
+        "date": "2025-05-18",
+        "start": "Place de Bailleul",
+        "map": "Bailleul-Lille-Dunkerque-Bailleul",
+        "km": "176",
+        "time": "6h30"
+    },
+    {
+        "date": "2025-05-18",
+        "start": "Place de Bailleul",
+        "map": "Lestrem avec Eric A",
+        "km": "100-120",
+        "time": "7h30"
+    },
+    {
+        "date": "2025-05-25",
+        "start": "Beyenghem-les-Seninghem",
+        "map": "Les Routes des monts L’AA",
+        "km": "186",
+        "time": "7h00"
+    },
+    {
+        "date": "2025-05-25",
+        "start": "Place de Bailleul",
+        "map": "Pour ce qu’il reste a Bailleulavec Eric A",
+        "km": "80-100",
+        "time": "8h00"
+    },
+    {
+        "date": "2025-06-01",
+        "start": "Place de Bailleul",
+        "map": "Lille-Hardelot avec Eric B",
+        "km": "220",
+        "time": "6h00"
+    },
+    {
+        "date": "2025-06-08",
+        "start": "Bailleul",
+        "map": "Labiere Tour Challenge",
+        "km": "120",
+        "time": "7h30"
+    },
+    {
+        "date": "2025-06-15",
+        "start": "Place de Bailleul",
+        "map": "Boucle S'Works",
+        "km": "120",
+        "time": "7h30"
+    },
+    {
+        "date": "2025-06-22",
+        "start": "Bailleul",
+        "map": "L’Enfer des Flandres",
+        "km": "215 – 140",
+        "time": "6h00"
+    },
+    {
+        "date": "2025-06-28",
+        "start": "Place de Bailleul",
+        "map": "la Ch'tis bike tour 2025",
+        "km": "100- 250",
+        "time": "6h00"
+    },
+    {
+        "date": "2025-06-29",
+        "start": "Boulogne-sur-mer",
+        "map": "sur les trace du tour de france 2025",
+        "km": "100-140",
+        "time": "7h30"
+    },
+    {
+        "date": "2025-06-29",
+        "start": "Place de Bailleul",
+        "map": "Pour ce qu’il reste a Bailleulavec Eric A",
+        "km": "80-100",
+        "time": "8h00"
+    },
+    {
+        "date": "2025-07-06",
+        "start": "Place de Bailleul",
+        "map": "La boucle a tintin 1800D+Les monts",
+        "km": "120-140",
+        "time": "7h00"
+    },
+    {
+        "date": "2025-07-13",
+        "start": "Eric A et B",
+        "map": "Eric A et B",
+        "km": "80-100",
+        "time": "8h00"
+    },
+    {
+        "date": "2025-07-20",
+        "start": "Eric A et B",
+        "map": "Eric A et B",
+        "km": "80-100",
+        "time": "8h00"
+    },
+    {
+        "date": "2025-07-27",
+        "start": "Eric A et B",
+        "map": "Eric A et B",
+        "km": "80-100",
+        "time": "8h00"
+    },
+    {
+        "date": "2025-08-03",
+        "start": "Eric A et B",
+        "map": "Eric A et B",
+        "km": "80-100",
+        "time": "8h00"
+    },
+    {
+        "date": "2025-08-10",
+        "start": "Place de Bailleul",
+        "map": "Houplines",
+        "km": "100-120",
+        "time": "7h30"
+    },
+    {
+        "date": "2025-08-17",
+        "start": "Place de Bailleul",
+        "map": "La Bassée ?",
+        "km": "100-120",
+        "time": "7h30"
+    },
+    {
+        "date": "2025-08-24",
+        "start": "Place de Bailleul",
+        "map": "boucle de Ypres",
+        "km": "100-120",
+        "time": "7h30"
+    },
+    {
+        "date": "2025-08-31",
+        "start": "St Omer",
+        "map": "sur les routes du cap gris Nez",
+        "km": "150",
+        "time": "7h00"
+    },
+    {
+        "date": "2025-08-31",
+        "start": "Place de Bailleul",
+        "map": "Pour ce qu’il reste a Bailleulavec Eric A",
+        "km": "80-100",
+        "time": "8h00"
+    },
+    {
+        "date": "2025-09-07",
+        "start": "Place de BailleulLa cedric Vasseur 2025",
+        "map": "Steenvoorde",
+        "km": "120-140",
+        "time": "7h00"
+    },
+    {
+        "date": "2025-09-14",
+        "start": "Place de Bailleul",
+        "map": "Boucle de Bray-dune",
+        "km": "100-120",
+        "time": "7h30"
+    },
+    {
+        "date": "2025-09-21",
+        "start": "Place de Bailleul",
+        "map": "Boucle S'Works",
+        "km": "100-120",
+        "time": "7h30"
+    },
+    {
+        "date": "2025-09-28",
+        "start": "Place de Bailleul",
+        "map": "Les Weppes",
+        "km": "100-120",
+        "time": "7h30"
+    },
+    {
+        "date": "2025-10-05",
+        "start": "Place de Bailleul",
+        "map": "boucle de watten",
+        "km": "100-120",
+        "time": "8h00"
+    },
+    {
+        "date": "2025-10-12",
+        "start": "Place de Bailleul",
+        "map": "Testathlon pas encore la date",
+        "km": "?",
+        "time": "?"
+    },
+    {
+        "date": "2025-10-19",
+        "start": "Place de Bailleul",
+        "map": "boucle Popering ",
+        "km": "80-100",
+        "time": "8h00"
+    },
+    {
+        "date": "2025-10-26",
+        "start": "Place de Bailleul",
+        "map": "Boucle Esquelbecq",
+        "km": "80-100",
+        "time": "8h00"
+    },
+    {
+        "date": "2025-11-02",
+        "start": "Place de Bailleul",
+        "map": "",
+        "km": "",
+        "time": ""
+    },
+    {
+        "date": "2025-11-09",
+        "start": "Place de Bailleul",
+        "map": "",
+        "km": "",
+        "time": ""
+    },
+    {
+        "date": "2025-11-16",
+        "start": "Place de Bailleul",
+        "map": "",
+        "km": "",
+        "time": ""
+    },
+    {
+        "date": "2025-11-23",
+        "start": "Place de Bailleul",
+        "map": "Houplines",
+        "km": "120-140",
+        "time": "7h30"
+    },
+    {
+        "date": "2025-11-30",
+        "start": "Place de Bailleul",
+        "map": "",
+        "km": "",
+        "time": ""
+    },
+    {
+        "date": "2025-12-07",
+        "start": "Place de Bailleul",
+        "map": "",
+        "km": "",
+        "time": ""
+    },
+    {
+        "date": "2025-12-14",
+        "start": "Place de Bailleul",
+        "map": "",
+        "km": "",
+        "time": ""
+    },
+    {
+        "date": "2025-12-21",
+        "start": "Place de Bailleul",
+        "map": "",
+        "km": "",
+        "time": ""
+    },
+    {
+        "date": "2025-12-28",
+        "start": "Place de Bailleul",
+        "map": "",
+        "km": "",
+        "time": ""
     }
 ]
