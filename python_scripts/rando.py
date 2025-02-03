@@ -12,8 +12,7 @@ CSV_URL = f'https://docs.google.com/spreadsheets/d/{SPREADSHEET_ID}/export?forma
 
 def parse_date(date_str):
     """Parse une date au format attendu ou retourne une erreur si invalide."""
-    locale.setlocale(locale.LC_TIME, 'fr_FR.UTF-8')  # Définit la locale en français
-    formats = ['%d/%m/%Y', '%A %d %B %Y']  # Ajoute le format avec le jour de la semaine
+    formats = ['%d/%m/%Y']  # Ajoute le format avec le jour de la semaine
     for fmt in formats:
         try:
             return datetime.strptime(date_str, fmt)
