@@ -24,6 +24,10 @@ main:
     url: "/boue"
     parent: 0
 
+  - title: "Cyclosportives"
+    url: "/cyclosportives"
+    parent: 0
+
 #  # Contact
 #  - title: "Contact"
 #    url: "#contact-section"

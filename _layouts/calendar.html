@@ -1,0 +1,98 @@
+---
+layout: default
+---
+
+{% assign ui_text = site.data.ui-text['ui_text'] %}
+
+{% assign data = site.data.cyclo_calendar %}
+
+
+
+<!-- ==================== Start Header ==================== -->
+<header class="page-header-cerv bg-img section-padding" data-background="{{ 'assets/imgs/header/cyclos.jpeg' | relative_url }}"
+	data-overlay-dark="1" style="background-position: center;">
+	<div class="container pt-100 ontop">
+		<div class="text-center">
+			<h1 class="fz-100">{{ page.title }}</h1>
+			<div class="mt-15">
+				<a href="{{ '/' | relative_url }}">Home</a>
+				<span class="padding-rl-20">|</span>
+				<span class="main-color">{{ page.title }}</span>
+			</div>
+		</div>
+	</div>
+</header>
+
+<!-- ==================== End Header ==================== -->
+
+<!-- ==================== Start Table ==================== -->
+
+<section class="about-crev section-padding position-re" data-scroll-index="2">
+	<div class="container">
+ <div class="resume section-padding bord-thin-top" data-scroll-index="2">
+	<div class="sec-head mb-50">
+		<h3><span class="fw-200">Les cyclos de la </span> Team</h3>
+	</div>
+	<div class="col-lg-12">
+        <div class="list-serv">
+            <div class="accordion bord">
+                {% assign current_date = 'now' | date: "%Y-%m-%d" %}
+                {% assign past_events = "" | split: "" %}
+                {% assign future_events = "" | split: "" %}
+
+                {% for event in data %}
+                    {% if event.date < current_date %}
+                        {% assign past_events = past_events | push: event %}
+                    {% else %}
+                        {% assign future_events = future_events | push: event %}
+                    {% endif %}
+                {% endfor %}
+
+                <!-- Past Events Accordion -->
+                <div class="item mb-15 wow fadeInUp" data-wow-delay=".1s">
+                    <div class="title">
+                        <h6>Anciens événements</h6>
+                        <span class="ico ti-plus"></span>
+                    </div>
+                    <div class="accordion-info">
+                        {% for event in past_events %}
+                            <div class="row">
+                                <div class="col-md-10">
+                                    <p class="mt-15 fz-14">- <a href="/route/{{ event.map | replace: ' ', '-' }}">{{ event.map }}</a> ~ {{ event.date | date: "%d %B %Y" }} - {{ event.time }}</p>
+                                </div>
+                            </div>
+                        {% endfor %}
+                    </div>
+                </div>
+
+                <!-- Future Events Accordion -->
+                <div class="item mb-15 wow fadeInUp active" data-wow-delay=".1s">
+                    <div class="title">
+                        <h6>Futurs événements</h6>
+                        <span class="ico ti-plus"></span>
+                    </div>
+                    <div class="accordion-info">
+                        {% for event in future_events %}
+                            <div class="row">
+                                <div class="col-md-10">
+                                    <p class="mt-15 fz-14">- <a href="/route/{{ event.map | replace: ' ', '-' }}">{{ event.map }}</a> ~ {{ event.date | date: "%d %B %Y" }} - {{ event.time }}</p>
+                                </div>
+                            </div>
+                        {% endfor %}
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+          <div class="row" style="padding-top: 50px; padding-bottom: 50px;">
+            <b>Les jours et les heures des sorties peuvent changer en fonction de la météo et du départ des randonnées organisées.
+Quand Tintin est absent, ce sont Éric A et Éric B qui se chargent des départs et du choix de la boucle.</b>
+        </div>
+    </div>
+</div>
+		</div>
+</section><!-- ==================== End Table ==================== -->
+
+
+{%- include recent-blog.html -%}
