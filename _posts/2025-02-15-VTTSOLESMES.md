@@ -1,0 +1,54 @@
+---
+layout: post
+title: VTT - SOLESMES - 2025
+date: 2025-02-15
+category: VTT
+tags: VTT
+image: assets/img/blog/vtt.jpeg
+---
+
+### VTT Vétérans A
+12 participants
+- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 3
+
+### Scratch
+36 participants
+
+| Place | Nom | Team | Tours | Catégorie | Temps |
+|---|---|---|---|---|---|
+| 1 | MICHEL KEVIN | ETOILE CYCLISTE FEIGNIES | 7 | Seniors B | 0:57:12 | 
+| 2 | GREVIN JEROME | VELO CLUB SOLESMES | 7 | Vétérans B | 1:0:29 | 
+| 3 | FORRIERE MAXENCE | VELO CLUB SOLESMES | 7 | Seniors A | 1:0:59 | 
+| 4 | DE PARMENTIER MAXENCE | VELO CLUB SOLESMES | 7 | Seniors A | 1:1:24 | 
+| 5 | DELADERIERE ROMAIN | VTT  CLUB PONT SUR SAMBRE | 7 | Seniors A | 1:1:43 | 
+| 6 | VAN CLEEMPUT MARTIAL | TEAM SHARK VTT | 7 | Seniors A | 1:1:44 | 
+| 7 | LORRIAUX JULIEN | VELO CLUB SOLESMES | 7 | Seniors B | 1:3:8 | 
+| 8 | HEDBAUT ANTONY | TEAM BLECOURTOISE | 7 | Seniors A | 1:3:16 | 
+| 9 | JABLONSKI SEBASTIEN | NEW TEAM MAULDE | 7 | Vétérans A | 1:3:19 | 
+| 10 | CASE ALBAN | NOEUX VELO CLUB NOEUXOIS | 7 | Vétérans A | 1:3:41 | 
+| **11** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **7** | **Vétérans A** | **1:3:48** | 
+| 12 | MARTINEZ JEROME | NEW TEAM MAULDE | 7 | Vétérans B | 1:4:15 | 
+| 13 | MEESMAECKER WILLIAM | UNION SPORTIVE SAINT ANDRE | 7 | Seniors A | 1:4:18 | 
+| 14 | BRUNIAUX STEPHANE | LES VIKINGS VTT MARCHE NORDIQUE OHAIN | 7 | Vétérans A | 1:4:29 | 
+| 15 | MIENS JEROME | VELO CLUB SOLESMES | 7 | Vétérans A | 1:4:44 | 
+| 16 | RIVART THIERRY | VTT  CLUB PONT SUR SAMBRE | 7 | Seniors B | 1:5:33 | 
+| 17 | QUENTIN LAURENT | LA ROUE D'OR GUISARDE | 7 | Vétérans A | 1:5:49 | 
+| 18 | DEMADE REMY | VELO CLUB SOLESMES | 7 | Vétérans A | 1:6:58 | 
+| 19 | ALEXANDRE JIMMY | VELO CLUB SOLESMES | 6 | Vétérans B | 0:58:20 | 
+| 20 | MARECHAL GUILLAUME | VELO CLUB SOLESMES | 6 | Seniors B | 0:58:50 | 
+| 21 | GAMACHE CHRISTOPHE | CYCLOS RANDONNEURS LA BASSEE | 6 | Vétérans B | 0:59:44 | 
+| 22 | PORQUET LUDOVIC | SAULZOIR MONTRECOURT CYCLING CLUB | 6 | Vétérans A | 1:1:17 | 
+| 23 | BREVIERE ALEXANDRE | CAMPHIN EN CAREMBAULT CYCLING TEAM | 6 | Vétérans B | 1:1:18 | 
+| 24 | LAGUILLIER REGIS | TEAM DECOPUB PROVILLE | 6 | Vétérans A | 1:1:24 | 
+| 25 | RAVERDY NICOLAS | LES VIKINGS VTT MARCHE NORDIQUE OHAIN | 6 | Vétérans A | 1:1:36 | 
+| 26 | LUDE AURELIEN | TEAM VTT JEUMONT | 6 | Seniors B | 1:1:43 | 
+| 27 | FREROT FRANCK | U.C. CAPELLOISE FOURMIES | 6 | Vétérans B | 1:2:57 | 
+| 28 | LADENT JEROME | MERICOURT ULTRA VTT | 6 | Vétérans B | 1:3:34 | 
+| 29 | MERIAUX FREDERIC | TEAM SHARK VTT | 6 | Vétérans B | 1:4:20 | 
+| 30 | FOULON FRANCK | TEAM DECOPUB PROVILLE | 6 | Vétérans B | 1:7:35 | 
+| 31 | DEGRELLE BENJAMIN | LES VIKINGS VTT MARCHE NORDIQUE OHAIN | 6 | Seniors B | 1:7:44 | 
+| 32 | SCREVE ROMAIN | LES VIKINGS VTT MARCHE NORDIQUE OHAIN | 5 | Vétérans A | 0:59:3 | 
+| 33 | BAS JEAN-CLAUDE | US BIETTE UNION SPORTIVE DE LA BIETTE DE GAUCHY | 5 | Vétérans B | 1:2:13 | 
+| 34 | DUBRAY YVES | LES VIKINGS VTT MARCHE NORDIQUE OHAIN | 5 | Vétérans B | 1:6:18 | 
+| 35 | HELLE FABRICE | VELO SPRINT BOUCHAIN | 1 | Vétérans B | 0:18:10 | 
+| 36 | RAMETTE SAMUEL | VTT  CLUB PONT SUR SAMBRE | 0 | Vétérans B | 0:38:53 | 
