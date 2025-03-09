@@ -392,7 +392,7 @@
         },
         {
             "name": "WALTER BENOIT",
-            "course": 162,
+            "course": 163,
             "cx": {},
             "vtt": {
                 "2025": {
@@ -417,6 +417,9 @@
                 }
             },
             "road": {
+                "2025": {
+                    "2025/03/09|CRESPIN2|3ème": 23
+                },
                 "2024": {
                     "2024/03/03|ORCHIES|3ème": 42,
                     "2024/03/10|RIEULAY|3ème": 34,
@@ -515,10 +518,13 @@
         },
         {
             "name": "DUFOUR JULIEN",
-            "course": 354,
+            "course": 355,
             "cx": {},
             "vtt": {},
             "road": {
+                "2025": {
+                    "2025/03/09|CRESPIN2|1ère": 21
+                },
                 "2024": {
                     "2024/03/10|RIEULAY|1ère": 36,
                     "2024/04/01|PROVIN|1ère": 19,
@@ -788,10 +794,13 @@
         },
         {
             "name": "DEFER OLIVIER",
-            "course": 185,
+            "course": 186,
             "cx": {},
             "vtt": {},
             "road": {
+                "2025": {
+                    "2025/03/09|CRESPIN2|2ème": 10
+                },
                 "2024": {
                     "2024/03/03|ORCHIES|3ème": 13,
                     "2024/03/10|RIEULAY|3ème": 16,
@@ -949,10 +958,13 @@
         },
         {
             "name": "DEJONGHE MICKAEL",
-            "course": 158,
+            "course": 159,
             "cx": {},
             "vtt": {},
             "road": {
+                "2025": {
+                    "2025/03/09|CRESPIN2|3ème": 22
+                },
                 "2024": {
                     "2024/03/10|RIEULAY|3ème": 53,
                     "2024/03/24|FERRIERE LA GRANCE|3ème": 28,
