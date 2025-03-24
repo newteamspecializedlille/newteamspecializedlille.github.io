@@ -7,14 +7,15 @@
     "update_date": "24 March 2025",
     "challenge_year": "2025",
     "challenge": {
-        "DEFER OLIVIER": 35,
-        "WALTER BENOIT": 32,
-        "DEJONGHE MICKAEL": 31,
+        "DEFER OLIVIER": 45,
+        "WALTER BENOIT": 44,
+        "DEJONGHE MICKAEL": 41,
         "DUFOUR JULIEN": 20,
+        "DEFOSSE HERVE": 20,
+        "CROMBEZ THOMAS": 13,
         "DERASSE DAVID": 10,
         "LECOLIER STEPHANE": 10,
         "LECOLIER LOUIS": 10,
-        "DEFOSSE HERVE": 10,
         "MINNECI ELIO": 10,
         "BROUTIN ANTOINE": 10,
         "MATTIOLI RONALD": 0,
@@ -28,7 +29,6 @@
         "SHERNU CHRISTOPHE": 0,
         "TRINEL EMILY": 0,
         "DERASSE PATRICK": 0,
-        "CROMBEZ THOMAS": 0,
         "MEAUSOONE HENRI": 0,
         "ORBIER AXEL": 0
     }
