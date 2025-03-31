@@ -123,7 +123,7 @@
         },
         {
             "name": "DERASSE DAVID",
-            "course": 108,
+            "course": 109,
             "cx": {
                 "2025": {
                     "2024/10/06|ORCHIES|2ème": 16,
@@ -172,7 +172,8 @@
             },
             "road": {
                 "2025": {
-                    "2025/03/16|RIEULAY|1ère": 27
+                    "2025/03/16|RIEULAY|1ère": 27,
+                    "2025/03/30|FENAIN|1ère": 36
                 },
                 "2024": {
                     "2024/04/07|Rumigny": 13,
@@ -401,7 +402,7 @@
         },
         {
             "name": "WALTER BENOIT",
-            "course": 166,
+            "course": 167,
             "cx": {},
             "vtt": {
                 "2025": {
@@ -430,7 +431,8 @@
                     "2025/03/09|CRESPIN2|3ème": 23,
                     "2025/03/15|BOUSIES|3ème": 9,
                     "2025/03/16|RIEULAY|3ème": 17,
-                    "2025/03/23|DIMECHAUX|3ème": 8
+                    "2025/03/23|DIMECHAUX|3ème": 8,
+                    "2025/03/30|FENAIN|3ème": 19
                 },
                 "2024": {
                     "2024/03/03|ORCHIES|3ème": 42,
@@ -530,14 +532,15 @@
         },
         {
             "name": "DUFOUR JULIEN",
-            "course": 357,
+            "course": 358,
             "cx": {},
             "vtt": {},
             "road": {
                 "2025": {
                     "2025/03/09|CRESPIN2|1ère": 21,
                     "2025/03/16|RIEULAY|1ère": 29,
-                    "2025/03/23|DIMECHAUX|1ère": "Ab"
+                    "2025/03/23|DIMECHAUX|1ère": "Ab",
+                    "2025/03/30|FENAIN|1ère": 40
                 },
                 "2024": {
                     "2024/03/10|RIEULAY|1ère": 36,
@@ -663,13 +666,14 @@
         },
         {
             "name": "DEFOSSE HERVE",
-            "course": 419,
+            "course": 420,
             "cx": {},
             "vtt": {},
             "road": {
                 "2025": {
                     "2025/03/16|RIEULAY|2ème": 73,
-                    "2025/03/23|DIMECHAUX|2ème": 25
+                    "2025/03/23|DIMECHAUX|2ème": 25,
+                    "2025/03/30|FENAIN|2ème": 64
                 },
                 "2024": {
                     "2024/03/10|RIEULAY|2ème": 24,
@@ -979,7 +983,7 @@
         },
         {
             "name": "DEJONGHE MICKAEL",
-            "course": 162,
+            "course": 163,
             "cx": {},
             "vtt": {},
             "road": {
@@ -987,7 +991,8 @@
                     "2025/03/09|CRESPIN2|3ème": 22,
                     "2025/03/15|BOUSIES|3ème": 15,
                     "2025/03/16|RIEULAY|3ème": 54,
-                    "2025/03/23|DIMECHAUX|3ème": 47
+                    "2025/03/23|DIMECHAUX|3ème": 47,
+                    "2025/03/30|FENAIN|3ème": 13
                 },
                 "2024": {
                     "2024/03/10|RIEULAY|3ème": 53,
@@ -1107,12 +1112,13 @@
         },
         {
             "name": "MINNECI ELIO",
-            "course": 24,
+            "course": 25,
             "cx": {},
             "vtt": {},
             "road": {
                 "2025": {
-                    "2025/03/15|BOUSIES|1ère": 24
+                    "2025/03/15|BOUSIES|1ère": 24,
+                    "2025/03/30|FENAIN|1ère": 21
                 },
                 "2024": {
                     "2024/03/03|ORCHIES|3ème": 19,
@@ -1197,12 +1203,13 @@
         },
         {
             "name": "CROMBEZ THOMAS",
-            "course": 8,
+            "course": 9,
             "cx": {},
             "vtt": {},
             "road": {
                 "2025": {
-                    "2025/03/23|DIMECHAUX|1ère": 4
+                    "2025/03/23|DIMECHAUX|1ère": 4,
+                    "2025/03/30|FENAIN|1ère": 3
                 },
                 "2024": {
                     "2024/03/24|FERRIERE LA GRANCE|1ère": 5,
