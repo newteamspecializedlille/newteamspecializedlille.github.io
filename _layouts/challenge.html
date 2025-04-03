@@ -4,15 +4,15 @@ layout: default
 
 {% assign ui_text = site.data.ui-text['ui_text'] %}
 {% assign challenge = page.title | downcase | replace: " ", "" %}
+
 {{ challenge }}
-{% assign data = site.data[challenge] %}
+{% assign data = site.data["challenge2025"] %}
 
 {% for team in site.data.team.team_members %}
 	{%- if team.name == page.name -%}
 		{% assign team_people = team %}
 	{%- endif -%}
 {% endfor %}
-
 
 <!-- ==================== Start Header ==================== -->
 <header class="page-header-cerv bg-img section-padding" data-background="{{ 'assets/imgs/header/header.jpeg' | relative_url }}"
