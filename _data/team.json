@@ -406,7 +406,7 @@
         },
         {
             "name": "WALTER BENOIT",
-            "course": 170,
+            "course": 171,
             "cx": {},
             "vtt": {
                 "2025": {
@@ -439,7 +439,8 @@
                     "2025/03/23|DIMECHAUX|3ème": 8,
                     "2025/03/30|FENAIN|3ème": 19,
                     "2025/04/05|BAVAY|3ème": 41,
-                    "2025/04/06|HAVELUY|3ème": 17
+                    "2025/04/06|HAVELUY|3ème": 17,
+                    "2025/04/12|BOUVIGNIES|3ème": "Ab"
                 },
                 "2024": {
                     "2024/03/03|ORCHIES|3ème": 42,
@@ -539,7 +540,7 @@
         },
         {
             "name": "DUFOUR JULIEN",
-            "course": 360,
+            "course": 361,
             "cx": {},
             "vtt": {},
             "road": {
@@ -549,7 +550,8 @@
                     "2025/03/16|RIEULAY|1ère": 29,
                     "2025/03/23|DIMECHAUX|1ère": "Ab",
                     "2025/03/30|FENAIN|1ère": 40,
-                    "2025/04/06|HAVELUY|1ère": 42
+                    "2025/04/06|HAVELUY|1ère": 42,
+                    "2025/04/12|BOUVIGNIES|1ère": 24
                 },
                 "2024": {
                     "2024/03/10|RIEULAY|1ère": 36,
@@ -995,7 +997,7 @@
         },
         {
             "name": "DEJONGHE MICKAEL",
-            "course": 166,
+            "course": 167,
             "cx": {},
             "vtt": {},
             "road": {
@@ -1007,7 +1009,8 @@
                     "2025/03/23|DIMECHAUX|3ème": 47,
                     "2025/03/30|FENAIN|3ème": 13,
                     "2025/04/05|BAVAY|3ème": 20,
-                    "2025/04/06|HAVELUY|3ème": 6
+                    "2025/04/06|HAVELUY|3ème": 6,
+                    "2025/04/12|BOUVIGNIES|3ème": "Ab"
                 },
                 "2024": {
                     "2024/03/10|RIEULAY|3ème": 53,
