@@ -123,7 +123,7 @@
         },
         {
             "name": "DERASSE DAVID",
-            "course": 112,
+            "course": 113,
             "cx": {
                 "2025": {
                     "2024/10/06|ORCHIES|2ème": 16,
@@ -175,7 +175,8 @@
                     "2025/03/16|RIEULAY|1ère": 27,
                     "2025/03/30|FENAIN|1ère": 36,
                     "2025/04/06|HAVELUY|1ère": 32,
-                    "2025/04/13|ETROEUNGT|1ère": 14
+                    "2025/04/13|ETROEUNGT|1ère": 14,
+                    "2025/04/20|CRITERIUM DE BOISLEUX AU MONT|1ère": 4
                 },
                 "2024": {
                     "2024/04/07|Rumigny": 13,
@@ -409,7 +410,7 @@
         },
         {
             "name": "WALTER BENOIT",
-            "course": 172,
+            "course": 173,
             "cx": {},
             "vtt": {
                 "2025": {
@@ -444,7 +445,8 @@
                     "2025/04/05|BAVAY|3ème": 41,
                     "2025/04/06|HAVELUY|3ème": 17,
                     "2025/04/12|BOUVIGNIES|3ème": "Ab",
-                    "2025/04/13|ETROEUNGT|3ème": "Ab"
+                    "2025/04/13|ETROEUNGT|3ème": "Ab",
+                    "2025/04/20|CRITERIUM DE BOISLEUX AU MONT|3ème": 5
                 },
                 "2024": {
                     "2024/03/03|ORCHIES|3ème": 42,
@@ -832,7 +834,7 @@
         },
         {
             "name": "DEFER OLIVIER",
-            "course": 191,
+            "course": 192,
             "cx": {},
             "vtt": {},
             "road": {
@@ -842,7 +844,8 @@
                     "2025/03/16|RIEULAY|2ème": 23,
                     "2025/03/22|LILLERS|2ème": 11,
                     "2025/03/23|DIMECHAUX|2ème": 38,
-                    "2025/04/05|BAVAY|2ème": 36
+                    "2025/04/05|BAVAY|2ème": 36,
+                    "2025/04/20|CRITERIUM DE BOISLEUX AU MONT|2ème": 12
                 },
                 "2024": {
                     "2024/03/03|ORCHIES|3ème": 13,
@@ -1214,12 +1217,13 @@
         },
         {
             "name": "DERASSE PATRICK",
-            "course": 7,
+            "course": 8,
             "cx": {},
             "vtt": {},
             "road": {
                 "2025": {
-                    "2025/04/13|ETROEUNGT|3ème": "Ab"
+                    "2025/04/13|ETROEUNGT|3ème": "Ab",
+                    "2025/04/20|CRITERIUM DE BOISLEUX AU MONT|3ème": 24
                 },
                 "2024": {
                     "2024/04/07|Rumigny": 43,
