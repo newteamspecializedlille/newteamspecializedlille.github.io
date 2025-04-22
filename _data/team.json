@@ -1006,7 +1006,7 @@
         },
         {
             "name": "DEJONGHE MICKAEL",
-            "course": 167,
+            "course": 168,
             "cx": {},
             "vtt": {},
             "road": {
@@ -1019,7 +1019,8 @@
                     "2025/03/30|FENAIN|3ème": 13,
                     "2025/04/05|BAVAY|3ème": 20,
                     "2025/04/06|HAVELUY|3ème": 6,
-                    "2025/04/12|BOUVIGNIES|3ème": "Ab"
+                    "2025/04/12|BOUVIGNIES|3ème": "Ab",
+                    "2025/04/21|SOLESMES|3ème": 13
                 },
                 "2024": {
                     "2024/03/10|RIEULAY|3ème": 53,
@@ -1183,13 +1184,14 @@
         },
         {
             "name": "BROUTIN ANTOINE",
-            "course": 21,
+            "course": 22,
             "cx": {},
             "vtt": {},
             "road": {
                 "2025": {
                     "2025/03/16|RIEULAY|2ème": 53,
-                    "2025/04/13|ETROEUNGT|2ème": 28
+                    "2025/04/13|ETROEUNGT|2ème": 28,
+                    "2025/04/21|SOLESMES|2ème": 32
                 },
                 "2024": {
                     "2024/03/10|RIEULAY|2ème": 55,
