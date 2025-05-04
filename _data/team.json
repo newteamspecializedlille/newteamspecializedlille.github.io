@@ -847,7 +847,7 @@
         },
         {
             "name": "DEFER OLIVIER",
-            "course": 193,
+            "course": 194,
             "cx": {},
             "vtt": {},
             "road": {
@@ -859,7 +859,8 @@
                     "2025/03/23|DIMECHAUX|2ème": 38,
                     "2025/04/05|BAVAY|2ème": 36,
                     "2025/04/20|CRITERIUM DE BOISLEUX AU MONT|2ème": 12,
-                    "2025/04/21|PROVIN|2ème": 14
+                    "2025/04/21|PROVIN|2ème": 14,
+                    "2025/05/04|WAMBRECHIES|2ème": "Ab"
                 },
                 "2024": {
                     "2024/03/03|ORCHIES|3ème": 13,
