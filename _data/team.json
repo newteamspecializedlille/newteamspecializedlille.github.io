@@ -2,7 +2,7 @@
     "team_members": [
         {
             "name": "MATTIOLI RONALD",
-            "course": 558,
+            "course": 559,
             "cx": {
                 "2024": {
                     "2023/12/23|BOUSIES|2ème": 2,
@@ -87,6 +87,9 @@
                 }
             },
             "road": {
+                "2025": {
+                    "2025/05/04|BRUILLE SAINT AMAND |1ère": 21
+                },
                 "2024": {
                     "2024/04/13|BAVAY|1ère": "Ab",
                     "2024/04/14|HAVELUY|1ère": 17,
@@ -692,7 +695,7 @@
         },
         {
             "name": "DEFOSSE HERVE",
-            "course": 426,
+            "course": 427,
             "cx": {},
             "vtt": {},
             "road": {
@@ -704,7 +707,8 @@
                     "2025/04/21|PROVIN|2ème": 20,
                     "2025/04/27|MAULDE (CHORETTE)|2ème": 16,
                     "2025/05/01|PONT SUR SAMBRE|2ème": 55,
-                    "2025/05/03|ECLAIBES|2ème": 21
+                    "2025/05/03|ECLAIBES|2ème": 21,
+                    "2025/05/04|BRUILLE SAINT AMAND |2ème": 29
                 },
                 "2024": {
                     "2024/03/10|RIEULAY|2ème": 24,
@@ -1257,7 +1261,7 @@
         },
         {
             "name": "CROMBEZ THOMAS",
-            "course": 12,
+            "course": 13,
             "cx": {},
             "vtt": {},
             "road": {
@@ -1266,7 +1270,8 @@
                     "2025/03/30|FENAIN|1ère": 3,
                     "2025/04/06|HAVELUY|1ère": 2,
                     "2025/04/27|MAULDE (CHORETTE)|1ère": 3,
-                    "2025/05/01|PONT SUR SAMBRE|1ère": 11
+                    "2025/05/01|PONT SUR SAMBRE|1ère": 11,
+                    "2025/05/04|BRUILLE SAINT AMAND |1ère": 2
                 },
                 "2024": {
                     "2024/03/24|FERRIERE LA GRANCE|1ère": 5,
