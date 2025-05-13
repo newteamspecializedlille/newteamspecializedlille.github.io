@@ -560,7 +560,7 @@
         },
         {
             "name": "DUFOUR JULIEN",
-            "course": 364,
+            "course": 365,
             "cx": {},
             "vtt": {},
             "road": {
@@ -574,7 +574,8 @@
                     "2025/04/12|BOUVIGNIES|1ère": 24,
                     "2025/04/27|MAULDE (CHORETTE)|1ère": 35,
                     "2025/05/01|PONT SUR SAMBRE|1ère": 47,
-                    "2025/05/08|HALLUIN|1ère": 39
+                    "2025/05/08|HALLUIN|1ère": 39,
+                    "2025/05/11|VIEUX CONDE SOLITUDE|1ère": 25
                 },
                 "2024": {
                     "2024/03/10|RIEULAY|1ère": 36,
@@ -700,7 +701,7 @@
         },
         {
             "name": "DEFOSSE HERVE",
-            "course": 427,
+            "course": 428,
             "cx": {},
             "vtt": {},
             "road": {
@@ -713,7 +714,8 @@
                     "2025/04/27|MAULDE (CHORETTE)|2ème": 16,
                     "2025/05/01|PONT SUR SAMBRE|2ème": 55,
                     "2025/05/03|ECLAIBES|2ème": 21,
-                    "2025/05/04|BRUILLE SAINT AMAND |2ème": 29
+                    "2025/05/04|BRUILLE SAINT AMAND |2ème": 29,
+                    "2025/05/11|VIEUX CONDE SOLITUDE|2ème": 47
                 },
                 "2024": {
                     "2024/03/10|RIEULAY|2ème": 24,
@@ -856,7 +858,7 @@
         },
         {
             "name": "DEFER OLIVIER",
-            "course": 195,
+            "course": 196,
             "cx": {},
             "vtt": {},
             "road": {
@@ -870,7 +872,8 @@
                     "2025/04/20|CRITERIUM DE BOISLEUX AU MONT|2ème": 12,
                     "2025/04/21|PROVIN|2ème": 14,
                     "2025/05/04|WAMBRECHIES|2ème": "Ab",
-                    "2025/05/08|HALLUIN|2ème": 51
+                    "2025/05/08|HALLUIN|2ème": 51,
+                    "2025/05/11|VIEUX CONDE SOLITUDE|2ème": 33
                 },
                 "2024": {
                     "2024/03/03|ORCHIES|3ème": 13,
@@ -1029,7 +1032,7 @@
         },
         {
             "name": "DEJONGHE MICKAEL",
-            "course": 171,
+            "course": 172,
             "cx": {},
             "vtt": {},
             "road": {
@@ -1046,7 +1049,8 @@
                     "2025/04/21|SOLESMES|3ème": 13,
                     "2025/05/01|PONT SUR SAMBRE|3ème": 21,
                     "2025/05/03|ECLAIBES|3ème": 13,
-                    "2025/05/08|HALLUIN|3ème": 28
+                    "2025/05/08|HALLUIN|3ème": 28,
+                    "2025/05/11|VIEUX CONDE SOLITUDE|3ème": 16
                 },
                 "2024": {
                     "2024/03/10|RIEULAY|3ème": 53,
@@ -1270,7 +1274,7 @@
         },
         {
             "name": "CROMBEZ THOMAS",
-            "course": 13,
+            "course": 14,
             "cx": {},
             "vtt": {},
             "road": {
@@ -1280,7 +1284,8 @@
                     "2025/04/06|HAVELUY|1ère": 2,
                     "2025/04/27|MAULDE (CHORETTE)|1ère": 3,
                     "2025/05/01|PONT SUR SAMBRE|1ère": 11,
-                    "2025/05/04|BRUILLE SAINT AMAND |1ère": 2
+                    "2025/05/04|BRUILLE SAINT AMAND |1ère": 2,
+                    "2025/05/11|VIEUX CONDE SOLITUDE|1ère": 4
                 },
                 "2024": {
                     "2024/03/24|FERRIERE LA GRANCE|1ère": 5,
