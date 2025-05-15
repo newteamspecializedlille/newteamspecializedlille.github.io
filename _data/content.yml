@@ -21,9 +21,9 @@ hero:
   #  link: "#skills-section"
   bg_title: "Team"
   info:
-    - num: "4"
+    - num: "5"
       value: "Ans de bonne <strong>humeur</strong>"
-    - num: "22"
+    - num: "17"
       value: "Coureurs"
 
 ### Services [ services ]
