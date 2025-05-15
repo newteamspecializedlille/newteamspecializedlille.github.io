@@ -149,6 +149,8 @@ def remove_old_team(team):
         team.pop("THEIL MICKAEL")
     if "HOUREZ CEDRIC" in team:
         team.pop("HOUREZ CEDRIC")
+    if "MATTIOLI RONALD" in team:
+        team.pop("MATTIOLI RONALD")
 
 
 def update_team_file(team):

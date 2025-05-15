@@ -1,130 +1,6 @@
 {
     "team_members": [
         {
-            "name": "MATTIOLI RONALD",
-            "course": 559,
-            "cx": {
-                "2024": {
-                    "2023/12/23|BOUSIES|2ème": 2,
-                    "2023/12/10|AVESNES LES AUBERT|50-59 ans": 4,
-                    "2023/11/01|FOURMIES|2ème": 10,
-                    "2023/10/22|AVESNES SUR HELPE|2ème": 6,
-                    "2023/10/15|VIEUX CONDE|2ème": 3,
-                    "2023/10/14|OBRECHIES|2ème": 9,
-                    "2023/10/07|TAISNIERES EN THIERACHE|2ème": 1
-                }
-            },
-            "vtt": {
-                "2025": {
-                    "2024/10/05|LE QUESNOY|Vétérans B": 1,
-                    "2024/10/06|ORCHIES|Vétérans B": 2,
-                    "2024/10/12|OBRECHIES|Vétérans B": 1,
-                    "2024/10/13|VIEUX CONDE|Vétérans B": 2,
-                    "2024/10/19|ECLAIBES|Vétérans B": 1,
-                    "2024/10/20|HERGNIES|Vétérans B": 1,
-                    "2024/10/26|ANZIN|Vétérans B": 1,
-                    "2024/10/26|AVESNES SUR HELPE|Vétérans B": 1,
-                    "2024/11/01|HENIN BEAUMONT|Vétérans B": 2,
-                    "2024/11/10|PONT SUR SAMBRE|Vétérans B": 2,
-                    "2024/11/17|RAISMES|Vétérans B": 1,
-                    "2024/11/30|FOURMIES|Vétérans B": 1,
-                    "2024/12/01|AVESNES LES AUBERT|Vétérans B": 2,
-                    "2024/12/22|ROUVROY|Vétérans B": 3,
-                    "2024/12/28|MARQUETTE EN OSTREVENT|Vétérans B": "Ab",
-                    "2025/01/05|LE QUESNOY1|Vétérans B": "Ab",
-                    "2025/01/12|NOYELLES LES VERMELLES|Vétérans B": 2,
-                    "2025/01/18|HASPRES2|Vétérans B": 1,
-                    "2025/01/19|HASPRES3|Vétérans B": 1,
-                    "2025/02/15|SOLESMES|Vétérans A": 3
-                },
-                "2024": {
-                    "2024/03/24|2024Departement|Vétérans B": 1,
-                    "2024/02/25|DOULLENS|Vétérans B": 1,
-                    "2024/02/18|HERGNIES|Vétérans B": 1,
-                    "2024/02/04|ORCHIES|Vétérans B": 2,
-                    "2024/01/14|LE QUESNOY|Vétérans B": 2,
-                    "2024/01/13|BOUVIGNIES|Vétérans B": 1,
-                    "2024/01/07|WALLERS AREMBERG2|Vétérans B": 1,
-                    "2024/01/06|CRESPIN|Vétérans B": 2,
-                    "2023/12/30|HASPRES2|Vétérans B": 1,
-                    "2023/12/17|ROUVROY|Vétérans B": 1,
-                    "2023/12/16|ST WAAST LA VALLEE|Vétérans B": 2,
-                    "2023/12/03|PONT SUR SAMBRE|Vétérans B": 1,
-                    "2023/11/26|WILLEMS|Vétérans B": 2,
-                    "2023/11/19|HASPRES|Vétérans B": 1,
-                    "2023/11/11|WALLERS AREMBERG|Vétérans B": 1,
-                    "2023/11/05|JEUMONT|Vétérans B": 1,
-                    "2023/11/04|WARGNIES LE PETIT|Vétérans B": "Ab",
-                    "2023/11/01|FOURMIES|Vétérans B": 1,
-                    "2023/10/28|ANZIN|Vétérans B": 1,
-                    "2023/10/22|AVESNES SUR HELPE|Vétérans B": 1,
-                    "2023/10/21|ECLAIBES|Vétérans B": 1,
-                    "2023/10/14|OBRECHIES|Vétérans B": 1,
-                    "2023/10/08|RAISMES|Vétérans B": 2,
-                    "2023/10/07|TAISNIERES EN THIERACHE|Vétérans B": 3,
-                    "2024/03/24|WARGNIES LE PETIT2|50-59 ans": 1
-                },
-                "2023": {
-                    "2023/04/23|JEUMONT2|Vétérans B": "Ab",
-                    "2023/04/10|VIEUX CONDE2|Vétérans B": 1,
-                    "2023/02/19|SOLESMES|Vétérans B": 1,
-                    "2023/02/11|BOUVIGNIES|Vétérans B": 1,
-                    "2023/01/22|WALLERS AREMBERG|Vétérans B": 2,
-                    "2023/01/14|PREUX AU BOIS|Vétérans B": 1,
-                    "2023/01/07|HECQ|Vétérans B": 1,
-                    "2022/12/18|DENAIN|Vétérans B": 1,
-                    "2022/12/17|BOUSIES|Vétérans B": 1,
-                    "2022/12/04|SAULZOIR|Vétérans B": 1,
-                    "2022/11/26|SAINT SAULVE|Vétérans B": 1,
-                    "2022/11/13|BTWIN VILLAGE LILLE|Vétérans B": 3,
-                    "2022/11/05|ANZIN|Vétérans B": 1,
-                    "2022/11/01|FOURMIES|Vétérans B": 2,
-                    "2022/10/29|VERMELLES|Vétérans B": 4,
-                    "2022/10/23|LAROUILLIES|Vétérans B": 1,
-                    "2022/10/22|ECLAIBES|Vétérans B": 1,
-                    "2022/10/16|VIEUX CONDE|Vétérans B": 3,
-                    "2022/10/09|RAISMES|Vétérans B": 3
-                }
-            },
-            "road": {
-                "2025": {
-                    "2025/05/04|BRUILLE SAINT AMAND |1ère": 21
-                },
-                "2024": {
-                    "2024/04/13|BAVAY|1ère": "Ab",
-                    "2024/04/14|HAVELUY|1ère": 17,
-                    "2024/04/27|MAULDE 1 (Chorette)|1ère": 21,
-                    "2024/05/01|PONT SUR SAMBRE|1ère": 16,
-                    "2024/05/05|BRUILLE SAINT AMAND |1ère": 21,
-                    "2024/05/08|BERMERAIN|1ère": 11,
-                    "2024/05/26|Departemental|50/59ans": 5,
-                    "2024/06/16|SAULTY|Vétérans B": 2,
-                    "2024/06/23|MAULDE2|1ère": 20,
-                    "2024/07/05|NATIONAL|50/59ans": 21,
-                    "2024/08/09|CLMNATIONAL|40/49ans": 5,
-                    "2024/08/19|FECHAIN|1ère": 6,
-                    "2024/05/11|HASPRES|1ère": 16
-                },
-                "2023": {
-                    "2023/08/27|FLINES LEZ MORTAGNE|1ère": 25,
-                    "2023/08/20|FERRIERE LA GRANDE|1ère": 6,
-                    "2023/08/12|ROCQ RECQUIGNIES|1ère": 4,
-                    "2023/06/24|ASSEVENT|1ère": 9,
-                    "2023/06/18|ACHEVILLE|Vétérans B": 1,
-                    "2023/05/29|CRESPIN|1ère": 4,
-                    "2023/05/14|SOLESMES|Vétérans B": 1,
-                    "2023/05/06|ECLAIBES|1ère": 5,
-                    "2023/05/01|PONT SUR SAMBRE|1ère": 6,
-                    "2023/04/29|NEUVILLE EN AVESNOIS|1ère": 7,
-                    "2023/04/08|BOUVIGNIES|1ère": 12,
-                    "2023/04/02|HAVELUY|1ère": 9
-                },
-                "2022": {
-                    "2022/08/27|TAISNIERES EN THIERACHE|1ère": 3
-                }
-            }
-        },
-        {
             "name": "DERASSE DAVID",
             "course": 115,
             "cx": {
@@ -560,7 +436,7 @@
         },
         {
             "name": "DUFOUR JULIEN",
-            "course": 365,
+            "course": 366,
             "cx": {},
             "vtt": {},
             "road": {
@@ -575,7 +451,8 @@
                     "2025/04/27|MAULDE (CHORETTE)|1ère": 35,
                     "2025/05/01|PONT SUR SAMBRE|1ère": 47,
                     "2025/05/08|HALLUIN|1ère": 39,
-                    "2025/05/11|VIEUX CONDE SOLITUDE|1ère": 25
+                    "2025/05/11|VIEUX CONDE SOLITUDE|1ère": 25,
+                    "2025/05/04|BRUILLE SAINT AMAND |1ère": 21
                 },
                 "2024": {
                     "2024/03/10|RIEULAY|1ère": 36,
@@ -701,7 +578,7 @@
         },
         {
             "name": "DEFOSSE HERVE",
-            "course": 428,
+            "course": 429,
             "cx": {},
             "vtt": {},
             "road": {
@@ -714,8 +591,8 @@
                     "2025/04/27|MAULDE (CHORETTE)|2ème": 16,
                     "2025/05/01|PONT SUR SAMBRE|2ème": 55,
                     "2025/05/03|ECLAIBES|2ème": 21,
-                    "2025/05/04|BRUILLE SAINT AMAND |2ème": 29,
-                    "2025/05/11|VIEUX CONDE SOLITUDE|2ème": 47
+                    "2025/05/11|VIEUX CONDE SOLITUDE|2ème": 47,
+                    "2025/05/04|BRUILLE SAINT AMAND |2ème": 31
                 },
                 "2024": {
                     "2024/03/10|RIEULAY|2ème": 24,
@@ -1032,7 +909,7 @@
         },
         {
             "name": "DEJONGHE MICKAEL",
-            "course": 172,
+            "course": 173,
             "cx": {},
             "vtt": {},
             "road": {
@@ -1050,7 +927,8 @@
                     "2025/05/01|PONT SUR SAMBRE|3ème": 21,
                     "2025/05/03|ECLAIBES|3ème": 13,
                     "2025/05/08|HALLUIN|3ème": 28,
-                    "2025/05/11|VIEUX CONDE SOLITUDE|3ème": 16
+                    "2025/05/11|VIEUX CONDE SOLITUDE|3ème": 16,
+                    "2025/05/04|BRUILLE SAINT AMAND |3ème": 41
                 },
                 "2024": {
                     "2024/03/10|RIEULAY|3ème": 53,
@@ -1284,7 +1162,6 @@
                     "2025/04/06|HAVELUY|1ère": 2,
                     "2025/04/27|MAULDE (CHORETTE)|1ère": 3,
                     "2025/05/01|PONT SUR SAMBRE|1ère": 11,
-                    "2025/05/04|BRUILLE SAINT AMAND |1ère": 2,
                     "2025/05/11|VIEUX CONDE SOLITUDE|1ère": 4
                 },
                 "2024": {
