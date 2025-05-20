@@ -21,6 +21,10 @@ image: assets/img/blog/road.jpeg
 - [CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas) : 3
 - [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 20
 
+### Vétérans A - 40/49 ans
+- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 20
+- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 35
+
 
 ### Vétérans B - 50/59 ans
 59 participants
