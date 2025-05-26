@@ -2,7 +2,7 @@
     "team_members": [
         {
             "name": "DERASSE DAVID",
-            "course": 115,
+            "course": 116,
             "cx": {
                 "2025": {
                     "2024/10/06|ORCHIES|2ème": 16,
@@ -58,7 +58,8 @@
                     "2025/04/20|CRITERIUM DE BOISLEUX AU MONT|1ère": 4,
                     "2025/04/27|MAULDE (CHORETTE)|1ère": 23,
                     "2025/05/08|HALLUIN|1ère": 6,
-                    "2025/05/18|DEPARTEMENT-NORD|Juniors 17/19 ans": 8
+                    "2025/05/18|DEPARTEMENT-NORD|Juniors 17/19 ans": 8,
+                    "2025/05/25|LIEU SAINT AMAND|1ère": 35
                 },
                 "2024": {
                     "2024/04/07|Rumigny": 13,
@@ -99,7 +100,7 @@
         },
         {
             "name": "LECOLIER STEPHANE",
-            "course": 290,
+            "course": 291,
             "cx": {
                 "2024": {
                     "2024/01/27|2024National|50-59 ans": 27,
@@ -123,7 +124,8 @@
                     "2025/04/27|MAULDE (CHORETTE)|1ère": 32,
                     "2025/05/01|PONT SUR SAMBRE|1ère": 8,
                     "2025/05/08|HALLUIN|1ère": 10,
-                    "2025/05/18|DEPARTEMENT-NORD|Vétérans B - 50/59 ans": 2
+                    "2025/05/18|DEPARTEMENT-NORD|Vétérans B - 50/59 ans": 2,
+                    "2025/05/25|LIEU SAINT AMAND|1ère": 16
                 },
                 "2024": {
                     "2024/03/03|ORCHIES|1ère": 17,
@@ -202,7 +204,7 @@
         },
         {
             "name": "LECOLIER LOUIS",
-            "course": 58,
+            "course": 59,
             "cx": {
                 "2024": {
                     "2024/01/27|2024National|17-19 ans": 45,
@@ -230,7 +232,8 @@
                     "2025/04/27|MAULDE (CHORETTE)|1ère": 13,
                     "2025/05/01|PONT SUR SAMBRE|1ère": 19,
                     "2025/05/08|HALLUIN|1ère": 35,
-                    "2025/05/18|DEPARTEMENT-NORD|Juniors 17/19 ans": 3
+                    "2025/05/18|DEPARTEMENT-NORD|Juniors 17/19 ans": 3,
+                    "2025/05/25|LIEU SAINT AMAND|1ère": 24
                 },
                 "2024": {
                     "2024/03/03|ORCHIES|1ère": 12,
@@ -963,7 +966,7 @@
         },
         {
             "name": "MINNECI ELIO",
-            "course": 31,
+            "course": 32,
             "cx": {},
             "vtt": {},
             "road": {
@@ -976,7 +979,8 @@
                     "2025/04/27|MAULDE (CHORETTE)|1ère": 18,
                     "2025/05/01|PONT SUR SAMBRE|1ère": 42,
                     "2025/05/08|HALLUIN|1ère": 15,
-                    "2025/05/18|DEPARTEMENT-NORD|Séniors A - 20/29 ans": 18
+                    "2025/05/18|DEPARTEMENT-NORD|Séniors A - 20/29 ans": 18,
+                    "2025/05/25|LIEU SAINT AMAND|1ère": 19
                 },
                 "2024": {
                     "2024/03/03|ORCHIES|3ème": 19,
@@ -1048,14 +1052,15 @@
         },
         {
             "name": "DERASSE PATRICK",
-            "course": 9,
+            "course": 10,
             "cx": {},
             "vtt": {},
             "road": {
                 "2025": {
                     "2025/04/13|ETROEUNGT|3ème": "Ab",
                     "2025/04/20|CRITERIUM DE BOISLEUX AU MONT|3ème": 24,
-                    "2025/05/08|HALLUIN|3ème": 73
+                    "2025/05/08|HALLUIN|3ème": 73,
+                    "2025/05/25|LIEU SAINT AMAND|4ème": 23
                 },
                 "2024": {
                     "2024/04/07|Rumigny": 43,
