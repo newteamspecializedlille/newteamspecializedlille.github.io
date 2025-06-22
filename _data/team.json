@@ -496,7 +496,7 @@
         },
         {
             "name": "DEFOSSE HERVE",
-            "course": 432,
+            "course": 433,
             "cx": {},
             "vtt": {},
             "road": {
@@ -514,7 +514,8 @@
                     "2025/05/18|DEPARTEMENT-NORD|Vétérans B - 50/59 ans": 22,
                     "2025/05/31|LA GROISE|2ème": "Ab",
                     "2025/06/07|ENGLEFONTAINE|2ème": 11,
-                    "2025/06/09|AUBERCHICOURT|2ème": 58
+                    "2025/06/09|AUBERCHICOURT|2ème": 58,
+                    "2025/06/21|NEUVIREUIL|2ème": 2
                 },
                 "2024": {
                     "2024/03/10|RIEULAY|2ème": 24,
@@ -1026,14 +1027,15 @@
         },
         {
             "name": "BROUTIN ANTOINE",
-            "course": 22,
+            "course": 23,
             "cx": {},
             "vtt": {},
             "road": {
                 "2025": {
                     "2025/03/16|RIEULAY|2ème": 53,
                     "2025/04/13|ETROEUNGT|2ème": 28,
-                    "2025/04/21|SOLESMES|2ème": 32
+                    "2025/04/21|SOLESMES|2ème": 32,
+                    "2025/06/21|NEUVIREUIL|2ème": "AB"
                 },
                 "2024": {
                     "2024/03/10|RIEULAY|2ème": 55,
