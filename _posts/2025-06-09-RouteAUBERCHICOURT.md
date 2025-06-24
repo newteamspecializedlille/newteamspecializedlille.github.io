@@ -10,6 +10,7 @@ image: assets/img/blog/road.jpeg
 ### 1ère Catégorie
 37 participants
 - [CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas) : 1
+- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 15
 
 ### 2ème Catégorie
 72 participants
