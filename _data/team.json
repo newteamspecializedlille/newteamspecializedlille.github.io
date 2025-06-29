@@ -2,7 +2,7 @@
     "team_members": [
         {
             "name": "DERASSE DAVID",
-            "course": 117,
+            "course": 118,
             "cx": {
                 "2025": {
                     "2024/10/06|ORCHIES|2ème": 16,
@@ -60,7 +60,8 @@
                     "2025/05/08|HALLUIN|1ère": 6,
                     "2025/05/18|DEPARTEMENT-NORD|Juniors 17/19 ans": 8,
                     "2025/05/25|LIEU SAINT AMAND|1ère": 35,
-                    "2025/06/08|BETTRECHIES|1ère": 16
+                    "2025/06/08|BETTRECHIES|1ère": 16,
+                    "2025/06/29|FONTAINE AU BOIS|1ère": 23
                 },
                 "2024": {
                     "2024/04/07|Rumigny": 13,
@@ -101,7 +102,7 @@
         },
         {
             "name": "LECOLIER STEPHANE",
-            "course": 292,
+            "course": 293,
             "cx": {
                 "2024": {
                     "2024/01/27|2024National|50-59 ans": 27,
@@ -127,7 +128,8 @@
                     "2025/05/08|HALLUIN|1ère": 10,
                     "2025/05/18|DEPARTEMENT-NORD|Vétérans B - 50/59 ans": 2,
                     "2025/05/25|LIEU SAINT AMAND|1ère": 16,
-                    "2025/06/08|BETTRECHIES|1ère": 10
+                    "2025/06/08|BETTRECHIES|1ère": 10,
+                    "2025/06/29|FONTAINE AU BOIS|1ère": 13
                 },
                 "2024": {
                     "2024/03/03|ORCHIES|1ère": 17,
@@ -206,7 +208,7 @@
         },
         {
             "name": "LECOLIER LOUIS",
-            "course": 60,
+            "course": 61,
             "cx": {
                 "2024": {
                     "2024/01/27|2024National|17-19 ans": 45,
@@ -236,7 +238,8 @@
                     "2025/05/08|HALLUIN|1ère": 35,
                     "2025/05/18|DEPARTEMENT-NORD|Juniors 17/19 ans": 3,
                     "2025/05/25|LIEU SAINT AMAND|1ère": 24,
-                    "2025/06/08|BETTRECHIES|1ère": "Ab"
+                    "2025/06/08|BETTRECHIES|1ère": "Ab",
+                    "2025/06/29|FONTAINE AU BOIS|1ère": 15
                 },
                 "2024": {
                     "2024/03/03|ORCHIES|1ère": 12,
@@ -350,7 +353,7 @@
         },
         {
             "name": "DUFOUR JULIEN",
-            "course": 368,
+            "course": 369,
             "cx": {},
             "vtt": {},
             "road": {
@@ -372,7 +375,8 @@
                     "2025/05/30|CRITERIUM-DE-BEAUMONT|1ère": 12,
                     "2025/05/31|LA GROISE|2ème": 26,
                     "2025/06/09|AUBERCHICOURT|1ère": 15,
-                    "2025/06/28|LALLAING|2ème": 40
+                    "2025/06/28|LALLAING|2ème": 40,
+                    "2025/06/29|FONTAINE AU BOIS|2ème": 44
                 },
                 "2024": {
                     "2024/03/10|RIEULAY|1ère": 36,
@@ -498,7 +502,7 @@
         },
         {
             "name": "DEFOSSE HERVE",
-            "course": 434,
+            "course": 435,
             "cx": {},
             "vtt": {},
             "road": {
@@ -518,7 +522,8 @@
                     "2025/06/07|ENGLEFONTAINE|2ème": 11,
                     "2025/06/09|AUBERCHICOURT|2ème": 58,
                     "2025/06/21|NEUVIREUIL|2ème": 2,
-                    "2025/06/28|LALLAING|2ème": 22
+                    "2025/06/28|LALLAING|2ème": 22,
+                    "2025/06/29|FONTAINE AU BOIS|2ème": 8
                 },
                 "2024": {
                     "2024/03/10|RIEULAY|2ème": 24,
@@ -838,7 +843,7 @@
         },
         {
             "name": "DEJONGHE MICKAEL",
-            "course": 176,
+            "course": 177,
             "cx": {},
             "vtt": {},
             "road": {
@@ -861,7 +866,8 @@
                     "2025/05/17|ASSEVENT|3ème": 5,
                     "2025/05/18|DEPARTEMENT-NORD|Vétérans A - 40/49 ans": 20,
                     "2025/06/08|BETTRECHIES|3ème": 11,
-                    "2025/06/28|LALLAING|3ème": 30
+                    "2025/06/28|LALLAING|3ème": 30,
+                    "2025/06/29|FONTAINE AU BOIS|3ème": 36
                 },
                 "2024": {
                     "2024/03/10|RIEULAY|3ème": 53,
@@ -981,7 +987,7 @@
         },
         {
             "name": "MINNECI ELIO",
-            "course": 33,
+            "course": 34,
             "cx": {},
             "vtt": {},
             "road": {
@@ -996,7 +1002,8 @@
                     "2025/05/08|HALLUIN|1ère": 15,
                     "2025/05/18|DEPARTEMENT-NORD|Séniors A - 20/29 ans": 18,
                     "2025/05/25|LIEU SAINT AMAND|1ère": 19,
-                    "2025/06/08|BETTRECHIES|1ère": "Ab"
+                    "2025/06/08|BETTRECHIES|1ère": "Ab",
+                    "2025/06/29|FONTAINE AU BOIS|1ère": 37
                 },
                 "2024": {
                     "2024/03/03|ORCHIES|3ème": 19,
@@ -1069,7 +1076,7 @@
         },
         {
             "name": "DERASSE PATRICK",
-            "course": 11,
+            "course": 12,
             "cx": {},
             "vtt": {},
             "road": {
@@ -1078,7 +1085,8 @@
                     "2025/04/20|CRITERIUM DE BOISLEUX AU MONT|3ème": 24,
                     "2025/05/08|HALLUIN|3ème": 73,
                     "2025/05/25|LIEU SAINT AMAND|4ème": 23,
-                    "2025/06/08|BETTRECHIES|4ème": 10
+                    "2025/06/08|BETTRECHIES|4ème": 10,
+                    "2025/06/29|FONTAINE AU BOIS|4ème": 20
                 },
                 "2024": {
                     "2024/04/07|Rumigny": 43,
@@ -1091,7 +1099,7 @@
         },
         {
             "name": "CROMBEZ THOMAS",
-            "course": 16,
+            "course": 17,
             "cx": {},
             "vtt": {},
             "road": {
@@ -1104,7 +1112,8 @@
                     "2025/05/11|VIEUX CONDE SOLITUDE|1ère": 4,
                     "2025/05/18|DEPARTEMENT-NORD|Séniors B - 30/39 ans": 3,
                     "2025/06/09|AUBERCHICOURT|1ère": 1,
-                    "2025/06/28|LALLAING|1ère": 1
+                    "2025/06/28|LALLAING|1ère": 1,
+                    "2025/06/29|FONTAINE AU BOIS|1ère": 18
                 },
                 "2024": {
                     "2024/03/24|FERRIERE LA GRANCE|1ère": 5,
