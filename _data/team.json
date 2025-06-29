@@ -350,7 +350,7 @@
         },
         {
             "name": "DUFOUR JULIEN",
-            "course": 367,
+            "course": 368,
             "cx": {},
             "vtt": {},
             "road": {
@@ -371,7 +371,8 @@
                     "2025/05/18|DEPARTEMENT-NORD|Séniors B - 30/39 ans": 20,
                     "2025/05/30|CRITERIUM-DE-BEAUMONT|1ère": 12,
                     "2025/05/31|LA GROISE|2ème": 26,
-                    "2025/06/09|AUBERCHICOURT|1ère": 15
+                    "2025/06/09|AUBERCHICOURT|1ère": 15,
+                    "2025/06/28|LALLAING|2ème": 40
                 },
                 "2024": {
                     "2024/03/10|RIEULAY|1ère": 36,
@@ -497,7 +498,7 @@
         },
         {
             "name": "DEFOSSE HERVE",
-            "course": 433,
+            "course": 434,
             "cx": {},
             "vtt": {},
             "road": {
@@ -516,7 +517,8 @@
                     "2025/05/31|LA GROISE|2ème": "Ab",
                     "2025/06/07|ENGLEFONTAINE|2ème": 11,
                     "2025/06/09|AUBERCHICOURT|2ème": 58,
-                    "2025/06/21|NEUVIREUIL|2ème": 2
+                    "2025/06/21|NEUVIREUIL|2ème": 2,
+                    "2025/06/28|LALLAING|2ème": 22
                 },
                 "2024": {
                     "2024/03/10|RIEULAY|2ème": 24,
@@ -836,7 +838,7 @@
         },
         {
             "name": "DEJONGHE MICKAEL",
-            "course": 175,
+            "course": 176,
             "cx": {},
             "vtt": {},
             "road": {
@@ -858,7 +860,8 @@
                     "2025/05/04|BRUILLE SAINT AMAND|3ème": 41,
                     "2025/05/17|ASSEVENT|3ème": 5,
                     "2025/05/18|DEPARTEMENT-NORD|Vétérans A - 40/49 ans": 20,
-                    "2025/06/08|BETTRECHIES|3ème": 11
+                    "2025/06/08|BETTRECHIES|3ème": 11,
+                    "2025/06/28|LALLAING|3ème": 30
                 },
                 "2024": {
                     "2024/03/10|RIEULAY|3ème": 53,
@@ -1088,7 +1091,7 @@
         },
         {
             "name": "CROMBEZ THOMAS",
-            "course": 15,
+            "course": 16,
             "cx": {},
             "vtt": {},
             "road": {
@@ -1100,7 +1103,8 @@
                     "2025/05/01|PONT SUR SAMBRE|1ère": 11,
                     "2025/05/11|VIEUX CONDE SOLITUDE|1ère": 4,
                     "2025/05/18|DEPARTEMENT-NORD|Séniors B - 30/39 ans": 3,
-                    "2025/06/09|AUBERCHICOURT|1ère": 1
+                    "2025/06/09|AUBERCHICOURT|1ère": 1,
+                    "2025/06/28|LALLAING|1ère": 1
                 },
                 "2024": {
                     "2024/03/24|FERRIERE LA GRANCE|1ère": 5,
