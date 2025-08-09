@@ -1053,7 +1053,7 @@
         },
         {
             "name": "BROUTIN ANTOINE",
-            "course": 23,
+            "course": 24,
             "cx": {},
             "vtt": {},
             "road": {
@@ -1061,7 +1061,8 @@
                     "2025/03/16|RIEULAY|2ème": 53,
                     "2025/04/13|ETROEUNGT|2ème": 28,
                     "2025/04/21|SOLESMES|2ème": 32,
-                    "2025/06/21|NEUVIREUIL|2ème": "AB"
+                    "2025/06/21|NEUVIREUIL|2ème": "AB",
+                    "2025/08/09|ROCQ REQUIGNIES|2ème": 11
                 },
                 "2024": {
                     "2024/03/10|RIEULAY|2ème": 55,
