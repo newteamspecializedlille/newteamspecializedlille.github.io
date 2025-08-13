@@ -7,10 +7,10 @@ name: FONTAINE NICOLAS
 sports: Route
 image: assets/imgs/team/small/empty.png
 large: assets/imgs/team/large/empty.png
-#strava: https://www.strava.com/athletes/24292544
+strava: https://www.strava.com/athletes/11411732
 nationality: fr
-#instagram: Lobwick
-date_of_birth: 08/09/0000
+instagram: nicofontaine
+date_of_birth: 29/03/1983
 category: 1ère
 
 gallery:
