@@ -356,7 +356,7 @@
         },
         {
             "name": "DUFOUR JULIEN",
-            "course": 371,
+            "course": 372,
             "cx": {},
             "vtt": {},
             "road": {
@@ -381,7 +381,8 @@
                     "2025/06/28|LALLAING|2ème": 40,
                     "2025/06/29|FONTAINE AU BOIS|2ème": 44,
                     "2025/08/03|HERGNIES LA BAYONNE|2ème": 17,
-                    "2025/08/15|COLLERET|2ème": 14
+                    "2025/08/15|COLLERET|2ème": 14,
+                    "2025/08/16|PECQUENCOURT|2ème": 15
                 },
                 "2024": {
                     "2024/03/10|RIEULAY|1ère": 36,
@@ -507,7 +508,7 @@
         },
         {
             "name": "DEFOSSE HERVE",
-            "course": 440,
+            "course": 441,
             "cx": {},
             "vtt": {},
             "road": {
@@ -533,7 +534,8 @@
                     "2025/07/26|LANDRECIES|2ème": 10,
                     "2025/07/27|HERGNIES CENTRE|2ème": 7,
                     "2025/08/03|HERGNIES LA BAYONNE|2ème": 11,
-                    "2025/08/15|COLLERET|2ème": 16
+                    "2025/08/15|COLLERET|2ème": 16,
+                    "2025/08/16|PECQUENCOURT|2ème": 1
                 },
                 "2024": {
                     "2024/03/10|RIEULAY|2ème": 24,
@@ -676,7 +678,7 @@
         },
         {
             "name": "DEFER OLIVIER",
-            "course": 201,
+            "course": 202,
             "cx": {},
             "vtt": {},
             "road": {
@@ -697,7 +699,8 @@
                     "2025/06/08|BETTRECHIES|2ème": 23,
                     "2025/07/19|BASSE MAROILLES|2ème": 25,
                     "2025/07/26|LANDRECIES|2ème": 18,
-                    "2025/07/27|HERGNIES CENTRE|2ème": 26
+                    "2025/07/27|HERGNIES CENTRE|2ème": 26,
+                    "2025/08/16|PECQUENCOURT|2ème": 25
                 },
                 "2024": {
                     "2024/03/03|ORCHIES|3ème": 13,
@@ -1055,7 +1058,7 @@
         },
         {
             "name": "BROUTIN ANTOINE",
-            "course": 25,
+            "course": 26,
             "cx": {},
             "vtt": {},
             "road": {
@@ -1065,7 +1068,8 @@
                     "2025/04/21|SOLESMES|2ème": 32,
                     "2025/06/21|NEUVIREUIL|2ème": "AB",
                     "2025/08/09|ROCQ REQUIGNIES|2ème": 11,
-                    "2025/08/15|COLLERET|2ème": 7
+                    "2025/08/15|COLLERET|2ème": 7,
+                    "2025/08/16|PECQUENCOURT|2ème": 23
                 },
                 "2024": {
                     "2024/03/10|RIEULAY|2ème": 55,
