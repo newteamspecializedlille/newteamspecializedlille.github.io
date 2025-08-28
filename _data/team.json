@@ -356,7 +356,7 @@
         },
         {
             "name": "DUFOUR JULIEN",
-            "course": 372,
+            "course": 373,
             "cx": {},
             "vtt": {},
             "road": {
@@ -382,7 +382,8 @@
                     "2025/06/29|FONTAINE AU BOIS|2ème": 44,
                     "2025/08/03|HERGNIES LA BAYONNE|2ème": 17,
                     "2025/08/15|COLLERET|2ème": 14,
-                    "2025/08/16|PECQUENCOURT|2ème": 15
+                    "2025/08/16|PECQUENCOURT|2ème": 15,
+                    "2025/08/24|VIEUX CONDE CENTRE|2ème": 32
                 },
                 "2024": {
                     "2024/03/10|RIEULAY|1ère": 36,
@@ -508,7 +509,7 @@
         },
         {
             "name": "DEFOSSE HERVE",
-            "course": 441,
+            "course": 442,
             "cx": {},
             "vtt": {},
             "road": {
@@ -535,7 +536,8 @@
                     "2025/07/27|HERGNIES CENTRE|2ème": 7,
                     "2025/08/03|HERGNIES LA BAYONNE|2ème": 11,
                     "2025/08/15|COLLERET|2ème": 16,
-                    "2025/08/16|PECQUENCOURT|2ème": 1
+                    "2025/08/16|PECQUENCOURT|2ème": 1,
+                    "2025/08/24|VIEUX CONDE CENTRE|2ème": 36
                 },
                 "2024": {
                     "2024/03/10|RIEULAY|2ème": 24,
@@ -678,7 +680,7 @@
         },
         {
             "name": "DEFER OLIVIER",
-            "course": 202,
+            "course": 203,
             "cx": {},
             "vtt": {},
             "road": {
@@ -700,7 +702,8 @@
                     "2025/07/19|BASSE MAROILLES|2ème": 25,
                     "2025/07/26|LANDRECIES|2ème": 18,
                     "2025/07/27|HERGNIES CENTRE|2ème": 26,
-                    "2025/08/16|PECQUENCOURT|2ème": 25
+                    "2025/08/16|PECQUENCOURT|2ème": 25,
+                    "2025/08/24|VIEUX CONDE CENTRE|2ème": 30
                 },
                 "2024": {
                     "2024/03/03|ORCHIES|3ème": 13,
@@ -859,7 +862,7 @@
         },
         {
             "name": "DEJONGHE MICKAEL",
-            "course": 181,
+            "course": 182,
             "cx": {},
             "vtt": {},
             "road": {
@@ -887,7 +890,8 @@
                     "2025/07/14|ROEULX|3ème": 2,
                     "2025/07/13|RAMILLIES|3ème": 20,
                     "2025/07/26|LANDRECIES|3ème": 20,
-                    "2025/07/27|HERGNIES CENTRE|3ème": 20
+                    "2025/07/27|HERGNIES CENTRE|3ème": 20,
+                    "2025/08/24|VIEUX CONDE CENTRE|3ème": 17
                 },
                 "2024": {
                     "2024/03/10|RIEULAY|3ème": 53,
@@ -1099,7 +1103,7 @@
         },
         {
             "name": "DERASSE PATRICK",
-            "course": 13,
+            "course": 14,
             "cx": {},
             "vtt": {},
             "road": {
@@ -1110,7 +1114,8 @@
                     "2025/05/25|LIEU SAINT AMAND|4ème": 23,
                     "2025/06/08|BETTRECHIES|4ème": 10,
                     "2025/06/29|FONTAINE AU BOIS|4ème": 20,
-                    "2025/07/27|HERGNIES CENTRE|4ème": 31
+                    "2025/07/27|HERGNIES CENTRE|4ème": 31,
+                    "2025/08/24|VIEUX CONDE CENTRE|4ème": 27
                 },
                 "2024": {
                     "2024/04/07|Rumigny": 43,
@@ -1123,7 +1128,7 @@
         },
         {
             "name": "CROMBEZ THOMAS",
-            "course": 19,
+            "course": 20,
             "cx": {},
             "vtt": {},
             "road": {
@@ -1139,7 +1144,8 @@
                     "2025/06/28|LALLAING|1ère": 1,
                     "2025/06/29|FONTAINE AU BOIS|1ère": 18,
                     "2025/07/27|HERGNIES CENTRE|1ère": 1,
-                    "2025/08/03|HERGNIES LA BAYONNE|1ère": 7
+                    "2025/08/03|HERGNIES LA BAYONNE|1ère": 7,
+                    "2025/08/24|VIEUX CONDE CENTRE|1ère": 1
                 },
                 "2024": {
                     "2024/03/24|FERRIERE LA GRANCE|1ère": 5,
