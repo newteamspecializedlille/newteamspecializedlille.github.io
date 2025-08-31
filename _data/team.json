@@ -356,7 +356,7 @@
         },
         {
             "name": "DUFOUR JULIEN",
-            "course": 373,
+            "course": 374,
             "cx": {},
             "vtt": {},
             "road": {
@@ -383,7 +383,8 @@
                     "2025/08/03|HERGNIES LA BAYONNE|2ème": 17,
                     "2025/08/15|COLLERET|2ème": 14,
                     "2025/08/16|PECQUENCOURT|2ème": 15,
-                    "2025/08/24|VIEUX CONDE CENTRE|2ème": 32
+                    "2025/08/24|VIEUX CONDE CENTRE|2ème": 32,
+                    "2025/08/30|FEIGNIES2|2ème": 14
                 },
                 "2024": {
                     "2024/03/10|RIEULAY|1ère": 36,
@@ -509,7 +510,7 @@
         },
         {
             "name": "DEFOSSE HERVE",
-            "course": 442,
+            "course": 443,
             "cx": {},
             "vtt": {},
             "road": {
@@ -537,7 +538,8 @@
                     "2025/08/03|HERGNIES LA BAYONNE|2ème": 11,
                     "2025/08/15|COLLERET|2ème": 16,
                     "2025/08/16|PECQUENCOURT|2ème": 1,
-                    "2025/08/24|VIEUX CONDE CENTRE|2ème": 36
+                    "2025/08/24|VIEUX CONDE CENTRE|2ème": 36,
+                    "2025/08/30|FEIGNIES2|2ème": 19
                 },
                 "2024": {
                     "2024/03/10|RIEULAY|2ème": 24,
@@ -1062,7 +1064,7 @@
         },
         {
             "name": "BROUTIN ANTOINE",
-            "course": 26,
+            "course": 27,
             "cx": {},
             "vtt": {},
             "road": {
@@ -1073,7 +1075,8 @@
                     "2025/06/21|NEUVIREUIL|2ème": "AB",
                     "2025/08/09|ROCQ REQUIGNIES|2ème": 11,
                     "2025/08/15|COLLERET|2ème": 7,
-                    "2025/08/16|PECQUENCOURT|2ème": 23
+                    "2025/08/16|PECQUENCOURT|2ème": 23,
+                    "2025/08/30|FEIGNIES2|2ème": 28
                 },
                 "2024": {
                     "2024/03/10|RIEULAY|2ème": 55,
