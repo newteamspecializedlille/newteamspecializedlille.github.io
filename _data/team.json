@@ -61,6 +61,7 @@
                     "2025/05/18|DEPARTEMENT-NORD|Juniors 17/19 ans": 8,
                     "2025/05/25|LIEU SAINT AMAND|1ère": 35,
                     "2025/06/08|BETTRECHIES|1ère": 16,
+                    "2025/06/15|REGIONAL|17-19 ans": 4,
                     "2025/06/29|FONTAINE AU BOIS|1ère": 23,
                     "2025/07/27|HERGNIES CENTRE|1ère": 15
                 },
@@ -130,6 +131,7 @@
                     "2025/05/18|DEPARTEMENT-NORD|Vétérans B - 50/59 ans": 2,
                     "2025/05/25|LIEU SAINT AMAND|1ère": 16,
                     "2025/06/08|BETTRECHIES|1ère": 10,
+                    "2025/06/15|REGIONAL|50-59 ans": 3,
                     "2025/06/29|FONTAINE AU BOIS|1ère": 13,
                     "2025/07/27|HERGNIES CENTRE|1ère": 7
                 },
@@ -241,6 +243,7 @@
                     "2025/05/18|DEPARTEMENT-NORD|Juniors 17/19 ans": 3,
                     "2025/05/25|LIEU SAINT AMAND|1ère": 24,
                     "2025/06/08|BETTRECHIES|1ère": "Ab",
+                    "2025/06/15|REGIONAL|17-19 ans": "Ab",
                     "2025/06/29|FONTAINE AU BOIS|1ère": 15,
                     "2025/07/27|HERGNIES CENTRE|1ère": 24
                 },
@@ -532,6 +535,7 @@
                     "2025/05/31|LA GROISE|2ème": "Ab",
                     "2025/06/07|ENGLEFONTAINE|2ème": 11,
                     "2025/06/09|AUBERCHICOURT|2ème": 58,
+                    "2025/06/15|REGIONAL|50-59 ans": 19,
                     "2025/06/21|NEUVIREUIL|2ème": 2,
                     "2025/06/28|LALLAING|2ème": 22,
                     "2025/06/29|FONTAINE AU BOIS|2ème": 8,
@@ -705,6 +709,7 @@
                     "2025/05/18|DEPARTEMENT-NORD|Vétérans A - 40/49 ans": 35,
                     "2025/05/23|CRITERIUM LIEU ST AMAND|2ème": 25,
                     "2025/06/08|BETTRECHIES|2ème": 23,
+                    "2025/06/15|REGIONAL|40-49 ans": 27,
                     "2025/07/19|BASSE MAROILLES|2ème": 25,
                     "2025/07/26|LANDRECIES|2ème": 18,
                     "2025/07/27|HERGNIES CENTRE|2ème": 26,
@@ -1035,6 +1040,7 @@
                     "2025/05/18|DEPARTEMENT-NORD|Séniors A - 20/29 ans": 18,
                     "2025/05/25|LIEU SAINT AMAND|1ère": 19,
                     "2025/06/08|BETTRECHIES|1ère": "Ab",
+                    "2025/06/15|REGIONAL|20-29 ans": 16,
                     "2025/06/29|FONTAINE AU BOIS|1ère": 37
                 },
                 "2024": {
@@ -1150,6 +1156,7 @@
                     "2025/05/01|PONT SUR SAMBRE|1ère": 11,
                     "2025/05/11|VIEUX CONDE SOLITUDE|1ère": 4,
                     "2025/05/18|DEPARTEMENT-NORD|Séniors B - 30/39 ans": 3,
+                    "2025/06/15|REGIONAL|30-39 ans": 4,
                     "2025/06/09|AUBERCHICOURT|1ère": 1,
                     "2025/06/28|LALLAING|1ère": 1,
                     "2025/06/29|FONTAINE AU BOIS|1ère": 18,
