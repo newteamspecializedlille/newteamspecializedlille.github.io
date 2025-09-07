@@ -359,7 +359,7 @@
         },
         {
             "name": "DUFOUR JULIEN",
-            "course": 374,
+            "course": 375,
             "cx": {},
             "vtt": {},
             "road": {
@@ -390,7 +390,8 @@
                     "2025/08/17|THUN SAINT AMAND|2ème": 25,
                     "2025/08/22|BEUVRY|2ème": 19,
                     "2025/08/24|VIEUX CONDE CENTRE|2ème": 32,
-                    "2025/08/30|FEIGNIES2|2ème": 14
+                    "2025/08/30|FEIGNIES2|2ème": 14,
+                    "2025/09/06|POIX DU NORD|2ème": 3
                 },
                 "2024": {
                     "2024/03/10|RIEULAY|1ère": 36,
@@ -516,7 +517,7 @@
         },
         {
             "name": "DEFOSSE HERVE",
-            "course": 443,
+            "course": 444,
             "cx": {},
             "vtt": {},
             "road": {
@@ -547,7 +548,8 @@
                     "2025/08/15|COLLERET|2ème": 16,
                     "2025/08/16|PECQUENCOURT|2ème": 1,
                     "2025/08/24|VIEUX CONDE CENTRE|2ème": 36,
-                    "2025/08/30|FEIGNIES2|2ème": 19
+                    "2025/08/30|FEIGNIES2|2ème": 19,
+                    "2025/09/06|POIX DU NORD|2ème": 7
                 },
                 "2024": {
                     "2024/03/10|RIEULAY|2ème": 24,
@@ -690,7 +692,7 @@
         },
         {
             "name": "DEFER OLIVIER",
-            "course": 203,
+            "course": 204,
             "cx": {},
             "vtt": {},
             "road": {
@@ -716,7 +718,8 @@
                     "2025/08/16|PECQUENCOURT|2ème": 25,
                     "2025/08/17|THUN SAINT AMAND|2ème": 27,
                     "2025/08/22|BEUVRY|2ème": 10,
-                    "2025/08/24|VIEUX CONDE CENTRE|2ème": 30
+                    "2025/08/24|VIEUX CONDE CENTRE|2ème": 30,
+                    "2025/09/06|POIX DU NORD|2ème": 39
                 },
                 "2024": {
                     "2024/03/03|ORCHIES|3ème": 13,
@@ -875,7 +878,7 @@
         },
         {
             "name": "DEJONGHE MICKAEL",
-            "course": 182,
+            "course": 183,
             "cx": {},
             "vtt": {},
             "road": {
@@ -904,7 +907,8 @@
                     "2025/07/13|RAMILLIES|3ème": 20,
                     "2025/07/26|LANDRECIES|3ème": 20,
                     "2025/07/27|HERGNIES CENTRE|3ème": 20,
-                    "2025/08/24|VIEUX CONDE CENTRE|3ème": 17
+                    "2025/08/24|VIEUX CONDE CENTRE|3ème": 17,
+                    "2025/09/06|POIX DU NORD|3ème": 37
                 },
                 "2024": {
                     "2024/03/10|RIEULAY|3ème": 53,
@@ -1206,6 +1210,17 @@
             },
             "vtt": {},
             "road": {}
+        },
+        {
+            "name": "HUGUENIN DYLAN",
+            "course": 1,
+            "cx": {},
+            "vtt": {},
+            "road": {
+                "2025": {
+                    "2025/09/06|POIX DU NORD|3ème": 26
+                }
+            }
         }
     ]
 }
