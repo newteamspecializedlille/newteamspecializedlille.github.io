@@ -359,7 +359,7 @@
         },
         {
             "name": "DUFOUR JULIEN",
-            "course": 377,
+            "course": 378,
             "cx": {},
             "vtt": {},
             "road": {
@@ -393,7 +393,8 @@
                     "2025/08/30|FEIGNIES2|2ème": 14,
                     "2025/09/06|POIX DU NORD|2ème": 3,
                     "2025/09/07|LIEU SAINT AMAND2|2ème": 32,
-                    "2025/09/13|CLARY|2ème": "Ab"
+                    "2025/09/13|CLARY|2ème": "Ab",
+                    "2025/09/14|HORNAING|2ème": 10
                 },
                 "2024": {
                     "2024/03/10|RIEULAY|1ère": 36,
@@ -519,7 +520,7 @@
         },
         {
             "name": "DEFOSSE HERVE",
-            "course": 446,
+            "course": 447,
             "cx": {},
             "vtt": {},
             "road": {
@@ -553,7 +554,8 @@
                     "2025/08/30|FEIGNIES2|2ème": 19,
                     "2025/09/06|POIX DU NORD|2ème": 7,
                     "2025/09/07|LIEU SAINT AMAND2|2ème": 14,
-                    "2025/09/13|CLARY|2ème": 26
+                    "2025/09/13|CLARY|2ème": 26,
+                    "2025/09/14|HORNAING|2ème": 21
                 },
                 "2024": {
                     "2024/03/10|RIEULAY|2ème": 24,
@@ -884,7 +886,7 @@
         },
         {
             "name": "DEJONGHE MICKAEL",
-            "course": 185,
+            "course": 186,
             "cx": {},
             "vtt": {},
             "road": {
@@ -916,7 +918,8 @@
                     "2025/08/24|VIEUX CONDE CENTRE|3ème": 17,
                     "2025/09/06|POIX DU NORD|3ème": 37,
                     "2025/09/07|LINSELLES|3ème": 21,
-                    "2025/09/13|CLARY|3ème": 5
+                    "2025/09/13|CLARY|3ème": 5,
+                    "2025/09/14|HORNAING|3ème": 24
                 },
                 "2024": {
                     "2024/03/10|RIEULAY|3ème": 53,
@@ -1223,12 +1226,13 @@
         },
         {
             "name": "HUGUENIN DYLAN",
-            "course": 1,
+            "course": 2,
             "cx": {},
             "vtt": {},
             "road": {
                 "2025": {
-                    "2025/09/06|POIX DU NORD|3ème": 26
+                    "2025/09/06|POIX DU NORD|3ème": 26,
+                    "2025/09/14|HORNAING|3ème": 20
                 }
             }
         }
