@@ -359,7 +359,7 @@
         },
         {
             "name": "DUFOUR JULIEN",
-            "course": 376,
+            "course": 377,
             "cx": {},
             "vtt": {},
             "road": {
@@ -392,7 +392,8 @@
                     "2025/08/24|VIEUX CONDE CENTRE|2ème": 32,
                     "2025/08/30|FEIGNIES2|2ème": 14,
                     "2025/09/06|POIX DU NORD|2ème": 3,
-                    "2025/09/07|LIEU SAINT AMAND2|2ème": 32
+                    "2025/09/07|LIEU SAINT AMAND2|2ème": 32,
+                    "2025/09/13|CLARY|2ème": "Ab"
                 },
                 "2024": {
                     "2024/03/10|RIEULAY|1ère": 36,
@@ -518,7 +519,7 @@
         },
         {
             "name": "DEFOSSE HERVE",
-            "course": 445,
+            "course": 446,
             "cx": {},
             "vtt": {},
             "road": {
@@ -551,7 +552,8 @@
                     "2025/08/24|VIEUX CONDE CENTRE|2ème": 36,
                     "2025/08/30|FEIGNIES2|2ème": 19,
                     "2025/09/06|POIX DU NORD|2ème": 7,
-                    "2025/09/07|LIEU SAINT AMAND2|2ème": 14
+                    "2025/09/07|LIEU SAINT AMAND2|2ème": 14,
+                    "2025/09/13|CLARY|2ème": 26
                 },
                 "2024": {
                     "2024/03/10|RIEULAY|2ème": 24,
@@ -694,7 +696,7 @@
         },
         {
             "name": "DEFER OLIVIER",
-            "course": 205,
+            "course": 206,
             "cx": {},
             "vtt": {},
             "road": {
@@ -722,7 +724,8 @@
                     "2025/08/22|BEUVRY|2ème": 10,
                     "2025/08/24|VIEUX CONDE CENTRE|2ème": 30,
                     "2025/09/06|POIX DU NORD|2ème": 39,
-                    "2025/09/07|LIEU SAINT AMAND2|2ème": 39
+                    "2025/09/07|LIEU SAINT AMAND2|2ème": 39,
+                    "2025/09/13|CLARY|2ème": 12
                 },
                 "2024": {
                     "2024/03/03|ORCHIES|3ème": 13,
@@ -881,7 +884,7 @@
         },
         {
             "name": "DEJONGHE MICKAEL",
-            "course": 184,
+            "course": 185,
             "cx": {},
             "vtt": {},
             "road": {
@@ -912,7 +915,8 @@
                     "2025/07/27|HERGNIES CENTRE|3ème": 20,
                     "2025/08/24|VIEUX CONDE CENTRE|3ème": 17,
                     "2025/09/06|POIX DU NORD|3ème": 37,
-                    "2025/09/07|LINSELLES|3ème": 21
+                    "2025/09/07|LINSELLES|3ème": 21,
+                    "2025/09/13|CLARY|3ème": 5
                 },
                 "2024": {
                     "2024/03/10|RIEULAY|3ème": 53,
@@ -1032,7 +1036,7 @@
         },
         {
             "name": "MINNECI ELIO",
-            "course": 34,
+            "course": 35,
             "cx": {},
             "vtt": {},
             "road": {
@@ -1049,7 +1053,8 @@
                     "2025/05/25|LIEU SAINT AMAND|1ère": 19,
                     "2025/06/08|BETTRECHIES|1ère": "Ab",
                     "2025/06/15|REGIONAL|20-29 ans": 16,
-                    "2025/06/29|FONTAINE AU BOIS|1ère": 37
+                    "2025/06/29|FONTAINE AU BOIS|1ère": 37,
+                    "2025/09/13|CLARY|1ère": "Ab"
                 },
                 "2024": {
                     "2024/03/03|ORCHIES|3ème": 19,
@@ -1084,7 +1089,7 @@
         },
         {
             "name": "BROUTIN ANTOINE",
-            "course": 27,
+            "course": 28,
             "cx": {},
             "vtt": {},
             "road": {
@@ -1096,7 +1101,8 @@
                     "2025/08/09|ROCQ REQUIGNIES|2ème": 11,
                     "2025/08/15|COLLERET|2ème": 7,
                     "2025/08/16|PECQUENCOURT|2ème": 23,
-                    "2025/08/30|FEIGNIES2|2ème": 28
+                    "2025/08/30|FEIGNIES2|2ème": 28,
+                    "2025/09/13|CLARY|2ème": 17
                 },
                 "2024": {
                     "2024/03/10|RIEULAY|2ème": 55,
