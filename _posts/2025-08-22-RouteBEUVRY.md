@@ -12,6 +12,10 @@ image: assets/img/blog/road.jpeg
 - [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 10
 - [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 19
 
+### 3ème Catégorie
+40 participants
+- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 20
+
 ### 4ème Catégorie
 40 participants
 - [DERASSE PATRICK](https://teamspecializedlille.cc/coureurs/derassepatrick) : 27
