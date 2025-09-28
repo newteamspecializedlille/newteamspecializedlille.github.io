@@ -359,7 +359,7 @@
         },
         {
             "name": "DUFOUR JULIEN",
-            "course": 380,
+            "course": 381,
             "cx": {},
             "vtt": {},
             "road": {
@@ -396,7 +396,8 @@
                     "2025/09/13|CLARY|2ème": "Ab",
                     "2025/09/14|HORNAING|2ème": 10,
                     "2025/09/21|LEWARDE|2ème": 22,
-                    "2025/09/27|NOMAIN|2ème": 10
+                    "2025/09/27|NOMAIN|2ème": 10,
+                    "2025/09/28|MAULDE 3|2ème": 10
                 },
                 "2024": {
                     "2024/03/10|RIEULAY|1ère": 36,
@@ -522,7 +523,7 @@
         },
         {
             "name": "DEFOSSE HERVE",
-            "course": 450,
+            "course": 451,
             "cx": {},
             "vtt": {},
             "road": {
@@ -560,7 +561,8 @@
                     "2025/09/14|HORNAING|2ème": 21,
                     "2025/09/20|OBIES|2ème": 21,
                     "2025/09/21|LEWARDE|2ème": 57,
-                    "2025/09/27|NOMAIN|2ème": 15
+                    "2025/09/27|NOMAIN|2ème": 15,
+                    "2025/09/28|MAULDE 3|2ème": 11
                 },
                 "2024": {
                     "2024/03/10|RIEULAY|2ème": 24,
@@ -703,7 +705,7 @@
         },
         {
             "name": "DEFER OLIVIER",
-            "course": 207,
+            "course": 208,
             "cx": {},
             "vtt": {},
             "road": {
@@ -733,7 +735,8 @@
                     "2025/09/06|POIX DU NORD|2ème": 39,
                     "2025/09/07|LIEU SAINT AMAND2|2ème": 39,
                     "2025/09/13|CLARY|2ème": 12,
-                    "2025/09/21|LEWARDE|2ème": 40
+                    "2025/09/21|LEWARDE|2ème": 40,
+                    "2025/09/28|MAULDE 3|2ème": 36
                 },
                 "2024": {
                     "2024/03/03|ORCHIES|3ème": 13,
@@ -892,7 +895,7 @@
         },
         {
             "name": "DEJONGHE MICKAEL",
-            "course": 187,
+            "course": 188,
             "cx": {},
             "vtt": {},
             "road": {
@@ -927,7 +930,8 @@
                     "2025/09/07|LINSELLES|3ème": 21,
                     "2025/09/13|CLARY|3ème": 5,
                     "2025/09/14|HORNAING|3ème": 24,
-                    "2025/09/21|LEWARDE|3ème": 59
+                    "2025/09/21|LEWARDE|3ème": 59,
+                    "2025/09/28|MAULDE 3|3ème": 21
                 },
                 "2024": {
                     "2024/03/10|RIEULAY|3ème": 53,
@@ -1143,7 +1147,7 @@
         },
         {
             "name": "DERASSE PATRICK",
-            "course": 15,
+            "course": 16,
             "cx": {},
             "vtt": {},
             "road": {
@@ -1157,7 +1161,8 @@
                     "2025/07/27|HERGNIES CENTRE|4ème": 31,
                     "2025/08/22|BEUVRY|4ème": 27,
                     "2025/08/24|VIEUX CONDE CENTRE|4ème": 27,
-                    "2025/09/20|OBIES|4ème": 12
+                    "2025/09/20|OBIES|4ème": 12,
+                    "2025/09/28|MAULDE 3|4ème": 18
                 },
                 "2024": {
                     "2024/04/07|Rumigny": 43,
@@ -1170,7 +1175,7 @@
         },
         {
             "name": "CROMBEZ THOMAS",
-            "course": 21,
+            "course": 22,
             "cx": {},
             "vtt": {},
             "road": {
@@ -1189,7 +1194,8 @@
                     "2025/07/27|HERGNIES CENTRE|1ère": 1,
                     "2025/08/03|HERGNIES LA BAYONNE|1ère": 7,
                     "2025/08/24|VIEUX CONDE CENTRE|1ère": 1,
-                    "2025/09/21|LEWARDE|1ère": 5
+                    "2025/09/21|LEWARDE|1ère": 5,
+                    "2025/09/28|MAULDE 3|1ère": 4
                 },
                 "2024": {
                     "2024/03/24|FERRIERE LA GRANCE|1ère": 5,
@@ -1236,13 +1242,14 @@
         },
         {
             "name": "HUGUENIN DYLAN",
-            "course": 2,
+            "course": 3,
             "cx": {},
             "vtt": {},
             "road": {
                 "2025": {
                     "2025/09/06|POIX DU NORD|3ème": 26,
-                    "2025/09/14|HORNAING|3ème": 20
+                    "2025/09/14|HORNAING|3ème": 20,
+                    "2025/09/28|MAULDE 3|3ème": 26
                 }
             }
         }
