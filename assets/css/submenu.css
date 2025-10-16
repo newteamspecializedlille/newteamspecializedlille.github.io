@@ -1,0 +1,45 @@
+/* Submenu styles for hamenu */
+.hamenu .main-menu .has-submenu {
+    position: relative;
+}
+
+.hamenu .main-menu .submenu {
+    list-style: none;
+    padding-left: 30px;
+    margin-top: 10px;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-in-out;
+}
+
+.hamenu .main-menu .has-submenu.active .submenu {
+    max-height: 500px;
+}
+
+.hamenu .main-menu .submenu li {
+    margin-bottom: 10px;
+}
+
+.hamenu .main-menu .submenu li a {
+    font-size: 16px;
+    opacity: 0.8;
+    transition: opacity 0.3s ease;
+}
+
+.hamenu .main-menu .submenu li a:hover {
+    opacity: 1;
+}
+
+.hamenu .main-menu .submenu-toggle i {
+    font-size: 12px;
+    margin-left: 5px;
+    transition: transform 0.3s ease;
+}
+
+.hamenu .main-menu .has-submenu.active .submenu-toggle i {
+    transform: rotate(180deg);
+}
+
+.hamenu .main-menu .submenu-toggle {
+    cursor: pointer;
+}
