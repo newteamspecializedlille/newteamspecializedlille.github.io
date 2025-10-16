@@ -28,6 +28,26 @@ main:
     url: "/cyclosportives"
     parent: 0
 
+  # Challenges submenu (for full menu only)
+  - title: "Challenges"
+    url: ""
+    parent: 1
+    childs:
+        - title: "Challenge Boue 2025"
+          url: "/challenge/boue2025"
+
+        - title: "Challenge Boue 2026"
+          url: "/challenge/boue2026"
+
+        - title: "Challenge Route 2024"
+          url: "/challenge/challenge2024"
+
+        - title: "Challenge Route 2025"
+          url: "/challenge/challenge2025"
+
+        - title: "Challenge Route 2026"
+          url: "/challenge/challenge2026"
+
 #  # Contact
 #  - title: "Contact"
 #    url: "#contact-section"

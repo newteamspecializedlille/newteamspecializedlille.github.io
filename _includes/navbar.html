@@ -25,10 +25,12 @@
             <ul class="navbar-nav">
 
                 {% for nav in navigation %}
-                    {% assign nav_url = nav.url | relative_url %}
-                    <li class="nav-item">
-                        <a class="nav-link" href="{{ nav_url | relative_url }}"><span class="rolling-text">{{ nav.title }}</span></a>
-                    </li>
+                    {% if nav.parent != 1 %}
+                        {% assign nav_url = nav.url | relative_url %}
+                        <li class="nav-item">
+                            <a class="nav-link" href="{{ nav_url | relative_url }}"><span class="rolling-text">{{ nav.title }}</span></a>
+                        </li>
+                    {% endif %}
                 {% endfor %}
             </ul>
         </div>
@@ -73,11 +75,27 @@
                     <ul class="main-menu rest">
                         {% for nav in navigation %}
                             {% assign nav_url = nav.url | relative_url %}
-                            <li>
-                                <div class="o-hidden">
-                                    <a href="{{ nav_url | relative_url }}" class="link"><span class="fill-text" data-text="{{ nav.title }}">{{ nav.title }}</span></a>
-                                </div>
-                            </li>
+                            {% if nav.parent == 1 %}
+                                <li class="has-submenu">
+                                    <div class="o-hidden">
+                                        <a href="javascript:void(0);" class="link submenu-toggle"><span class="fill-text" data-text="{{ nav.title }}">{{ nav.title }}</span> <i class="fas fa-chevron-down"></i></a>
+                                    </div>
+                                    <ul class="submenu">
+                                        {% for child in nav.childs %}
+                                            {% assign child_url = child.url | relative_url %}
+                                            <li>
+                                                <a href="{{ child_url }}" class="link">{{ child.title }}</a>
+                                            </li>
+                                        {% endfor %}
+                                    </ul>
+                                </li>
+                            {% else %}
+                                <li>
+                                    <div class="o-hidden">
+                                        <a href="{{ nav_url | relative_url }}" class="link"><span class="fill-text" data-text="{{ nav.title }}">{{ nav.title }}</span></a>
+                                    </div>
+                                </li>
+                            {% endif %}
                         {% endfor %}
                     </ul>
                 </div>
