@@ -4,7 +4,7 @@ import rando
 
 team = {}
 results = {}
-year = "2025"
+year = "2026"
 
 team = team_members.load_team_from_file(team)
 parser = parse_results.ParseResults(team, results)
