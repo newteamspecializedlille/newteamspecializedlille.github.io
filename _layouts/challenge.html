@@ -6,7 +6,11 @@ layout: default
 {% assign challenge = page.title | downcase | replace: " ", "" %}
 
 {{ challenge }}
-{% assign data = site.data["challenge2025"] %}
+{% if page.data_file %}
+  {% assign data = site.data[page.data_file] %}
+{% else %}
+  {% assign data = site.data["challenge2025"] %}
+{% endif %}
 
 {% for team in site.data.team.team_members %}
 	{%- if team.name == page.name -%}

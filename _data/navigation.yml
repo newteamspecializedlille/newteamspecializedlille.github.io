@@ -17,7 +17,7 @@ main:
     parent: 0
 
   - title: "Challenge Route"
-    url: "/challenge2025"
+    url: "/route"
     parent: 0
 
   - title: "Challenge Boue"
