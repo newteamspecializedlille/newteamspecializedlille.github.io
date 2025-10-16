@@ -4,7 +4,7 @@ title: Route - FEIGNIES2 - 2025
 date: 2025-08-30
 category: Route
 tags: Route
-image: assets/img/blog/road.jpeg
+image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie

@@ -4,7 +4,7 @@ title: Route - AVESNES LES AUBERT - 2023
 date: 2023-06-04
 category: Route
 tags: Route
-image: assets/img/blog/road.jpeg
+image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie

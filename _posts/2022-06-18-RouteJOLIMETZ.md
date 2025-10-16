@@ -4,7 +4,7 @@ title: Route - JOLIMETZ - 2022
 date: 2022-06-18
 category: Route
 tags: Route
-image: assets/img/blog/road.jpeg
+image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie

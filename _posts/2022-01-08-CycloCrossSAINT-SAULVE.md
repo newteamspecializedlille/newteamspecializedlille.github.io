@@ -4,7 +4,7 @@ title: Cyclo Cross - SAINT SAULVE - 2022
 date: 2022-01-08
 category: Cyclo Cross
 tags: cyclo-cross
-image: assets/img/blog/cx.jpeg
+image: assets/img/blog/cx.png
 ---
 
 ### 3ème Catégorie

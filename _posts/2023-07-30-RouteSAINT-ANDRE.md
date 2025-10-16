@@ -4,7 +4,7 @@ title: Route - SAINT ANDRE - 2023
 date: 2023-07-30
 category: Route
 tags: Route
-image: assets/img/blog/road.jpeg
+image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie

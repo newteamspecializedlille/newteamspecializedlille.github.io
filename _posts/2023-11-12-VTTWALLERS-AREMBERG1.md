@@ -4,7 +4,7 @@ title: VTT - WALLERS AREMBERG1 - 2024
 date: 2023-11-12
 category: VTT
 tags: VTT
-image: assets/img/blog/vtt.jpeg
+image: assets/img/blog/vtt.png
 ---
 
 ### VTT Vétérans A

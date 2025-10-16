@@ -4,7 +4,7 @@ title: VTT - HASPRES2 - 2025
 date: 2025-01-18
 category: VTT
 tags: VTT
-image: assets/img/blog/vtt.jpeg
+image: assets/img/blog/vtt.png
 ---
 
 ### VTT Vétérans B

@@ -4,7 +4,7 @@ title: Route - DOUAI - 2020
 date: 2020-08-30
 category: Route
 tags: Route
-image: assets/img/blog/road.jpeg
+image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie

@@ -4,7 +4,7 @@ title: Route - ORCHIES - 2020
 date: 2020-03-01
 category: Route
 tags: Route
-image: assets/img/blog/road.jpeg
+image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie

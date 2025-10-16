@@ -4,7 +4,7 @@ title: VTT - ORCHIES - 2026
 date: 2025-10-05
 category: VTT
 tags: VTT
-image: assets/img/blog/vtt.jpeg
+image: assets/img/blog/vtt.png
 ---
 
 ### VTT Vétérans A

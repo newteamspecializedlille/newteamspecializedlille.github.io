@@ -4,7 +4,7 @@ title: Cyclo Cross - ORCHIES - 2025
 date: 2024-10-06
 category: Cyclo Cross
 tags: cyclo-cross
-image: assets/img/blog/cx.jpeg
+image: assets/img/blog/cx.png
 ---
 
 ### 2ème Catégorie

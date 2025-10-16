@@ -4,7 +4,7 @@ title: Route - ETROEUNGT - 2023
 date: 2023-04-09
 category: Route
 tags: Route
-image: assets/img/blog/road.jpeg
+image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie

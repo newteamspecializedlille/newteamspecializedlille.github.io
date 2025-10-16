@@ -4,7 +4,7 @@ title: Route - LILLERS - 2024
 date: 2024-05-19
 category: Route
 tags: Route
-image: assets/img/blog/road.jpeg
+image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie

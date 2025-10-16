@@ -4,7 +4,7 @@ title: Route - PECQUENCOURT - 2021
 date: 2021-08-15
 category: Route
 tags: Route
-image: assets/img/blog/road.jpeg
+image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie

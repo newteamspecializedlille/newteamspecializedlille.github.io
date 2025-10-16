@@ -4,7 +4,7 @@ title: Route - Fontaine Au Bois
 date: 2024-06-30
 category: Route
 tags: Route
-image: assets/img/blog/road.jpeg
+image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie

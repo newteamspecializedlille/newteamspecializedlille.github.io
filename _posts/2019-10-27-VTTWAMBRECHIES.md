@@ -4,7 +4,7 @@ title: VTT - WAMBRECHIES - 2020
 date: 2019-10-27
 category: VTT
 tags: VTT
-image: assets/img/blog/vtt.jpeg
+image: assets/img/blog/vtt.png
 ---
 
 ### VTT Sénior A

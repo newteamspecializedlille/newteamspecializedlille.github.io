@@ -4,7 +4,7 @@ title: Route - ASSEVENT - 2025
 date: 2025-05-17
 category: Route
 tags: Route
-image: assets/img/blog/road.jpeg
+image: assets/img/blog/road.png
 ---
 
 ### 3ème Catégorie

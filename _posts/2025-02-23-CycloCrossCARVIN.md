@@ -4,7 +4,7 @@ title: Cyclo Cross - CARVIN - 2025
 date: 2025-02-23
 category: Cyclo Cross
 tags: cyclo-cross
-image: assets/img/blog/cx.jpeg
+image: assets/img/blog/cx.png
 ---
 
 ### 3ème Catégorie

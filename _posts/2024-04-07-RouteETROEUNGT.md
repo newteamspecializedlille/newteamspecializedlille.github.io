@@ -4,7 +4,7 @@ title: Route - ETROEUNGT - 2024
 date: 2024-04-07
 category: Route
 tags: Route
-image: assets/img/blog/road.jpeg
+image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie

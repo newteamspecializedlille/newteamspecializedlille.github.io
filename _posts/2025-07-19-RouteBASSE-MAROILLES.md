@@ -4,7 +4,7 @@ title: Route - BASSE MAROILLES - 2025
 date: 2025-07-19
 category: Route
 tags: Route
-image: assets/img/blog/road.jpeg
+image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie

@@ -4,7 +4,7 @@ title: Route - HERGNIES1 - 2023
 date: 2023-07-16
 category: Route
 tags: Route
-image: assets/img/blog/road.jpeg
+image: assets/img/blog/road.png
 ---
 
 ### 3ème Catégorie

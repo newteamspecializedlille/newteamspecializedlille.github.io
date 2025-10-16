@@ -4,7 +4,7 @@ title: VTT - WARGNIES LE PETIT - 2024
 date: 2023-11-04
 category: VTT
 tags: VTT
-image: assets/img/blog/vtt.jpeg
+image: assets/img/blog/vtt.png
 ---
 
 ### VTT Vétérans B

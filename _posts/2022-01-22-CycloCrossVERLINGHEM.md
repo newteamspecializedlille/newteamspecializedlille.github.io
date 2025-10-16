@@ -4,7 +4,7 @@ title: Cyclo Cross - VERLINGHEM - 2022
 date: 2022-01-22
 category: Cyclo Cross
 tags: cyclo-cross
-image: assets/img/blog/cx.jpeg
+image: assets/img/blog/cx.png
 ---
 
 ### 3ème Catégorie

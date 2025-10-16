@@ -4,7 +4,7 @@ title: Route - MAROILLES - 2020
 date: 2020-09-13
 category: Route
 tags: Route
-image: assets/img/blog/road.jpeg
+image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie

@@ -4,7 +4,7 @@ title: VTT - HENIN BEAUMONT - 2023
 date: 2022-11-11
 category: VTT
 tags: VTT
-image: assets/img/blog/vtt.jpeg
+image: assets/img/blog/vtt.png
 ---
 
 ### VTT Sénior B

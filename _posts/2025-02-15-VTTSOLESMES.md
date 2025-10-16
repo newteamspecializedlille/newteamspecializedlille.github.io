@@ -4,7 +4,7 @@ title: VTT - SOLESMES - 2025
 date: 2025-02-15
 category: VTT
 tags: VTT
-image: assets/img/blog/vtt.jpeg
+image: assets/img/blog/vtt.png
 ---
 
 ### VTT Vétérans A

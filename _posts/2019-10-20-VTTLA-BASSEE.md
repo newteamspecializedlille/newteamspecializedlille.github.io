@@ -4,7 +4,7 @@ title: VTT - LA BASSEE - 2020
 date: 2019-10-20
 category: VTT
 tags: VTT
-image: assets/img/blog/vtt.jpeg
+image: assets/img/blog/vtt.png
 ---
 
 ### VTT Vétérans B

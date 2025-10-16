@@ -4,7 +4,7 @@ title: Route - HORNAING - 2023
 date: 2023-09-17
 category: Route
 tags: Route
-image: assets/img/blog/road.jpeg
+image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie

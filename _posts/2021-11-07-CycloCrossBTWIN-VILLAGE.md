@@ -4,7 +4,7 @@ title: Cyclo Cross - BTWIN VILLAGE - 2022
 date: 2021-11-07
 category: Cyclo Cross
 tags: cyclo-cross
-image: assets/img/blog/cx.jpeg
+image: assets/img/blog/cx.png
 ---
 
 ### 3ème Catégorie

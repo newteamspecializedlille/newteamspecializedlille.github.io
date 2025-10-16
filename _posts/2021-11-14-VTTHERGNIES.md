@@ -4,7 +4,7 @@ title: VTT - HERGNIES - 2022
 date: 2021-11-14
 category: VTT
 tags: VTT
-image: assets/img/blog/vtt.jpeg
+image: assets/img/blog/vtt.png
 ---
 
 ### VTT Vétérans A

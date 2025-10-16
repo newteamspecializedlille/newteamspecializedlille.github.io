@@ -4,7 +4,7 @@ title: Cyclo Cross - RAISMES - 2024
 date: 2023-10-08
 category: Cyclo Cross
 tags: cyclo-cross
-image: assets/img/blog/cx.jpeg
+image: assets/img/blog/cx.png
 ---
 
 ### 3ème Catégorie

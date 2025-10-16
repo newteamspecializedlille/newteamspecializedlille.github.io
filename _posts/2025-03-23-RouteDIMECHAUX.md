@@ -4,7 +4,7 @@ title: Route - DIMECHAUX - 2025
 date: 2025-03-23
 category: Route
 tags: Route
-image: assets/img/blog/road.jpeg
+image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie

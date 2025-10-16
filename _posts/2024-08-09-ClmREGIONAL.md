@@ -4,7 +4,7 @@ title: Clm - REGIONAL - 2024
 date: 2024-08-09
 category: Route
 tags: Route
-image: assets/img/blog/road.jpeg
+image: assets/img/blog/road.png
 ---
 
 ### CLM EQUIPE ADULTE MASCULIN

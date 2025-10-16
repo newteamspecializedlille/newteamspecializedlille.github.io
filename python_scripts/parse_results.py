@@ -291,11 +291,11 @@ class ParseResults:
                 tag = "cyclo-cross"
             outfile.write("tags: " + tag + "\n")
             if self.race_type == "Cyclo Cross":
-                outfile.write("image: assets/img/blog/cx.jpeg\n")
+                outfile.write("image: assets/img/blog/cx.png\n")
             elif self.race_type == "VTT":
-                outfile.write("image: assets/img/blog/vtt.jpeg\n")
+                outfile.write("image: assets/img/blog/vtt.png\n")
             elif self.race_type == "Route":
-                outfile.write("image: assets/img/blog/road.jpeg\n")
+                outfile.write("image: assets/img/blog/road.png\n")
             outfile.write("---\n")
 
             result_to_display = self.results[hash_race].one

@@ -4,7 +4,7 @@ title: Route - BETTRECHIES - 2022
 date: 2022-07-16
 category: Route
 tags: Route
-image: assets/img/blog/road.jpeg
+image: assets/img/blog/road.png
 ---
 
 ### 3ème Catégorie

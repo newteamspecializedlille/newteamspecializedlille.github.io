@@ -4,7 +4,7 @@ title: Cyclo Cross - WINGLES - 2022
 date: 2021-11-11
 category: Cyclo Cross
 tags: cyclo-cross
-image: assets/img/blog/cx.jpeg
+image: assets/img/blog/cx.png
 ---
 
 ### 3ème Catégorie

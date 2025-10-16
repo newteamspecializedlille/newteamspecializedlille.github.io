@@ -4,7 +4,7 @@ title: Route - LINSELLES - 2022
 date: 2022-09-04
 category: Route
 tags: Route
-image: assets/img/blog/road.jpeg
+image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie

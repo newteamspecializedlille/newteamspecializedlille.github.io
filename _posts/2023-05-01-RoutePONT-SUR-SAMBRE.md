@@ -4,7 +4,7 @@ title: Route - PONT SUR SAMBRE - 2023
 date: 2023-05-01
 category: Route
 tags: Route
-image: assets/img/blog/road.jpeg
+image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie

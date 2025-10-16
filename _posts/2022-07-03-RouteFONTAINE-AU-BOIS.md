@@ -4,7 +4,7 @@ title: Route - FONTAINE AU BOIS - 2022
 date: 2022-07-03
 category: Route
 tags: Route
-image: assets/img/blog/road.jpeg
+image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie

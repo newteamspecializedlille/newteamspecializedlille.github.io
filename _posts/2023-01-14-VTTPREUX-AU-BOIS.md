@@ -4,7 +4,7 @@ title: VTT - PREUX AU BOIS - 2023
 date: 2023-01-14
 category: VTT
 tags: VTT
-image: assets/img/blog/vtt.jpeg
+image: assets/img/blog/vtt.png
 ---
 
 ### VTT Sénior B

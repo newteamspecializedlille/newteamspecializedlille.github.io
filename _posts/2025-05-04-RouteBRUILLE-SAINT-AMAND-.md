@@ -4,7 +4,7 @@ title: Route - BRUILLE SAINT AMAND  - 2025
 date: 2025-05-04
 category: Route
 tags: Route
-image: assets/img/blog/road.jpeg
+image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie

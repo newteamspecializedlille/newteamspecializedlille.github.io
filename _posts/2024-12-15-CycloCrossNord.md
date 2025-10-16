@@ -4,7 +4,7 @@ title: Cyclo Cross - Nord - 2025
 date: 2024-12-15
 category: Cyclo Cross
 tags: cyclo-cross
-image: assets/img/blog/cx.jpeg
+image: assets/img/blog/cx.png
 ---
 
 ### 17-19 ans

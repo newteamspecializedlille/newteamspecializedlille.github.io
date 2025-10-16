@@ -4,7 +4,7 @@ title: Cyclo Cross - VIEUX CONDE - 2024
 date: 2023-10-15
 category: Cyclo Cross
 tags: cyclo-cross
-image: assets/img/blog/cx.jpeg
+image: assets/img/blog/cx.png
 ---
 
 ### 2ème Catégorie

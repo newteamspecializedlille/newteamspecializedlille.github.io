@@ -4,7 +4,7 @@ title: VTT - JEUMONT2 - 2023
 date: 2023-04-23
 category: VTT
 tags: VTT
-image: assets/img/blog/vtt.jpeg
+image: assets/img/blog/vtt.png
 ---
 
 ### VTT Vétérans B

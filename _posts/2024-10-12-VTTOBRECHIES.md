@@ -4,7 +4,7 @@ title: VTT - OBRECHIES - 2025
 date: 2024-10-12
 category: VTT
 tags: VTT
-image: assets/img/blog/vtt.jpeg
+image: assets/img/blog/vtt.png
 ---
 
 ### VTT Vétérans A

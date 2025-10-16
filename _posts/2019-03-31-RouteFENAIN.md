@@ -4,7 +4,7 @@ title: Route - FENAIN - 2019
 date: 2019-03-31
 category: Route
 tags: Route
-image: assets/img/blog/road.jpeg
+image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie

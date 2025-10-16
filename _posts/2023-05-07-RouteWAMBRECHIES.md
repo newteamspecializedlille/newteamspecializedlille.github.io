@@ -4,7 +4,7 @@ title: Route - WAMBRECHIES - 2023
 date: 2023-05-07
 category: Route
 tags: Route
-image: assets/img/blog/road.jpeg
+image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie

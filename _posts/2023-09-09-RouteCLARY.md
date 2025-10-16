@@ -4,7 +4,7 @@ title: Route - CLARY - 2023
 date: 2023-09-09
 category: Route
 tags: Route
-image: assets/img/blog/road.jpeg
+image: assets/img/blog/road.png
 ---
 
 ### 3ème Catégorie

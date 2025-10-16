@@ -4,7 +4,7 @@ title: VTT - PONT SUR SAMBRE - 2025
 date: 2024-11-10
 category: VTT
 tags: VTT
-image: assets/img/blog/vtt.jpeg
+image: assets/img/blog/vtt.png
 ---
 
 ### VTT Vétérans B

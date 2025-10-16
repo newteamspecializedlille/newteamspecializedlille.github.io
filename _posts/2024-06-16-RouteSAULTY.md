@@ -4,7 +4,7 @@ title: Route - SAULTY - 2024
 date: 2024-06-16
 category: Route
 tags: Route
-image: assets/img/blog/road.jpeg
+image: assets/img/blog/road.png
 ---
 
 ### VTT Sénior A

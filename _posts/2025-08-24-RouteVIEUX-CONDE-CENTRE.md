@@ -4,7 +4,7 @@ title: Route - VIEUX CONDE CENTRE - 2025
 date: 2025-08-24
 category: Route
 tags: Route
-image: assets/img/blog/road.jpeg
+image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie

@@ -4,7 +4,7 @@ title: VTT - ALLENNES LES MARAIS - 2020
 date: 2019-11-01
 category: VTT
 tags: VTT
-image: assets/img/blog/vtt.jpeg
+image: assets/img/blog/vtt.png
 ---
 
 ### VTT Vétérans B

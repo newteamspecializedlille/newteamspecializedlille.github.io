@@ -166,9 +166,9 @@ def update_image_in_post(file_name):
 
     # Define the image paths to check
     image_paths_to_check = [
-        "assets/img/blog/road.jpeg",
-        "assets/img/blog/cx.jpeg",
-        "assets/img/blog/vtt.jpeg"
+        "assets/img/blog/road.png",
+        "assets/img/blog/cx.png",
+        "assets/img/blog/vtt.png"
     ]
 
     # Modify the image field in the header if it matches one of the specified values

@@ -4,7 +4,7 @@ title: Cyclo Cross - BTWIN - 2023
 date: 2022-11-13
 category: Cyclo Cross
 tags: cyclo-cross
-image: assets/img/blog/cx.jpeg
+image: assets/img/blog/cx.png
 ---
 
 ### 3ème Catégorie

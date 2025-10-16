@@ -4,7 +4,7 @@ title: Route - ROMBLY - 2019
 date: 2019-04-07
 category: Route
 tags: Route
-image: assets/img/blog/road.jpeg
+image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie

@@ -4,7 +4,7 @@ title: Route - MAULDE (CHORETTE) - 2025
 date: 2025-04-27
 category: Route
 tags: Route
-image: assets/img/blog/road.jpeg
+image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie

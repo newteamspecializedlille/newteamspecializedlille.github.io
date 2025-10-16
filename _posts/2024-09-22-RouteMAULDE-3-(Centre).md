@@ -4,7 +4,7 @@ title: Route - MAULDE 3 (Centre) - 2024
 date: 2024-09-22
 category: Route
 tags: Route
-image: assets/img/blog/road.jpeg
+image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie

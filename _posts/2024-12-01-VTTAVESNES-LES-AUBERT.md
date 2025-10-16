@@ -4,7 +4,7 @@ title: VTT - AVESNES LES AUBERT - 2025
 date: 2024-12-01
 category: VTT
 tags: VTT
-image: assets/img/blog/vtt.jpeg
+image: assets/img/blog/vtt.png
 ---
 
 ### VTT Vétérans B

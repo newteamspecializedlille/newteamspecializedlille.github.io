@@ -4,7 +4,7 @@ title: Route - FENAIN - 2022
 date: 2022-03-27
 category: Route
 tags: Route
-image: assets/img/blog/road.jpeg
+image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie

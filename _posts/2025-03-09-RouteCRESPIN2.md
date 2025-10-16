@@ -4,7 +4,7 @@ title: Route - CRESPIN2 - 2025
 date: 2025-03-09
 category: Route
 tags: Route
-image: assets/img/blog/road.jpeg
+image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie

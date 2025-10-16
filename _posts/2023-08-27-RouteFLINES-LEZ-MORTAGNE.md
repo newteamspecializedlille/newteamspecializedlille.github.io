@@ -4,7 +4,7 @@ title: Route - FLINES LEZ MORTAGNE - 2023
 date: 2023-08-27
 category: Route
 tags: Route
-image: assets/img/blog/road.jpeg
+image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie

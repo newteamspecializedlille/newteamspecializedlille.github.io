@@ -4,7 +4,7 @@ title: Route - LINSELLES - 2025
 date: 2025-09-07
 category: Route
 tags: Route
-image: assets/img/blog/road.jpeg
+image: assets/img/blog/road.png
 ---
 
 ### 3ème Catégorie

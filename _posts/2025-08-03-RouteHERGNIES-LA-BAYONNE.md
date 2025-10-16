@@ -4,7 +4,7 @@ title: Route - HERGNIES LA BAYONNE - 2025
 date: 2025-08-03
 category: Route
 tags: Route
-image: assets/img/blog/road.jpeg
+image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie

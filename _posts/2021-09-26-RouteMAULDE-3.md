@@ -4,7 +4,7 @@ title: Route - MAULDE 3 - 2021
 date: 2021-09-26
 category: Route
 tags: Route
-image: assets/img/blog/road.jpeg
+image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie

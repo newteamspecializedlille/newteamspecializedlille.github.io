@@ -73,7 +73,7 @@ def create_post_race(cate_1, cate_2, cate_3, cate_4):
         tag = race_type
         outfile.write("tags: " + tag + "\n")
         if race_type == "Route":
-            outfile.write("image: assets/img/blog/road.jpeg\n")
+            outfile.write("image: assets/img/blog/road.png\n")
         outfile.write("---\n")
 
         display_for_category(outfile, cate_1, "1ère Catégorie")

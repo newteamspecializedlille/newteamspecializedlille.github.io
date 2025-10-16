@@ -4,7 +4,7 @@ title: VTT - PROVIN - 2023
 date: 2023-01-21
 category: VTT
 tags: VTT
-image: assets/img/blog/vtt.jpeg
+image: assets/img/blog/vtt.png
 ---
 
 ### VTT Sénior B

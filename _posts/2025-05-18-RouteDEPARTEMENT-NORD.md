@@ -4,7 +4,7 @@ title: Route - DEPARTEMENT-NORD - 2025
 date: 2025-05-18
 category: Route
 tags: Route
-image: assets/img/blog/road.jpeg
+image: assets/img/blog/road.png
 ---
 
 ### Juniors -17/19 ans

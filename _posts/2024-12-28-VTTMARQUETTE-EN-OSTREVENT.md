@@ -4,7 +4,7 @@ title: VTT - MARQUETTE EN OSTREVENT - 2025
 date: 2024-12-28
 category: VTT
 tags: VTT
-image: assets/img/blog/vtt.jpeg
+image: assets/img/blog/vtt.png
 ---
 
 ### VTT Vétérans B

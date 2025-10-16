@@ -4,7 +4,7 @@ title: Route - ANICHE - 2024
 date: 2024-08-11
 category: Route
 tags: Route
-image: assets/img/blog/road.jpeg
+image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie

@@ -4,7 +4,7 @@ title: Route - SOLESMES - 2025
 date: 2025-04-21
 category: Route
 tags: Route
-image: assets/img/blog/road.jpeg
+image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie

@@ -4,7 +4,7 @@ title: Route - FONTAINE AU BOIS - 2025
 date: 2025-06-29
 category: Route
 tags: Route
-image: assets/img/blog/road.jpeg
+image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie

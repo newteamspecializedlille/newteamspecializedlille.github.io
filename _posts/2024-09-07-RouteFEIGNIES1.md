@@ -4,7 +4,7 @@ title: Route - FEIGNIES1 - 2024
 date: 2024-09-07
 category: Route
 tags: Route
-image: assets/img/blog/road.jpeg
+image: assets/img/blog/road.png
 ---
 
 ### 3ème Catégorie

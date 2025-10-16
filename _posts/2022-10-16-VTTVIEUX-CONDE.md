@@ -4,7 +4,7 @@ title: VTT - VIEUX CONDE - 2023
 date: 2022-10-16
 category: VTT
 tags: VTT
-image: assets/img/blog/vtt.jpeg
+image: assets/img/blog/vtt.png
 ---
 
 ### VTT Sénior B

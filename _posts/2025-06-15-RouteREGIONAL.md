@@ -4,7 +4,7 @@ title: Route - Régional FELLERIES - 2025
 date: 2025-06-15
 category: Route
 tags: Route
-image: assets/img/blog/road.jpeg
+image: assets/img/blog/road.png
 ---
 
 ### Juniors -17/19 ans

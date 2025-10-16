@@ -4,7 +4,7 @@ title: Cyclo Cross - BOUVIGNIES - 2023
 date: 2023-02-11
 category: Cyclo Cross
 tags: cyclo-cross
-image: assets/img/blog/cx.jpeg
+image: assets/img/blog/cx.png
 ---
 
 ### 3ème Catégorie

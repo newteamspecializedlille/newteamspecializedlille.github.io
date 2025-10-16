@@ -4,7 +4,7 @@ title: Route - SOLESMES - 2023
 date: 2023-05-14
 category: Route
 tags: Route
-image: assets/img/blog/road.jpeg
+image: assets/img/blog/road.png
 ---
 
 ### VTT Sénior B
