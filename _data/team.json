@@ -1225,8 +1225,11 @@
         },
         {
             "name": "ORBIER AXEL",
-            "course": 7,
+            "course": 8,
             "cx": {
+                "2026": {
+                    "2025/10/19|BETTRECHIES|1ère": 6
+                },
                 "2025": {
                     "2024/10/06|ORCHIES|2ème": 8,
                     "2024/10/13|VIEUX CONDE|2ème": 3,
