@@ -11,7 +11,7 @@ nationality: fr
 date_of_birth: 09/01/2007
 
 sports: Route
-category: 2ème
+category: 1ère
 strava: https://www.strava.com/athletes/95634890
 gallery:
   - assets/imgs/team/small/derasse_david.JPG
