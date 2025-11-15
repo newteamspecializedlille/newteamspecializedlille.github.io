@@ -710,12 +710,13 @@
         },
         {
             "name": "DEFER OLIVIER",
-            "course": 210,
+            "course": 211,
             "cx": {},
             "vtt": {
                 "2026": {
                     "2025/10/05|ORCHIES|Vétérans A": 10,
-                    "2025/10/26|HALLUIN|Vétérans A": 9
+                    "2025/10/26|HALLUIN|Vétérans A": 9,
+                    "2025/11/15|HASPRES|Vétérans A": 13
                 }
             },
             "road": {
