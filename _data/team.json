@@ -2,7 +2,7 @@
     "team_members": [
         {
             "name": "DERASSE DAVID",
-            "course": 121,
+            "course": 122,
             "cx": {
                 "2025": {
                     "2024/10/06|ORCHIES|2ème": 16,
@@ -44,7 +44,8 @@
             "vtt": {
                 "2026": {
                     "2025/11/02|AUCHY LES MINES|Juniors": 4,
-                    "2025/11/09|PONT SUR SAMBRE|Juniors": 7
+                    "2025/11/09|PONT SUR SAMBRE|Juniors": 7,
+                    "2025/11/16|LOOS EN GOHELLE|Juniors": 5
                 },
                 "2024": {
                     "2024/01/14|BEUVRY|Juniors": "Ab",
