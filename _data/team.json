@@ -1233,10 +1233,11 @@
         },
         {
             "name": "ORBIER AXEL",
-            "course": 8,
+            "course": 9,
             "cx": {
                 "2026": {
-                    "2025/10/19|BETTRECHIES|1ère": 6
+                    "2025/10/19|BETTRECHIES|1ère": 6,
+                    "2025/11/23|LILLE BTWIN VILLAGE|1ère": 9
                 },
                 "2025": {
                     "2024/10/06|ORCHIES|2ème": 8,
