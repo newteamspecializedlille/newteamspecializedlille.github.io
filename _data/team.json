@@ -2,8 +2,11 @@
     "team_members": [
         {
             "name": "DERASSE DAVID",
-            "course": 122,
+            "course": 124,
             "cx": {
+                "2026": {
+                    "2025/11/30|VERLINGHEM|1ère": 14
+                },
                 "2025": {
                     "2024/10/06|ORCHIES|2ème": 16,
                     "2024/10/13|VIEUX CONDE|2ème": 12,
@@ -45,7 +48,8 @@
                 "2026": {
                     "2025/11/02|AUCHY LES MINES|Juniors": 4,
                     "2025/11/09|PONT SUR SAMBRE|Juniors": 7,
-                    "2025/11/16|LOOS EN GOHELLE|Juniors": 5
+                    "2025/11/16|LOOS EN GOHELLE|Juniors": 5,
+                    "2025/11/30|VERLINGHEM|Juniors": 1
                 },
                 "2024": {
                     "2024/01/14|BEUVRY|Juniors": "Ab",
@@ -1159,9 +1163,13 @@
         },
         {
             "name": "DERASSE PATRICK",
-            "course": 16,
+            "course": 17,
             "cx": {},
-            "vtt": {},
+            "vtt": {
+                "2026": {
+                    "2025/11/30|VERLINGHEM|Vétérans B": "Ab"
+                }
+            },
             "road": {
                 "2025": {
                     "2025/04/13|ETROEUNGT|3ème": "Ab",
@@ -1233,11 +1241,12 @@
         },
         {
             "name": "ORBIER AXEL",
-            "course": 9,
+            "course": 10,
             "cx": {
                 "2026": {
                     "2025/10/19|BETTRECHIES|1ère": 6,
-                    "2025/11/23|LILLE BTWIN VILLAGE|1ère": 9
+                    "2025/11/23|LILLE BTWIN VILLAGE|1ère": 9,
+                    "2025/11/30|VERLINGHEM|1ère": 4
                 },
                 "2025": {
                     "2024/10/06|ORCHIES|2ème": 8,
