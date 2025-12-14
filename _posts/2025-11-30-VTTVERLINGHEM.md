@@ -11,6 +11,9 @@ image: assets/img/blog/vtt.png
 9 participants
 - [DERASSE PATRICK](https://teamspecializedlille.cc/coureurs/derassepatrick) : Ab
 
+### VTT Juniors
+- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 1
+
 ### Scratch
 15 participants
 
