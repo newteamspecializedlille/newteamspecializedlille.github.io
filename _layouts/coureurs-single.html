@@ -23,27 +23,27 @@ layout: default
 {% assign surname = full_name[0] %}
 
 
-{% assign boue2025_position = 0 %}
-{% for item in site.data.boue2025.challenge %}
+{% assign boue2026_position = 0 %}
+{% for item in site.data.boue2026.challenge %}
     {% if item[1] > 0 %}
         {% if item[0] == page.title %}
-            {% assign boue2025_position = forloop.index %}
+            {% assign boue2026_position = forloop.index %}
             {% break %}
         {% endif %}
     {% endif %}
 {% endfor %}
 
-{% if boue2025_position == 1 %}
-    {% assign boue2025_position = "<span>&#129351;</span>" %}
-{% elsif boue2025_position == 2 %}
-    {% assign boue2025_position = "<span>&#129352;</span>" %}
-{% elsif boue2025_position == 3 %}
-   {% assign boue2025_position = "<span>&#129353;</span>" %}
+{% if boue2026_position == 1 %}
+    {% assign boue2026_position = "<span>&#129351;</span>" %}
+{% elsif boue2026_position == 2 %}
+    {% assign boue2026_position = "<span>&#129352;</span>" %}
+{% elsif boue2026_position == 3 %}
+   {% assign boue2026_position = "<span>&#129353;</span>" %}
 {% endif %}
 
 
 {% assign challenge_position = 0 %}
-{% for item in site.data.challenge.challenge %}
+{% for item in site.data.challenge2025.challenge %}
     {% if item[1] > 0 %}
         {% if item[0] == page.title %}
             {% assign challenge_position = forloop.index %}
@@ -144,15 +144,15 @@ layout: default
                                                             </div>
                                                     {% endif %}
 
-                                                    {% if boue2025_position != 0 %}
+                                                    {% if boue2026_position != 0 %}
                                                     <div class="d-flex align-items-center">
-                                                        <span class="sub-title fw-200 label">Challenge Boue 2025 : </span>
-                                                        <span class="sub-title fw-200 value">{{ boue2025_position }}</span>
+                                                        <span class="sub-title fw-200 label">Challenge Boue 2026 : </span>
+                                                        <span class="sub-title fw-200 value">{{ boue2026_position }}</span>
                                                     </div>
                                                     {% endif %}
                                                     {% if challenge_position != 0 %}
                                                     <div class="d-flex align-items-center">
-                                                        <span class="sub-title fw-200 label">Challenge 2024 : </span>
+                                                        <span class="sub-title fw-200 label">Challenge 2025 : </span>
                                                         <span class="sub-title fw-200 value">{{ challenge_position }}</span>
                                                     </div>
                                                     {% endif %}
@@ -177,7 +177,7 @@ layout: default
                     <div class="list-serv">
                         <div class="accordion bord">
                         {% assign first_deployed = 0 %}
-                        {% for year in (2018..2025) reversed %}
+                        {% for year in (2018..2026) reversed %}
                             {% assign year_string = year | append: "" %}
 
                             {% if team_people.cx[year_string] or team_people.road[year_string] or team_people.vtt[year_string] %}
