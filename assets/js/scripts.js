@@ -723,6 +723,24 @@ $(function () {
         }
     );
 
+    $(".team .item a").hover(
+        function () {
+            const img = $(this).find(".img img");
+            const hoverSrc = img.attr("data-hover-image");
+            const defaultSrc = img.attr("data-default-image");
+            if (hoverSrc && hoverSrc !== defaultSrc) {
+                img.attr("src", hoverSrc);
+            }
+        },
+        function () {
+            const img = $(this).find(".img img");
+            const defaultSrc = img.attr("data-default-image");
+            if (defaultSrc) {
+                img.attr("src", defaultSrc);
+            }
+        }
+    );
+
 
     /* =============================================================================
     -----------------------------  Text Animation  -----------------------------

@@ -15,11 +15,19 @@
         </div>
         <div class="row">
             {% for coureur in site.coureurs %}
+                {% if coureur.fun_image %}
+                    {% assign hover_image = coureur.fun_image %}
+                {% else %}
+                    {% assign hover_image = coureur.image | replace: '/nobg/', '/fun/' %}
+                {% endif %}
                 <div class="col-lg-4">
                     <div class="item md-mb50">
                         <a  href="{{ coureur.url }}">
-                            <div class="img">
-                                <img src="{{ coureur.image | relative_url }}" alt="{{ coureur.title }}">
+                            <div class="img" style="background-color: black;">
+                                <img src="{{ coureur.image | relative_url }}"
+                                     alt="{{ coureur.title }}"
+                                     data-default-image="{{ coureur.image | relative_url }}"
+                                     data-hover-image="{{ hover_image | relative_url }}">
                                 <div class="info">
                                     <span class="fz-12">{{ coureur.category }}</span>
                                     <h6 class="fz-18">{{ coureur.title }}</h6>

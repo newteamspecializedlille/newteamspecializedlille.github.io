@@ -4,8 +4,9 @@ layout: coureurs-single
 title: DEFER OLIVIER
 name: DEFER OLIVIER
 
-image: assets/imgs/team/small/defer_olivier.png
+image: assets/imgs/team/nobg/defer_olivier.png
 large: assets/imgs/team/large/defer_olivier.png
+nationality: fr
 
 # full details
 strava: https://www.strava.com/athletes/33163192

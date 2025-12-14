@@ -325,50 +325,6 @@
             }
         },
         {
-            "name": "DE GRAAL ROBIN",
-            "course": 25,
-            "cx": {},
-            "vtt": {
-                "2024": {
-                    "2023/11/26|WILLEMS|Seniors A": 4,
-                    "2023/10/29|HALLUIN|Seniors A": 2
-                }
-            },
-            "road": {}
-        },
-        {
-            "name": "BOONE NICOLAS",
-            "course": 32,
-            "cx": {},
-            "vtt": {
-                "2020": {
-                    "2019/10/27|WAMBRECHIES|Seniors A": 8,
-                    "2019/10/06|ORCHIES|Seniors A": "Ab"
-                }
-            },
-            "road": {
-                "2024": {
-                    "2024/04/21|HALLUIN|2ème": "Ab",
-                    "2024/05/19|LILLERS|2ème": 5,
-                    "2024/08/03|SARS POTERIES|2ème": 15
-                },
-                "2023": {
-                    "2023/09/03|LINSELLES|2ème": "Ab"
-                },
-                "2022": {
-                    "2022/05/26|VRED|2ème": 53,
-                    "2022/05/01|WAMBRECHIES|2ème": 32
-                },
-                "2019": {
-                    "2019/09/01|LINSELLES|2ème": 19,
-                    "2019/08/25|FLINES LES MORTAGNE2|2ème": 29,
-                    "2019/04/07|ROMBLY|2ème": 3,
-                    "2019/03/24|WAMBRECHIES|2ème": 16,
-                    "2019/03/03|ORCHIES|2ème": 18
-                }
-            }
-        },
-        {
             "name": "DUFOUR JULIEN",
             "course": 381,
             "cx": {},
@@ -820,43 +776,6 @@
             }
         },
         {
-            "name": "SCHERNU CHRISTOPHE",
-            "course": 74,
-            "cx": {},
-            "vtt": {},
-            "road": {
-                "2024": {
-                    "2024/03/24|FERRIERE LA GRANCE|1ère": 31,
-                    "2024/04/06|BOUVIGNIES|1ère": 22,
-                    "2024/04/14|HAVELUY|1ère": 36,
-                    "2024/04/21|HALLUIN|1ère": 23,
-                    "2024/04/28|SAINT ANDRE|1ère": 16,
-                    "2024/05/05|WAMBRECHIES|1ère": 23,
-                    "2024/05/26|Departemental|50/59ans": 7,
-                    "2024/05/19|LILLERS|1ère": 10,
-                    "2024/08/09|CLMNATIONAL|40/49ans": 3,
-                    "2024/08/25|FLINES LEZ MORTAGNE|1ère": 17
-                },
-                "2023": {
-                    "2023/06/18|ACHEVILLE|Vétérans B": 18,
-                    "2023/06/11|ZERMEZEELE|1ère": 15,
-                    "2023/05/29|AUBERCHICOURT|1ère": 22,
-                    "2023/05/14|SOLESMES|Vétérans B": 9,
-                    "2023/05/07|WAMBRECHIES|1ère": 21,
-                    "2023/05/01|WAVRIN|1ère": 15,
-                    "2023/04/15|BEAULENCOURT|1ère": 32
-                },
-                "2022": {
-                    "2022/09/24|NOMAIN|1ère": 22,
-                    "2022/05/22|LIEU ST AMAND|1ère": 17,
-                    "2022/05/07|BERMERAIN|1ère": 34
-                },
-                "2020": {
-                    "2020/03/08|RIEULAY|1ère": 27
-                }
-            }
-        },
-        {
             "name": "HUBAUT CHRISTOPHE",
             "course": 172,
             "cx": {},
@@ -894,20 +813,6 @@
                     "2022/05/26|VRED|3ème": 75,
                     "2022/05/21|HECQ|3ème": 10,
                     "2022/05/14|ASSEVENT|3ème": 25
-                }
-            }
-        },
-        {
-            "name": "DENDIEVEL CYRIL",
-            "course": 32,
-            "cx": {},
-            "vtt": {},
-            "road": {
-                "2023": {
-                    "2023/10/01|HALLUIN|2ème": 2,
-                    "2023/05/21|LIEU SAINT AMAND|2ème": 55,
-                    "2023/03/12|RIEULAY|2ème": 4,
-                    "2023/03/05|ORCHIES|2ème": 35
                 }
             }
         },
@@ -1042,28 +947,6 @@
                     "2019/05/30|ETROEUNGT|1ère": 14,
                     "2019/04/28|GOMMEGNIES|1ère": 31,
                     "2019/04/21|HAVELUY|1ère": 57
-                }
-            }
-        },
-        {
-            "name": "SHERNU CHRISTOPHE",
-            "course": 2,
-            "cx": {},
-            "vtt": {},
-            "road": {
-                "2019": {
-                    "2019/09/28|NOMAIN|1ère": 24
-                }
-            }
-        },
-        {
-            "name": "TRINEL EMILY",
-            "course": 1,
-            "cx": {},
-            "vtt": {},
-            "road": {
-                "2024": {
-                    "2024/07/28|HERGNIES CENTRE|3ème": 26
                 }
             }
         },
@@ -1227,17 +1110,6 @@
                     "2024/05/05|BRUILLE SAINT AMAND |1ère": 2,
                     "2024/06/23|MAULDE2|1ère": 8,
                     "2024/08/31|POIX DU NORD|1ère": 12
-                }
-            }
-        },
-        {
-            "name": "MEAUSOONE HENRI",
-            "course": 1,
-            "cx": {},
-            "vtt": {},
-            "road": {
-                "2024": {
-                    "2024/08/15|PECQUENCOURT|2ème": 27
                 }
             }
         },

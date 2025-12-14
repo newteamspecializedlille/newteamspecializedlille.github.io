@@ -5,7 +5,7 @@ title: FONTAINE NICOLAS
 name: FONTAINE NICOLAS
 
 sports: Route
-image: assets/imgs/team/small/empty.png
+image: assets/imgs/team/nobg/empty.png
 large: assets/imgs/team/large/empty.png
 strava: https://www.strava.com/athletes/11411732
 nationality: fr

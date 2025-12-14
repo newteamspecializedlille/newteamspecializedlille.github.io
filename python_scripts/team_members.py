@@ -153,6 +153,10 @@ def remove_old_team(team):
         team.pop("MATTIOLI RONALD")
     if "WALTER BENOIT" in team:
         team.pop("WALTER BENOIT")
+    if "MEAUSOONE HENRI" in team:
+        team.pop("MEAUSOONE HENRI")
+    if "TRINEL EMILY" in team:
+        team.pop("TRINEL EMILY")
 
 
 def update_team_file(team):

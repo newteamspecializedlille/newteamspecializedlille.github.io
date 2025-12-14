@@ -3,8 +3,9 @@
 layout: coureurs-single
 title: DEFOSSE HERVE
 name: DEFOSSE HERVE
-image: assets/imgs/team/small/defosse_herve.png
+image: assets/imgs/team/nobg/defosse_herve.png
 large: assets/imgs/team/large/defosse_herve.png
+nationality: fr
 
 # full details
 live_preview: https://bslthemes.com
@@ -19,7 +20,7 @@ strava: https://www.strava.com/athletes/105331433
 sports: Route
 category: 2ème
 gallery:
-  - assets/imgs/team/small/empty.png
+  - assets/imgs/team/nobg/empty.png
   - assets/img/blog/blog8.jpg
   - assets/img/blog/blog6.jpg
 

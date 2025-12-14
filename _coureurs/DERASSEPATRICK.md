@@ -3,7 +3,8 @@
 layout: coureurs-single
 title: DERASSE PATRICK
 name: DERASSE PATRICK
-image: assets/imgs/team/small/derasse_patrick.png
+image: assets/imgs/team/nobg/derasse_patrick.png
+nationality: fr
 
 large: assets/imgs/team/large/derasse_patrick.png
 
