@@ -1,5 +1,6 @@
 {% assign content = site.data.content['portfolio'] %}
 {% assign ui_text = site.data.ui-text['ui_text'] %}
+{% assign gallery = site.data.content['gallery'] %}
 {% assign categories = site.data.settings['portfolio'] %}
 <!-- ==================== Start Team ==================== -->
 
@@ -13,46 +14,112 @@
                 </h2>
             </div>
         </div>
-        <div class="row">
-            {% for coureur in site.coureurs %}
+        <div class="row gallery-grid__row mb-40">
+            {% for image in gallery.images %}
+            {% assign category_slug = image.slug | default: image.category | slugify %}
+            <div class="col-12 col-sm-12 col-lg-4">
+                <button class="gallery-grid__trigger w-100" type="button" data-category-filter="{{ category_slug }}">
+                    <div class="gallery-grid__item o-hidden radius-20">
+                        <img src="{{ image.src | relative_url }}" alt="{{ image.alt }}" class="img-fluid w-100" style="background-color: black">
+                        {% if image.category %}
+                        <span class="gallery-grid__category-label" style="color: #14cf93">Catégorie {{ image.category }}</span>
+                        {% endif %}
+                    </div>
+                </button>
+            </div>
+            {% endfor %}
+        </div>
+        <div class="row" id="team-riders-list">
+            {% assign riders = site.coureurs | sort: 'title' %}
+            {% for coureur in riders %}
+                {% assign rider_category_slug = coureur.category_slug | default: coureur.category | slugify %}
                 {% if coureur.fun_image %}
                     {% assign hover_image = coureur.fun_image %}
                 {% else %}
                     {% assign hover_image = coureur.image | replace: '/nobg/', '/fun/' %}
                 {% endif %}
-                <div class="col-lg-4">
-                    <div class="item md-mb50">
-                        <a  href="{{ coureur.url }}">
-                            <div class="img" style="background-color: black;">
-                                <img src="{{ coureur.image | relative_url }}"
-                                     alt="{{ coureur.title }}"
-                                     data-default-image="{{ coureur.image | relative_url }}"
-                                     data-hover-image="{{ hover_image | relative_url }}">
-                                <div class="info">
-                                    <span class="fz-12">{{ coureur.category }}</span>
-                                    <h6 class="fz-18">{{ coureur.title }}</h6>
-                                </div>
+            <div class="col-lg-4 md-mb50 team-rider-card" data-rider-category="{{ rider_category_slug }}">
+                <div class="item">
+                    <a href="{{ coureur.url }}">
+                        <div class="img" style="background-color: black;">
+                            <img src="{{ coureur.image | relative_url }}"
+                                 alt="{{ coureur.title }}"
+                                 data-default-image="{{ coureur.image | relative_url }}"
+                                 data-hover-image="{{ hover_image | relative_url }}">
+                            <div class="info">
+                                <span class="fz-12" style="color: #14cf93">{{ coureur.category }}</span>
+                                <h6 class="fz-18">{{ coureur.title }}</h6>
                             </div>
-                        </a>
-                        <div class="social">
-                            <div class="links">
-                                {% if coureur.strava != nil %}
-                                <a href="{{ coureur.strava }}" target="_blank">
-                                    <i class="fab fa-strava"></i>
-                                </a>
-                                {% endif %}
-                                 {% if coureur.instagram != nil %}
-                                <a href="{{ coureur.instagram }}" target="_blank">
-                                    <i class="fab fa-instagram"></i>
-                                </a>
-                                {% endif %}
-                            </div>
+                        </div>
+                    </a>
+                    <div class="social">
+                        <div class="links">
+                            {% if coureur.strava != nil %}
+                            <a href="{{ coureur.strava }}" target="_blank">
+                                <i class="fab fa-strava"></i>
+                            </a>
+                            {% endif %}
+                            {% if coureur.instagram != nil %}
+                            <a href="{{ coureur.instagram }}" target="_blank">
+                                <i class="fab fa-instagram"></i>
+                            </a>
+                            {% endif %}
                         </div>
                     </div>
                 </div>
+            </div>
             {% endfor %}
         </div>
+        <p id="team-riders-empty" class="text-center opacity-7 mt-40" hidden>
+            Aucun coureur pour cette catégorie pour le moment.
+        </p>
     </div>
 </section>
 
 <!-- ==================== End Team ==================== -->
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+    var triggers = document.querySelectorAll('.gallery-grid__trigger');
+    var riderCards = document.querySelectorAll('[data-rider-category]');
+    var emptyState = document.getElementById('team-riders-empty');
+    var activeCategory = 'all';
+    if (!riderCards.length) return;
+
+    function toggleEmptyState(visibleCount) {
+        if (!emptyState) return;
+        emptyState.hidden = visibleCount !== 0;
+    }
+
+    function filterRiders(category) {
+        var visible = 0;
+        riderCards.forEach(function (card) {
+            var match = category === 'all' || card.getAttribute('data-rider-category') === category;
+            card.style.display = match ? '' : 'none';
+            if (match) {
+                visible += 1;
+            }
+        });
+        toggleEmptyState(visible);
+    }
+
+    triggers.forEach(function (trigger) {
+        trigger.addEventListener('click', function () {
+            var category = trigger.getAttribute('data-category-filter');
+            if (!category) return;
+            if (activeCategory === category) {
+                activeCategory = 'all';
+                triggers.forEach(function (btn) { btn.classList.remove('is-active'); });
+                filterRiders('all');
+                return;
+            }
+            activeCategory = category;
+            triggers.forEach(function (btn) { btn.classList.remove('is-active'); });
+            trigger.classList.add('is-active');
+            filterRiders(category);
+        });
+    });
+
+    filterRiders('all');
+});
+</script>

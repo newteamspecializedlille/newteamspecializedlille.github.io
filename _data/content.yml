@@ -26,6 +26,21 @@ hero:
     - num: "17"
       value: "Coureurs"
 
+### Gallery [ gallery ]
+gallery:
+  title: "Moments forts en <span class=\"fw-200\">images</span>"
+  subtitle: "Dans les <b>roues</b> du Team"
+  images:
+    - src: "assets/imgs/team/categories/1.png"
+      alt: "Sortie du Team Specialized Lille - Photo 1"
+      category: "1ère"
+    - src: "assets/imgs/team/categories/2.png"
+      alt: "Sortie du Team Specialized Lille - Photo 2"
+      category: "2ème"
+    - src: "assets/imgs/team/categories/3.png"
+      alt: "Sortie du Team Specialized Lille - Photo 3"
+      category: "3ème"
+
 ### Services [ services ]
 services:
   title: "What I Do"

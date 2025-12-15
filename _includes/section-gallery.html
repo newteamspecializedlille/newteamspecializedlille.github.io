@@ -1,0 +1,111 @@
+{% assign gallery = site.data.content['gallery'] %}
+{% assign ui_text = site.data.ui-text['ui_text'] %}
+{% assign coureurs_settings = site.data.settings['portfolio'] %}
+
+<!-- ==================== Start Gallery ==================== -->
+
+<section class="gallery-grid section-padding">
+    <div class="container">
+        <div class="sec-head mb-60">
+            <h6 class="sub-title main-color mb-25">{{ gallery.subtitle }}</h6>
+            <div class="bord pt-25 bord-thin-top d-flex align-items-center">
+                <h2 class="fw-600">{{ gallery.title }}</h2>
+            </div>
+        </div>
+        <div class="row gallery-grid__row">
+            {% for image in gallery.images %}
+            <div class="col-12 col-sm-6 col-lg-3">
+                <button class="gallery-grid__trigger w-100" type="button" data-gallery-panel="gallery-panel-{{ forloop.index }}">
+                    <div class="gallery-grid__item o-hidden radius-20">
+                        <img src="{{ image.src | relative_url }}" alt="{{ image.alt }}" class="img-fluid w-100">
+                        {% if image.category %}
+                        <span class="gallery-grid__tag">Catégorie {{ image.category }}</span>
+                        {% endif %}
+                    </div>
+                </button>
+            </div>
+            {% endfor %}
+        </div>
+        <div class="gallery-grid__panel-wrapper">
+            <div id="gallery-grid-panel" class="gallery-grid__panel-content">
+                <div class="gallery-grid__panel-placeholder">
+                    Choisissez une catégorie pour afficher nos coureurs.
+                </div>
+            </div>
+        </div>
+        {% for image in gallery.images %}
+        {% assign riders = site.coureurs | where: 'category', image.category %}
+        <div id="gallery-panel-{{ forloop.index }}" class="gallery-grid__panel-data" hidden>
+            <div class="gallery-grid__panel-head d-flex align-items-center justify-content-between mb-30">
+                <div>
+                    <p class="fz-12 text-uppercase ls1 opacity-7 mb-5">Sélection</p>
+                    <h4 class="fw-500 m-0">Catégorie {{ image.category }}</h4>
+                </div>
+                <span class="gallery-grid__count">{{ riders.size }} coureurs</span>
+            </div>
+            {% if riders and riders.size > 0 %}
+            <div class="coureurs-box coureurs-grid">
+                <div class="coureurs-items coureurs-masonry-items row gallery-grid__panel-items">
+                    {% for rider in riders %}
+                        {% assign rider_slug = rider.category_slug | default: rider.category | slugify %}
+                    <div class="coureurs-col col-12 col-sm-6 col-lg-3 sorting-{{ rider_slug }}">
+                        <div class="coureurs-item scrolla-element-anim-1 scroll-animate" data-animate="active">
+                            <div class="image">
+                                <div class="img" style="background-color: black;">
+                                    <a href="{{ rider.url }}">
+                                        <img src="{{ rider.image | relative_url }}" alt="{{ rider.title }}">
+                                        <span class="overlay"></span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="desc">
+                                <span class="category">{{ rider.category }}</span>
+                                <h5 class="name">
+                                    <a href="{{ rider.url }}">{{ rider.title }}</a>
+                                </h5>
+                                {% if rider.short_description %}
+                                <div class="text">
+                                    <p>{{ rider.short_description }}</p>
+                                </div>
+                                {% endif %}
+                                <a href="{{ rider.url }}" class="lnk">{{ ui_text.see_project }}</a>
+                            </div>
+                            <div class="bg-img" style="background-image: url({{ 'assets/images/pat-2.png' | relative_url }});"></div>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+            {% else %}
+            <p class="opacity-7">Pas de coureur pour cette catégorie pour le moment.</p>
+            {% endif %}
+        </div>
+        {% endfor %}
+    </div>
+</section>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+    var triggers = document.querySelectorAll('.gallery-grid__trigger');
+    var panel = document.getElementById('gallery-grid-panel');
+    if (!panel || !triggers.length) return;
+
+    function loadPanel(trigger) {
+        var target = trigger.getAttribute('data-gallery-panel');
+        if (!target) return;
+        var template = document.getElementById(target);
+        if (!template) return;
+        panel.innerHTML = template.innerHTML;
+        triggers.forEach(function (btn) { btn.classList.remove('is-active'); });
+        trigger.classList.add('is-active');
+    }
+
+    triggers.forEach(function (trigger) {
+        trigger.addEventListener('click', function () {
+            loadPanel(trigger);
+        });
+    });
+});
+</script>
+
+<!-- ==================== End Gallery ==================== -->
