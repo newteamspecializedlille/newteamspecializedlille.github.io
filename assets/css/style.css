@@ -10283,7 +10283,7 @@ footer.clean-footer.crev:before {
 
 .gallery-grid__category-label {
   position: absolute;
-  top: 15px;
+  bottom: 15px;
   left: 15px;
   display: inline-flex;
   padding: 6px 16px;
