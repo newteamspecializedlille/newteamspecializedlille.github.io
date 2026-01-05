@@ -2,12 +2,13 @@
     "team_members": [
         {
             "name": "DERASSE DAVID",
-            "course": 126,
+            "course": 127,
             "cx": {
                 "2026": {
                     "2025/11/30|VERLINGHEM|1ère": 14,
                     "2025/12/21|ROUVROY|1ère": 11,
-                    "2025/12/28|ESTEVELLES2|1ère": 11
+                    "2025/12/28|ESTEVELLES2|1ère": 11,
+                    "2026/01/04|NOEUX LES MINES|1ère": 13
                 },
                 "2025": {
                     "2024/10/06|ORCHIES|2ème": 16,
