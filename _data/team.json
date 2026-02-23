@@ -280,8 +280,11 @@
         },
         {
             "name": "MOULIN FELIX",
-            "course": 106,
+            "course": 107,
             "cx": {
+                "2026": {
+                    "2026/02/22|CARVIN|3ème": 14
+                },
                 "2025": {
                     "2024/10/13|VIEUX CONDE|3ème": 13,
                     "2024/10/27|HALLUIN|3ème": 13,
