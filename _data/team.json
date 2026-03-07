@@ -678,7 +678,7 @@
         },
         {
             "name": "DEFER OLIVIER",
-            "course": 212,
+            "course": 213,
             "cx": {},
             "vtt": {
                 "2026": {
@@ -689,6 +689,9 @@
                 }
             },
             "road": {
+                "2026": {
+                    "2026/03/07|HASPRES|2ème": "Ab"
+                },
                 "2025": {
                     "2025/03/09|CRESPIN2|2ème": 10,
                     "2025/03/15|BOUSIES|2ème": 5,
@@ -824,10 +827,13 @@
         },
         {
             "name": "DEJONGHE MICKAEL",
-            "course": 188,
+            "course": 189,
             "cx": {},
             "vtt": {},
             "road": {
+                "2026": {
+                    "2026/03/07|HASPRES|3ème": 20
+                },
                 "2025": {
                     "2025/03/09|CRESPIN2|3ème": 22,
                     "2025/03/15|BOUSIES|3ème": 15,
