@@ -332,10 +332,13 @@
         },
         {
             "name": "DUFOUR JULIEN",
-            "course": 381,
+            "course": 382,
             "cx": {},
             "vtt": {},
             "road": {
+                "2026": {
+                    "2026/03/08|RIEULAY|2ème": 19
+                },
                 "2025": {
                     "2025/03/02|BOUE|1ère": 28,
                     "2025/03/09|CRESPIN2|1ère": 21,
@@ -827,12 +830,13 @@
         },
         {
             "name": "DEJONGHE MICKAEL",
-            "course": 189,
+            "course": 190,
             "cx": {},
             "vtt": {},
             "road": {
                 "2026": {
-                    "2026/03/07|HASPRES|3ème": 20
+                    "2026/03/07|HASPRES|3ème": 20,
+                    "2026/03/08|RIEULAY|3ème": 43
                 },
                 "2025": {
                     "2025/03/09|CRESPIN2|3ème": 22,
@@ -1093,10 +1097,13 @@
         },
         {
             "name": "CROMBEZ THOMAS",
-            "course": 22,
+            "course": 23,
             "cx": {},
             "vtt": {},
             "road": {
+                "2026": {
+                    "2026/03/08|RIEULAY|1ère": 11
+                },
                 "2025": {
                     "2025/03/23|DIMECHAUX|1ère": 4,
                     "2025/03/30|FENAIN|1ère": 3,
@@ -1154,14 +1161,39 @@
         },
         {
             "name": "HUGUENIN DYLAN",
-            "course": 3,
+            "course": 4,
             "cx": {},
             "vtt": {},
             "road": {
+                "2026": {
+                    "2026/03/08|RIEULAY|3ème": 35
+                },
                 "2025": {
                     "2025/09/06|POIX DU NORD|3ème": 26,
                     "2025/09/14|HORNAING|3ème": 20,
                     "2025/09/28|MAULDE 3|3ème": 26
+                }
+            }
+        },
+        {
+            "name": "LECOURT CHARLIE",
+            "course": 1,
+            "cx": {},
+            "vtt": {},
+            "road": {
+                "2026": {
+                    "2026/03/08|RIEULAY|3ème": 22
+                }
+            }
+        },
+        {
+            "name": "SCHULZ YANNICK",
+            "course": 1,
+            "cx": {},
+            "vtt": {},
+            "road": {
+                "2026": {
+                    "2026/03/08|RIEULAY|3ème": 55
                 }
             }
         }
