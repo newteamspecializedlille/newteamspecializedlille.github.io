@@ -118,7 +118,7 @@
         },
         {
             "name": "LECOLIER STEPHANE",
-            "course": 294,
+            "course": 295,
             "cx": {
                 "2024": {
                     "2024/01/27|2024National|50-59 ans": 27,
@@ -135,6 +135,9 @@
             },
             "vtt": {},
             "road": {
+                "2026": {
+                    "2026/03/14|BOUSIES|1ère": 16
+                },
                 "2025": {
                     "2025/03/16|RIEULAY|1ère": 34,
                     "2025/04/06|HAVELUY|1ère": 19,
@@ -226,7 +229,7 @@
         },
         {
             "name": "LECOLIER LOUIS",
-            "course": 62,
+            "course": 63,
             "cx": {
                 "2024": {
                     "2024/01/27|2024National|17-19 ans": 45,
@@ -246,6 +249,9 @@
             },
             "vtt": {},
             "road": {
+                "2026": {
+                    "2026/03/14|BOUSIES|1ère": 10
+                },
                 "2025": {
                     "2025/03/16|RIEULAY|1ère": 28,
                     "2025/04/05|BAVAY|1ère": 31,
@@ -332,12 +338,13 @@
         },
         {
             "name": "DUFOUR JULIEN",
-            "course": 382,
+            "course": 383,
             "cx": {},
             "vtt": {},
             "road": {
                 "2026": {
-                    "2026/03/08|RIEULAY|2ème": 19
+                    "2026/03/08|RIEULAY|2ème": 19,
+                    "2026/03/14|BOUSIES|2ème": 29
                 },
                 "2025": {
                     "2025/03/02|BOUE|1ère": 28,
@@ -789,10 +796,13 @@
         },
         {
             "name": "HUBAUT CHRISTOPHE",
-            "course": 172,
+            "course": 173,
             "cx": {},
             "vtt": {},
             "road": {
+                "2026": {
+                    "2026/03/14|BOUSIES|3ème": 17
+                },
                 "2023": {
                     "2023/09/02|POIX DU NORD|2ème": 8,
                     "2023/08/27|FLINES LEZ MORTAGNE|2ème": 7,
@@ -968,10 +978,13 @@
         },
         {
             "name": "MINNECI ELIO",
-            "course": 35,
+            "course": 36,
             "cx": {},
             "vtt": {},
             "road": {
+                "2026": {
+                    "2026/03/14|BOUSIES|1ère": 15
+                },
                 "2025": {
                     "2025/03/15|BOUSIES|1ère": 24,
                     "2025/03/30|FENAIN|1ère": 21,
@@ -1097,12 +1110,13 @@
         },
         {
             "name": "CROMBEZ THOMAS",
-            "course": 23,
+            "course": 24,
             "cx": {},
             "vtt": {},
             "road": {
                 "2026": {
-                    "2026/03/08|RIEULAY|1ère": 11
+                    "2026/03/08|RIEULAY|1ère": 11,
+                    "2026/03/14|BOUSIES|1ère": 5
                 },
                 "2025": {
                     "2025/03/23|DIMECHAUX|1ère": 4,
@@ -1161,12 +1175,13 @@
         },
         {
             "name": "HUGUENIN DYLAN",
-            "course": 4,
+            "course": 5,
             "cx": {},
             "vtt": {},
             "road": {
                 "2026": {
-                    "2026/03/08|RIEULAY|3ème": 35
+                    "2026/03/08|RIEULAY|3ème": 35,
+                    "2026/03/14|BOUSIES|3ème": "Ab"
                 },
                 "2025": {
                     "2025/09/06|POIX DU NORD|3ème": 26,
@@ -1177,12 +1192,13 @@
         },
         {
             "name": "LECOURT CHARLIE",
-            "course": 1,
+            "course": 2,
             "cx": {},
             "vtt": {},
             "road": {
                 "2026": {
-                    "2026/03/08|RIEULAY|3ème": 22
+                    "2026/03/08|RIEULAY|3ème": 22,
+                    "2026/03/14|BOUSIES|3ème": 32
                 }
             }
         },
@@ -1194,6 +1210,17 @@
             "road": {
                 "2026": {
                     "2026/03/08|RIEULAY|3ème": 55
+                }
+            }
+        },
+        {
+            "name": "FONTAINE NICOLAS",
+            "course": 1,
+            "cx": {},
+            "vtt": {},
+            "road": {
+                "2026": {
+                    "2026/03/14|BOUSIES|1ère": 4
                 }
             }
         }
