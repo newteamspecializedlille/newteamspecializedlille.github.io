@@ -10,7 +10,7 @@ image: assets/img/blog/road.png
 ### 2ème Catégorie
 37 participants
 - [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 8
-- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : Ab
+- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 40
 
 ### 3ème Catégorie
 53 participants
