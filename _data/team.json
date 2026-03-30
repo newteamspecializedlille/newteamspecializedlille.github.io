@@ -338,7 +338,7 @@
         },
         {
             "name": "DUFOUR JULIEN",
-            "course": 383,
+            "course": 384,
             "cx": {},
             "vtt": {},
             "road": {
@@ -346,7 +346,8 @@
                     "2026/03/01|BOUE|2ème": 40,
                     "2026/03/07|HASPRES|2ème": 8,
                     "2026/03/08|RIEULAY|2ème": 19,
-                    "2026/03/14|BOUSIES|2ème": 29
+                    "2026/03/14|BOUSIES|2ème": 29,
+                    "2026/03/28|TAISNIERES SUR HON|2ème": 16
                 },
                 "2025": {
                     "2025/03/02|BOUE|1ère": 28,
@@ -508,10 +509,13 @@
         },
         {
             "name": "DEFOSSE HERVE",
-            "course": 451,
+            "course": 452,
             "cx": {},
             "vtt": {},
             "road": {
+                "2026": {
+                    "2026/03/28|TAISNIERES SUR HON|2ème": 36
+                },
                 "2025": {
                     "2025/03/16|RIEULAY|2ème": 73,
                     "2025/03/23|DIMECHAUX|2ème": 25,
@@ -798,12 +802,13 @@
         },
         {
             "name": "HUBAUT CHRISTOPHE",
-            "course": 173,
+            "course": 174,
             "cx": {},
             "vtt": {},
             "road": {
                 "2026": {
-                    "2026/03/14|BOUSIES|3ème": 17
+                    "2026/03/14|BOUSIES|3ème": 17,
+                    "2026/03/28|TAISNIERES SUR HON|3ème": 11
                 },
                 "2023": {
                     "2023/09/02|POIX DU NORD|2ème": 8,
@@ -842,13 +847,14 @@
         },
         {
             "name": "DEJONGHE MICKAEL",
-            "course": 190,
+            "course": 191,
             "cx": {},
             "vtt": {},
             "road": {
                 "2026": {
                     "2026/03/07|HASPRES|3ème": 20,
-                    "2026/03/08|RIEULAY|3ème": 43
+                    "2026/03/08|RIEULAY|3ème": 43,
+                    "2026/03/28|TAISNIERES SUR HON|3ème": 27
                 },
                 "2025": {
                     "2025/03/09|CRESPIN2|3ème": 22,
@@ -1112,14 +1118,15 @@
         },
         {
             "name": "CROMBEZ THOMAS",
-            "course": 24,
+            "course": 25,
             "cx": {},
             "vtt": {},
             "road": {
                 "2026": {
                     "2026/03/01|BOUE|1ère": 4,
                     "2026/03/08|RIEULAY|1ère": 11,
-                    "2026/03/14|BOUSIES|1ère": 5
+                    "2026/03/14|BOUSIES|1ère": 5,
+                    "2026/03/28|TAISNIERES SUR HON|1ère": 1
                 },
                 "2025": {
                     "2025/03/23|DIMECHAUX|1ère": 4,
