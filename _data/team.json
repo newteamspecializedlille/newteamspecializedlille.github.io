@@ -118,7 +118,7 @@
         },
         {
             "name": "LECOLIER STEPHANE",
-            "course": 295,
+            "course": 296,
             "cx": {
                 "2024": {
                     "2024/01/27|2024National|50-59 ans": 27,
@@ -136,7 +136,8 @@
             "vtt": {},
             "road": {
                 "2026": {
-                    "2026/03/14|BOUSIES|1ère": 16
+                    "2026/03/14|BOUSIES|1ère": 16,
+                    "2026/03/29|FENAIN|1ère": 9
                 },
                 "2025": {
                     "2025/03/16|RIEULAY|1ère": 34,
@@ -229,7 +230,7 @@
         },
         {
             "name": "LECOLIER LOUIS",
-            "course": 63,
+            "course": 64,
             "cx": {
                 "2024": {
                     "2024/01/27|2024National|17-19 ans": 45,
@@ -250,7 +251,8 @@
             "vtt": {},
             "road": {
                 "2026": {
-                    "2026/03/14|BOUSIES|1ère": 10
+                    "2026/03/14|BOUSIES|1ère": 10,
+                    "2026/03/29|FENAIN|1ère": 15
                 },
                 "2025": {
                     "2025/03/16|RIEULAY|1ère": 28,
@@ -338,7 +340,7 @@
         },
         {
             "name": "DUFOUR JULIEN",
-            "course": 384,
+            "course": 385,
             "cx": {},
             "vtt": {},
             "road": {
@@ -347,7 +349,8 @@
                     "2026/03/07|HASPRES|2ème": 8,
                     "2026/03/08|RIEULAY|2ème": 19,
                     "2026/03/14|BOUSIES|2ème": 29,
-                    "2026/03/28|TAISNIERES SUR HON|2ème": 16
+                    "2026/03/28|TAISNIERES SUR HON|2ème": 16,
+                    "2026/03/29|FENAIN|2ème": 18
                 },
                 "2025": {
                     "2025/03/02|BOUE|1ère": 28,
@@ -847,14 +850,15 @@
         },
         {
             "name": "DEJONGHE MICKAEL",
-            "course": 191,
+            "course": 192,
             "cx": {},
             "vtt": {},
             "road": {
                 "2026": {
                     "2026/03/07|HASPRES|3ème": 20,
                     "2026/03/08|RIEULAY|3ème": 43,
-                    "2026/03/28|TAISNIERES SUR HON|3ème": 27
+                    "2026/03/28|TAISNIERES SUR HON|3ème": 27,
+                    "2026/03/29|FENAIN|3ème": 15
                 },
                 "2025": {
                     "2025/03/09|CRESPIN2|3ème": 22,
@@ -986,12 +990,13 @@
         },
         {
             "name": "MINNECI ELIO",
-            "course": 36,
+            "course": 37,
             "cx": {},
             "vtt": {},
             "road": {
                 "2026": {
-                    "2026/03/14|BOUSIES|1ère": 15
+                    "2026/03/14|BOUSIES|1ère": 15,
+                    "2026/03/29|FENAIN|1ère": 27
                 },
                 "2025": {
                     "2025/03/15|BOUSIES|1ère": 24,
@@ -1118,7 +1123,7 @@
         },
         {
             "name": "CROMBEZ THOMAS",
-            "course": 25,
+            "course": 26,
             "cx": {},
             "vtt": {},
             "road": {
@@ -1126,7 +1131,8 @@
                     "2026/03/01|BOUE|1ère": 4,
                     "2026/03/08|RIEULAY|1ère": 11,
                     "2026/03/14|BOUSIES|1ère": 5,
-                    "2026/03/28|TAISNIERES SUR HON|1ère": 1
+                    "2026/03/28|TAISNIERES SUR HON|1ère": 1,
+                    "2026/03/29|FENAIN|1ère": 2
                 },
                 "2025": {
                     "2025/03/23|DIMECHAUX|1ère": 4,
