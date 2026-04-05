@@ -805,13 +805,14 @@
         },
         {
             "name": "HUBAUT CHRISTOPHE",
-            "course": 174,
+            "course": 175,
             "cx": {},
             "vtt": {},
             "road": {
                 "2026": {
                     "2026/03/14|BOUSIES|3ème": 17,
-                    "2026/03/28|TAISNIERES SUR HON|3ème": 11
+                    "2026/03/28|TAISNIERES SUR HON|3ème": 11,
+                    "2026/04/04|BAVAY|3ème": 27
                 },
                 "2023": {
                     "2023/09/02|POIX DU NORD|2ème": 8,
@@ -850,7 +851,7 @@
         },
         {
             "name": "DEJONGHE MICKAEL",
-            "course": 192,
+            "course": 193,
             "cx": {},
             "vtt": {},
             "road": {
@@ -858,7 +859,8 @@
                     "2026/03/07|HASPRES|3ème": 20,
                     "2026/03/08|RIEULAY|3ème": 43,
                     "2026/03/28|TAISNIERES SUR HON|3ème": 27,
-                    "2026/03/29|FENAIN|3ème": 15
+                    "2026/03/29|FENAIN|3ème": 15,
+                    "2026/04/04|BAVAY|3ème": 29
                 },
                 "2025": {
                     "2025/03/09|CRESPIN2|3ème": 22,
