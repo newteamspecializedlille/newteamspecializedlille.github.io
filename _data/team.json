@@ -2,7 +2,7 @@
     "team_members": [
         {
             "name": "DERASSE DAVID",
-            "course": 127,
+            "course": 128,
             "cx": {
                 "2026": {
                     "2025/11/30|VERLINGHEM|1ère": 14,
@@ -63,6 +63,9 @@
                 }
             },
             "road": {
+                "2026": {
+                    "2026/04/06|PROVIN|1ère": 8
+                },
                 "2025": {
                     "2025/03/16|RIEULAY|1ère": 27,
                     "2025/03/30|FENAIN|1ère": 36,
@@ -340,7 +343,7 @@
         },
         {
             "name": "DUFOUR JULIEN",
-            "course": 385,
+            "course": 386,
             "cx": {},
             "vtt": {},
             "road": {
@@ -350,7 +353,8 @@
                     "2026/03/08|RIEULAY|2ème": 19,
                     "2026/03/14|BOUSIES|2ème": 29,
                     "2026/03/28|TAISNIERES SUR HON|2ème": 16,
-                    "2026/03/29|FENAIN|2ème": 18
+                    "2026/03/29|FENAIN|2ème": 18,
+                    "2026/04/06|PROVIN|2ème": 14
                 },
                 "2025": {
                     "2025/03/02|BOUE|1ère": 28,
@@ -851,7 +855,7 @@
         },
         {
             "name": "DEJONGHE MICKAEL",
-            "course": 193,
+            "course": 194,
             "cx": {},
             "vtt": {},
             "road": {
@@ -860,7 +864,8 @@
                     "2026/03/08|RIEULAY|3ème": 43,
                     "2026/03/28|TAISNIERES SUR HON|3ème": 27,
                     "2026/03/29|FENAIN|3ème": 15,
-                    "2026/04/04|BAVAY|3ème": 29
+                    "2026/04/04|BAVAY|3ème": 29,
+                    "2026/04/06|PROVIN|3ème": 21
                 },
                 "2025": {
                     "2025/03/09|CRESPIN2|3ème": 22,
@@ -992,13 +997,14 @@
         },
         {
             "name": "MINNECI ELIO",
-            "course": 37,
+            "course": 38,
             "cx": {},
             "vtt": {},
             "road": {
                 "2026": {
                     "2026/03/14|BOUSIES|1ère": 15,
-                    "2026/03/29|FENAIN|1ère": 27
+                    "2026/03/29|FENAIN|1ère": 27,
+                    "2026/04/06|PROVIN|1ère": 5
                 },
                 "2025": {
                     "2025/03/15|BOUSIES|1ère": 24,
@@ -1092,7 +1098,7 @@
         },
         {
             "name": "DERASSE PATRICK",
-            "course": 18,
+            "course": 19,
             "cx": {},
             "vtt": {
                 "2026": {
@@ -1101,6 +1107,9 @@
                 }
             },
             "road": {
+                "2026": {
+                    "2026/04/06|PROVIN|4ème": 27
+                },
                 "2025": {
                     "2025/04/13|ETROEUNGT|3ème": "Ab",
                     "2025/04/20|CRITERIUM DE BOISLEUX AU MONT|3ème": 24,
@@ -1210,13 +1219,14 @@
         },
         {
             "name": "LECOURT CHARLIE",
-            "course": 2,
+            "course": 3,
             "cx": {},
             "vtt": {},
             "road": {
                 "2026": {
                     "2026/03/08|RIEULAY|3ème": 22,
-                    "2026/03/14|BOUSIES|3ème": 32
+                    "2026/03/14|BOUSIES|3ème": 32,
+                    "2026/04/06|PROVIN|3ème": "Ab"
                 }
             }
         },
@@ -1233,12 +1243,13 @@
         },
         {
             "name": "FONTAINE NICOLAS",
-            "course": 1,
+            "course": 2,
             "cx": {},
             "vtt": {},
             "road": {
                 "2026": {
-                    "2026/03/14|BOUSIES|1ère": 4
+                    "2026/03/14|BOUSIES|1ère": 4,
+                    "2026/04/06|PROVIN|1ère": 2
                 }
             }
         }
