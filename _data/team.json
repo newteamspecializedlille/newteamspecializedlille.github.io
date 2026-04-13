@@ -517,12 +517,13 @@
         },
         {
             "name": "DEFOSSE HERVE",
-            "course": 452,
+            "course": 453,
             "cx": {},
             "vtt": {},
             "road": {
                 "2026": {
-                    "2026/03/28|TAISNIERES SUR HON|2ème": 36
+                    "2026/03/28|TAISNIERES SUR HON|2ème": 36,
+                    "2026/04/12|ETROEUNGT|2ème": 11
                 },
                 "2025": {
                     "2025/03/16|RIEULAY|2ème": 73,
