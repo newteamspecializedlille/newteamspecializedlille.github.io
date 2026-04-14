@@ -15,6 +15,7 @@ image: assets/img/blog/road.png
 
 ### 2ème Catégorie
 - [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 15
+- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 35
 - [BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine) : 40
 
 ### 4ème Catégorie
