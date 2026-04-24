@@ -12,3 +12,4 @@ image: assets/img/blog/road.png
 
 ### 2ème Catégorie
 - [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 40
+- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 40
