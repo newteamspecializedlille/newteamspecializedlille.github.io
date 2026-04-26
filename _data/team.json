@@ -2,7 +2,7 @@
     "team_members": [
         {
             "name": "DERASSE DAVID",
-            "course": 128,
+            "course": 129,
             "cx": {
                 "2026": {
                     "2025/11/30|VERLINGHEM|1ère": 14,
@@ -65,7 +65,8 @@
             "road": {
                 "2026": {
                     "2026/04/05|HAVELUY|1ère": 21,
-                    "2026/04/06|PROVIN|1ère": 8
+                    "2026/04/06|PROVIN|1ère": 8,
+                    "2026/04/26|MAULDE - CHORETTE|1ère": 46
                 },
                 "2025": {
                     "2025/03/16|RIEULAY|1ère": 27,
@@ -122,7 +123,7 @@
         },
         {
             "name": "LECOLIER STEPHANE",
-            "course": 296,
+            "course": 297,
             "cx": {
                 "2024": {
                     "2024/01/27|2024National|50-59 ans": 27,
@@ -142,7 +143,8 @@
                 "2026": {
                     "2026/03/14|BOUSIES|1ère": 16,
                     "2026/03/29|FENAIN|1ère": 9,
-                    "2026/04/05|HAVELUY|1ère": 15
+                    "2026/04/05|HAVELUY|1ère": 15,
+                    "2026/04/26|MAULDE - CHORETTE|1ère": 48
                 },
                 "2025": {
                     "2025/03/16|RIEULAY|1ère": 34,
@@ -235,7 +237,7 @@
         },
         {
             "name": "LECOLIER LOUIS",
-            "course": 64,
+            "course": 65,
             "cx": {
                 "2024": {
                     "2024/01/27|2024National|17-19 ans": 45,
@@ -258,7 +260,8 @@
                 "2026": {
                     "2026/03/14|BOUSIES|1ère": 10,
                     "2026/03/29|FENAIN|1ère": 15,
-                    "2026/04/05|HAVELUY|1ère": 28
+                    "2026/04/05|HAVELUY|1ère": 28,
+                    "2026/04/26|MAULDE - CHORETTE|1ère": 14
                 },
                 "2025": {
                     "2025/03/16|RIEULAY|1ère": 28,
@@ -346,7 +349,7 @@
         },
         {
             "name": "DUFOUR JULIEN",
-            "course": 387,
+            "course": 388,
             "cx": {},
             "vtt": {},
             "road": {
@@ -359,7 +362,8 @@
                     "2026/03/29|FENAIN|2ème": 18,
                     "2026/04/05|HAVELUY|2ème": 15,
                     "2026/04/06|PROVIN|2ème": 14,
-                    "2026/04/11|BOUVIGNIES|2ème": 15
+                    "2026/04/11|BOUVIGNIES|2ème": 15,
+                    "2026/04/26|MAULDE - CHORETTE|2ème": 19
                 },
                 "2025": {
                     "2025/03/02|BOUE|1ère": 28,
@@ -521,7 +525,7 @@
         },
         {
             "name": "DEFOSSE HERVE",
-            "course": 454,
+            "course": 455,
             "cx": {},
             "vtt": {},
             "road": {
@@ -529,7 +533,8 @@
                     "2026/03/28|TAISNIERES SUR HON|2ème": 36,
                     "2026/04/05|HAVELUY|2ème": 35,
                     "2026/04/12|ETROEUNGT|2ème": 11,
-                    "2026/04/18|ASSEVENT|2ème": 11
+                    "2026/04/18|ASSEVENT|2ème": 11,
+                    "2026/04/26|MAULDE - CHORETTE|2ème": 47
                 },
                 "2025": {
                     "2025/03/16|RIEULAY|2ème": 73,
@@ -1111,7 +1116,7 @@
         },
         {
             "name": "DERASSE PATRICK",
-            "course": 19,
+            "course": 20,
             "cx": {},
             "vtt": {
                 "2026": {
@@ -1122,7 +1127,8 @@
             "road": {
                 "2026": {
                     "2026/04/05|HAVELUY|4ème": 30,
-                    "2026/04/06|PROVIN|4ème": 27
+                    "2026/04/06|PROVIN|4ème": 27,
+                    "2026/04/26|MAULDE - CHORETTE|4ème": 30
                 },
                 "2025": {
                     "2025/04/13|ETROEUNGT|3ème": "Ab",
@@ -1148,7 +1154,7 @@
         },
         {
             "name": "CROMBEZ THOMAS",
-            "course": 26,
+            "course": 27,
             "cx": {},
             "vtt": {},
             "road": {
@@ -1157,7 +1163,8 @@
                     "2026/03/08|RIEULAY|1ère": 11,
                     "2026/03/14|BOUSIES|1ère": 5,
                     "2026/03/28|TAISNIERES SUR HON|1ère": 1,
-                    "2026/03/29|FENAIN|1ère": 2
+                    "2026/03/29|FENAIN|1ère": 2,
+                    "2026/04/26|MAULDE - CHORETTE|1ère": 4
                 },
                 "2025": {
                     "2025/03/23|DIMECHAUX|1ère": 4,
