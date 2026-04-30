@@ -3305,7 +3305,7 @@ a.velo-home-partners__item {
 /* Filler : fond rouge */
 .velo-home-rider-card--filler,
 .velo-home-rider-card__img-filler {
-  background: var(--v-spe) !important;
+  background: black !important;
 }
 /* Infos cartes : bordure rouge */
 .velo-home-rider-card__info {
