@@ -66,6 +66,7 @@
                 "2026": {
                     "2026/04/05|HAVELUY|1ère": 21,
                     "2026/04/06|PROVIN|1ère": 8,
+                    "2026/04/19|VIEUX CONDE|1ère": 18,
                     "2026/04/26|MAULDE - CHORETTE|1ère": 46
                 },
                 "2025": {
@@ -144,6 +145,7 @@
                     "2026/03/14|BOUSIES|1ère": 16,
                     "2026/03/29|FENAIN|1ère": 9,
                     "2026/04/05|HAVELUY|1ère": 15,
+                    "2026/04/19|VIEUX CONDE|1ère": 23,
                     "2026/04/26|MAULDE - CHORETTE|1ère": 48
                 },
                 "2025": {
@@ -261,6 +263,7 @@
                     "2026/03/14|BOUSIES|1ère": 10,
                     "2026/03/29|FENAIN|1ère": 15,
                     "2026/04/05|HAVELUY|1ère": 28,
+                    "2026/04/19|VIEUX CONDE|1ère": 19,
                     "2026/04/26|MAULDE - CHORETTE|1ère": 14
                 },
                 "2025": {
@@ -363,6 +366,7 @@
                     "2026/04/05|HAVELUY|2ème": 15,
                     "2026/04/06|PROVIN|2ème": 14,
                     "2026/04/11|BOUVIGNIES|2ème": 15,
+                    "2026/04/19|VIEUX CONDE|2ème": 20,
                     "2026/04/26|MAULDE - CHORETTE|2ème": 19
                 },
                 "2025": {
@@ -534,6 +538,7 @@
                     "2026/04/05|HAVELUY|2ème": 35,
                     "2026/04/12|ETROEUNGT|2ème": 11,
                     "2026/04/18|ASSEVENT|2ème": 11,
+                    "2026/04/19|VIEUX CONDE|2ème": "Ab",
                     "2026/04/26|MAULDE - CHORETTE|2ème": 47
                 },
                 "2025": {
@@ -829,7 +834,8 @@
                 "2026": {
                     "2026/03/14|BOUSIES|3ème": 17,
                     "2026/03/28|TAISNIERES SUR HON|3ème": 11,
-                    "2026/04/04|BAVAY|3ème": 27
+                    "2026/04/04|BAVAY|3ème": 27,
+                    "2026/04/19|VIEUX CONDE|3ème": 32
                 },
                 "2023": {
                     "2023/09/02|POIX DU NORD|2ème": 8,
@@ -1020,7 +1026,8 @@
                     "2026/03/14|BOUSIES|1ère": 15,
                     "2026/03/29|FENAIN|1ère": 27,
                     "2026/04/05|HAVELUY|1ère": 19,
-                    "2026/04/06|PROVIN|1ère": 5
+                    "2026/04/06|PROVIN|1ère": 5,
+                    "2026/04/19|VIEUX CONDE|1ère": 15
                 },
                 "2025": {
                     "2025/03/15|BOUSIES|1ère": 24,
@@ -1129,6 +1136,7 @@
                 "2026": {
                     "2026/04/05|HAVELUY|4ème": 30,
                     "2026/04/06|PROVIN|4ème": 27,
+                    "2026/04/19|VIEUX CONDE|4ème": "Ab",
                     "2026/04/26|MAULDE - CHORETTE|4ème": 30
                 },
                 "2025": {
@@ -1165,6 +1173,7 @@
                     "2026/03/14|BOUSIES|1ère": 5,
                     "2026/03/28|TAISNIERES SUR HON|1ère": 1,
                     "2026/03/29|FENAIN|1ère": 2,
+                    "2026/04/19|VIEUX CONDE|1ère": 11,
                     "2026/04/26|MAULDE - CHORETTE|1ère": 4
                 },
                 "2025": {
