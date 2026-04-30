@@ -115,11 +115,14 @@ layout: default
                 <td class="velo-challenge-table__pos {% if rank == 4 %}velo-rank-4{% endif %}">{{ rank | prepend: "00" | slice: -2, 2 }}</td>
                 <td class="velo-challenge-table__rider">
                   <div class="velo-challenge-rider">
-                    {% if rc.image %}
-                      <img class="velo-challenge-rider__avatar"
-                           src="{{ rc.image | relative_url }}"
-                           alt="{{ people[0] }}"
-                           loading="lazy">
+                    {% assign avatar_src = rc.head | default: rc.image %}
+                    {% if avatar_src %}
+                      <div class="velo-challenge-rider__avatar-wrap">
+                        <img class="velo-challenge-rider__avatar"
+                             src="{{ avatar_src | relative_url }}"
+                             alt="{{ people[0] }}"
+                             loading="lazy">
+                      </div>
                     {% endif %}
                     <span class="velo-challenge-rider__name">{{ people[0] }}</span>
                   </div>

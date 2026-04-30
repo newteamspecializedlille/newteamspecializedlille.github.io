@@ -8,6 +8,7 @@ name: LECOURT CHARLIE
 
 sports: Route
 image: assets/images/specialized.webp
+head: assets/images/specialized.webp
 large: assets/images/specialized.webp
 nationality: fr
 #date_of_birth: 10/10/1974

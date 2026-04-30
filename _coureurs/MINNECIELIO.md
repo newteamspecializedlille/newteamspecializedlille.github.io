@@ -7,6 +7,7 @@ name: MINNECI ELIO
 
 sports:  Route
 image: assets/imgs/team/nobg/minneci_elio.png
+head: assets/imgs/team/head/minneci_elio.png
 large: assets/imgs/team/large/minneci_elio.png
 nationality: fr
 date_of_birth: 18/09/2004

@@ -4,6 +4,7 @@ layout: rider
 title: DEFOSSE HERVE
 name: DEFOSSE HERVE
 image: assets/imgs/team/nobg/defosse_herve.png
+head: assets/imgs/team/head/defosse_herve.png
 large: assets/imgs/team/large/defosse_herve.png
 nationality: fr
 

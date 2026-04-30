@@ -4,6 +4,7 @@ layout: rider
 title: CROMBEZ THOMAS
 name: CROMBEZ THOMAS
 image: assets/imgs/team/nobg/crombez_thomas.png
+head: assets/imgs/team/head/crombez_thomas.png
 strava: https://www.strava.com/athletes/65224301
 large: assets/imgs/team/large/crombez_thomas.png
 nationality: fr

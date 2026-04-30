@@ -6,6 +6,7 @@ name: DERASSE DAVID
 
   
 image: assets/imgs/team/nobg/derasse_david.png
+head: assets/imgs/team/head/derasse_david.png
 large: assets/imgs/team/large/derasse_david.png
 nationality: fr
 date_of_birth: 09/01/2007

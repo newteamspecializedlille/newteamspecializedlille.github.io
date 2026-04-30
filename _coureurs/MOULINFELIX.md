@@ -6,6 +6,7 @@ name: MOULIN FELIX
 
 sports: Cyclo-Cross Route
 image: assets/imgs/team/nobg/felix_moulin.png
+head: assets/imgs/team/head/felix_moulin.png
 large: assets/imgs/team/large/felix_moulin.png
 strava: https://www.strava.com/athletes/24292544
 nationality: fr

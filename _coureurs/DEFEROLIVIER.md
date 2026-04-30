@@ -5,6 +5,7 @@ title: DEFER OLIVIER
 name: DEFER OLIVIER
 
 image: assets/imgs/team/nobg/defer_olivier.png
+head: assets/imgs/team/head/defer_olivier.png
 large: assets/imgs/team/large/defer_olivier.png
 nationality: fr
 

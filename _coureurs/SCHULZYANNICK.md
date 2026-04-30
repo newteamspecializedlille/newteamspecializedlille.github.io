@@ -4,6 +4,7 @@ layout: rider
 title: SCHULZ YANNICK
 name: SCHULZ YANNICK
 image: assets/imgs/team/nobg/schulz_yannick.png
+head: assets/imgs/team/head/schulz_yannick.png
 
 large: assets/imgs/team/large/schulz_yannick.png
 date_of_birth: 00/00/0000
