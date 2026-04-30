@@ -9,7 +9,7 @@ url: "https://teamspecializedlille.cc" # the base hostname & protocol for your s
 date_format: "%d %B %Y"
 
 # paginations & permalinks
-paginate: 6
+paginate: 20
 paginate_path: "/blog/page:num/"
 permalink: pretty
 

@@ -6,21 +6,30 @@
 settings:
   skin: "light" # select initial skin option: "light" or "dark"
 
-
+### Team Identity
+team:
+  name: "TEAM SPECIALIZED LILLE"
+  short_name: "Team Specialized Lille"
+  founded: "EST. 2022"
+  location: "Lille, FR"
+  disciplines: "ROUTE · CX · VTT"
+  roster_size: "18 COUREURS"
+  baseline: "Route, CX & VTT"
+  facebook: "https://www.facebook.com/cycleslecolier"
+  strava: ""
+  instagram: ""
 
 ### Header
 header:
   logo:
     image: "assets/img/profil.png"
-    alt: "Team <strong>Specialized Lille"
+    alt: "Team Specialized Lille"
 
 ### Social
 social:
   - title: "Facebook"
     icon: "fab fa-facebook"
     url: "https://www.facebook.com/cycleslecolier"
-
-
 
 ### Footer
 footer:
@@ -29,13 +38,93 @@ footer:
 
 ### Portfolio Filters Settings
 portfolio:
-  layout: "list" # select coureurs layout options: "Grid" or "List"
+  layout: "list"
   filters:
     - name: "Route"
       slug: "road"
-
     - name: "Cyclo cross"
       slug: "cx"
-
     - name: "VTT"
       slug: "vtt"
+
+### Partners (displayed on homepage)
+partners:
+  - name: "SPECIALIZED"
+  - name: "CYCLES LECOLIER"
+  - name: "STRAVA"
+
+### Text strings
+text:
+
+  # Common
+  all: "TOUS"
+  filter_label: "FILTRER :"
+  previous: "PRÉCÉDENT"
+  next: "SUIVANT"
+  view_all: "Voir toutes les courses"
+  date_col: "Date"
+  race_col: "Course"
+  discipline_col: "Discipline"
+  best_result_col: "Meilleur résultat"
+  no_results: "Aucun résultat pour ce filtre."
+  pts_suffix: "PTS"
+
+  # Homepage
+  home:
+    stat_roster: "Effectif"
+    stat_founded: "Fondé"
+    stat_disciplines: "Disciplines"
+    last_race_label: "Dernière course"
+    last_race_link: "Voir le résultat →"
+    roster_section_label: "Équipe // 01"
+    roster_section_title: "LES COUREURS"
+    results_section_label: "Performance // 02"
+    results_section_title: "DERNIÈRES COURSES"
+    results_section_sub: "Historique des performances récentes de l'équipe."
+    results_cta: "VOIR TOUTES LES COURSES"
+    cat_col: "CATÉGORIE"
+
+  # Blog / Results archive
+  blog:
+    hero_title: "ARCHIVE DES COURSES"
+    hero_sub: "Historique complet des résultats de l'équipe — chaque course, chaque performance."
+    pagination_info: "courses au total"
+
+  # Challenge page
+  challenge:
+    status_label: "Classement en cours"
+    hero_sub: "Chaque course compte. Chaque point est arraché."
+    leader_tag: "SERIES LEADER"
+    leader_pts_label: "Total Points"
+    rank_pts_label: "Current Rank"
+    ranking_title: "CLASSEMENT COMPLET"
+    ranking_sub: "Rangs 04 et suivants"
+    col_pos: "Pos."
+    col_rider: "Coureur"
+    col_points: "Points"
+    rules_title: "RÈGLEMENT"
+    rules_participation: "Participation"
+    rules_win: "Victoire"
+    rules_top5: "Top 5"
+    rules_top10: "Top 10"
+    rules_top15: "Top 15"
+    rules_note: "Les points sont attribués à chaque épreuve validée. Le classement est mis à jour après chaque course."
+    update_prefix: "Mis à jour le"
+
+  # Coureur single page
+  coureur:
+    tag: "COUREUR"
+    dob_label: "Date de naissance"
+    nationality_label: "Nationalité"
+    category_label: "Catégorie"
+    discipline_label: "Discipline"
+    palmares_title: "PALMARÈS"
+    col_date: "Date"
+    col_race: "Épreuve"
+    col_disc: "Discipline"
+    col_result: "Résultat"
+
+  # Recent races include
+  recent_races:
+    title: "Dernières Courses"
+    cta: "Toutes les courses"

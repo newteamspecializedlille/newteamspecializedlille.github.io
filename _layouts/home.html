@@ -1,0 +1,213 @@
+---
+layout: default
+---
+
+{% assign months_fr = "Janvier,Février,Mars,Avril,Mai,Juin,Juillet,Août,Septembre,Octobre,Novembre,Décembre" | split: "," %}
+{% assign s = site.data.settings %}
+{% assign t = s.text %}
+{% assign coureurs_count = site.coureurs | size %}
+{% assign latest_post = site.posts | first %}
+{% assign latest_title = latest_post.title | split: " - " %}
+
+<!-- ==================== HOME (Monochrome Velo) ==================== -->
+
+<!-- HERO -->
+<header class="velo-home-hero">
+  <div class="velo-home-hero__left">
+    <h1 class="velo-home-hero__title">TEAM<br>SPECIALIZED<br>LILLE</h1>
+    <div class="velo-home-hero__stats">
+      <div class="velo-home-hero__stat">
+        <span class="velo-home-hero__stat-label">{{ t.home.stat_roster }}</span>
+        <span class="velo-home-hero__stat-val">{{ coureurs_count }} COUREURS</span>
+      </div>
+      <div class="velo-home-hero__stat">
+        <span class="velo-home-hero__stat-label">{{ t.home.stat_founded }}</span>
+        <span class="velo-home-hero__stat-val">{{ s.team.founded }}</span>
+      </div>
+      <div class="velo-home-hero__stat">
+        <span class="velo-home-hero__stat-label">{{ t.home.stat_disciplines }}</span>
+        <span class="velo-home-hero__stat-val">{{ s.team.disciplines }}</span>
+      </div>
+    </div>
+  </div>
+  <div class="velo-home-hero__right">
+    <div class="velo-home-hero__right-top">
+      <img class="velo-home-hero__logo"
+           src="{{ 'assets/images/specialized.webp' | relative_url }}"
+           alt="Specialized">
+    </div>
+    <div class="velo-home-hero__right-bottom">
+      <p class="velo-home-hero__right-label">{{ t.home.last_race_label }}</p>
+      {% if latest_post %}
+        <h3 class="velo-home-hero__right-name">{{ latest_title[1] | default: latest_post.title }}</h3>
+        {% assign _month_idx = latest_post.date | date: "%-m" | minus: 1 %}
+        <p class="velo-home-hero__right-date">{{ latest_post.date | date: "%-d" }} {{ months_fr[_month_idx] }} {{ latest_post.date | date: "%Y" }}</p>
+        <a class="velo-home-hero__right-link" href="{{ latest_post.url }}">{{ t.home.last_race_link }}</a>
+      {% endif %}
+    </div>
+  </div>
+</header>
+
+<!-- TEAM PHOTO -->
+<section class="velo-home-photo">
+  <img src="{{ 'assets/imgs/team/team_2026.png' | relative_url }}"
+       alt="Team Specialized Lille"
+       class="velo-home-photo__img">
+</section>
+
+<!-- ROSTER -->
+<section class="velo-home-roster" id="roster">
+  <div class="velo-home-roster__header">
+    <div>
+      <span class="velo-home-roster__label">{{ t.home.roster_section_label }}</span>
+      <h2 class="velo-home-roster__title">{{ t.home.roster_section_title }}</h2>
+    </div>
+    <div class="velo-home-roster__filters">
+      <button class="velo-home-roster__filter is-active" data-filter="all">{{ t.all }}</button>
+      <button class="velo-home-roster__filter" data-filter="1ère">1ÈRE</button>
+      <button class="velo-home-roster__filter" data-filter="2ème">2ÈME</button>
+      <button class="velo-home-roster__filter" data-filter="3ème">3ÈME</button>
+      <button class="velo-home-roster__filter" data-filter="4ème">4ÈME</button>
+    </div>
+  </div>
+
+  <div class="velo-home-roster__grid" id="roster-grid">
+    {% assign idx = 0 %}
+    {% for coureur in site.coureurs %}
+      {% assign idx = idx | plus: 1 %}
+      <a class="velo-home-rider-card" href="{{ coureur.url }}"
+         data-sport="{{ coureur.category }}">
+        <div class="velo-home-rider-card__img-wrap">
+          {% if coureur.image %}
+            <img class="velo-home-rider-card__img"
+                 src="{{ coureur.image | relative_url }}"
+                 alt="{{ coureur.name }}">
+          {% else %}
+            <div class="velo-home-rider-card__img-placeholder"></div>
+          {% endif %}
+        </div>
+        <div class="velo-home-rider-card__info">
+          <div class="velo-home-rider-card__top">
+            <span class="velo-home-rider-card__num">#{{ idx | prepend: "00" | slice: -2, 2 }}</span>
+            {% if coureur.category %}<span class="velo-home-rider-card__cat">{{ coureur.category }}</span>{% endif %}
+          </div>
+          <h4 class="velo-home-rider-card__name">{{ coureur.name | split: " " | first }}<br>{{ coureur.name | split: " " | last }}</h4>
+          <div class="velo-home-rider-card__meta">
+            <div class="velo-home-rider-card__meta-row">
+              <span>{{ t.home.cat_col }}</span>
+              <span>{{ coureur.category | upcase }}</span>
+            </div>
+          </div>
+        </div>
+      </a>
+    {% endfor %}
+    {% comment %} Filler card — span updated dynamically by JS {% endcomment %}
+    <div class="velo-home-rider-card velo-home-rider-card--filler" id="roster-filler">
+      <div class="velo-home-rider-card__img-wrap velo-home-rider-card__img-filler">
+        <img src="{{ 'assets/images/specialized.webp' | relative_url }}"
+             alt="Specialized" class="velo-home-rider-card__filler-logo">
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- RECENT RESULTS TABLE -->
+<section class="velo-home-results">
+  <div class="velo-home-results__intro">
+    <div>
+      <span class="velo-home-results__label">{{ t.home.results_section_label }}</span>
+      <h2 class="velo-home-results__title">{{ t.home.results_section_title | replace: " ", "<br>" }}</h2>
+      <p class="velo-home-results__sub">{{ t.home.results_section_sub }}</p>
+    </div>
+    <a class="velo-home-results__cta" href="/blog/">
+      {{ t.home.results_cta }} <span>→</span>
+    </a>
+  </div>
+
+  <div class="velo-home-results__table-wrap">
+    <table class="velo-home-results__table">
+      <thead>
+        <tr>
+          <th>{{ t.race_col }}</th>
+          <th>{{ t.date_col }}</th>
+          <th>{{ t.discipline_col }}</th>
+          <th class="text-right">{{ t.best_result_col }}</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for post in site.posts limit:8 %}
+          {% assign title_parts = post.title | split: " - " %}
+          {% assign _best = 9999 %}
+          {% assign _parts = post.content | split: " : " %}
+          {% for _part in _parts offset:1 %}
+            {% assign _numstr = _part | split: "<" | first | strip %}
+            {% assign _num = _numstr | plus: 0 %}
+            {% if _num > 0 and _num < _best %}{% assign _best = _num %}{% endif %}
+          {% endfor %}
+          {% assign _month_idx = post.date | date: "%-m" | minus: 1 %}
+          {% assign _cat = post.category | first | default: post.category %}
+          <tr class="velo-home-results__row" onclick="window.location='{{ post.url }}'">
+            <td class="velo-home-results__name">{{ title_parts[1] | default: post.title }}</td>
+            <td class="velo-home-results__date">{{ post.date | date: "%-d" }} {{ months_fr[_month_idx] }}</td>
+            <td class="velo-home-results__disc">
+              {% if _cat %}<span class="velo-chip">{{ _cat }}</span>{% endif %}
+            </td>
+            <td class="velo-home-results__pos">
+              {% if _best < 9999 %}
+                {% if _best == 1 %}&#129351;
+                {% elsif _best == 2 %}&#129352;
+                {% elsif _best == 3 %}&#129353;
+                {% else %}<strong>{{ _best }}</strong>{% endif %}
+              {% endif %}
+            </td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<!-- PARTNERS -->
+<section class="velo-home-partners">
+  {% for partner in s.partners %}
+    <span class="velo-home-partners__item">{{ partner.name }}</span>
+  {% endfor %}
+</section>
+
+<!-- JS: roster filter -->
+<script>
+(function(){
+  var btns = document.querySelectorAll('.velo-home-roster__filter');
+  var cards = document.querySelectorAll('.velo-home-rider-card:not(.velo-home-rider-card--filler)');
+  var filler = document.getElementById('roster-filler');
+
+  function updateFiller() {
+    var visible = 0;
+    cards.forEach(function(c){ if(c.style.display !== 'none') visible++; });
+    var remainder = visible % 4;
+    if (remainder === 0) {
+      filler.style.display = 'none';
+    } else {
+      var span = 4 - remainder;
+      filler.style.display = '';
+      filler.style.gridColumn = 'span ' + span;
+    }
+  }
+
+  btns.forEach(function(btn){
+    btn.addEventListener('click', function(){
+      var f = btn.dataset.filter;
+      btns.forEach(function(b){ b.classList.remove('is-active'); });
+      btn.classList.add('is-active');
+      cards.forEach(function(card){
+        card.style.display = (f === 'all' || card.dataset.sport === f) ? '' : 'none';
+      });
+      updateFiller();
+    });
+  });
+
+  updateFiller();
+})();
+</script>
+
+<!-- ==================== END HOME ==================== -->

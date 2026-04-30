@@ -1,35 +1,13 @@
-{% assign content = site.data.content['marq'] %}
-{% assign ui_text = site.data.ui-text['ui_text'] %}
-{% assign categories = site.data.settings['marq'] %}
+<!-- ==================== Start Marquee (Monochrome Velo) ==================== -->
 
-<!-- ==================== Start marq ==================== -->
+<div class="velo-marquee" aria-hidden="true">
+  <div class="velo-marquee__track">
+    {% assign items = "Team Specialized Lille,Road,Cyclo-Cross,VTT,Hauts-de-France,Team Specialized Lille,Road,Cyclo-Cross,VTT,Hauts-de-France,Team Specialized Lille,Road,Cyclo-Cross,VTT,Hauts-de-France,Team Specialized Lille,Road,Cyclo-Cross,VTT,Hauts-de-France" | split: "," %}
+    {% for item in items %}
+      <span class="velo-marquee__item">
+        {{ item }}<span class="velo-marquee__sep">*</span>
+      </span>
+    {% endfor %}
+  </div>
+</div>
 
-<section class="marquee-skew">
-    <div class="container-fluid rest">
-        <div class="row">
-            <div class="col-12">
-                <div class="main-marq lrg">
-                    <div class="slide-har st1">
-                                <div class="box non-strok">
-                                    <div class="item">
-                                        <h4 class="d-flex align-items-center"><span>Team Specialized Lille</span>
-                                            <span class="fz-50 ml-50 stroke icon">*</span>
-                                        </h4>
-                                    </div>
-                                </div>
-                                <div class="box non-strok">
-                                    <div class="item">
-                                        <h4 class="d-flex align-items-center"><span>Team Specialized Lille</span>
-                                            <span class="fz-50 ml-50 stroke icon">*</span>
-                                        </h4>
-                                    </div>
-
-                                </div>
-                            </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-<!-- ==================== End marq ==================== -->

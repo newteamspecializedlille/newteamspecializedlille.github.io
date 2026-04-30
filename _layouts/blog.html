@@ -3,62 +3,155 @@ layout: default
 comments: true
 ---
 
-{% assign ui_text = site.data.ui-text['ui_text'] %}
-<!-- ==================== Start Header ==================== -->
+{% assign months_fr = "Janvier,Février,Mars,Avril,Mai,Juin,Juillet,Août,Septembre,Octobre,Novembre,Décembre" | split: "," %}
+{% assign t = site.data.settings.text %}
 
-<header class="page-header bg-img section-padding" data-background="{{ 'assets/imgs/team/team_2026.png' | relative_url }}"
-	data-overlay-dark="4" style="background-position: center;background-size: cover;">
-    <div class="container pt-100">
-        <div class="text-center">
-            <h1>{{ page.title }}</h1>
-            <div class="mt-15">
-                <a href="{{ '' | absolute_url }}">Home</a>
-                <span class="padding-rl-20">|</span>
-                <span class="main-color">{{ page.title }}</span>
-            </div>
-        </div>
-    </div>
-</header>
+<!-- ==================== Start Résultats Archive (Monochrome Velo) ==================== -->
 
-<!-- ==================== End Header ==================== -->
-
-
-
-<!-- ==================== Start Blogs ==================== -->
-
-<section class="blog-main section-padding">
-    <div class="container">
-        <div class="row lg-marg justify-content-around">
-            <div class="col-lg-7">
-                <div class="md-mb80">
-                    {% for post in paginator.posts %}
-                        <div class="item mb-50">
-                        <div class="img">
-                            <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" loading="lazy">
-                        </div>
-                        <div class="content main-bg">
-                            <div class="d-flex align-items-center mb-15">
-                                <div class="post-date">{{ post.date | date: site.date_format }}</div>
-                                <!--TODO <div class="commt opacity-7 fz-13"><span class="ti-comment-alt mr-10"></span>4 Comments</div>-->
-                            </div>
-                            <h4 class="mb-15">
-                                <a href="{{ post.url }}">{{ post.title }}</a>
-                            </h4>
-                            <!--TODO <p>So striking at of to welcomed resolved. Northward by described up household therefore attention.</p>-->
-                            <a href="{{ post.url }}" class="d-flex align-items-center mt-40">
-                                <span class="text mr-15">Découvrir</span>
-                                <span class="ti-arrow-top-right"></span>
-                            </a>
-                        </div>
-                    </div>
-                    {% endfor %}
-                </div>
-            </div>
-
-            {%- include sidebar.html -%}
-
-        </div>
-    </div>
+<!-- Hero -->
+<section class="velo-blog-hero">
+  <h1 class="velo-blog-hero__title">{{ t.blog.hero_title }}</h1>
+  <p class="velo-blog-hero__sub">{{ t.blog.hero_sub }}</p>
 </section>
 
-<!-- ==================== End Blogs ==================== -->
+<!-- Filter Bar -->
+<section class="velo-blog-filters" id="velo-blog-filter-bar">
+  <span class="velo-blog-filters__label">{{ t.filter_label }}</span>
+  <button class="velo-blog-filter is-active" data-filter="all">{{ t.all }}</button>
+  <button class="velo-blog-filter" data-filter="Route">ROUTE</button>
+  <button class="velo-blog-filter" data-filter="Cyclo Cross">CX</button>
+  <button class="velo-blog-filter" data-filter="VTT">VTT</button>
+</section>
+
+<!-- Table -->
+<section class="velo-blog-table-section">
+  <div class="velo-blog-table-wrap">
+    <table class="velo-blog-table" id="velo-blog-table">
+      <thead>
+        <tr>
+          <th class="velo-blog-table__th">{{ t.date_col }}</th>
+          <th class="velo-blog-table__th">{{ t.race_col }}</th>
+          <th class="velo-blog-table__th">{{ t.discipline_col }}</th>
+          <th class="velo-blog-table__th velo-blog-table__result-col">{{ t.best_result_col }}</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for post in paginator.posts %}
+          {% assign title_parts = post.title | split: " - " %}
+
+          {% comment %} Best result extraction {% endcomment %}
+          {% assign _best = 9999 %}
+          {% assign _parts = post.content | split: " : " %}
+          {% for _part in _parts offset:1 %}
+            {% assign _numstr = _part | split: "<" | first | strip %}
+            {% assign _num = _numstr | plus: 0 %}
+            {% if _num > 0 and _num < _best %}
+              {% assign _best = _num %}
+            {% endif %}
+          {% endfor %}
+
+          {% assign _month_idx = post.date | date: "%-m" | minus: 1 %}
+          {% assign _cat = post.category | first | default: post.category %}
+
+          <tr class="velo-blog-table__row" data-category="{{ _cat }}" onclick="window.location='{{ post.url }}'">
+            <td class="velo-blog-table__date">{{ post.date | date: "%-d" }} {{ months_fr[_month_idx] }} {{ post.date | date: "%Y" }}</td>
+            <td class="velo-blog-table__name">{{ title_parts[1] | default: post.title }}</td>
+            <td class="velo-blog-table__disc">
+              {% if _cat %}<span class="velo-chip">{{ _cat }}</span>{% endif %}
+            </td>
+            <td class="velo-blog-table__result">
+              {% if _best < 9999 %}
+                {% if _best == 1 %}&#129351;
+                {% elsif _best == 2 %}&#129352;
+                {% elsif _best == 3 %}&#129353;
+                {% else %}{{ _best }}{% endif %}
+              {% endif %}
+            </td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+    <p class="velo-blog-no-results" id="velo-no-results" style="display:none;">{{ t.no_results }}</p>
+  </div>
+</section>
+
+<!-- Pagination -->
+{% if paginator.total_pages > 1 %}
+{% assign cur = paginator.page %}
+{% assign total = paginator.total_pages %}
+{% assign win_start = cur | minus: 2 %}
+{% assign win_end = cur | plus: 2 %}
+{% if win_start < 1 %}{% assign win_start = 1 %}{% endif %}
+{% if win_end > total %}{% assign win_end = total %}{% endif %}
+
+<section class="velo-blog-pagination">
+  <div class="velo-blog-pagination__inner">
+
+    {% if paginator.previous_page %}
+      <a class="velo-blog-pagination__prev" href="{{ paginator.previous_page_path }}">&#8592; <span>{{ t.previous }}</span></a>
+    {% else %}
+      <span class="velo-blog-pagination__prev is-disabled">&#8592; <span>{{ t.previous }}</span></span>
+    {% endif %}
+
+    <div class="velo-blog-pagination__pages">
+      {% comment %} First page {% endcomment %}
+      {% if win_start > 1 %}
+        <a class="velo-blog-pagination__num" href="/blog/">1</a>
+        {% if win_start > 2 %}<span class="velo-blog-pagination__ellipsis">…</span>{% endif %}
+      {% endif %}
+
+      {% comment %} Window pages {% endcomment %}
+      {% for i in (win_start..win_end) %}
+        {% if i == cur %}
+          <span class="velo-blog-pagination__num is-active">{{ i }}</span>
+        {% elsif i == 1 %}
+          <a class="velo-blog-pagination__num" href="/blog/">{{ i }}</a>
+        {% else %}
+          <a class="velo-blog-pagination__num" href="/blog/page{{ i }}/">{{ i }}</a>
+        {% endif %}
+      {% endfor %}
+
+      {% comment %} Last page {% endcomment %}
+      {% if win_end < total %}
+        {% assign pre_last = total | minus: 1 %}
+        {% if win_end < pre_last %}<span class="velo-blog-pagination__ellipsis">…</span>{% endif %}
+        <a class="velo-blog-pagination__num" href="/blog/page{{ total }}/">{{ total }}</a>
+      {% endif %}
+    </div>
+
+    {% if paginator.next_page %}
+      <a class="velo-blog-pagination__next" href="{{ paginator.next_page_path }}"><span>{{ t.next }}</span> &#8594;</a>
+    {% else %}
+      <span class="velo-blog-pagination__next is-disabled"><span>{{ t.next }}</span> &#8594;</span>
+    {% endif %}
+
+  </div>
+  <p class="velo-blog-pagination__info">Page {{ cur }} / {{ total }} — {{ paginator.total_posts }} courses</p>
+</section>
+{% endif %}
+
+<script>
+(function() {
+  var btns = document.querySelectorAll(".velo-blog-filter");
+  var rows = document.querySelectorAll(".velo-blog-table__row");
+  var noResults = document.getElementById("velo-no-results");
+
+  btns.forEach(function(btn) {
+    btn.addEventListener("click", function() {
+      var filter = btn.dataset.filter;
+      btns.forEach(function(b) { b.classList.remove("is-active"); });
+      btn.classList.add("is-active");
+
+      var visible = 0;
+      rows.forEach(function(row) {
+        var match = filter === "all" || row.dataset.category === filter;
+        row.style.display = match ? "" : "none";
+        if (match) visible++;
+      });
+      noResults.style.display = visible === 0 ? "block" : "none";
+    });
+  });
+})();
+</script>
+
+<!-- ==================== End Résultats Archive ==================== -->

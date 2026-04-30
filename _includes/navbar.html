@@ -1,130 +1,55 @@
-{% assign navigation = site.data.navigation['main'] %}
-{% assign header = site.data.settings['header'] %}
-{% assign social = site.data.settings['social'] %}
+{% assign navigation = site.data.navigation["main"] %}
 {% assign page_url = page.url | relative_url %}
 
-<!-- ==================== Start Navbar ==================== -->
 
-<nav class="navbar navbar-expand-lg bord blur">
-    <div class="container">
+<nav class="velo-nav" role="navigation" aria-label="Navigation principale">
+  <a class="velo-nav__logo" href="{{ "/" | relative_url }}">Team Specialized Lille</a>
 
-        <!-- Logo -->
-        <a class="logo " href="{{ '/' | relative_url }}"><!--icon-img-100-->
-            <!--<img src="{{ 'assets/imgs/logo-light.png' | relative_url }}" alt="logo">-->
-            <h5>Team Specialized Lille</h5>
-        </a>
+  <ul class="velo-nav__links" role="list">
+    {% for nav in navigation %}
+      {% unless nav.parent == 1 %}
+        {% assign nav_url = nav.url | relative_url %}
+        <li>
+          <a href="{{ nav_url }}" {% if page_url == nav_url %}class="active" aria-current="page"{% endif %}>
+            {{ nav.title }}
+          </a>
+        </li>
+      {% endunless %}
+    {% endfor %}
+  </ul>
 
-        <button class="navbar-toggler" type="button" data-toggle="collapse"
-            data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
-            aria-label="Toggle navigation">
-            <span class="icon-bar"><i class="fas fa-bars"></i></span>
-        </button>
-
-        <!-- navbar links -->
-        <div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
-            <ul class="navbar-nav">
-
-                {% for nav in navigation %}
-                    {% if nav.parent != 1 %}
-                        {% assign nav_url = nav.url | relative_url %}
-                        <li class="nav-item">
-                            <a class="nav-link" href="{{ nav_url | relative_url }}"><span class="rolling-text">{{ nav.title }}</span></a>
-                        </li>
-                    {% endif %}
-                {% endfor %}
-            </ul>
-        </div>
-
-         <div class="search-form">
-            <div class="form-group">
-                <form action="/search" method="get">
-                    <input type="text" name="search" placeholder="Recherche">
-                    <button><span class="pe-7s-search"></span></button>
-                </form>
-            </div>
-            <div class="search-icon">
-                <span class="pe-7s-search open-search"></span>
-                <span class="pe-7s-close close-search"></span>
-            </div>
-        </div>
-
-        <div class="topnav">
-            <div class="menu-icon cursor-pointer">
-                <span class="icon ti-align-right"></span>
-            </div>
-        </div>
-    </div>
+  <button class="velo-nav__burger" aria-label="Ouvrir le menu" aria-expanded="false" id="velo-burger">
+    <span></span>
+    <span></span>
+    <span></span>
+  </button>
 </nav>
 
-<div class="hamenu one-scroll">
-    <div class="logo icon-img-100">
-        <h5>Team Specialized Lille</h5>
-    </div>
-    <div class="close-menu cursor-pointer ti-close"></div>
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-2">
-                <div class="menu-text">
-                    <div class="text">
-                        <h2>Menu</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-7">
-                <div class="menu-links">
-                    <ul class="main-menu rest">
-                        {% for nav in navigation %}
-                            {% assign nav_url = nav.url | relative_url %}
-                            {% if nav.parent == 1 %}
-                                <li class="has-submenu">
-                                    <div class="o-hidden">
-                                        <a href="javascript:void(0);" class="link submenu-toggle"><span class="fill-text" data-text="{{ nav.title }}">{{ nav.title }}</span> <i class="fas fa-chevron-down"></i></a>
-                                    </div>
-                                    <ul class="submenu">
-                                        {% for child in nav.childs %}
-                                            {% assign child_url = child.url | relative_url %}
-                                            <li>
-                                                <a href="{{ child_url }}" class="link">{{ child.title }}</a>
-                                            </li>
-                                        {% endfor %}
-                                    </ul>
-                                </li>
-                            {% else %}
-                                <li>
-                                    <div class="o-hidden">
-                                        <a href="{{ nav_url | relative_url }}" class="link"><span class="fill-text" data-text="{{ nav.title }}">{{ nav.title }}</span></a>
-                                    </div>
-                                </li>
-                            {% endif %}
-                        {% endfor %}
-                    </ul>
-                </div>
-            </div>
-            <div class="col-lg-3">
-                <div class="cont-info">
-                    <div class="item mb-50">
-                        <h6 class="sub-title mb-15 opacity-7">Cycle Lecolier</h6>
-                        <h5>5 Rue de la Source, <br>59320 Hallennes-lez-Haubourdin<br></h5>
-                    </div>
-                    <div class="item mb-50">
-                        <h6 class="sub-title mb-15 opacity-7">Social Media</h6>
-                        <ul class="rest social-text">
-                            <li class="mb-10">
-                                <a href="https://www.facebook.com/cycleslecolierspecializedlille" target="_blank" class="hover-this"><span class="hover-anim">Facebook</span></a>
-                            </li>
-                            <li class="mb-10">
-                                <a href="https://cycleslecolier.fr/" target="_blank" class="hover-this"><span class="hover-anim">Site Web</span></a>
-                            </li>
-                           <li class="mb-10">
-                                <a href=“tel:0320548339” class="hover-this"><span class="hover-anim">Téléphone</span></a>
-                            </li>
-                        </ul>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </div>
+<div class="velo-mobile-menu" id="velo-mobile-menu" role="dialog" aria-label="Menu mobile">
+  {% for nav in navigation %}
+    {% unless nav.parent == 1 %}
+      {% assign nav_url = nav.url | relative_url %}
+      <a href="{{ nav_url }}">{{ nav.title }}</a>
+    {% endunless %}
+  {% endfor %}
 </div>
 
-<!-- ==================== End Navbar ==================== -->
+<script>
+(function() {
+  var burger = document.getElementById("velo-burger");
+  var mobileMenu = document.getElementById("velo-mobile-menu");
+  burger.addEventListener("click", function() {
+    var isOpen = mobileMenu.classList.toggle("is-open");
+    burger.setAttribute("aria-expanded", isOpen ? "true" : "false");
+    document.body.style.overflow = isOpen ? "hidden" : "";
+  });
+  mobileMenu.querySelectorAll("a").forEach(function(link) {
+    link.addEventListener("click", function() {
+      mobileMenu.classList.remove("is-open");
+      burger.setAttribute("aria-expanded", "false");
+      document.body.style.overflow = "";
+    });
+  });
+})();
+</script>
+
