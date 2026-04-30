@@ -17,10 +17,12 @@ comments: true
 <!-- Filter Bar -->
 <section class="velo-blog-filters" id="velo-blog-filter-bar">
   <span class="velo-blog-filters__label">{{ t.filter_label }}</span>
-  <button class="velo-blog-filter is-active" data-filter="all">{{ t.all }}</button>
-  <button class="velo-blog-filter" data-filter="Route">ROUTE</button>
-  <button class="velo-blog-filter" data-filter="Cyclo Cross">CX</button>
-  <button class="velo-blog-filter" data-filter="VTT">VTT</button>
+  <div class="velo-blog-filters__group">
+    <a class="velo-blog-filter is-active" href="/blog/">{{ t.all }}</a>
+    <a class="velo-blog-filter" href="/categories/route/">ROUTE</a>
+    <a class="velo-blog-filter" href="/categories/cyclo-cross/">CX</a>
+    <a class="velo-blog-filter" href="/categories/vtt/">VTT</a>
+  </div>
 </section>
 
 <!-- Table -->
@@ -71,7 +73,6 @@ comments: true
         {% endfor %}
       </tbody>
     </table>
-    <p class="velo-blog-no-results" id="velo-no-results" style="display:none;">{{ t.no_results }}</p>
   </div>
 </section>
 
@@ -129,29 +130,5 @@ comments: true
   <p class="velo-blog-pagination__info">Page {{ cur }} / {{ total }} — {{ paginator.total_posts }} courses</p>
 </section>
 {% endif %}
-
-<script>
-(function() {
-  var btns = document.querySelectorAll(".velo-blog-filter");
-  var rows = document.querySelectorAll(".velo-blog-table__row");
-  var noResults = document.getElementById("velo-no-results");
-
-  btns.forEach(function(btn) {
-    btn.addEventListener("click", function() {
-      var filter = btn.dataset.filter;
-      btns.forEach(function(b) { b.classList.remove("is-active"); });
-      btn.classList.add("is-active");
-
-      var visible = 0;
-      rows.forEach(function(row) {
-        var match = filter === "all" || row.dataset.category === filter;
-        row.style.display = match ? "" : "none";
-        if (match) visible++;
-      });
-      noResults.style.display = visible === 0 ? "block" : "none";
-    });
-  });
-})();
-</script>
 
 <!-- ==================== End Résultats Archive ==================== -->

@@ -4,6 +4,8 @@ title: "Team Specialized Lille"
 email: "lobwick@hotmail.fr"
 description: "Team Specialized Lille - Équipe cycliste du nord de la france"
 author: "Félix"
+lang: fr
+logo: /assets/images/specialized.webp
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://teamspecializedlille.cc" # the base hostname & protocol for your site, e.g. http://example.com
 date_format: "%d %B %Y"
@@ -45,6 +47,7 @@ plugins:
   - jekyll-paginate
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.

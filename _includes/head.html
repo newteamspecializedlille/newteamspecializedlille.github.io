@@ -16,8 +16,10 @@
     <!-- Mode "Standalone" pour iOS -->
     <meta name="mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-title" content="{{ site.title }}">
-    <!-- Title  -->
-    <title>{{ site.title }}</title>
+    <!-- Title géré par jekyll-seo-tag ci-dessus -->
+
+    <!-- Feed RSS -->
+    <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ '/feed.xml' | relative_url }}">
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="{{ 'assets/images/favicons/favicon.ico' | relative_url }}" />

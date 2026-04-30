@@ -2,67 +2,76 @@
 layout: default
 ---
 
+{% assign months_fr = "Janvier,Février,Mars,Avril,Mai,Juin,Juillet,Août,Septembre,Octobre,Novembre,Décembre" | split: "," %}
 {% assign t = site.data.settings.text %}
+{% assign current_cat = page.title | downcase %}
 
-<!-- Section Started Heading -->
-<section class="section section-inner started-heading">
-  <div class="container">
+<!-- Hero -->
+<section class="velo-blog-hero">
+  <h1 class="velo-blog-hero__title">{{ t.blog.hero_title }}</h1>
+  <p class="velo-blog-hero__sub">{{ t.blog.hero_sub }}</p>
+</section>
 
-    <!-- Heading -->
-    <div class="m-titles align-center">
-      <h1 class="m-title splitting-text-anim-1 scroll-animate" data-splitting="words" data-animate="active">
-        <span>{{ t.archive.title }}: {{ page.title }}</span>
-      </h1>
-      <div class="m-subtitle splitting-text-anim-1 scroll-animate" data-splitting="words" data-animate="active">
-        <span>{{ t.archive.latest_posts }}</span>
-      </div>
-    </div>
-
+<!-- Filter Bar -->
+<section class="velo-blog-filters" id="velo-blog-filter-bar">
+  <span class="velo-blog-filters__label">{{ t.filter_label }}</span>
+  <div class="velo-blog-filters__group">
+    <a class="velo-blog-filter" href="/blog/">{{ t.all }}</a>
+    <a class="velo-blog-filter{% if current_cat == 'route' %} is-active{% endif %}" href="/categories/route/">ROUTE</a>
+    <a class="velo-blog-filter{% if current_cat == 'cyclo-cross' or current_cat == 'cyclo cross' %} is-active{% endif %}" href="/categories/cyclo-cross/">CX</a>
+    <a class="velo-blog-filter{% if current_cat == 'vtt' %} is-active{% endif %}" href="/categories/vtt/">VTT</a>
   </div>
 </section>
 
-<!-- Section - Blog -->
-<div class="section section-inner m-archive">
-  <div class="container">
+<!-- Table -->
+<section class="velo-blog-table-section">
+  <div class="velo-blog-table-wrap">
+    <table class="velo-blog-table" id="velo-blog-table">
+      <thead>
+        <tr>
+          <th class="velo-blog-table__th">{{ t.date_col }}</th>
+          <th class="velo-blog-table__th">{{ t.race_col }}</th>
+          <th class="velo-blog-table__th">{{ t.discipline_col }}</th>
+          <th class="velo-blog-table__th velo-blog-table__result-col">{{ t.best_result_col }}</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for post in page.posts %}
+          {% assign title_parts = post.title | split: " - " %}
 
-    <div class="row">
-      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-8">
-
-        <!-- Blog Items -->
-        <div class="articles-container">
-          {% for post in page.posts %}
-          <div class="archive-item scrolla-element-anim-1 scroll-animate" data-animate="active">
-            <div class="image">
-              <a href="{{ post.url }}">
-                <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" loading="lazy">
-              </a>
-            </div>
-            <div class="desc">
-              <div class="category lui-subtitle">
-                <span>{{ post.date | date: site.date_format }}</span>
-              </div>
-              <h5 class="lui-title">
-                <a href="{{ post.url }}">{{ post.title }}</a>
-              </h5>
-              <div class="lui-text">
-                <p>{{ post.excerpt }}</p>
-
-                <div class="readmore">
-                  <a href="{{ post.url }}" class="lnk">{{ t.archive.read_more }}</a>
-                </div>
-              </div>
-            </div>
-          </div>
+          {% assign _best = 9999 %}
+          {% assign _parts = post.content | split: " : " %}
+          {% for _part in _parts offset:1 %}
+            {% assign _numstr = _part | split: "<" | first | strip %}
+            {% assign _num = _numstr | plus: 0 %}
+            {% if _num > 0 and _num < _best %}
+              {% assign _best = _num %}
+            {% endif %}
           {% endfor %}
-        </div>
 
-      </div>
-      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4">
-        {%- include sidebar.html -%}
-      </div>
-    </div>
+          {% assign _month_idx = post.date | date: "%-m" | minus: 1 %}
+          {% assign _cat = post.category | first | default: post.category %}
 
-    <div class="v-line-left v-line-top"><div class="v-line-block"><span></span></div></div>
-
+          <tr class="velo-blog-table__row" data-category="{{ _cat }}" onclick="window.location='{{ post.url }}'">
+            <td class="velo-blog-table__date">{{ post.date | date: "%-d" }} {{ months_fr[_month_idx] }} {{ post.date | date: "%Y" }}</td>
+            <td class="velo-blog-table__name">{{ title_parts[1] | default: post.title }}</td>
+            <td class="velo-blog-table__disc">
+              {% if _cat %}<span class="velo-chip">{{ _cat }}</span>{% endif %}
+            </td>
+            <td class="velo-blog-table__result">
+              {% if _best < 9999 %}
+                {% if _best == 1 %}<span class="velo-rank velo-rank--1">1<sup>er</sup></span>
+                {% elsif _best == 2 %}<span class="velo-rank velo-rank--2">2<sup>e</sup></span>
+                {% elsif _best == 3 %}<span class="velo-rank velo-rank--3">3<sup>e</sup></span>
+                {% else %}<span class="velo-rank">{{ _best }}<sup>e</sup></span>{% endif %}
+              {% endif %}
+            </td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+    {% if page.posts.size == 0 %}
+      <p class="velo-blog-no-results">{{ t.no_results }}</p>
+    {% endif %}
   </div>
-</div>
+</section>

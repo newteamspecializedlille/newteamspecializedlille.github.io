@@ -264,7 +264,7 @@ layout: default
     <div class="velo-gallery-grid">
       {% for img in page.gallery %}
         <div>
-          <img src="{{ img | relative_url }}" alt="" class="velo-gallery-img" loading="lazy">
+          <img src="{{ img | relative_url }}" alt="{{ page.title }}" class="velo-gallery-img" loading="lazy">
         </div>
       {% endfor %}
     </div>

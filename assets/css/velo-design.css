@@ -1346,23 +1346,34 @@ body.vcard {
   margin-right: 0.5rem;
 }
 
+.velo-blog-filters__group {
+  display: flex;
+  border: 2px solid var(--v-primary);
+  overflow: hidden;
+}
+
 .velo-blog-filter {
-  background: none;
-  border: 1px solid var(--v-primary);
-  padding: 5px 16px;
+  display: inline-block;
+  background: #fff;
+  border: none;
+  border-left: 1px solid var(--v-primary);
+  padding: 0.5rem 1.2rem;
   font-family: var(--v-font) !important;
-  font-size: 11px;
-  font-weight: 700;
+  font-size: 0.7rem;
+  font-weight: 800;
   letter-spacing: 0.1em;
   text-transform: uppercase;
   color: var(--v-primary) !important;
   cursor: pointer;
-  transition: background 0.15s, color 0.15s;
+  text-decoration: none !important;
+  transition: background 0.12s, color 0.12s;
 }
+.velo-blog-filter:first-child { border-left: none; }
 .velo-blog-filter:hover,
 .velo-blog-filter.is-active {
-  background: var(--v-primary);
-  color: var(--v-on-primary) !important;
+  background: var(--v-teal) !important;
+  color: #000 !important;
+  border-color: var(--v-teal) !important;
 }
 
 /* Table section */
@@ -1401,19 +1412,28 @@ body.vcard {
   transition: background 0.12s;
 }
 .velo-blog-table__row:hover {
-  background: var(--v-primary);
+  background: var(--v-primary) !important;
 }
 .velo-blog-table__row:hover td {
+  background: var(--v-primary) !important;
   color: var(--v-on-primary) !important;
+  border-color: rgba(255,255,255,0.15) !important;
+}
+.velo-blog-table__row:hover td a,
+.velo-blog-table__row:hover td span,
+.velo-blog-table__row:hover .velo-rank {
+  color: var(--v-on-primary) !important;
+  border-color: var(--v-on-primary) !important;
 }
 .velo-blog-table__row:hover .velo-chip {
-  border-color: var(--v-on-primary);
+  border-color: var(--v-on-primary) !important;
   color: var(--v-on-primary) !important;
 }
 
 .velo-blog-table td {
   padding: 1.25rem 1.5rem 1.25rem 0 !important;
   vertical-align: middle;
+  text-align: left !important;
   border: none !important;
   border-bottom: 1px solid rgba(0,0,0,0.08) !important;
   transition: color 0.12s;
@@ -2009,7 +2029,7 @@ table tr:hover td {
   color: var(--v-gray);
   padding: 0.5rem 1rem 0.5rem 0;
   border-bottom: 1px solid #e0e0e0;
-  text-align: left;
+  text-align: left !important;
 }
 .velo-challenge-table__pts-col { text-align: right; padding-right: 0; }
 .velo-challenge-table__row {
@@ -2025,8 +2045,9 @@ table tr:hover td {
   padding: 0.85rem 1.5rem 0.85rem 0;
   white-space: nowrap;
   font-variant-numeric: tabular-nums;
+  text-align: left !important;
 }
-.velo-challenge-table__rider { padding: 0.75rem 1rem 0.75rem 0; }
+.velo-challenge-table__rider { padding: 0.75rem 1rem 0.75rem 0; text-align: left !important; }
 .velo-challenge-rider {
   display: flex;
   align-items: center;
@@ -2522,7 +2543,7 @@ table tr:hover td {
   letter-spacing: 0.12em;
   text-transform: uppercase;
   color: var(--v-gray) !important;
-  text-align: left;
+  text-align: left !important;
 }
 .velo-home-results__table th:nth-child(1) { width: 40%; }
 .velo-home-results__table th:nth-child(2) { width: 20%; }
@@ -2543,14 +2564,16 @@ table tr:hover td {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
+  text-align: left !important;
 }
 .velo-home-results__date {
   padding: 1rem 1.5rem;
   font-size: 0.75rem;
   color: var(--v-gray);
   white-space: nowrap;
+  text-align: left !important;
 }
-.velo-home-results__disc { padding: 1rem 1.5rem; }
+.velo-home-results__disc { padding: 1rem 1.5rem; text-align: left !important; }
 .velo-home-results__pos {
   padding: 1rem 1.5rem;
   font-size: 1.1rem;
@@ -2806,7 +2829,7 @@ table tr:hover td {
   letter-spacing: 0.12em;
   text-transform: uppercase;
   color: var(--v-gray) !important;
-  text-align: left;
+  text-align: left !important;
 }
 .velo-post__cat-table thead th:last-child { text-align: right; }
 .velo-post__cat-table tbody tr {
@@ -2817,7 +2840,7 @@ table tr:hover td {
 .velo-post__cat-table td {
   padding: 0.7rem 1rem 0.7rem 0;
   vertical-align: middle;
-  text-align: left;
+  text-align: left !important;
   color: var(--v-primary) !important;
 }
 .velo-post__cat-table td:first-child {
@@ -2858,7 +2881,7 @@ table tr:hover td {
   letter-spacing: 0.12em;
   text-transform: uppercase;
   color: var(--v-gray) !important;
-  text-align: left;
+  text-align: left !important;
   white-space: nowrap;
 }
 .velo-post__content table td {
@@ -2867,6 +2890,7 @@ table tr:hover td {
   color: var(--v-primary) !important;
   font-size: 0.8rem !important;
   vertical-align: middle;
+  text-align: left !important;
 }
 /* Place column — bold number */
 .velo-post__content table td:first-child {
