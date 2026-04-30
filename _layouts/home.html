@@ -31,20 +31,26 @@ layout: default
     </div>
   </div>
   <div class="velo-home-hero__right">
-    <div class="velo-home-hero__right-top">
-      <img class="velo-home-hero__logo"
-           src="{{ 'assets/images/specialized.webp' | relative_url }}"
-           alt="Specialized">
+    <div class="velo-home-hero__right-content">
+      <div class="velo-home-hero__right-top">
+        <img class="velo-home-hero__logo"
+             src="{{ 'assets/images/specialized.webp' | relative_url }}"
+             alt="Specialized">
+      </div>
+      <div class="velo-home-hero__right-bottom">
+        <p class="velo-home-hero__right-label">{{ t.home.last_race_label }}</p>
+        {% if latest_post %}
+          <h3 class="velo-home-hero__right-name">{{ latest_title[1] | default: latest_post.title }}</h3>
+          {% assign _month_idx = latest_post.date | date: "%-m" | minus: 1 %}
+          <p class="velo-home-hero__right-date">{{ latest_post.date | date: "%-d" }} {{ months_fr[_month_idx] }} {{ latest_post.date | date: "%Y" }}</p>
+          <a class="velo-home-hero__right-link" href="{{ latest_post.url }}">{{ t.home.last_race_link }}</a>
+        {% endif %}
+      </div>
     </div>
-    <div class="velo-home-hero__right-bottom">
-      <p class="velo-home-hero__right-label">{{ t.home.last_race_label }}</p>
-      {% if latest_post %}
-        <h3 class="velo-home-hero__right-name">{{ latest_title[1] | default: latest_post.title }}</h3>
-        {% assign _month_idx = latest_post.date | date: "%-m" | minus: 1 %}
-        <p class="velo-home-hero__right-date">{{ latest_post.date | date: "%-d" }} {{ months_fr[_month_idx] }} {{ latest_post.date | date: "%Y" }}</p>
-        <a class="velo-home-hero__right-link" href="{{ latest_post.url }}">{{ t.home.last_race_link }}</a>
-      {% endif %}
-    </div>
+    <img class="velo-home-hero__bike"
+         src="{{ 'assets/imgs/bike.png' | relative_url }}"
+         alt="Vélo Team Specialized Lille"
+         loading="lazy">
   </div>
 </header>
 
@@ -178,7 +184,11 @@ layout: default
 <!-- PARTNERS -->
 <section class="velo-home-partners">
   {% for partner in s.partners %}
-    <span class="velo-home-partners__item">{{ partner.name }}</span>
+    {% if partner.url %}
+      <a class="velo-home-partners__item" href="{{ partner.url }}" target="_blank" rel="noopener">{{ partner.name }}</a>
+    {% else %}
+      <span class="velo-home-partners__item">{{ partner.name }}</span>
+    {% endif %}
   {% endfor %}
 </section>
 

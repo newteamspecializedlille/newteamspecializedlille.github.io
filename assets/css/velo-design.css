@@ -859,7 +859,7 @@ body.vcard {
 }
 
 .velo-coureur {
-  padding: clamp(2rem, 5vw, var(--v-section-gap)) var(--v-margin) var(--v-section-gap);
+  padding: calc(var(--v-nav-h) + clamp(2rem, 5vw, var(--v-section-gap))) var(--v-margin) var(--v-section-gap);
 }
 
 /* --- Hero: portrait + identity --- */
@@ -1086,29 +1086,31 @@ body.vcard {
 
 .velo-disc-filters {
   display: flex;
-  gap: 0.5rem;
-  flex-wrap: wrap;
   align-items: center;
+  border: 2px solid var(--v-spe);
+  overflow: hidden;
 }
 
 .velo-disc-filter {
-  background: none;
-  border: 1px solid var(--v-primary);
-  padding: 4px 12px;
+  background: #fff;
+  border: none;
+  border-left: 1px solid var(--v-spe);
+  padding: 0.5rem 1.2rem;
   font-family: var(--v-font) !important;
-  font-size: 11px;
-  font-weight: 700;
+  font-size: 0.7rem;
+  font-weight: 800;
   letter-spacing: 0.1em;
   text-transform: uppercase;
   color: var(--v-primary) !important;
   cursor: pointer;
-  transition: background 0.15s, color 0.15s;
+  transition: background 0.12s, color 0.12s;
 }
+.velo-disc-filter:first-child { border-left: none; }
 .velo-disc-filter:hover,
 .velo-disc-filter.is-active {
-  background: var(--v-teal);
-  color: #000 !important;
-  border-color: var(--v-teal);
+  background: var(--v-spe) !important;
+  color: #fff !important;
+  border-color: var(--v-spe) !important;
 }
 
 /* Accordion (kept for year navigation) */
@@ -2180,7 +2182,7 @@ table tr:hover td {
   letter-spacing: -0.04em;
   text-transform: uppercase;
   margin: 0;
-  color: var(--v-primary) !important;
+  color: rgb(47, 74, 141) !important;
 }
 .velo-home-hero__stats {
   display: flex;
@@ -2212,6 +2214,8 @@ table tr:hover td {
   flex-direction: column;
   justify-content: space-between;
   gap: 1rem;
+  position: relative;
+  overflow: hidden;
 }
 .velo-home-hero__right-top {
   display: flex;
@@ -2266,12 +2270,52 @@ table tr:hover td {
   border-bottom-color: var(--v-teal);
 }
 
+/* Vélo décoratif à droite du texte */
+.velo-home-hero__right {
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: stretch;
+  gap: 0;
+  padding: 0 !important;
+  overflow: hidden;
+}
+.velo-home-hero__right-content {
+  flex: 0 0 40%;
+  width: 40%;
+  padding: calc(var(--v-nav-h) + var(--v-margin)) var(--v-margin) var(--v-margin);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 1rem;
+  position: relative;
+  z-index: 1;
+}
+.velo-home-hero__bike {
+  flex: 0 0 60%;
+  width: 60%;
+  height: auto;
+  object-fit: contain;
+  object-position: left bottom;
+  opacity: 0.9;
+  display: block;
+  align-self: flex-end;
+  margin-bottom: var(--v-margin);
+}
+.velo-home-hero__right-top,
+.velo-home-hero__right-bottom {
+  position: static;
+  z-index: auto;
+  max-width: 100%;
+}
+
 /* Team photo */
 .velo-home-photo {
   width: 100%;
   max-height: 480px;
   overflow: hidden;
   border-bottom: 3px solid var(--v-primary);
+  position: relative;
+  background-color: #000;
 }
 .velo-home-photo__img {
   width: 100%;
@@ -2279,8 +2323,23 @@ table tr:hover td {
   display: block;
   object-fit: contain;
   object-position: center center;
-  background: #f0f0f0;
-  filter: grayscale(100%) contrast(1.1) brightness(0.92);
+  filter: contrast(1.05) brightness(0.95);
+  background-color: #000;
+  background-attachment: fixed;
+  background-image: repeating-linear-gradient(
+    135deg,
+    rgba(255,255,255,0.08) 0px,
+    rgba(255,255,255,0.08) 1px,
+    transparent 1px,
+    transparent 18px
+  ),
+  repeating-linear-gradient(
+    45deg,
+    rgba(255,255,255,0.08) 0px,
+    rgba(255,255,255,0.08) 1px,
+    transparent 1px,
+    transparent 18px
+  );
 }
 
 /* Roster section */
@@ -2369,7 +2428,7 @@ table tr:hover td {
 .velo-home-rider-card__img-wrap {
   aspect-ratio: 3/4;
   overflow: hidden;
-  background: #e8e8e8;
+  background: #000;
   position: relative;
 }
 .velo-home-rider-card__img {
@@ -2421,7 +2480,7 @@ table tr:hover td {
   height: auto;
   object-fit: contain;
   filter: brightness(0) invert(1);
-  opacity: 0.7;
+  opacity: 1;
 }
 .velo-home-rider-card__info {
   padding: 1rem;
@@ -2452,7 +2511,6 @@ table tr:hover td {
   text-transform: uppercase;
   background: var(--v-spe);
   color: #fff;
-  mix-blend-mode: multiply;
   padding: 0.3em 0.7em;
   z-index: 2;
 }
@@ -2463,7 +2521,7 @@ table tr:hover td {
   letter-spacing: 0.02em;
   line-height: 1.1;
   margin: 0.2rem 0 0;
-  color: var(--v-primary) !important;
+  color: rgb(47, 74, 141) !important;
 }
 .velo-home-rider-card__meta {
   margin-top: auto;
@@ -2614,7 +2672,13 @@ table tr:hover td {
   font-weight: 900;
   letter-spacing: -0.03em;
   text-transform: uppercase;
-  color: var(--v-primary);
+  color: var(--v-gray) !important;
+  transition: color 0.15s;
+  text-decoration: none;
+  cursor: default;
+}
+a.velo-home-partners__item {
+  cursor: pointer;
 }
 
 /* Responsive */
@@ -3118,4 +3182,318 @@ table tr:hover td {
   background: #fff;
   color: var(--v-primary) !important;
   outline: 2px solid var(--v-primary);
+}
+
+/* ==========================================================================
+   COULEURS — Accents de marque
+   ========================================================================== */
+
+/* --- Barre de navigation : trait rouge en bas --- */
+.velo-nav {
+  border-bottom-color: var(--v-spe) !important;
+}
+
+/* --- Hero home : contour rouge uniquement en haut --- */
+.velo-home-hero {
+  border-top: 4px solid var(--v-spe) !important;
+  border-left: none !important;
+  border-right: none !important;
+  border-bottom: none !important;
+}
+.velo-home-hero__left {
+  border-top: 4px solid var(--v-spe) !important;
+  border-left: 4px solid var(--v-spe) !important;
+  border-bottom: 4px solid var(--v-spe) !important;
+  border-right: 4px solid var(--v-spe) !important;
+}
+/* Titre principal sans bordure */
+.velo-home-hero__title {
+  border: none;
+  padding: 0;
+  display: inline-block;
+  color: rgb(47, 74, 141) !important;
+}
+
+/* Stats : valeurs en teal */
+.velo-home-hero__stat-val {
+  color: var(--v-teal-dk) !important;
+}
+
+/* Panneau droit : fond noir (inchangé) */
+.velo-home-hero__right {
+  background: var(--v-primary) !important;
+  background-image: repeating-linear-gradient(
+    135deg,
+    rgba(255,255,255,0.05) 0px,
+    rgba(255,255,255,0.05) 1px,
+    transparent 1px,
+    transparent 18px
+  ),
+  repeating-linear-gradient(
+    45deg,
+    rgba(255,255,255,0.05) 0px,
+    rgba(255,255,255,0.05) 1px,
+    transparent 1px,
+    transparent 18px
+  ) !important;
+  background-attachment: fixed !important;
+}
+
+/* --- Section Roster : bordures rouge --- */
+.velo-home-roster {
+  border-bottom-color: var(--v-spe) !important;
+}
+.velo-home-roster__header {
+  border-bottom-color: var(--v-spe) !important;
+}
+.velo-home-roster__filters {
+  border-color: var(--v-spe) !important;
+}
+.velo-home-roster__filter {
+  border-left-color: var(--v-spe) !important;
+}
+.velo-home-roster__filter:hover,
+.velo-home-roster__filter.is-active {
+  background: var(--v-spe) !important;
+  color: #fff !important;
+  border-color: var(--v-spe) !important;
+}
+.velo-home-roster__grid {
+  background: var(--v-spe) !important;
+  border-color: var(--v-spe) !important;
+}
+
+/* Titres de section en bleu */
+.velo-home-roster__title,
+.velo-home-results__title {
+  color: rgb(47, 74, 141) !important;
+}
+
+/* Labels de section en teal */
+.velo-home-roster__label,
+.velo-home-results__label {
+  color: var(--v-teal-dk) !important;
+  font-weight: 700;
+}
+
+.velo-home-rider-card:hover {
+  background: rgb(47, 74, 141) !important;
+}
+.velo-home-rider-card:hover .velo-home-rider-card__name {
+  color: #fff !important;
+}
+.velo-home-rider-card:hover .velo-home-rider-card__num {
+  color: var(--v-teal) !important;
+}
+.velo-home-rider-card:hover .velo-home-rider-card__meta-row span {
+  color: var(--v-teal) !important;
+}
+/* Suppression du grayscale sur les photos coureurs homepage */
+.velo-home-rider-card__img {
+  filter: contrast(1.05) brightness(0.97) !important;
+}
+.velo-home-rider-card__img--fun {
+  filter: contrast(1.05) brightness(0.97) !important;
+}
+  color: var(--v-teal-dk) !important;
+  font-weight: 700;
+}
+/* Discipline en teal */
+.velo-home-rider-card__meta-row span:last-child {
+  color: var(--v-teal-dk) !important;
+}
+/* Filler : fond rouge */
+.velo-home-rider-card--filler,
+.velo-home-rider-card__img-filler {
+  background: var(--v-spe) !important;
+}
+/* Infos cartes : bordure rouge */
+.velo-home-rider-card__info {
+  border-top-color: var(--v-spe) !important;
+}
+
+/* --- Section Résultats --- */
+.velo-home-results {
+  border-bottom-color: var(--v-spe) !important;
+}
+.velo-home-results__intro {
+  border-right-color: var(--v-spe) !important;
+}
+.velo-home-results__table thead tr {
+  border-bottom-color: var(--v-spe) !important;
+}
+/* Hover ligne résultat : fond teal très léger + trait rouge à gauche */
+.velo-home-results__row:hover {
+  background: #f0fdf8 !important;
+  box-shadow: inset 3px 0 0 var(--v-spe) !important;
+}
+/* CTA "Voir tous les résultats" : rouge */
+.velo-home-results__cta {
+  border-color: var(--v-spe) !important;
+  color: var(--v-spe) !important;
+}
+.velo-home-results__cta:hover {
+  background: var(--v-spe) !important;
+  color: #fff !important;
+}
+
+/* --- Marquee : fond rouge Specialized --- */
+.velo-marquee {
+  background: var(--v-spe) !important;
+  border-top-color: var(--v-spe) !important;
+  border-bottom-color: var(--v-spe) !important;
+}
+
+/* --- Partenaires : couleurs au hover, pas de grayscale --- */
+.velo-home-partners {
+  filter: none !important;
+  opacity: 1;
+  border-bottom-color: var(--v-spe) !important;
+}
+.velo-home-partners__item {
+  color: var(--v-gray) !important;
+  transition: color 0.15s;
+}
+.velo-home-partners:hover .velo-home-partners__item {
+  color: var(--v-primary) !important;
+}
+.velo-home-partners:hover .velo-home-partners__item:hover {
+  color: var(--v-spe) !important;
+}
+
+/* --- Footer : noir --- */
+.velo-footer {
+  background: var(--v-primary) !important;
+  border-top-color: var(--v-primary) !important;
+}
+
+/* --- Liens actifs dans la nav : teal --- */
+.velo-nav__links a:hover,
+.velo-nav__links a.active {
+  border-bottom-color: var(--v-spe) !important;
+  color: var(--v-spe) !important;
+}
+.velo-nav__dropdown-trigger:hover,
+.velo-nav__dropdown.is-open .velo-nav__dropdown-trigger {
+  border-bottom-color: var(--v-spe) !important;
+  color: var(--v-spe) !important;
+}
+.velo-nav__dropdown-menu li a:hover {
+  background: var(--v-spe) !important;
+  color: #fff !important;
+}
+
+/* --- Chip catégorie dans les tableaux --- */
+.velo-chip {
+  background: var(--v-teal) !important;
+  color: #000 !important;
+  border-color: var(--v-teal) !important;
+}
+
+/* ==========================================================================
+   COULEURS — Extension aux pages Résultats, Challenge, Coureur
+   ========================================================================== */
+
+/* --- Titres de section génériques (palmares, classement…) --- */
+.velo-section-title {
+  color: rgb(47, 74, 141) !important;
+}
+
+/* --- Page Résultats --- */
+.velo-blog-hero__title {
+  color: rgb(47, 74, 141) !important;
+}
+.velo-blog-filters {
+  border-bottom-color: var(--v-spe) !important;
+}
+.velo-blog-filter {
+  border-color: var(--v-spe) !important;
+}
+.velo-blog-filter:hover,
+.velo-blog-filter.is-active {
+  background: var(--v-spe) !important;
+  color: #fff !important;
+}
+.velo-blog-table thead tr {
+  border-bottom-color: var(--v-spe) !important;
+}
+.velo-blog-table__row:hover {
+  background: #f0fdf8 !important;
+  box-shadow: inset 3px 0 0 var(--v-spe) !important;
+}
+.velo-blog-pagination__num.is-active {
+  background: rgb(47, 74, 141) !important;
+  color: #fff !important;
+  border-color: rgb(47, 74, 141) !important;
+}
+.velo-blog-pagination__num:hover {
+  border-color: var(--v-spe) !important;
+  color: var(--v-spe) !important;
+}
+
+/* --- Page Challenge --- */
+.velo-challenge-hero__title {
+  color: rgb(47, 74, 141) !important;
+}
+.velo-challenge-hero__label {
+  color: var(--v-teal-dk) !important;
+  font-weight: 700;
+}
+.velo-challenge-table-title {
+  color: rgb(47, 74, 141) !important;
+}
+.velo-challenge-table thead tr {
+  border-bottom-color: var(--v-spe) !important;
+}
+.velo-challenge-table__row:hover {
+  background: #f0fdf8 !important;
+  box-shadow: inset 3px 0 0 var(--v-spe) !important;
+}
+.velo-podium-card__name a {
+  color: rgb(47, 74, 141) !important;
+}
+.velo-podium-card--first .velo-podium-card__name a {
+  color: rgb(47, 74, 141) !important;
+}
+.velo-podium-card__pts {
+  color: var(--v-teal-dk) !important;
+}
+.velo-challenge-rules__val {
+  color: var(--v-teal-dk) !important;
+  font-weight: 800;
+}
+
+/* --- Page Coureur --- */
+.velo-coureur__name {
+  color: rgb(47, 74, 141) !important;
+}
+.velo-coureur__tag {
+  background: var(--v-spe) !important;
+  color: #fff !important;
+  border-color: var(--v-spe) !important;
+  position: absolute !important;
+  bottom: 1rem !important;
+  left: 1rem !important;
+  z-index: 3 !important;
+}
+.velo-coureur__stat-label {
+  color: var(--v-teal-dk) !important;
+}
+.velo-accordion__trigger {
+  border-bottom-color: var(--v-spe) !important;
+}
+.velo-accordion__year.is-open .velo-accordion__trigger {
+  color: rgb(47, 74, 141) !important;
+  background: transparent !important;
+}
+
+/* --- Podium challenge : photos en couleur --- */
+.velo-podium-card__img-wrap .velo-podium-card__img {
+  filter: none !important;
+}
+
+/* --- Page coureur : portrait en couleur --- */
+.velo-coureur__portrait-img,
+.velo-coureur__portrait-img--fun {
+  filter: none !important;
 }

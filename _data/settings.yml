@@ -50,9 +50,13 @@ portfolio:
 ### Partners (displayed on homepage)
 partners:
   - name: "SPECIALIZED"
+    url: "https://www.specialized.com/fr/fr"
   - name: "CYCLES LECOLIER"
+    url: "https://www.cycleslecolier.fr/"
   - name: "VILLENEUVE CHAUFFAGE"
+    url: "https://villeneuvechauffage.fr/"
   - name: "LOCUFIER COUVERTURE"
+    url: "https://www.locufier-couverture.fr/"
 
 ### Text strings
 text:
