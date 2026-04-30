@@ -19,6 +19,10 @@ image: assets/img/blog/road.png
 - [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 19
 - [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 47
 
+### 3ème Catégorie
+- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 47
+- [HUGUENIN DYLAN](https://teamspecializedlille.cc/coureurs/huguenindylan) : 49
+
 ### Scratch
 208 participants
 
