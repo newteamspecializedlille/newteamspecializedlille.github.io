@@ -68,6 +68,69 @@ layout: default
 
 <script>
 document.addEventListener('DOMContentLoaded', function () {
+  const content = document.querySelector('.velo-post__content');
+  if (!content) return;
+
+  /* --- Transform ul lists after h3 into tables --- */
+  content.querySelectorAll('h3').forEach(function (h3) {
+    // Find next sibling ul (possibly after a p)
+    let sibling = h3.nextElementSibling;
+    // skip the participant count paragraph
+    let countP = null;
+    if (sibling && sibling.tagName === 'P') { countP = sibling; sibling = sibling.nextElementSibling; }
+    if (!sibling || sibling.tagName !== 'UL') return;
+
+    const ul = sibling;
+    const table = document.createElement('table');
+    table.className = 'velo-post__cat-table';
+
+    // thead
+    table.innerHTML = '<thead><tr><th>Coureur</th><th>Résultat</th></tr></thead><tbody></tbody>';
+    const tbody = table.querySelector('tbody');
+
+    let idx = 0;
+    ul.querySelectorAll('li').forEach(function (li) {
+      idx++;
+      const text = li.textContent;
+      const colonIdx = text.lastIndexOf(' : ');
+      const result = colonIdx >= 0 ? text.slice(colonIdx + 3).trim() : '';
+      const nameRaw = colonIdx >= 0 ? text.slice(0, colonIdx).trim() : text.trim();
+      const link = li.querySelector('a');
+      const isTeam = li.querySelector('strong') !== null;
+
+      const tr = document.createElement('tr');
+      if (isTeam) tr.classList.add('is-team');
+
+      // Name cell
+      const tdName = document.createElement('td');
+      if (link) {
+        const a = document.createElement('a');
+        a.href = link.href;
+        a.textContent = link.textContent;
+        tdName.appendChild(a);
+      } else {
+        tdName.textContent = nameRaw;
+      }
+      tr.appendChild(tdName);
+
+      // Result cell
+      const tdResult = document.createElement('td');
+      const resNum = parseInt(result);
+      if (!isNaN(resNum) && resNum <= 3) {
+        tdResult.innerHTML = '<span class="velo-rank velo-rank--' + resNum + '">' + resNum + '<sup>' + (resNum === 1 ? 'er' : 'e') + '</sup></span>';
+      } else {
+        tdResult.textContent = result;
+      }
+      tr.appendChild(tdResult);
+
+      tbody.appendChild(tr);
+    });
+
+    ul.parentNode.insertBefore(table, ul);
+    ul.style.display = 'none';
+  });
+
+  /* --- Stats: count visible li items --- */
   const items = document.querySelectorAll('.velo-post__content ul li');
   let best = Infinity;
   items.forEach(function (li) {
@@ -78,7 +141,15 @@ document.addEventListener('DOMContentLoaded', function () {
     }
   });
   document.getElementById('stat-riders').textContent = items.length || '—';
-  document.getElementById('stat-best').textContent = best < Infinity ? best + 'e' : '—';
+  const bestEl = document.getElementById('stat-best');
+  if (best < Infinity) {
+    bestEl.textContent = best + 'e';
+    if (best === 1) bestEl.style.color = '#C9962A';
+    else if (best === 2) bestEl.style.color = '#8A9BA8';
+    else if (best === 3) bestEl.style.color = '#A0522D';
+  } else {
+    bestEl.textContent = '—';
+  }
 });
 </script>
 

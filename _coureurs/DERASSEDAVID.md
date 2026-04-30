@@ -14,7 +14,6 @@ sports: Route
 category: 1ère
 strava: https://www.strava.com/athletes/95634890
 gallery:
-  - assets/imgs/team/nobg/derasse_david.JPG
   - assets/img/team/DERASSEDAVID_2.JPG
   - assets/img/team/DERASSEDAVID_3.JPG
   - assets/img/team/DERASSEDAVID_4.JPG

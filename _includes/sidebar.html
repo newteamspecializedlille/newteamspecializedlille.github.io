@@ -38,7 +38,7 @@
                 <div>
                     <div class="img">
                         <a href="{{ post.url }}">
-                            <img src="{{ post.image | relative_url }}" alt="">
+                            <img src="{{ post.image | relative_url }}" alt="" loading="lazy">
                             <span class="date">
                                 <span>{{ post.date | date: site.date_format }}</span>
                             </span>

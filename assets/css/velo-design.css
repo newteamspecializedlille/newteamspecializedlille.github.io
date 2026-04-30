@@ -18,6 +18,14 @@
   --v-gutter: 24px;
   --v-font: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
   --v-nav-h: 72px;
+  /* Brand accents */
+  --v-spe:    #E8002D;   /* Specialized red */
+  --v-teal:   #14cf93;   /* Maillot team */
+  --v-teal-dk:#0da878;   /* Teal foncé pour texte */
+  /* Médailles */
+  --v-medal-gold:   #C9962A;
+  --v-medal-silver: #8A9BA8;
+  --v-medal-bronze: #A0522D;
 }
 
 /* ---- Global Reset Overrides ---- */
@@ -155,7 +163,8 @@ nav.navbar,
 }
 .velo-nav__links a:hover,
 .velo-nav__links a.active {
-  border-bottom-color: var(--v-primary);
+  border-bottom-color: var(--v-teal);
+  color: var(--v-primary) !important;
 }
 
 .velo-nav__burger {
@@ -246,7 +255,7 @@ nav.navbar,
 }
 .velo-nav__dropdown-trigger:hover,
 .velo-nav__dropdown.is-open .velo-nav__dropdown-trigger {
-  border-bottom-color: var(--v-primary);
+  border-bottom-color: var(--v-teal);
 }
 .velo-nav__dropdown-menu {
   display: none;
@@ -279,8 +288,8 @@ nav.navbar,
   border-bottom: none;
 }
 .velo-nav__dropdown-menu li a:hover {
-  background: var(--v-primary);
-  color: #fff !important;
+  background: var(--v-teal);
+  color: #000 !important;
 }
 
 /* ================================================================
@@ -887,6 +896,7 @@ body.vcard {
   aspect-ratio: 4/5;
   overflow: hidden;
   background: var(--v-surface-gray);
+  position: relative;
 }
 
 .velo-coureur__portrait-img {
@@ -895,15 +905,32 @@ body.vcard {
   object-fit: cover;
   filter: grayscale(100%) contrast(1.1);
   display: block;
+  transition: opacity 0.4s;
+  position: relative;
+  z-index: 1;
 }
+.velo-coureur__portrait-img--fun {
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+  opacity: 0;
+  transition: opacity 0.4s;
+  filter: grayscale(100%) contrast(1.1);
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+.velo-coureur__portrait-inner:hover .velo-coureur__portrait-img { opacity: 0; }
+.velo-coureur__portrait-inner:hover .velo-coureur__portrait-img--fun { opacity: 1; }
 
 /* Editorial tag */
 .velo-coureur__tag {
   position: absolute;
   bottom: 1rem;
   left: 1rem;
-  background: var(--v-primary);
-  color: var(--v-on-primary) !important;
+  background: var(--v-spe);
+  color: #fff !important;
   padding: 4px 10px;
   font-size: 11px;
   font-weight: 700;
@@ -955,6 +982,48 @@ body.vcard {
   text-transform: uppercase;
   color: var(--v-gray) !important;
   margin: 0 0 4px;
+}
+
+.velo-coureur__challenge-link {
+  color: var(--v-gray) !important;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: color 0.15s, border-color 0.15s;
+}
+.velo-coureur__challenge-link:hover {
+  color: var(--v-teal-dk) !important;
+  border-bottom-color: var(--v-teal);
+}
+
+/* Rank badges (challenge positions) */
+.velo-rank {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.1em;
+  font-size: clamp(18px, 2.5vw, 28px);
+  font-weight: 900;
+  letter-spacing: -0.03em;
+  line-height: 1;
+  color: var(--v-primary) !important;
+}
+.velo-rank sup {
+  font-size: 0.45em;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  vertical-align: super;
+}
+.velo-rank--1 { color: var(--v-medal-gold)   !important; border-bottom: 3px solid var(--v-medal-gold); }
+.velo-rank--2 { color: var(--v-medal-silver) !important; border-bottom: 3px solid var(--v-medal-silver); }
+.velo-rank--3 { color: var(--v-medal-bronze) !important; border-bottom: 3px solid var(--v-medal-bronze); }
+.velo-rank__pts {
+  display: inline-block;
+  margin-left: 0.5rem;
+  font-size: 0.7rem;
+  font-weight: 400;
+  letter-spacing: 0.05em;
+  color: var(--v-gray) !important;
+  vertical-align: middle;
 }
 
 .velo-coureur__stat-value {
@@ -1037,8 +1106,9 @@ body.vcard {
 }
 .velo-disc-filter:hover,
 .velo-disc-filter.is-active {
-  background: var(--v-primary);
-  color: var(--v-on-primary) !important;
+  background: var(--v-teal);
+  color: #000 !important;
+  border-color: var(--v-teal);
 }
 
 /* Accordion (kept for year navigation) */
@@ -1167,14 +1237,15 @@ body.vcard {
 
 .velo-chip {
   display: inline-block;
-  border: 1px solid var(--v-primary);
+  border: 1px solid var(--v-teal);
   padding: 2px 8px;
   font-size: 10px !important;
   font-weight: 700 !important;
   letter-spacing: 0.1em !important;
   text-transform: uppercase !important;
-  color: var(--v-primary) !important;
+  color: var(--v-teal-dk) !important;
   white-space: nowrap;
+  background: rgba(20, 207, 147, 0.07);
 }
 
 .velo-race-table__result {
@@ -1657,13 +1728,14 @@ table tr:hover td {
 /* Misc utility */
 .velo-chip {
   display: inline-block;
-  border: 1px solid var(--v-primary);
+  border: 1px solid var(--v-teal);
   padding: 2px 10px;
   font-size: 10px;
   font-weight: 700;
   letter-spacing: 0.1em;
   text-transform: uppercase;
-  color: var(--v-primary) !important;
+  color: var(--v-teal-dk) !important;
+  background: rgba(20, 207, 147, 0.07);
 }
 
 .velo-divider {
@@ -1791,7 +1863,16 @@ table tr:hover td {
   color: var(--v-primary) !important;
 }
 .velo-podium-card--first .velo-podium-card__num {
-  color: var(--v-primary) !important;
+  color: var(--v-medal-gold) !important;
+  opacity: 0.25;
+}
+.velo-podium-card--second .velo-podium-card__num {
+  color: var(--v-medal-silver) !important;
+  opacity: 0.25;
+}
+.velo-podium-card--third .velo-podium-card__num {
+  color: var(--v-medal-bronze) !important;
+  opacity: 0.25;
 }
 .velo-podium-card__num {
   font-size: clamp(3rem, 6vw, 5rem);
@@ -1807,6 +1888,9 @@ table tr:hover td {
   aspect-ratio: 3/4;
   overflow: hidden;
   background: #e8e8e8;
+  position: relative;
+}
+.velo-podium-card__img-wrap .velo-podium-card__img {
   filter: grayscale(100%);
 }
 .velo-podium-card--first .velo-podium-card__img-wrap {
@@ -1826,15 +1910,18 @@ table tr:hover td {
   gap: 0.5rem;
 }
 .velo-podium-card__leader-tag {
-  display: inline-block;
+  position: absolute;
+  bottom: 0.75rem;
+  left: 0.75rem;
   font-size: 0.6rem;
   font-weight: 800;
   letter-spacing: 0.2em;
   text-transform: uppercase;
-  background: var(--v-on-primary);
-  color: var(--v-primary);
-  padding: 0.25em 0.7em;
-  align-self: flex-start;
+  background: var(--v-spe);
+  color: #000;
+  mix-blend-mode: screen;
+  padding: 0.3em 0.8em;
+  z-index: 2;
 }
 .velo-podium-card__name {
   font-size: clamp(1rem, 1.8vw, 1.4rem);
@@ -2081,6 +2168,7 @@ table tr:hover td {
   font-size: 1rem;
   font-weight: 800;
   letter-spacing: -0.01em;
+  color: var(--v-teal-dk) !important;
 }
 .velo-home-hero__right {
   background: var(--v-primary);
@@ -2133,14 +2221,16 @@ table tr:hover td {
   font-weight: 700;
   letter-spacing: 0.1em;
   text-transform: uppercase;
-  color: #fff !important;
+  color: var(--v-teal) !important;
   text-decoration: none;
-  border-bottom: 1px solid rgba(255,255,255,0.4);
+  border-bottom: 1px solid rgba(20, 207, 147, 0.4);
   padding-bottom: 0.15em;
   align-self: flex-start;
   margin-top: 1rem;
 }
-.velo-home-hero__right-link:hover { border-bottom-color: #fff; }
+.velo-home-hero__right-link:hover {
+  border-bottom-color: var(--v-teal);
+}
 
 /* Team photo */
 .velo-home-photo {
@@ -2211,8 +2301,9 @@ table tr:hover td {
 .velo-home-roster__filter:first-child { border-left: none; }
 .velo-home-roster__filter:hover,
 .velo-home-roster__filter.is-active {
-  background: var(--v-primary);
-  color: #fff;
+  background: var(--v-teal);
+  color: #000;
+  border-color: var(--v-teal);
 }
 
 /* Rider grid */
@@ -2245,6 +2336,7 @@ table tr:hover td {
   aspect-ratio: 3/4;
   overflow: hidden;
   background: #e8e8e8;
+  position: relative;
 }
 .velo-home-rider-card__img {
   width: 100%;
@@ -2253,9 +2345,20 @@ table tr:hover td {
   object-position: top;
   filter: grayscale(100%);
   display: block;
-  transition: transform 0.4s;
+  transition: transform 0.4s, opacity 0.4s;
+  position: relative;
+  z-index: 1;
 }
-.velo-home-rider-card:hover .velo-home-rider-card__img { transform: scale(1.04); }
+.velo-home-rider-card__img--fun {
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+  opacity: 0;
+  transition: opacity 0.4s;
+  filter: grayscale(100%);
+}
+.velo-home-rider-card:hover .velo-home-rider-card__img { transform: scale(1.04); opacity: 0; }
+.velo-home-rider-card:hover .velo-home-rider-card__img--fun { opacity: 1; }
 .velo-home-rider-card__img-placeholder {
   width: 100%;
   height: 100%;
@@ -2306,13 +2409,18 @@ table tr:hover td {
   color: var(--v-gray);
 }
 .velo-home-rider-card__cat {
+  position: absolute;
+  bottom: 0.75rem;
+  left: 0.75rem;
   font-size: 0.55rem;
   font-weight: 800;
   letter-spacing: 0.1em;
   text-transform: uppercase;
-  border: 1px solid var(--v-primary);
-  padding: 0.15em 0.5em;
-  color: var(--v-primary);
+  background: var(--v-spe);
+  color: #fff;
+  mix-blend-mode: multiply;
+  padding: 0.3em 0.7em;
+  z-index: 2;
 }
 .velo-home-rider-card__name {
   font-size: clamp(0.8rem, 1.4vw, 1.1rem) !important;
@@ -2562,7 +2670,7 @@ table tr:hover td {
   letter-spacing: 0.25em;
   text-transform: uppercase;
   color: var(--v-gray) !important;
-  border-left: 4px solid var(--v-primary);
+  border-left: 4px solid var(--v-teal);
   padding-left: 0.75rem;
   margin-bottom: 1.25rem;
   line-height: 1.4;
@@ -2618,7 +2726,7 @@ table tr:hover td {
   font-weight: 900 !important;
   line-height: 1 !important;
   letter-spacing: -0.03em;
-  color: var(--v-primary) !important;
+  color: var(--v-teal-dk) !important;
 }
 
 /* ---- Hero Image ---- */
@@ -2674,30 +2782,63 @@ table tr:hover td {
 .velo-post__content ul {
   list-style: none !important;
   padding: 0 !important;
-  margin: 0 0 1.5rem !important;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.4rem;
+  margin: 0 !important;
+  display: none; /* replaced by JS-generated table */
 }
 .velo-post__content ul li {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.4rem;
-  border: 1.5px solid var(--v-primary);
-  padding: 0.3rem 0.75rem;
-  font-size: 0.65rem !important;
-  font-weight: 700 !important;
-  letter-spacing: 0.1em;
+  display: none;
+}
+
+/* Category result tables (generated by JS) */
+.velo-post__cat-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0 0 2.5rem !important;
+  font-size: 0.8rem;
+}
+.velo-post__cat-table thead tr {
+  border-bottom: 2px solid var(--v-primary);
+}
+.velo-post__cat-table thead th {
+  padding: 0.5rem 1rem 0.5rem 0;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.12em;
   text-transform: uppercase;
+  color: var(--v-gray) !important;
+  text-align: left;
+}
+.velo-post__cat-table thead th:last-child { text-align: right; }
+.velo-post__cat-table tbody tr {
+  border-bottom: 1px solid rgba(0,0,0,0.07);
+  transition: background 0.12s;
+}
+.velo-post__cat-table tbody tr:hover { background: var(--v-surface-gray); }
+.velo-post__cat-table td {
+  padding: 0.7rem 1rem 0.7rem 0;
+  vertical-align: middle;
+  text-align: left;
   color: var(--v-primary) !important;
 }
-.velo-post__content ul li a {
-  color: var(--v-primary) !important;
-  text-decoration: none !important;
-  font-weight: 700 !important;
+.velo-post__cat-table td:first-child {
+  padding-left: 1rem;
 }
-.velo-post__content ul li a:hover {
-  text-decoration: underline !important;
+.velo-post__cat-table td:last-child { text-align: right; font-weight: 800; }
+.velo-post__cat-table a {
+  color: var(--v-primary) !important;
+  text-decoration: none;
+  font-weight: 700;
+}
+.velo-post__cat-table a:hover { text-decoration: underline; }
+/* Team rows highlight */
+.velo-post__cat-table tr.is-team td { background: var(--v-primary); }
+.velo-post__cat-table tr.is-team td,
+.velo-post__cat-table tr.is-team a { color: #fff !important; }
+
+.velo-post__cat-table .velo-rank {
+  font-size: inherit;
+  font-weight: 900;
+  line-height: inherit;
 }
 
 /* Scratch / Results table */

@@ -12,7 +12,6 @@ date_of_birth: 09/08/1988
 sports: Route
 category: 1ère
 gallery:
-  - assets/imgs/team/nobg/dufour_julien.jpeg
   - assets/img/team/DUFOURJULIEN_2.jpeg
   - assets/img/team/DUFOURJULIEN_3.jpeg
   - assets/img/team/DUFOURJULIEN_4.jpeg

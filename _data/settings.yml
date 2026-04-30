@@ -100,7 +100,7 @@ text:
     rank_pts_label: "Current Rank"
     ranking_title: "CLASSEMENT COMPLET"
     ranking_sub: "Rangs 04 et suivants"
-    col_pos: "Pos."
+    col_pos: "Position"
     col_rider: "Coureur"
     col_points: "Points"
     rules_title: "RÈGLEMENT"

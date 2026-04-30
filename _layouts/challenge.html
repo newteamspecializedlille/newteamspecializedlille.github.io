@@ -57,21 +57,22 @@ layout: default
       {% assign pc = c3 %}{% assign pp = p3 %}{% assign pi = 3 %}
     {% endif %}
 
-    <div class="velo-podium-card{% if slot == '1' %} velo-podium-card--first{% endif %}">
+    <div class="velo-podium-card{% if slot == '1' %} velo-podium-card--first{% elsif slot == '2' %} velo-podium-card--second{% elsif slot == '3' %} velo-podium-card--third{% endif %}">
       <span class="velo-podium-card__num">0{{ pi }}</span>
 
       <div class="velo-podium-card__img-wrap{% unless pc.image %} velo-podium-card__img-placeholder{% endunless %}">
         {% if pc.image %}
           <img class="velo-podium-card__img"
                src="{{ pc.image | relative_url }}"
-               alt="{{ pp[0] }}">
+               alt="{{ pp[0] }}"
+               loading="lazy">
+        {% endif %}
+        {% if slot == "1" %}
+          <span class="velo-podium-card__leader-tag">{{ t.challenge.leader_tag }}</span>
         {% endif %}
       </div>
 
       <div class="velo-podium-card__meta">
-        {% if slot == "1" %}
-          <span class="velo-podium-card__leader-tag">{{ t.challenge.leader_tag }}</span>
-        {% endif %}
         <h3 class="velo-podium-card__name">
           <a href="{{ pc.url | default: '#' }}">{{ pp[0] }}</a>
         </h3>
@@ -111,13 +112,14 @@ layout: default
             {% if rank > 3 %}
               {% assign rc = site.coureurs | where: "name", people[0] | first %}
               <tr class="velo-challenge-table__row" {% if rc %}onclick="window.location='{{ rc.url }}'"{% endif %}>
-                <td class="velo-challenge-table__pos">{{ rank | prepend: "00" | slice: -2, 2 }}</td>
+                <td class="velo-challenge-table__pos {% if rank == 4 %}velo-rank-4{% endif %}">{{ rank | prepend: "00" | slice: -2, 2 }}</td>
                 <td class="velo-challenge-table__rider">
                   <div class="velo-challenge-rider">
                     {% if rc.image %}
                       <img class="velo-challenge-rider__avatar"
                            src="{{ rc.image | relative_url }}"
-                           alt="{{ people[0] }}">
+                           alt="{{ people[0] }}"
+                           loading="lazy">
                     {% endif %}
                     <span class="velo-challenge-rider__name">{{ people[0] }}</span>
                   </div>

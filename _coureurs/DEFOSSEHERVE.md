@@ -20,7 +20,6 @@ strava: https://www.strava.com/athletes/105331433
 sports: Route
 category: 2ème
 gallery:
-  - assets/imgs/team/nobg/empty.png
   - assets/img/blog/blog8.jpg
   - assets/img/blog/blog6.jpg
 

@@ -43,7 +43,7 @@ layout: default
               <div class="image">
                 <div class="img" style="background-color: black;">
                   <a href="{{ coureur.url }}">
-                    <img decoding="async" src="{{ coureur.image | relative_url }}" alt="{{ coureur.title }}" >
+                    <img decoding="async" loading="lazy" src="{{ coureur.image | relative_url }}" alt="{{ coureur.title }}" >
                     <span class="overlay"></span>
                   </a>
                 </div>

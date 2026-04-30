@@ -52,7 +52,8 @@ layout: default
 <section class="velo-home-photo">
   <img src="{{ 'assets/imgs/team/team_2026.png' | relative_url }}"
        alt="Team Specialized Lille"
-       class="velo-home-photo__img">
+       class="velo-home-photo__img"
+       loading="lazy">
 </section>
 
 <!-- ROSTER -->
@@ -79,17 +80,24 @@ layout: default
          data-sport="{{ coureur.category }}">
         <div class="velo-home-rider-card__img-wrap">
           {% if coureur.image %}
+            {% assign fun_src = coureur.image | replace: 'nobg', 'fun' %}
             <img class="velo-home-rider-card__img"
                  src="{{ coureur.image | relative_url }}"
-                 alt="{{ coureur.name }}">
+                 alt="{{ coureur.name }}"
+                 loading="lazy">
+            <img class="velo-home-rider-card__img velo-home-rider-card__img--fun"
+                 src="{{ fun_src | relative_url }}"
+                 alt=""
+                 loading="lazy"
+                 aria-hidden="true">
           {% else %}
             <div class="velo-home-rider-card__img-placeholder"></div>
           {% endif %}
+          {% if coureur.category %}<span class="velo-home-rider-card__cat">{{ coureur.category }}</span>{% endif %}
         </div>
         <div class="velo-home-rider-card__info">
           <div class="velo-home-rider-card__top">
             <span class="velo-home-rider-card__num">#{{ idx | prepend: "00" | slice: -2, 2 }}</span>
-            {% if coureur.category %}<span class="velo-home-rider-card__cat">{{ coureur.category }}</span>{% endif %}
           </div>
           <h4 class="velo-home-rider-card__name">{{ coureur.name | split: " " | first }}<br>{{ coureur.name | split: " " | last }}</h4>
           <div class="velo-home-rider-card__meta">
@@ -154,10 +162,10 @@ layout: default
             </td>
             <td class="velo-home-results__pos">
               {% if _best < 9999 %}
-                {% if _best == 1 %}&#129351;
-                {% elsif _best == 2 %}&#129352;
-                {% elsif _best == 3 %}&#129353;
-                {% else %}<strong>{{ _best }}</strong>{% endif %}
+                {% if _best == 1 %}<span class="velo-rank velo-rank--1">1<sup>er</sup></span>
+                {% elsif _best == 2 %}<span class="velo-rank velo-rank--2">2<sup>e</sup></span>
+                {% elsif _best == 3 %}<span class="velo-rank velo-rank--3">3<sup>e</sup></span>
+                {% else %}<span class="velo-rank">{{ _best }}<sup>e</sup></span>{% endif %}
               {% endif %}
             </td>
           </tr>

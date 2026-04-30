@@ -13,7 +13,6 @@ date_of_birth: 18/09/2004
 category: 1ère
 
 gallery:
-  - assets/imgs/team/nobg/minneci_elio.jpeg
   - assets/img/team/MINNECIELIO_2.jpeg
   - assets/img/team/MINNECIELIO_3.jpeg
   - assets/img/team/MINNECIELIO_4.jpeg

@@ -22,42 +22,41 @@ layout: default
 {% assign name = full_name[1] %}
 {% assign surname = full_name[0] %}
 
-
-{% assign boue2026_position = 0 %}
-{% for item in site.data.boue2026.challenge %}
-    {% if item[1] > 0 %}
-        {% if item[0] == page.title %}
-            {% assign boue2026_position = forloop.index %}
-            {% break %}
-        {% endif %}
+{% comment %}
+  Build challenge_results: array of hashes {label, pos, pts}
+  for every challenge/boue data file where the rider has points > 0.
+  We iterate site.data and pick files whose key starts with "challenge" or "boue".
+{% endcomment %}
+{% assign challenge_results = "" | split: "" %}
+{% for data_item in site.data %}
+  {% assign data_key = data_item[0] %}
+  {% assign data_val = data_item[1] %}
+  {% if data_key contains "challenge" or data_key contains "boue" %}
+    {% assign ch_map = data_val.challenge %}
+    {% assign ch_year = data_val.challenge_year %}
+    {% if data_key contains "boue" %}
+      {% assign ch_label = "Challenge Boué " | append: ch_year %}
+    {% else %}
+      {% assign ch_label = "Challenge Route " | append: ch_year %}
     {% endif %}
-{% endfor %}
-
-{% if boue2026_position == 1 %}
-    {% assign boue2026_position = "<span>&#129351;</span>" %}
-{% elsif boue2026_position == 2 %}
-    {% assign boue2026_position = "<span>&#129352;</span>" %}
-{% elsif boue2026_position == 3 %}
-   {% assign boue2026_position = "<span>&#129353;</span>" %}
-{% endif %}
-
-
-{% assign challenge_position = 0 %}
-{% for item in site.data.challenge2025.challenge %}
-    {% if item[1] > 0 %}
-        {% if item[0] == page.title %}
-            {% assign challenge_position = forloop.index %}
-            {% break %}
+    {% assign pos = 0 %}
+    {% assign rider_pts = 0 %}
+    {% for entry in ch_map %}
+      {% if entry[1] > 0 %}
+        {% if entry[0] == page.title %}
+          {% assign pos = forloop.index %}
+          {% assign rider_pts = entry[1] %}
+          {% break %}
         {% endif %}
+      {% endif %}
+    {% endfor %}
+    {% if pos > 0 %}
+      {% assign ch_url = "/challenge/" | append: data_key %}
+      {% assign entry_str = ch_label | append: "|" | append: pos | append: "|" | append: rider_pts | append: "|" | append: ch_url %}
+      {% assign challenge_results = challenge_results | push: entry_str %}
     {% endif %}
+  {% endif %}
 {% endfor %}
-{% if challenge_position == 1 %}
-    {% assign challenge_position = "<span>&#129351;</span>" %}
-{% elsif challenge_position == 2 %}
-    {% assign challenge_position = "<span>&#129352;</span>" %}
-{% elsif challenge_position == 3 %}
-   {% assign challenge_position = "<span>&#129353;</span>" %}
-{% endif %}
 
 <!-- ==================== Start Coureur (Monochrome Velo) ==================== -->
 
@@ -69,9 +68,16 @@ layout: default
     <!-- Portrait -->
     <div class="velo-coureur__portrait-wrap">
       <div class="velo-coureur__portrait-inner">
+        {% assign fun_src = page.image | replace: 'nobg', 'fun' | replace: 'small', 'fun' | replace: 'jpeg', 'png' | replace: 'jpg', 'png' %}
         <img class="velo-coureur__portrait-img"
              src="{{ page.image | replace: 'small', 'nobg' | replace: 'jpeg', 'png' | replace: 'jpg', 'png' | relative_url }}"
-             alt="{{ page.title }}">
+             alt="{{ page.title }}"
+             loading="lazy">
+        <img class="velo-coureur__portrait-img velo-coureur__portrait-img--fun"
+             src="{{ fun_src | relative_url }}"
+             alt=""
+             loading="lazy"
+             aria-hidden="true">
       </div>
       <div class="velo-coureur__tag">
         {% if page.sports %}{{ page.sports }}{% else %}COUREUR{% endif %}{% if page.category %} — {{ page.category }}{% endif %}
@@ -111,18 +117,23 @@ layout: default
             <p class="velo-coureur__stat-value">{{ page.sports }}</p>
           </div>
           {% endif %}
-          {% if boue2026_position != 0 %}
-          <div class="velo-coureur__stat">
-            <p class="velo-coureur__stat-label">Challenge Boue 2026</p>
-            <p class="velo-coureur__stat-value">{{ boue2026_position }}</p>
-          </div>
-          {% endif %}
-          {% if challenge_position != 0 %}
-          <div class="velo-coureur__stat">
-            <p class="velo-coureur__stat-label">Challenge 2025</p>
-            <p class="velo-coureur__stat-value">{{ challenge_position }}</p>
-          </div>
-          {% endif %}
+          {% for result_str in challenge_results %}
+            {% assign result_parts = result_str | split: "|" %}
+            {% assign r_pos = result_parts[1] | plus: 0 %}
+            <div class="velo-coureur__stat">
+              <p class="velo-coureur__stat-label">
+                <a href="{{ result_parts[3] }}" class="velo-coureur__challenge-link">{{ result_parts[0] }} →</a>
+              </p>
+              <p class="velo-coureur__stat-value">
+                {% if r_pos == 1 %}<span class="velo-rank velo-rank--1">1<sup>er</sup></span>
+                {% elsif r_pos == 2 %}<span class="velo-rank velo-rank--2">2<sup>e</sup></span>
+                {% elsif r_pos == 3 %}<span class="velo-rank velo-rank--3">3<sup>e</sup></span>
+                {% else %}<span class="velo-rank">{{ r_pos }}<sup>e</sup></span>
+                {% endif %}
+                <span class="velo-rank__pts">{{ result_parts[2] }} pts</span>
+              </p>
+            </div>
+          {% endfor %}
         </div>
       </div>
 
@@ -253,7 +264,7 @@ layout: default
     <div class="velo-gallery-grid">
       {% for img in page.gallery %}
         <div>
-          <img src="{{ img | relative_url }}" alt="" class="velo-gallery-img">
+          <img src="{{ img | relative_url }}" alt="" class="velo-gallery-img" loading="lazy">
         </div>
       {% endfor %}
     </div>

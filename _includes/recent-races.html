@@ -36,10 +36,10 @@
         </div>
         {% if _best < 9999 %}
         <div class="velo-result-row__best">
-          {% if _best == 1 %}&#129351;
-          {% elsif _best == 2 %}&#129352;
-          {% elsif _best == 3 %}&#129353;
-          {% else %}{{ _best }}{% endif %}
+          {% if _best == 1 %}<span class="velo-rank velo-rank--1">1<sup>er</sup></span>
+          {% elsif _best == 2 %}<span class="velo-rank velo-rank--2">2<sup>e</sup></span>
+          {% elsif _best == 3 %}<span class="velo-rank velo-rank--3">3<sup>e</sup></span>
+          {% else %}<span class="velo-rank">{{ _best }}<sup>e</sup></span>{% endif %}
         </div>
         {% endif %}
       </a>

@@ -10,7 +10,6 @@ nationality: fr
 category: 3ème
 
 gallery:
-  - assets/imgs/team/nobg/dejonghe_mickael.jpeg
   - assets/img/team/DEJONGHEMICKAEL_2.jpeg
   - assets/img/team/DEJONGHEMICKAEL_3.jpeg
   - assets/img/team/DEJONGHEMICKAEL_4.jpeg
