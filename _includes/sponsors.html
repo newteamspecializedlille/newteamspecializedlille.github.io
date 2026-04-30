@@ -1,0 +1,9 @@
+{% assign s = site.data.settings %}
+<section class="velo-sponsors">
+  <div class="velo-sponsors__label">PARTENAIRES</div>
+  <div class="velo-sponsors__list">
+    {% for partner in s.partners %}
+      <span class="velo-sponsors__item">{{ partner.name }}</span>
+    {% endfor %}
+  </div>
+</section>

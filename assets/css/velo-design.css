@@ -1,0 +1,3121 @@
+/* ================================================================
+   MONOCHROME VELO — Design System
+   High-Contrast / Bold Minimalist editorial framework
+   Applied over Geekfolio base theme
+   ================================================================ */
+
+/* ---- Design Tokens ---- */
+:root {
+  --v-primary: #000000;
+  --v-on-primary: #ffffff;
+  --v-background: #ffffff;
+  --v-surface: #f9f9f9;
+  --v-surface-gray: #f5f5f5;
+  --v-gray: #666666;
+  --v-outline: #cccccc;
+  --v-section-gap: 128px;
+  --v-margin: clamp(24px, 5vw, 64px);
+  --v-gutter: 24px;
+  --v-font: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  --v-nav-h: 72px;
+  /* Brand accents */
+  --v-spe:    #E8002D;   /* Specialized red */
+  --v-teal:   #14cf93;   /* Maillot team */
+  --v-teal-dk:#0da878;   /* Teal foncé pour texte */
+  /* Médailles */
+  --v-medal-gold:   #C9962A;
+  --v-medal-silver: #8A9BA8;
+  --v-medal-bronze: #A0522D;
+}
+
+/* ---- Global Reset Overrides ---- */
+*, *::before, *::after {
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  text-shadow: none !important;
+}
+
+/* Coureurs-single: override the dark background image on the wrapper */
+body.vcard #smooth-wrapper {
+  background-image: none !important;
+  background-color: var(--v-background) !important;
+}
+
+/* Hide old coureur header elements now replaced */
+header.freelancer,
+.intro-card,
+.testimonials .testim-swiper,
+.progress-wrap {
+  display: none !important;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--v-font) !important;
+  background-color: var(--v-background) !important;
+  color: var(--v-primary) !important;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--v-font) !important;
+  color: var(--v-primary) !important;
+}
+
+p, span, a, li, td, th, label, input, textarea, button {
+  font-family: var(--v-font) !important;
+}
+
+a {
+  color: var(--v-primary) !important;
+  text-decoration: none;
+}
+a:hover {
+  color: var(--v-primary) !important;
+}
+
+/* Remove green accent color used in old theme */
+.main-color { color: var(--v-gray) !important; }
+.sub-bg { background-color: var(--v-surface) !important; }
+
+/* ---- Loader / Scroll Progress ---- */
+.loader-wrap {
+  background-color: var(--v-primary) !important;
+}
+.loader-wrap svg path {
+  fill: var(--v-primary) !important;
+}
+.progress-wrap svg.progress-circle path {
+  stroke: var(--v-primary) !important;
+}
+.progress-wrap {
+  background-color: var(--v-background) !important;
+  border: 1px solid var(--v-primary) !important;
+}
+.progress-wrap::after {
+  color: var(--v-primary) !important;
+}
+
+/* ================================================================
+   NAVBAR
+   ================================================================ */
+
+/* Hide the original Bootstrap navbar and overlay menu */
+nav.navbar,
+.hamenu {
+  display: none !important;
+}
+
+/* Velo fixed top nav */
+.velo-nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 9999;
+  background: rgba(255,255,255,0.96);
+  border-bottom: 1px solid var(--v-primary);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 var(--v-margin);
+  height: var(--v-nav-h);
+  backdrop-filter: none;
+}
+
+.velo-nav__logo {
+  font-family: var(--v-font) !important;
+  font-size: 14px;
+  font-weight: 900;
+  letter-spacing: -0.03em;
+  text-transform: uppercase;
+  color: var(--v-primary) !important;
+  white-space: nowrap;
+}
+
+.velo-nav__links {
+  display: none;
+  align-items: center;
+  gap: 2rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+@media (min-width: 900px) {
+  .velo-nav__links {
+    display: flex;
+  }
+}
+
+.velo-nav__links a {
+  font-family: var(--v-font) !important;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--v-primary) !important;
+  padding-bottom: 2px;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.15s;
+}
+.velo-nav__links a:hover,
+.velo-nav__links a.active {
+  border-bottom-color: var(--v-teal);
+  color: var(--v-primary) !important;
+}
+
+.velo-nav__burger {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  cursor: pointer;
+  background: none;
+  border: none;
+  padding: 4px;
+}
+@media (min-width: 900px) {
+  .velo-nav__burger {
+    display: none;
+  }
+}
+.velo-nav__burger span {
+  display: block;
+  width: 24px;
+  height: 1.5px;
+  background: var(--v-primary);
+  transition: transform 0.2s;
+}
+
+/* Mobile overlay menu */
+.velo-mobile-menu {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 9998;
+  background: var(--v-primary);
+  padding: calc(var(--v-nav-h) + 2rem) var(--v-margin) 2rem;
+  flex-direction: column;
+  gap: 0;
+}
+.velo-mobile-menu.is-open {
+  display: flex;
+}
+.velo-mobile-menu a {
+  font-size: 32px;
+  font-weight: 900;
+  letter-spacing: -0.02em;
+  text-transform: uppercase;
+  color: var(--v-on-primary) !important;
+  padding: 1rem 0;
+  border-bottom: 1px solid rgba(255,255,255,0.15);
+  display: block;
+}
+.velo-mobile-menu a:hover {
+  color: var(--v-outline) !important;
+}
+.velo-mobile-menu__section {
+  display: flex;
+  flex-direction: column;
+}
+.velo-mobile-menu__section-title {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: rgba(255,255,255,0.45) !important;
+  padding: 1.25rem 0 0.5rem;
+  border-bottom: 1px solid rgba(255,255,255,0.15);
+}
+.velo-mobile-menu__sub {
+  font-size: 22px !important;
+  padding: 0.6rem 0 0.6rem 1rem !important;
+}
+
+/* Dropdown nav */
+.velo-nav__dropdown {
+  position: relative;
+}
+.velo-nav__dropdown-trigger {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-family: var(--v-font) !important;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--v-primary) !important;
+  padding: 0;
+  padding-bottom: 2px;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.15s;
+}
+.velo-nav__dropdown-trigger:hover,
+.velo-nav__dropdown.is-open .velo-nav__dropdown-trigger {
+  border-bottom-color: var(--v-teal);
+}
+.velo-nav__dropdown-menu {
+  display: none;
+  position: absolute;
+  top: calc(100% + 1rem);
+  right: 0;
+  background: #fff;
+  border: 1px solid var(--v-primary);
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  min-width: 200px;
+  z-index: 1000;
+}
+.velo-nav__dropdown.is-open .velo-nav__dropdown-menu {
+  display: block;
+}
+.velo-nav__dropdown-menu li a {
+  display: block;
+  padding: 0.65rem 1rem;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--v-primary) !important;
+  border-bottom: 1px solid rgba(0,0,0,0.08);
+  white-space: nowrap;
+}
+.velo-nav__dropdown-menu li:last-child a {
+  border-bottom: none;
+}
+.velo-nav__dropdown-menu li a:hover {
+  background: var(--v-teal);
+  color: #000 !important;
+}
+
+/* ================================================================
+   MAIN CONTENT OFFSET
+   ================================================================ */
+
+#smooth-wrapper {
+  padding-top: var(--v-nav-h) !important;
+  background-color: var(--v-background) !important;
+}
+
+main.main-bg {
+  background-color: var(--v-background) !important;
+}
+
+/* ================================================================
+   HERO SECTION
+   ================================================================ */
+
+.velo-hero {
+  min-height: calc(100vh - var(--v-nav-h));
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: var(--v-section-gap) var(--v-margin) calc(var(--v-section-gap) * 0.5);
+  position: relative;
+  border-bottom: 1px solid var(--v-primary);
+  overflow: hidden;
+}
+
+.velo-hero__bg {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  background-size: cover;
+  background-position: center;
+  opacity: 0.12;
+  filter: grayscale(100%);
+}
+
+.velo-hero__content {
+  position: relative;
+  z-index: 1;
+}
+
+.velo-hero__title {
+  font-family: var(--v-font) !important;
+  font-size: clamp(56px, 10vw, 112px);
+  font-weight: 900;
+  line-height: 0.92;
+  letter-spacing: -0.04em;
+  text-transform: uppercase;
+  color: var(--v-primary) !important;
+  margin: 0 0 2rem;
+}
+
+.velo-hero__stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid rgba(0,0,0,0.15);
+  width: fit-content;
+}
+
+.velo-hero__stat {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.velo-hero__stat-label {
+  font-size: 11px;
+  font-weight: 400;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--v-gray) !important;
+}
+
+.velo-hero__stat-value {
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--v-primary) !important;
+}
+
+/* Override old hero styles */
+header.freelancer {
+  display: none !important;
+}
+
+/* ================================================================
+   SECTION HEADERS
+   ================================================================ */
+
+.velo-section-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  border-bottom: 1px solid var(--v-primary);
+  padding-bottom: 1rem;
+  margin-bottom: 3rem;
+}
+
+.velo-section-title {
+  font-family: var(--v-font) !important;
+  font-size: clamp(32px, 5vw, 48px);
+  font-weight: 900;
+  letter-spacing: -0.02em;
+  text-transform: uppercase;
+  color: var(--v-primary) !important;
+  line-height: 1;
+  margin: 0;
+}
+
+.velo-section-subtitle {
+  font-size: 11px;
+  font-weight: 400;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--v-gray) !important;
+}
+
+/* ================================================================
+   ABOUT / DESC SECTION
+   ================================================================ */
+
+.velo-about {
+  padding: var(--v-section-gap) var(--v-margin);
+  border-bottom: 1px solid var(--v-primary);
+}
+
+.velo-about__grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 4rem;
+  align-items: center;
+}
+@media (min-width: 900px) {
+  .velo-about__grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.velo-about__label {
+  font-size: 11px;
+  font-weight: 400;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--v-gray) !important;
+  margin-bottom: 1rem;
+}
+
+.velo-about__headline {
+  font-family: var(--v-font) !important;
+  font-size: clamp(32px, 4vw, 48px);
+  font-weight: 900;
+  letter-spacing: -0.02em;
+  line-height: 1;
+  text-transform: uppercase;
+  color: var(--v-primary) !important;
+  margin-bottom: 2rem;
+}
+
+.velo-about__stats {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--v-outline);
+}
+
+.velo-about__stat-num {
+  font-family: var(--v-font) !important;
+  font-size: 64px;
+  font-weight: 900;
+  letter-spacing: -0.04em;
+  line-height: 1;
+  color: var(--v-primary) !important;
+}
+
+.velo-about__stat-label {
+  font-size: 11px;
+  font-weight: 400;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--v-gray) !important;
+  margin-top: 4px;
+}
+
+.velo-about__image {
+  width: 100%;
+  aspect-ratio: 4/3;
+  object-fit: cover;
+  filter: grayscale(100%);
+  border: 1px solid var(--v-primary);
+  display: block;
+}
+
+/* ================================================================
+   MARQUEE SECTION
+   ================================================================ */
+
+.velo-marquee {
+  border-top: 1px solid var(--v-primary);
+  border-bottom: 1px solid var(--v-primary);
+  overflow: hidden;
+  background: var(--v-primary);
+  padding: 1.25rem 0;
+}
+
+.velo-marquee__track {
+  display: flex;
+  white-space: nowrap;
+  animation: velo-scroll 30s linear infinite;
+  gap: 0;
+}
+
+.velo-marquee__item {
+  display: inline-flex;
+  align-items: center;
+  gap: 2rem;
+  padding-right: 4rem;
+  font-size: 14px;
+  font-weight: 900;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--v-on-primary) !important;
+  flex-shrink: 0;
+}
+
+.velo-marquee__sep {
+  color: rgba(255,255,255,0.3);
+  font-size: 20px;
+  font-weight: 200;
+}
+
+@keyframes velo-scroll {
+  0%   { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+/* ================================================================
+   TEAM / ROSTER SECTION
+   ================================================================ */
+
+.velo-team {
+  padding: var(--v-section-gap) var(--v-margin);
+  border-bottom: 1px solid var(--v-primary);
+}
+
+.velo-team__filters {
+  display: flex;
+  gap: 1.5rem;
+  align-items: center;
+}
+
+.velo-team__filter-btn {
+  font-family: var(--v-font) !important;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--v-gray) !important;
+  background: none;
+  border: none;
+  padding: 0 0 2px;
+  cursor: pointer;
+  border-bottom: 1px solid transparent;
+  transition: color 0.15s, border-color 0.15s;
+}
+.velo-team__filter-btn:hover,
+.velo-team__filter-btn.is-active {
+  color: var(--v-primary) !important;
+  border-bottom-color: var(--v-primary);
+}
+
+.velo-team__grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 3rem;
+}
+@media (min-width: 600px) {
+  .velo-team__grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media (min-width: 1000px) {
+  .velo-team__grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+.velo-rider-card {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  cursor: pointer;
+}
+
+.velo-rider-card__img-wrap {
+  position: relative;
+  aspect-ratio: 3/4;
+  overflow: hidden;
+  background: var(--v-surface);
+  border: 1px solid var(--v-primary);
+}
+
+.velo-rider-card__img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  filter: grayscale(100%);
+  transition: transform 0.5s ease;
+  display: block;
+}
+.velo-rider-card:hover .velo-rider-card__img {
+  transform: scale(1.04);
+}
+
+.velo-rider-card__meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding-top: 1rem;
+  border-top: 1px solid var(--v-primary);
+}
+
+.velo-rider-card__name {
+  font-family: var(--v-font) !important;
+  font-size: clamp(20px, 2.5vw, 28px);
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  line-height: 1.1;
+  text-transform: uppercase;
+  color: var(--v-primary) !important;
+  margin: 0;
+}
+
+.velo-rider-card__tag {
+  border: 1px solid var(--v-primary);
+  padding: 3px 8px;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--v-primary) !important;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.velo-rider-card__socials {
+  display: flex;
+  gap: 0.75rem;
+  padding-top: 0.5rem;
+}
+
+.velo-rider-card__socials a {
+  font-size: 13px;
+  color: var(--v-gray) !important;
+  transition: color 0.15s;
+}
+.velo-rider-card__socials a:hover {
+  color: var(--v-primary) !important;
+}
+
+.velo-recent-races {
+  padding: var(--v-section-gap) var(--v-margin);
+  border-top: 1px solid var(--v-primary);
+  background: var(--v-background);
+}
+
+/* ================================================================
+   BLOG / RESULTS SECTION
+   ================================================================ */
+
+.velo-results {
+  padding: var(--v-section-gap) var(--v-margin);
+  background: var(--v-surface);
+  border-bottom: 1px solid var(--v-primary);
+}
+
+.velo-results__list {
+  display: flex;
+  flex-direction: column;
+}
+
+.velo-result-row {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  align-items: center;
+  gap: 1rem;
+  padding: 1.5rem 1rem;
+  border-bottom: 1px solid rgba(0,0,0,0.12);
+  transition: background 0.15s;
+  text-decoration: none;
+}
+.velo-result-row:hover {
+  background: var(--v-background);
+}
+
+.velo-result-row__inner {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.velo-result-row__date {
+  font-size: 11px;
+  font-weight: 400;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--v-gray) !important;
+  min-width: 5rem;
+}
+
+.velo-result-row__title {
+  font-family: var(--v-font) !important;
+  font-size: clamp(16px, 2vw, 24px);
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  text-transform: uppercase;
+  color: var(--v-primary) !important;
+  margin: 0;
+  transition: padding-left 0.25s;
+}
+.velo-result-row:hover .velo-result-row__title {
+  padding-left: 0.5rem;
+}
+
+.velo-result-row__category {
+  border: 1px solid var(--v-outline);
+  padding: 2px 8px;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--v-gray) !important;
+}
+
+.velo-result-row__best {
+  font-family: var(--v-font) !important;
+  font-size: clamp(28px, 4vw, 48px);
+  font-weight: 900;
+  letter-spacing: -0.04em;
+  line-height: 1;
+  color: var(--v-primary) !important;
+  text-align: right;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+/* ================================================================
+   PARTNERS / CLIENTS SECTION
+   ================================================================ */
+
+.velo-partners {
+  padding: var(--v-section-gap) var(--v-margin);
+  border-bottom: 1px solid var(--v-primary);
+}
+
+.velo-partners__label {
+  font-size: 11px;
+  font-weight: 400;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--v-gray) !important;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--v-outline);
+  margin-bottom: 3rem;
+}
+
+.velo-partners__grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  gap: 2rem 3rem;
+}
+
+.velo-partner-name {
+  font-size: clamp(28px, 4vw, 48px);
+  font-weight: 900;
+  font-style: italic;
+  letter-spacing: -0.03em;
+  text-transform: uppercase;
+  color: var(--v-primary) !important;
+  opacity: 0.55;
+  text-decoration: none !important;
+  line-height: 1;
+  transition: opacity 0.2s;
+}
+.velo-partner-name:hover {
+  opacity: 1;
+}
+
+/* ================================================================
+   FOOTER
+   ================================================================ */
+
+.velo-footer {
+  background: var(--v-primary) !important;
+  color: var(--v-on-primary) !important;
+  border-top: 1px solid var(--v-primary);
+  padding: 3rem var(--v-margin);
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+  align-items: center;
+}
+@media (min-width: 768px) {
+  .velo-footer {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+
+.velo-footer__logo {
+  font-family: var(--v-font) !important;
+  font-size: 14px;
+  font-weight: 900;
+  letter-spacing: -0.02em;
+  text-transform: uppercase;
+  color: var(--v-on-primary) !important;
+}
+
+.velo-footer__copy {
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: rgba(255,255,255,0.55) !important;
+  text-align: center;
+}
+
+.velo-footer__links {
+  display: flex;
+  gap: 1.5rem;
+  justify-content: flex-end;
+  flex-wrap: wrap;
+}
+
+.velo-footer__links a {
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: rgba(255,255,255,0.45) !important;
+  transition: color 0.15s;
+}
+.velo-footer__links a:hover {
+  color: var(--v-on-primary) !important;
+}
+
+/* Hide old footer */
+footer.min-footer {
+  display: none !important;
+}
+
+/* ================================================================
+   COUREUR SINGLE PAGE
+   ================================================================ */
+
+body.vcard {
+  background: var(--v-background) !important;
+}
+
+.velo-coureur {
+  padding: clamp(2rem, 5vw, var(--v-section-gap)) var(--v-margin) var(--v-section-gap);
+}
+
+/* --- Hero: portrait + identity --- */
+
+.velo-coureur__hero {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+  align-items: flex-start;
+  margin-bottom: var(--v-section-gap);
+}
+@media (min-width: 900px) {
+  .velo-coureur__hero {
+    flex-direction: row;
+    gap: 4rem;
+  }
+}
+
+/* Portrait column */
+.velo-coureur__portrait-wrap {
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+  border: 1px solid var(--v-primary);
+  overflow: hidden;
+}
+@media (min-width: 900px) {
+  .velo-coureur__portrait-wrap {
+    width: 45%;
+  }
+}
+
+.velo-coureur__portrait-inner {
+  aspect-ratio: 4/5;
+  overflow: hidden;
+  background: var(--v-surface-gray);
+  position: relative;
+}
+
+.velo-coureur__portrait-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  filter: grayscale(100%) contrast(1.4) brightness(0.88);
+  display: block;
+  transition: opacity 0.4s;
+  position: relative;
+  z-index: 1;
+}
+.velo-coureur__portrait-img--fun {
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+  opacity: 0;
+  transition: opacity 0.4s;
+  filter: grayscale(100%) contrast(1.4) brightness(0.88);
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+.velo-coureur__portrait-inner:hover .velo-coureur__portrait-img { opacity: 0; }
+.velo-coureur__portrait-inner:hover .velo-coureur__portrait-img--fun { opacity: 1; }
+
+/* Editorial tag */
+.velo-coureur__tag {
+  position: absolute;
+  bottom: 1rem;
+  left: 1rem;
+  background: var(--v-spe);
+  color: #fff !important;
+  padding: 4px 10px;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+/* Identity column */
+.velo-coureur__identity {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 2rem;
+  padding-top: 0.5rem;
+  min-height: 0;
+}
+@media (min-width: 900px) {
+  .velo-coureur__identity {
+    min-height: 400px;
+  }
+}
+
+.velo-coureur__name {
+  font-family: var(--v-font) !important;
+  font-size: clamp(48px, 7vw, 88px);
+  font-weight: 900;
+  letter-spacing: -0.04em;
+  text-transform: uppercase;
+  color: var(--v-primary) !important;
+  line-height: 0.95;
+  margin: 0 0 2rem;
+}
+
+/* Stats grid */
+.velo-coureur__stats-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem 2rem;
+  border-top: 1px solid var(--v-primary);
+  padding-top: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.velo-coureur__stat-label {
+  font-size: 11px;
+  font-weight: 400;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--v-gray) !important;
+  margin: 0 0 4px;
+}
+
+.velo-coureur__challenge-link {
+  color: var(--v-gray) !important;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: color 0.15s, border-color 0.15s;
+}
+.velo-coureur__challenge-link:hover {
+  color: var(--v-teal-dk) !important;
+  border-bottom-color: var(--v-teal);
+}
+
+/* Rank badges (challenge positions) */
+.velo-rank {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.1em;
+  font-size: clamp(18px, 2.5vw, 28px);
+  font-weight: 900;
+  letter-spacing: -0.03em;
+  line-height: 1;
+  color: var(--v-primary) !important;
+}
+.velo-rank sup {
+  font-size: 0.45em;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  vertical-align: super;
+}
+.velo-rank--1 { color: var(--v-medal-gold)   !important; border-bottom: 3px solid var(--v-medal-gold); }
+.velo-rank--2 { color: var(--v-medal-silver) !important; border-bottom: 3px solid var(--v-medal-silver); }
+.velo-rank--3 { color: var(--v-medal-bronze) !important; border-bottom: 3px solid var(--v-medal-bronze); }
+.velo-rank__pts {
+  display: inline-block;
+  margin-left: 0.5rem;
+  font-size: 0.7rem;
+  font-weight: 400;
+  letter-spacing: 0.05em;
+  color: var(--v-gray) !important;
+  vertical-align: middle;
+}
+
+.velo-coureur__stat-value {
+  font-family: var(--v-font) !important;
+  font-size: clamp(18px, 2.5vw, 28px);
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  line-height: 1.1;
+  text-transform: uppercase;
+  color: var(--v-primary) !important;
+  margin: 0;
+}
+
+/* Social links */
+.velo-coureur__socials {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  border-top: 1px solid var(--v-primary);
+  padding-top: 1.5rem;
+}
+
+.velo-coureur__social-link {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--v-primary) !important;
+  border-bottom: 1px solid transparent;
+  padding-bottom: 1px;
+  transition: border-color 0.15s;
+}
+.velo-coureur__social-link:hover {
+  border-bottom-color: var(--v-primary);
+}
+
+.velo-coureur__social-icon {
+  width: 18px;
+  height: 18px;
+  flex-shrink: 0;
+}
+
+/* --- Results section --- */
+
+.velo-coureur__results-section {
+  margin-bottom: var(--v-section-gap);
+}
+
+.velo-coureur__results-header {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+  border-bottom: 1px solid var(--v-primary);
+  padding-bottom: 1rem;
+}
+
+.velo-disc-filters {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.velo-disc-filter {
+  background: none;
+  border: 1px solid var(--v-primary);
+  padding: 4px 12px;
+  font-family: var(--v-font) !important;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--v-primary) !important;
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s;
+}
+.velo-disc-filter:hover,
+.velo-disc-filter.is-active {
+  background: var(--v-teal);
+  color: #000 !important;
+  border-color: var(--v-teal);
+}
+
+/* Accordion (kept for year navigation) */
+.velo-accordion {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.velo-accordion__year {
+  border-bottom: 1px solid var(--v-outline);
+}
+
+.velo-accordion__trigger {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.25rem 0;
+  cursor: pointer;
+  font-family: var(--v-font) !important;
+  font-size: clamp(20px, 3vw, 28px);
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  text-transform: uppercase;
+  color: var(--v-primary) !important;
+  background: none;
+  border: none;
+  width: 100%;
+  text-align: left;
+}
+
+.velo-accordion__icon {
+  font-size: 20px;
+  transition: transform 0.2s;
+  font-weight: 300;
+}
+.velo-accordion__year.is-open .velo-accordion__icon {
+  transform: rotate(45deg);
+}
+
+.velo-accordion__body {
+  display: none;
+  padding: 0 0 1.5rem;
+}
+.velo-accordion__year.is-open .velo-accordion__body {
+  display: block;
+}
+
+/* Race results table */
+.velo-race-table-wrap {
+  overflow-x: auto;
+}
+
+.velo-race-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.velo-race-table__th {
+  text-align: left !important;
+  padding: 0.75rem 1rem 0.75rem 0 !important;
+  font-size: 11px !important;
+  font-weight: 400 !important;
+  letter-spacing: 0.1em !important;
+  text-transform: uppercase !important;
+  color: var(--v-gray) !important;
+  border: none !important;
+  border-bottom: 1px solid var(--v-primary) !important;
+  white-space: nowrap;
+}
+
+.velo-race-table__th.velo-race-table__result-col,
+.velo-race-table__result-col {
+  text-align: right !important;
+}
+
+.velo-race-table__row {
+  border-bottom: 1px solid rgba(0,0,0,0.08) !important;
+}
+.velo-race-table__row:hover {
+  background: var(--v-surface-gray);
+}
+
+.velo-race-table td {
+  padding: 1rem 1rem 1rem 0 !important;
+  vertical-align: middle;
+  border: none !important;
+  border-bottom: 1px solid rgba(0,0,0,0.08) !important;
+}
+
+.velo-race-table__date {
+  font-size: 11px !important;
+  font-weight: 400 !important;
+  letter-spacing: 0.1em !important;
+  color: var(--v-gray) !important;
+  white-space: nowrap;
+  min-width: 6rem;
+}
+
+.velo-race-table__name {
+  font-size: 14px !important;
+  font-weight: 700 !important;
+  letter-spacing: -0.01em !important;
+  text-transform: uppercase !important;
+  color: var(--v-primary) !important;
+}
+.velo-race-table__name a {
+  color: var(--v-primary) !important;
+}
+.velo-race-table__name a:hover {
+  text-decoration: underline;
+}
+
+.velo-race-table__cat {
+  display: inline-block;
+  font-size: 10px;
+  font-weight: 400;
+  letter-spacing: 0.05em;
+  color: var(--v-gray) !important;
+  margin-left: 0.5rem;
+}
+
+.velo-race-table__disc {
+  white-space: nowrap;
+}
+
+.velo-chip {
+  display: inline-block;
+  border: 1px solid var(--v-teal);
+  padding: 2px 8px;
+  font-size: 10px !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.1em !important;
+  text-transform: uppercase !important;
+  color: var(--v-teal-dk) !important;
+  white-space: nowrap;
+  background: rgba(20, 207, 147, 0.07);
+}
+
+.velo-race-table__result {
+  font-size: clamp(16px, 2vw, 24px) !important;
+  font-weight: 800 !important;
+  letter-spacing: -0.02em !important;
+  text-align: right !important;
+  color: var(--v-primary) !important;
+  white-space: nowrap;
+}
+
+.velo-country-wrap {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.velo-country-emoji {
+  font-size: 1.4em;
+  line-height: 1;
+}
+
+.velo-country-name {
+  font-family: var(--v-font) !important;
+  font-size: clamp(18px, 2.5vw, 28px);
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  text-transform: uppercase;
+  color: var(--v-primary) !important;
+}
+
+/* --- Gallery --- */
+
+.velo-coureur__gallery {
+  margin-top: var(--v-section-gap);
+}
+
+.velo-gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 1rem;
+}
+
+.velo-gallery-img {
+  width: 100%;
+  display: block;
+  border: 1px solid var(--v-primary);
+  filter: grayscale(100%);
+}
+
+/* ================================================================
+   BLOG / RESULTS ARCHIVE PAGE
+   ================================================================ */
+
+.velo-blog-hero {
+  padding: clamp(3rem, 6vw, 5rem) var(--v-margin) 2rem;
+  border-bottom: 1px solid var(--v-primary);
+}
+
+.velo-blog-hero__title {
+  font-family: var(--v-font) !important;
+  font-size: clamp(40px, 7vw, 80px);
+  font-weight: 900;
+  letter-spacing: -0.04em;
+  line-height: 0.95;
+  text-transform: uppercase;
+  color: var(--v-primary) !important;
+  margin: 0 0 1rem;
+}
+
+.velo-blog-hero__sub {
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--v-gray) !important;
+  max-width: 48rem;
+  margin: 0;
+}
+
+/* Filter bar */
+.velo-blog-filters {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 1.25rem var(--v-margin);
+  border-bottom: 1px solid var(--v-primary);
+}
+
+.velo-blog-filters__label {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--v-gray) !important;
+  margin-right: 0.5rem;
+}
+
+.velo-blog-filters__group {
+  display: flex;
+  border: 2px solid var(--v-primary);
+  overflow: hidden;
+}
+
+.velo-blog-filter {
+  display: inline-block;
+  background: #fff;
+  border: none;
+  border-left: 1px solid var(--v-primary);
+  padding: 0.5rem 1.2rem;
+  font-family: var(--v-font) !important;
+  font-size: 0.7rem;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--v-primary) !important;
+  cursor: pointer;
+  text-decoration: none !important;
+  transition: background 0.12s, color 0.12s;
+}
+.velo-blog-filter:first-child { border-left: none; }
+.velo-blog-filter:hover,
+.velo-blog-filter.is-active {
+  background: var(--v-teal) !important;
+  color: #000 !important;
+  border-color: var(--v-teal) !important;
+}
+
+/* Table section */
+.velo-blog-table-section {
+  padding: 0 var(--v-margin) var(--v-section-gap);
+}
+
+.velo-blog-table-wrap {
+  overflow-x: auto;
+}
+
+.velo-blog-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.velo-blog-table__th {
+  text-align: left !important;
+  padding: 1rem 1.5rem 1rem 0 !important;
+  font-size: 11px !important;
+  font-weight: 400 !important;
+  letter-spacing: 0.1em !important;
+  text-transform: uppercase !important;
+  color: var(--v-gray) !important;
+  border: none !important;
+  border-bottom: 1px solid var(--v-primary) !important;
+  white-space: nowrap;
+}
+
+.velo-blog-table__th.velo-blog-table__result-col {
+  text-align: right !important;
+}
+
+.velo-blog-table__row {
+  cursor: pointer;
+  transition: background 0.12s;
+}
+.velo-blog-table__row:hover {
+  background: var(--v-primary) !important;
+}
+.velo-blog-table__row:hover td {
+  background: var(--v-primary) !important;
+  color: var(--v-on-primary) !important;
+  border-color: rgba(255,255,255,0.15) !important;
+}
+.velo-blog-table__row:hover td a,
+.velo-blog-table__row:hover td span,
+.velo-blog-table__row:hover .velo-rank {
+  color: var(--v-on-primary) !important;
+  border-color: var(--v-on-primary) !important;
+}
+.velo-blog-table__row:hover .velo-chip {
+  border-color: var(--v-on-primary) !important;
+  color: var(--v-on-primary) !important;
+}
+
+.velo-blog-table td {
+  padding: 1.25rem 1.5rem 1.25rem 0 !important;
+  vertical-align: middle;
+  text-align: left !important;
+  border: none !important;
+  border-bottom: 1px solid rgba(0,0,0,0.08) !important;
+  transition: color 0.12s;
+}
+
+.velo-blog-table__date {
+  font-size: 11px !important;
+  font-weight: 400 !important;
+  letter-spacing: 0.1em !important;
+  color: var(--v-gray) !important;
+  white-space: nowrap;
+  min-width: 9rem;
+}
+
+.velo-blog-table__name {
+  font-family: var(--v-font) !important;
+  font-size: clamp(16px, 2vw, 24px) !important;
+  font-weight: 800 !important;
+  letter-spacing: -0.02em !important;
+  text-transform: uppercase !important;
+  color: var(--v-primary) !important;
+}
+
+.velo-blog-table__disc {
+  white-space: nowrap;
+}
+
+.velo-blog-table__result {
+  font-family: var(--v-font) !important;
+  font-size: clamp(22px, 3vw, 36px) !important;
+  font-weight: 900 !important;
+  letter-spacing: -0.03em !important;
+  text-align: right !important;
+  color: var(--v-primary) !important;
+  white-space: nowrap;
+}
+
+.velo-blog-no-results {
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--v-gray) !important;
+  padding: 2rem 0;
+  text-align: center;
+}
+
+/* Pagination */
+.velo-blog-pagination {
+  padding: 0 var(--v-margin) var(--v-section-gap);
+}
+
+.velo-blog-pagination__inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--v-primary);
+  flex-wrap: wrap;
+}
+
+.velo-blog-pagination__prev,
+.velo-blog-pagination__next {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--v-primary) !important;
+  text-decoration: none;
+  transition: opacity 0.15s;
+}
+.velo-blog-pagination__prev:hover,
+.velo-blog-pagination__next:hover {
+  opacity: 0.6;
+}
+.velo-blog-pagination__prev.is-disabled,
+.velo-blog-pagination__next.is-disabled {
+  opacity: 0.25;
+  pointer-events: none;
+}
+
+.velo-blog-pagination__pages {
+  display: flex;
+  gap: 0.5rem;
+  align-items: baseline;
+}
+
+.velo-blog-pagination__num {
+  font-family: var(--v-font) !important;
+  font-size: clamp(14px, 1.5vw, 18px);
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  color: var(--v-gray) !important;
+  text-decoration: none;
+  padding: 0.2em 0.4em;
+  transition: color 0.15s;
+}
+.velo-blog-pagination__num:hover {
+  color: var(--v-primary) !important;
+}
+.velo-blog-pagination__num.is-active {
+  color: var(--v-primary) !important;
+  border-bottom: 2px solid var(--v-primary);
+}
+.velo-blog-pagination__ellipsis {
+  font-size: 1rem;
+  color: var(--v-gray);
+  padding: 0 0.2em;
+  user-select: none;
+}
+.velo-blog-pagination__info {
+  text-align: center;
+  font-size: 0.7rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--v-gray);
+  margin: 1rem 0 0;
+}
+
+/* ================================================================
+   OTHER LAYOUT PAGES (blog, search, archive, challenge...)
+   ================================================================ */
+
+/* Override old section padding */
+.section-padding {
+  padding: var(--v-section-gap) var(--v-margin) !important;
+}
+
+.bord-thin-top {
+  border-top: 1px solid var(--v-outline) !important;
+}
+
+/* Clean up any leftover dark backgrounds */
+.sub-bg,
+.main-bg {
+  background-color: var(--v-background) !important;
+}
+
+/* Blog post cards */
+.blog-crev .item {
+  border: 1px solid var(--v-primary);
+  background: var(--v-background) !important;
+}
+
+.blog-crev .item .cont h5,
+.blog-crev .item .cont h5 a {
+  font-family: var(--v-font) !important;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  color: var(--v-primary) !important;
+}
+
+.blog-crev .item .tag {
+  background: var(--v-primary) !important;
+}
+
+.blog-crev .item .tag span {
+  color: var(--v-on-primary) !important;
+  font-size: 10px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+/* Section headings on inner pages */
+.sec-head h6.sub-title {
+  font-family: var(--v-font) !important;
+  font-size: 11px;
+  font-weight: 400;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--v-gray) !important;
+}
+
+.sec-head h2 {
+  font-family: var(--v-font) !important;
+  font-weight: 900;
+  letter-spacing: -0.02em;
+  text-transform: uppercase;
+  color: var(--v-primary) !important;
+}
+
+/* Accordion in single rider page */
+.accordion.bord .item {
+  border: none;
+  border-bottom: 1px solid var(--v-outline) !important;
+}
+
+.accordion.bord .item .title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.accordion.bord .item .title h6 {
+  font-family: var(--v-font) !important;
+  font-size: 18px;
+  font-weight: 800;
+  text-transform: uppercase;
+  color: var(--v-primary) !important;
+}
+
+.accordion.bord .item .accordion-info p {
+  font-size: 13px;
+  color: var(--v-primary) !important;
+}
+
+.accordion.bord .item .accordion-info a {
+  color: var(--v-primary) !important;
+  text-decoration: underline;
+}
+
+/* Challenge / Boue pages tables */
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table th {
+  font-family: var(--v-font) !important;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--v-gray) !important;
+  background: var(--v-surface) !important;
+  border: none !important;
+  border-bottom: 1px solid var(--v-primary) !important;
+  padding: 0.75rem !important;
+}
+
+table td {
+  font-family: var(--v-font) !important;
+  font-size: 13px;
+  color: var(--v-primary) !important;
+  background: var(--v-background) !important;
+  border: none !important;
+  border-bottom: 1px solid rgba(0,0,0,0.08) !important;
+  padding: 0.75rem !important;
+}
+
+table tr:hover td {
+  background: var(--v-surface) !important;
+}
+
+/* Pagination */
+.pagination {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+  justify-content: center;
+  margin-top: 3rem;
+}
+
+.pagination a,
+.pagination span {
+  font-family: var(--v-font) !important;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  padding: 0.5rem 1rem;
+  border: 1px solid var(--v-primary);
+  color: var(--v-primary) !important;
+  transition: background 0.15s, color 0.15s;
+}
+
+.pagination a:hover,
+.pagination .current {
+  background: var(--v-primary) !important;
+  color: var(--v-on-primary) !important;
+}
+
+/* Search */
+#search {
+  font-family: var(--v-font) !important;
+  font-size: 16px;
+  border: none;
+  border-bottom: 1px solid var(--v-primary);
+  background: transparent;
+  color: var(--v-primary) !important;
+  width: 100%;
+  padding: 0.75rem 0;
+  outline: none;
+}
+
+/* Swiper overrides */
+.swiper-container,
+.swiper {
+  overflow: visible;
+}
+
+/* Gallery images */
+.gallery-item img {
+  filter: grayscale(100%);
+  transition: filter 0.3s;
+}
+.gallery-item:hover img {
+  filter: grayscale(0%);
+}
+
+/* Country flag inline */
+.country-flag {
+  display: inline-block;
+}
+
+/* Misc utility */
+.velo-chip {
+  display: inline-block;
+  border: 1px solid var(--v-teal);
+  padding: 2px 10px;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--v-teal-dk) !important;
+  background: rgba(20, 207, 147, 0.07);
+}
+
+.velo-divider {
+  border: none;
+  border-top: 1px solid var(--v-outline);
+  margin: 2rem 0;
+}
+
+/* Buttons */
+.velo-btn-primary {
+  display: inline-block;
+  background: var(--v-primary);
+  color: var(--v-on-primary) !important;
+  font-family: var(--v-font) !important;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  padding: 0.75rem 2rem;
+  border: 1px solid var(--v-primary);
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s;
+  text-decoration: none;
+}
+.velo-btn-primary:hover {
+  background: var(--v-on-primary) !important;
+  color: var(--v-primary) !important;
+}
+
+.velo-btn-secondary {
+  display: inline-block;
+  background: transparent;
+  color: var(--v-primary) !important;
+  font-family: var(--v-font) !important;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  padding: 0.75rem 2rem;
+  border: 1px solid var(--v-primary);
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s;
+  text-decoration: none;
+}
+.velo-btn-secondary:hover {
+  background: var(--v-primary) !important;
+  color: var(--v-on-primary) !important;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  :root {
+    --v-section-gap: 64px;
+    --v-margin: 24px;
+  }
+}
+
+/* ================================================================
+   CHALLENGE PAGE
+   ================================================================ */
+
+/* Hero */
+.velo-challenge-hero {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 2rem;
+  padding: clamp(4rem, 8vw, 7rem) var(--v-margin) 3rem;
+  border-bottom: 3px solid var(--v-primary);
+  background: var(--v-primary);
+  color: var(--v-on-primary);
+}
+.velo-challenge-hero__title {
+  font-size: clamp(2.5rem, 6vw, 5rem);
+  font-weight: 900;
+  line-height: 1;
+  text-transform: uppercase;
+  letter-spacing: -0.02em;
+  margin: 0;
+  color: #fff !important;
+}
+.velo-challenge-hero__right {
+  text-align: right;
+  flex-shrink: 0;
+}
+.velo-challenge-hero__label {
+  font-size: 0.7rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  opacity: 0.6;
+  margin: 0 0 0.4rem;
+}
+.velo-challenge-hero__sub {
+  font-size: 1rem;
+  font-style: italic;
+  opacity: 0.85;
+  max-width: 280px;
+  margin: 0;
+  line-height: 1.4;
+}
+
+/* Podium */
+.velo-challenge-podium {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  border-bottom: 3px solid var(--v-primary);
+}
+.velo-podium-card {
+  position: relative;
+  border-right: 2px solid var(--v-primary);
+  padding: 2rem var(--v-margin) 2rem;
+  background: #fff;
+  color: var(--v-primary);
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+.velo-podium-card:last-child { border-right: none; }
+.velo-podium-card--first {
+  background: #fff !important;
+  color: var(--v-primary) !important;
+}
+.velo-podium-card--first .velo-podium-card__name,
+.velo-podium-card--first .velo-podium-card__name a {
+  color: var(--v-primary) !important;
+}
+.velo-podium-card--first .velo-podium-card__num {
+  color: var(--v-medal-gold) !important;
+  opacity: 0.25;
+}
+.velo-podium-card--second .velo-podium-card__num {
+  color: var(--v-medal-silver) !important;
+  opacity: 0.25;
+}
+.velo-podium-card--third .velo-podium-card__num {
+  color: var(--v-medal-bronze) !important;
+  opacity: 0.25;
+}
+.velo-podium-card__num {
+  font-size: clamp(3rem, 6vw, 5rem);
+  font-weight: 900;
+  line-height: 1;
+  opacity: 0.12;
+  pointer-events: none;
+  user-select: none;
+  color: inherit;
+  letter-spacing: -0.04em;
+}
+.velo-podium-card__img-wrap {
+  aspect-ratio: 3/4;
+  overflow: hidden;
+  background: #e8e8e8;
+  position: relative;
+}
+.velo-podium-card__img-wrap .velo-podium-card__img {
+  filter: grayscale(100%);
+}
+.velo-podium-card--first .velo-podium-card__img-wrap {
+  background: #333;
+}
+.velo-podium-card__img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top center;
+  display: block;
+}
+.velo-podium-card__img-placeholder { background: #d0d0d0; }
+.velo-podium-card__meta {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.velo-podium-card__leader-tag {
+  position: absolute;
+  bottom: 0.75rem;
+  left: 0.75rem;
+  font-size: 0.6rem;
+  font-weight: 800;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  background: var(--v-spe);
+  color: #000;
+  mix-blend-mode: screen;
+  padding: 0.3em 0.8em;
+  z-index: 2;
+}
+.velo-podium-card__name {
+  font-size: clamp(1rem, 1.8vw, 1.4rem);
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  margin: 0;
+  line-height: 1.1;
+}
+.velo-podium-card__name a {
+  color: inherit;
+  text-decoration: none;
+}
+.velo-podium-card__name a:hover { text-decoration: underline; }
+.velo-podium-card__pts-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 1rem;
+  border-top: 1px solid currentColor;
+  opacity: 0.85;
+}
+.velo-podium-card--first .velo-podium-card__pts-row {
+  border-top-color: rgba(0,0,0,0.15);
+  opacity: 1;
+}
+.velo-podium-card__pts-label {
+  font-size: 0.65rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  opacity: 0.6;
+}
+.velo-podium-card__pts {
+  font-size: clamp(1.2rem, 2.5vw, 1.8rem);
+  font-weight: 900;
+  letter-spacing: -0.02em;
+}
+
+/* Main section: table + sidebar */
+.velo-challenge-main {
+  display: grid;
+  grid-template-columns: 1fr 320px;
+  gap: 0;
+  padding: 0 var(--v-margin);
+  align-items: start;
+  border-bottom: 3px solid var(--v-primary);
+}
+
+/* Table wrap */
+.velo-challenge-table-wrap {
+  padding: 3rem 3rem 3rem 0;
+  border-right: 2px solid var(--v-primary);
+}
+.velo-challenge-table-header {
+  display: flex;
+  align-items: baseline;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+  border-bottom: 2px solid var(--v-primary);
+  padding-bottom: 1rem;
+}
+.velo-challenge-table-title {
+  font-size: 1.1rem;
+  font-weight: 900;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin: 0;
+}
+.velo-challenge-table-sub {
+  font-size: 0.75rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--v-gray);
+  margin: 0;
+}
+.velo-challenge-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.velo-challenge-table__th {
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--v-gray);
+  padding: 0.5rem 1rem 0.5rem 0;
+  border-bottom: 1px solid #e0e0e0;
+  text-align: left !important;
+}
+.velo-challenge-table__pts-col { text-align: right; padding-right: 0; }
+.velo-challenge-table__row {
+  cursor: pointer;
+  border-bottom: 1px solid #f0f0f0;
+  transition: background 0.12s;
+}
+.velo-challenge-table__row:hover { background: #f8f8f8; }
+.velo-challenge-table__pos {
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: var(--v-gray);
+  padding: 0.85rem 1.5rem 0.85rem 0;
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+  text-align: left !important;
+}
+.velo-challenge-table__rider { padding: 0.75rem 1rem 0.75rem 0; text-align: left !important; }
+.velo-challenge-rider {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+.velo-challenge-rider__avatar-wrap {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  overflow: hidden;
+  flex-shrink: 0;
+  background: var(--v-primary);
+  clip-path: circle(50%);
+  -webkit-clip-path: circle(50%);
+  box-shadow: 0 0 0 2px var(--v-primary);
+}
+.velo-challenge-rider__avatar {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top center;
+  filter: grayscale(100%) contrast(1.15) brightness(0.95);
+  display: block;
+  border-radius: 50%;
+  clip-path: circle(50%);
+  -webkit-clip-path: circle(50%);
+}
+.velo-challenge-rider__name {
+  font-size: 0.95rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+.velo-challenge-table__pts {
+  font-size: 1rem;
+  font-weight: 800;
+  text-align: right;
+  padding: 0.85rem 0;
+  white-space: nowrap;
+}
+
+/* Rules sidebar */
+.velo-challenge-rules {
+  padding: 3rem 0 3rem 3rem;
+  position: sticky;
+  top: 1rem;
+}
+.velo-challenge-rules__box {
+  border: 2px solid var(--v-primary);
+  padding: 2rem;
+}
+.velo-challenge-rules__title {
+  font-size: 0.75rem;
+  font-weight: 900;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  margin: 0 0 1.5rem;
+  padding-bottom: 1rem;
+  border-bottom: 2px solid var(--v-primary);
+}
+.velo-challenge-rules__list { display: flex; flex-direction: column; }
+.velo-challenge-rules__item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.9rem 0;
+  border-bottom: 1px solid #e8e8e8;
+}
+.velo-challenge-rules__item:last-child { border-bottom: none; }
+.velo-challenge-rules__label {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--v-gray);
+}
+.velo-challenge-rules__val {
+  font-size: 1rem;
+  font-weight: 800;
+  letter-spacing: -0.01em;
+}
+.velo-challenge-rules__note {
+  margin-top: 1.5rem;
+  font-size: 0.72rem;
+  line-height: 1.5;
+  color: var(--v-gray);
+  font-style: italic;
+}
+.velo-challenge-rules__update {
+  margin-top: 1rem;
+  font-size: 0.65rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--v-gray);
+}
+
+/* Responsive */
+@media (max-width: 900px) {
+  .velo-challenge-hero { flex-direction: column; align-items: flex-start; }
+  .velo-challenge-hero__right { text-align: left; }
+  .velo-challenge-podium { grid-template-columns: 1fr; }
+  .velo-podium-card { border-right: none; border-bottom: 2px solid var(--v-primary); min-height: 260px; }
+  .velo-challenge-main { grid-template-columns: 1fr; }
+  .velo-challenge-table-wrap { border-right: none; padding: 2rem 0; }
+  .velo-challenge-rules { position: static; padding: 0 0 2rem; }
+}
+
+/* ================================================================
+   HOME PAGE
+   ================================================================ */
+
+/* Hero */
+.velo-home-hero {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  border-bottom: 3px solid var(--v-primary);
+  min-height: 420px;
+}
+.velo-home-hero__left {
+  padding: calc(var(--v-nav-h) + var(--v-margin)) var(--v-margin) var(--v-margin);
+  border-right: 2px solid var(--v-primary);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 2rem;
+}
+.velo-home-hero__title {
+  font-size: clamp(2.8rem, 6vw, 6rem) !important;
+  font-weight: 900 !important;
+  line-height: 0.92 !important;
+  letter-spacing: -0.04em;
+  text-transform: uppercase;
+  margin: 0;
+  color: var(--v-primary) !important;
+}
+.velo-home-hero__stats {
+  display: flex;
+  gap: 2.5rem;
+  flex-wrap: wrap;
+}
+.velo-home-hero__stat {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+.velo-home-hero__stat-label {
+  font-size: 0.65rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--v-gray);
+}
+.velo-home-hero__stat-val {
+  font-size: 1rem;
+  font-weight: 800;
+  letter-spacing: -0.01em;
+  color: var(--v-teal-dk) !important;
+}
+.velo-home-hero__right {
+  background: var(--v-primary);
+  color: #fff;
+  padding: calc(var(--v-nav-h) + var(--v-margin)) var(--v-margin) var(--v-margin);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 1rem;
+}
+.velo-home-hero__right-top {
+  display: flex;
+  justify-content: flex-end;
+}
+.velo-home-hero__logo {
+  height: 140px;
+  width: auto;
+  object-fit: contain;
+  display: block;
+}
+.velo-home-hero__right-bottom {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+.velo-home-hero__right-label {
+  font-size: 0.65rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  opacity: 0.55;
+  margin: 0;
+}
+.velo-home-hero__right-name {
+  font-size: clamp(1.2rem, 2.5vw, 2rem) !important;
+  font-weight: 900 !important;
+  text-transform: uppercase;
+  letter-spacing: -0.02em;
+  margin: 0;
+  color: #fff !important;
+  line-height: 1.1;
+}
+.velo-home-hero__right-date {
+  font-size: 0.8rem;
+  opacity: 0.65;
+  margin: 0;
+  color: #fff;
+}
+.velo-home-hero__right-link {
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--v-teal) !important;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(20, 207, 147, 0.4);
+  padding-bottom: 0.15em;
+  align-self: flex-start;
+  margin-top: 1rem;
+}
+.velo-home-hero__right-link:hover {
+  border-bottom-color: var(--v-teal);
+}
+
+/* Team photo */
+.velo-home-photo {
+  width: 100%;
+  max-height: 480px;
+  overflow: hidden;
+  border-bottom: 3px solid var(--v-primary);
+}
+.velo-home-photo__img {
+  width: 100%;
+  height: 480px;
+  display: block;
+  object-fit: contain;
+  object-position: center center;
+  background: #f0f0f0;
+  filter: grayscale(100%) contrast(1.1) brightness(0.92);
+}
+
+/* Roster section */
+.velo-home-roster {
+  padding: var(--v-margin);
+  border-bottom: 3px solid var(--v-primary);
+}
+.velo-home-roster__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  gap: 1rem;
+  margin-bottom: 2.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 2px solid var(--v-primary);
+  flex-wrap: wrap;
+}
+.velo-home-roster__label {
+  font-size: 0.65rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--v-gray);
+  display: block;
+  margin-bottom: 0.4rem;
+}
+.velo-home-roster__title {
+  font-size: clamp(1.5rem, 3vw, 2.5rem) !important;
+  font-weight: 900 !important;
+  text-transform: uppercase;
+  letter-spacing: -0.02em;
+  margin: 0;
+  color: var(--v-primary) !important;
+}
+.velo-home-roster__filters {
+  display: flex;
+  border: 2px solid var(--v-primary);
+  overflow: hidden;
+}
+.velo-home-roster__filter {
+  padding: 0.5rem 1.2rem;
+  font-size: 0.7rem;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  background: #fff;
+  color: var(--v-primary);
+  border: none;
+  border-left: 1px solid var(--v-primary);
+  cursor: pointer;
+  transition: background 0.12s, color 0.12s;
+}
+.velo-home-roster__filter:first-child { border-left: none; }
+.velo-home-roster__filter:hover,
+.velo-home-roster__filter.is-active {
+  background: var(--v-teal);
+  color: #000;
+  border-color: var(--v-teal);
+}
+
+/* Rider grid */
+.velo-home-roster__grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1px;
+  background: var(--v-primary);
+  border: 2px solid var(--v-primary);
+}
+@media (min-width: 600px) {
+  .velo-home-roster__grid { grid-template-columns: repeat(3, 1fr); }
+}
+@media (min-width: 900px) {
+  .velo-home-roster__grid { grid-template-columns: repeat(4, 1fr); }
+}
+
+.velo-home-rider-card {
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  color: var(--v-primary);
+  overflow: hidden;
+  transition: background 0.15s;
+  cursor: pointer;
+}
+.velo-home-rider-card:hover { background: #f8f8f8; }
+.velo-home-rider-card__img-wrap {
+  aspect-ratio: 3/4;
+  overflow: hidden;
+  background: #e8e8e8;
+  position: relative;
+}
+.velo-home-rider-card__img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top;
+  filter: grayscale(100%) contrast(1.4) brightness(0.88);
+  display: block;
+  transition: transform 0.4s, opacity 0.4s;
+  position: relative;
+  z-index: 1;
+}
+.velo-home-rider-card__img--fun {
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+  opacity: 0;
+  transition: opacity 0.4s;
+  filter: grayscale(100%) contrast(1.4) brightness(0.88);
+}
+.velo-home-rider-card:hover .velo-home-rider-card__img { transform: scale(1.04); opacity: 0; }
+.velo-home-rider-card:hover .velo-home-rider-card__img--fun { opacity: 1; }
+.velo-home-rider-card__img-placeholder {
+  width: 100%;
+  height: 100%;
+  background: #ddd;
+}
+.velo-home-rider-card--filler {
+  background: var(--v-primary);
+  pointer-events: none;
+  display: flex;
+  flex-direction: column;
+}
+.velo-home-rider-card--filler .velo-home-rider-card__img-wrap {
+  aspect-ratio: unset !important;
+  flex: 1;
+  min-height: 0;
+}
+.velo-home-rider-card__img-filler {
+  background: var(--v-primary) !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.velo-home-rider-card__filler-logo {
+  width: 60%;
+  max-width: 180px;
+  height: auto;
+  object-fit: contain;
+  filter: brightness(0) invert(1);
+  opacity: 0.7;
+}
+.velo-home-rider-card__info {
+  padding: 1rem;
+  border-top: 2px solid var(--v-primary);
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.velo-home-rider-card__top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.velo-home-rider-card__num {
+  font-size: 0.6rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--v-gray);
+}
+.velo-home-rider-card__cat {
+  position: absolute;
+  bottom: 0.75rem;
+  left: 0.75rem;
+  font-size: 0.55rem;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  background: var(--v-spe);
+  color: #fff;
+  mix-blend-mode: multiply;
+  padding: 0.3em 0.7em;
+  z-index: 2;
+}
+.velo-home-rider-card__name {
+  font-size: clamp(0.8rem, 1.4vw, 1.1rem) !important;
+  font-weight: 900 !important;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  line-height: 1.1;
+  margin: 0.2rem 0 0;
+  color: var(--v-primary) !important;
+}
+.velo-home-rider-card__meta {
+  margin-top: auto;
+  padding-top: 0.75rem;
+  border-top: 1px solid #e8e8e8;
+}
+.velo-home-rider-card__meta-row {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.6rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--v-gray);
+}
+.velo-home-rider-card__meta-row span:last-child {
+  font-weight: 700;
+  color: var(--v-primary);
+}
+
+/* Recent results section */
+.velo-home-results {
+  display: grid;
+  grid-template-columns: 280px 1fr;
+  border-bottom: 3px solid var(--v-primary);
+}
+.velo-home-results__intro {
+  padding: var(--v-margin);
+  border-right: 2px solid var(--v-primary);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 2rem;
+}
+.velo-home-results__label {
+  font-size: 0.65rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--v-gray);
+  display: block;
+  margin-bottom: 0.4rem;
+}
+.velo-home-results__title {
+  font-size: clamp(1.5rem, 2.5vw, 2.2rem) !important;
+  font-weight: 900 !important;
+  text-transform: uppercase;
+  letter-spacing: -0.02em;
+  margin: 0;
+  color: var(--v-primary) !important;
+  line-height: 1;
+}
+.velo-home-results__sub {
+  font-size: 0.85rem;
+  line-height: 1.5;
+  color: var(--v-gray);
+  margin: 0.75rem 0 0;
+}
+.velo-home-results__cta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 1.25rem;
+  border: 2px solid var(--v-primary);
+  font-size: 0.65rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--v-primary) !important;
+  text-decoration: none;
+  transition: background 0.15s, color 0.15s;
+}
+.velo-home-results__cta:hover {
+  background: var(--v-primary);
+  color: #fff !important;
+}
+.velo-home-results__table-wrap {
+  overflow-x: auto;
+}
+.velo-home-results__table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+.velo-home-results__table thead tr {
+  border-bottom: 2px solid var(--v-primary);
+}
+.velo-home-results__table th {
+  padding: 1rem 1.5rem;
+  font-size: 0.6rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--v-gray) !important;
+  text-align: left !important;
+}
+.velo-home-results__table th:nth-child(1) { width: 40%; }
+.velo-home-results__table th:nth-child(2) { width: 20%; }
+.velo-home-results__table th:nth-child(3) { width: 22%; }
+.velo-home-results__table th:nth-child(4) { width: 18%; text-align: right; }
+.velo-home-results__row {
+  border-bottom: 1px solid #f0f0f0;
+  cursor: pointer;
+  transition: background 0.1s;
+}
+.velo-home-results__row:hover { background: #f8f8f8; }
+.velo-home-results__name {
+  padding: 1rem 1.5rem;
+  font-size: 0.9rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  text-align: left !important;
+}
+.velo-home-results__date {
+  padding: 1rem 1.5rem;
+  font-size: 0.75rem;
+  color: var(--v-gray);
+  white-space: nowrap;
+  text-align: left !important;
+}
+.velo-home-results__disc { padding: 1rem 1.5rem; text-align: left !important; }
+.velo-home-results__pos {
+  padding: 1rem 1.5rem;
+  font-size: 1.1rem;
+  font-weight: 900;
+  text-align: right;
+  white-space: nowrap;
+}
+
+/* Partners */
+.velo-home-partners {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+  gap: 2rem;
+  padding: 3rem var(--v-margin);
+  border-bottom: 3px solid var(--v-primary);
+  filter: grayscale(1);
+  opacity: 0.35;
+  transition: opacity 0.3s;
+}
+.velo-home-partners:hover { opacity: 1; }
+.velo-home-partners__item {
+  font-size: clamp(1rem, 2vw, 1.5rem);
+  font-weight: 900;
+  letter-spacing: -0.03em;
+  text-transform: uppercase;
+  color: var(--v-primary);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .velo-home-hero { grid-template-columns: 1fr; }
+  .velo-home-hero__left { border-right: none; border-bottom: 2px solid var(--v-primary); }
+  .velo-home-results { grid-template-columns: 1fr; }
+  .velo-home-results__intro { border-right: none; border-bottom: 2px solid var(--v-primary); }
+  .velo-home-roster__header { flex-direction: column; align-items: flex-start; }
+}
+
+/* ==========================================================================
+   SPONSORS — Reusable include
+   ========================================================================== */
+.velo-sponsors {
+  display: flex;
+  align-items: center;
+  gap: 3rem;
+  padding: 2rem clamp(1.5rem, 6vw, 6rem);
+  border-top: 2px solid var(--v-primary);
+  border-bottom: 2px solid var(--v-primary);
+  background: #fff;
+}
+.velo-sponsors__label {
+  font-size: 0.6rem !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--v-gray) !important;
+  white-space: nowrap;
+  flex-shrink: 0;
+  padding-right: 2rem;
+  border-right: 1px solid #e0e0e0;
+}
+.velo-sponsors__list {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1.5rem 3rem;
+  flex: 1;
+}
+.velo-sponsors__item {
+  font-size: clamp(0.9rem, 1.8vw, 1.3rem) !important;
+  font-weight: 900 !important;
+  letter-spacing: -0.02em;
+  text-transform: uppercase;
+  color: var(--v-primary) !important;
+  opacity: 0.25;
+  transition: opacity 0.2s;
+}
+.velo-sponsors:hover .velo-sponsors__item {
+  opacity: 1;
+}
+@media (max-width: 600px) {
+  .velo-sponsors { flex-direction: column; align-items: flex-start; gap: 1rem; }
+  .velo-sponsors__label { border-right: none; padding-right: 0; border-bottom: 1px solid #e0e0e0; padding-bottom: 0.75rem; width: 100%; }
+}
+
+/* ==========================================================================
+   POST — Race Result Page
+   ========================================================================== */
+
+.velo-post {
+  background: #fff;
+}
+
+/* ---- Header ---- */
+.velo-post__header {
+  padding: clamp(4rem, 8vw, 7rem) clamp(1.5rem, 6vw, 6rem) clamp(2.5rem, 4vw, 4rem);
+  background: #fff;
+  border-bottom: 2px solid var(--v-primary);
+}
+.velo-post__header-inner {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 3rem;
+  align-items: end;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+.velo-post__title-col {
+  min-width: 0;
+}
+.velo-post__meta-tag {
+  display: inline-flex;
+  align-items: center;
+  font-size: 0.65rem !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  color: var(--v-gray) !important;
+  border-left: 4px solid var(--v-teal);
+  padding-left: 0.75rem;
+  margin-bottom: 1.25rem;
+  line-height: 1.4;
+}
+.velo-post__race-name {
+  font-size: clamp(3.5rem, 9vw, 8rem) !important;
+  font-weight: 900 !important;
+  line-height: 0.88 !important;
+  letter-spacing: -0.04em !important;
+  text-transform: uppercase !important;
+  color: var(--v-primary) !important;
+  word-break: break-word;
+  margin: 0 !important;
+}
+.velo-post__stats-col {
+  flex-shrink: 0;
+}
+.velo-post__stats-box {
+  border: 3px solid var(--v-primary);
+  padding: 1.5rem 2rem;
+  min-width: 220px;
+}
+.velo-post__stats-box-title {
+  font-size: 0.7rem !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--v-primary) !important;
+  margin-bottom: 0.75rem !important;
+}
+.velo-post__stats-divider {
+  height: 3px;
+  background: var(--v-primary);
+  margin-bottom: 1.25rem;
+}
+.velo-post__stats-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.25rem 2rem;
+}
+.velo-post__stat-label {
+  display: block;
+  font-size: 0.6rem !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--v-gray) !important;
+  margin-bottom: 0.25rem;
+}
+.velo-post__stat-value {
+  display: block;
+  font-size: 1.75rem !important;
+  font-weight: 900 !important;
+  line-height: 1 !important;
+  letter-spacing: -0.03em;
+  color: var(--v-teal-dk) !important;
+}
+
+/* ---- Hero Image ---- */
+.velo-post__hero-img {
+  width: 100%;
+  max-height: 520px;
+  overflow: hidden;
+  border-bottom: 2px solid var(--v-primary);
+}
+.velo-post__hero-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  filter: grayscale(30%);
+}
+
+/* ---- Content wrapper ---- */
+.velo-post__content-wrap {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: clamp(2rem, 5vw, 4rem) clamp(1.5rem, 6vw, 6rem);
+}
+
+/* ---- Markdown Content ---- */
+
+/* Category headings (### 2ème Catégorie) */
+.velo-post__content h3 {
+  font-size: 0.65rem !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.2em !important;
+  text-transform: uppercase !important;
+  color: var(--v-gray) !important;
+  margin: 2.5rem 0 0.4rem !important;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--v-primary);
+}
+.velo-post__content h3:first-child {
+  margin-top: 0 !important;
+}
+
+/* Participant count paragraph */
+.velo-post__content h3 + p {
+  font-size: 1.75rem !important;
+  font-weight: 900 !important;
+  letter-spacing: -0.03em;
+  line-height: 1 !important;
+  color: var(--v-primary) !important;
+  margin: 0.25rem 0 0.75rem !important;
+}
+
+/* Team rider list (- [NOM] : RANK) */
+.velo-post__content ul {
+  list-style: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  display: none; /* replaced by JS-generated table */
+}
+.velo-post__content ul li {
+  display: none;
+}
+
+/* Category result tables (generated by JS) */
+.velo-post__cat-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0 0 2.5rem !important;
+  font-size: 0.8rem;
+}
+.velo-post__cat-table thead tr {
+  border-bottom: 2px solid var(--v-primary);
+}
+.velo-post__cat-table thead th {
+  padding: 0.5rem 1rem 0.5rem 0;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--v-gray) !important;
+  text-align: left !important;
+}
+.velo-post__cat-table thead th:last-child { text-align: right; }
+.velo-post__cat-table tbody tr {
+  border-bottom: 1px solid rgba(0,0,0,0.07);
+  transition: background 0.12s;
+}
+.velo-post__cat-table tbody tr:hover { background: var(--v-surface-gray); }
+.velo-post__cat-table td {
+  padding: 0.7rem 1rem 0.7rem 0;
+  vertical-align: middle;
+  text-align: left !important;
+  color: var(--v-primary) !important;
+}
+.velo-post__cat-table td:first-child {
+  padding-left: 1rem;
+}
+.velo-post__cat-table td:last-child { text-align: right; font-weight: 800; }
+.velo-post__cat-table a {
+  color: var(--v-primary) !important;
+  text-decoration: none;
+  font-weight: 700;
+}
+.velo-post__cat-table a:hover { text-decoration: underline; }
+/* Team rows highlight */
+.velo-post__cat-table tr.is-team td { background: var(--v-primary); }
+.velo-post__cat-table tr.is-team td,
+.velo-post__cat-table tr.is-team a { color: #fff !important; }
+
+.velo-post__cat-table .velo-rank {
+  font-size: inherit;
+  font-weight: 900;
+  line-height: inherit;
+}
+
+/* Scratch / Results table */
+.velo-post__content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0 2.5rem !important;
+  font-size: 0.8rem;
+}
+.velo-post__content table thead tr {
+  border-bottom: 2px solid var(--v-primary);
+}
+.velo-post__content table th {
+  padding: 0.6rem 0.75rem;
+  font-size: 0.6rem !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--v-gray) !important;
+  text-align: left !important;
+  white-space: nowrap;
+}
+.velo-post__content table td {
+  padding: 0.55rem 0.75rem;
+  border-bottom: 1px solid #f0f0f0;
+  color: var(--v-primary) !important;
+  font-size: 0.8rem !important;
+  vertical-align: middle;
+  text-align: left !important;
+}
+/* Place column — bold number */
+.velo-post__content table td:first-child {
+  font-weight: 700;
+  font-size: 0.85rem !important;
+  white-space: nowrap;
+}
+/* Team rider row highlight (bold in markdown) */
+.velo-post__content table tr:has(strong) {
+  background: var(--v-primary) !important;
+}
+.velo-post__content table tr:has(strong) td,
+.velo-post__content table tr:has(strong) td strong,
+.velo-post__content table tr:has(strong) td a,
+.velo-post__content table tr:has(strong) td a strong {
+  color: #fff !important;
+  background: transparent !important;
+}
+.velo-post__content table tr:hover:not(:has(strong)) {
+  background: #f8f8f8;
+}
+/* Overflow scroll on mobile */
+.velo-post__content {
+  overflow-x: auto;
+}
+
+/* ---- Photo Gallery ---- */
+.velo-post__gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 2px;
+  border-top: 2px solid var(--v-primary);
+  margin-top: 3rem;
+}
+.velo-post__gallery-item {
+  aspect-ratio: 4/3;
+  overflow: hidden;
+}
+.velo-post__gallery-item img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  filter: grayscale(20%);
+  transition: filter 0.2s;
+}
+.velo-post__gallery-item img:hover {
+  filter: grayscale(0%);
+}
+
+/* ---- Responsive ---- */
+@media (max-width: 768px) {
+  .velo-post__header-inner {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    align-items: start;
+  }
+  .velo-post__stats-box {
+    min-width: 0;
+    width: 100%;
+  }
+  .velo-post__gallery {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* ============================================================
+   404 PAGE
+   ============================================================ */
+.velo-404 {
+  position: relative;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  background: #fff;
+  padding: 4rem 1.5rem;
+}
+
+.velo-404__grid {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.15;
+}
+
+.velo-404__grid-line {
+  position: absolute;
+  background: var(--v-primary);
+}
+
+.velo-404__grid-line--v {
+  width: 1px;
+  top: 0;
+  bottom: 0;
+}
+
+.velo-404__grid-line--h {
+  height: 1px;
+  left: 0;
+  right: 0;
+}
+
+.velo-404__inner {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 2rem;
+  width: 100%;
+  max-width: 800px;
+}
+
+.velo-404__number {
+  font-size: clamp(8rem, 25vw, 22rem);
+  font-weight: 900;
+  line-height: 0.85;
+  letter-spacing: -0.04em;
+  font-style: italic;
+  color: var(--v-primary) !important;
+  user-select: none;
+}
+
+.velo-404__divider {
+  width: 6rem;
+  height: 1px;
+  background: var(--v-primary);
+}
+
+.velo-404__content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.25rem;
+  max-width: 640px;
+}
+
+.velo-404__headline {
+  font-size: clamp(1rem, 2.5vw, 1.5rem);
+  font-weight: 800;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: var(--v-primary) !important;
+  line-height: 1.2;
+}
+
+.velo-404__body {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #4c4546 !important;
+  max-width: 520px;
+}
+
+.velo-404__data-block {
+  border: 1px solid var(--v-primary);
+  padding: 1rem 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+  width: 100%;
+  max-width: 320px;
+  background: #fff;
+}
+
+.velo-404__data-block-left {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.25rem;
+}
+
+.velo-404__data-label {
+  font-size: 0.65rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #7e7576 !important;
+  font-weight: 400;
+}
+
+.velo-404__data-value {
+  font-size: 1.5rem;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  color: var(--v-primary) !important;
+}
+
+.velo-404__data-icon {
+  font-size: 2rem;
+  color: var(--v-primary) !important;
+}
+
+.velo-404__cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: var(--v-primary);
+  color: #fff !important;
+  font-size: 0.875rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 1rem 2.5rem;
+  text-decoration: none;
+  transition: background 0.2s, color 0.2s;
+}
+
+.velo-404__cta:hover {
+  background: #fff;
+  color: var(--v-primary) !important;
+  outline: 2px solid var(--v-primary);
+}

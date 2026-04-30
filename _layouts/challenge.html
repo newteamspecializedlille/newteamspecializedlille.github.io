@@ -2,140 +2,181 @@
 layout: default
 ---
 
-{% assign ui_text = site.data.ui-text['ui_text'] %}
-{% assign challenge = page.title | downcase | replace: " ", "" %}
-
-{{ challenge }}
+{% assign t = site.data.settings.text %}
 {% if page.data_file %}
   {% assign data = site.data[page.data_file] %}
 {% else %}
   {% assign data = site.data["challenge2025"] %}
 {% endif %}
 
-{% for team in site.data.team.team_members %}
-	{%- if team.name == page.name -%}
-		{% assign team_people = team %}
-	{%- endif -%}
+{% comment %} Build top-3 array of non-zero entries {% endcomment %}
+{% assign podium = "" | split: "" %}
+{% for people in data.challenge %}
+  {% if people[1] > 0 and podium.size < 3 %}
+    {% assign podium = podium | push: people %}
+  {% endif %}
 {% endfor %}
 
-<!-- ==================== Start Header ==================== -->
-<header class="page-header-cerv bg-img section-padding" data-background="{{ 'assets/imgs/team/team_2026.png' | relative_url }}"
-	data-overlay-dark="1" style="background-position: center;background-size: cover;">
-	<div class="container pt-100 ontop">
-		<div class="text-center">
-			<h1 class="fz-100">{{ page.title }}</h1>
-			<div class="mt-15">
-				<a href="{{ '/' | relative_url }}">Home</a>
-				<span class="padding-rl-20">|</span>
-				<span class="main-color">{{ page.title }}</span>
-			</div>
-		</div>
-	</div>
-</header>
+{% assign p1 = podium[0] %}
+{% assign p2 = podium[1] %}
+{% assign p3 = podium[2] %}
 
-<!-- ==================== End Header ==================== -->
+{% assign c1 = site.coureurs | where: "name", p1[0] | first %}
+{% assign c2 = site.coureurs | where: "name", p2[0] | first %}
+{% assign c3 = site.coureurs | where: "name", p3[0] | first %}
 
-<!-- ==================== Start First ==================== -->
-<section class="team section-padding" style="padding-top: 50px; padding-bottom: 50px;">
-    <div class="container">
-		<div class="row">
-		{% for people in data.challenge limit:3 %}
-				{% assign coureur = site.coureurs | where: "name", people[0] | first %}
-				<div class="col-lg-4">
-					<div class="item md-mb50" >
-						<a  href="{{ coureur.url }}">
-							<div class="img">
-								<img src="{{ coureur.image | relative_url }}" alt="{{ coureur.title }}">
-								<div class="info">
-									<h6 class="fz-18">{{ people[0] }}</h6>
-								</div>
-							</div>
-						</a>
-						<div class="social">
-							<div class="links">
-								{% if coureur.strava != nil %}
-								<a href="{{ coureur.strava }}" target="_blank">
-									<i class="fab fa-strava"></i>
-								</a>
-								{% endif %}
-								 {% if coureur.instagram != nil %}
-								<a href="{{ coureur.instagram }}" target="_blank">
-									<i class="fab fa-instagram"></i>
-								</a>
-								{% endif %}
-							</div>
-						</div>
-					</div>
-					<div class="item md-mb50">
-						<h2 class="fz-100 numb-font" style="text-align: center;">{{ forloop.index }}.</h2>
-					</div>
-				</div>
-		{% endfor %}
-		</div>
-	</div>
+<!-- ==================== Start Challenge (Monochrome Velo) ==================== -->
+
+<!-- Hero -->
+<section class="velo-challenge-hero">
+  <div class="velo-challenge-hero__left">
+    <h1 class="velo-challenge-hero__title">{{ page.title }}</h1>
+  </div>
+  <div class="velo-challenge-hero__right">
+    <p class="velo-challenge-hero__label">{{ t.challenge.status_label }}</p>
+    <p class="velo-challenge-hero__sub">{{ t.challenge.hero_sub }}</p>
+  </div>
 </section>
-<!-- ==================== End First ==================== -->
 
-<!-- ==================== Start Table ==================== -->
+<!-- Podium Top 3 -->
+{% if podium.size > 0 %}
+<section class="velo-challenge-podium">
 
-<section class="brands-crev simple section-padding pb-0" style="padding-top: 50px;padding-bottom: 50px;">
-    <div class="container">
-        <table style="width: 100%; border-collapse: separate; border-spacing: 0 10px; margin: 0 auto;">
-            <thead>
-                <tr>
-                    <th scope="col" style="position: relative; padding: 20px; text-align: center; position: relative;border: 1px solid rgba(255, 255, 255, 0.08);">
-                        <span>Place</span>
-                    </th>
-                    <th scope="col" style="position: relative; padding: 20px;">
-                        <span>Nom</span>
-                    </th>
-                    <th scope="col" style="position: relative; padding: 20px;">
-                        <span>Points</span>
-                    </th>
-                </tr>
-            </thead>
-            <tbody>
-                {% for people in data.challenge %}
-                    {% if people[1] != 0 %}
-                        <tr>
-                            <td style="position: relative; padding: 20px;">
-                                {% if forloop.index == 1 %}
-                                    <span>&#129351;</span>
-                                {% elsif forloop.index == 2 %}
-                                    <span>&#129352;</span>
-                                {% elsif forloop.index == 3 %}
-                                    <span>&#129353;</span>
-                                {% else %}
-                                    <span>{{ forloop.index }}</span>
-                                {% endif %}
-                            </td>
-                            <td style="position: relative; padding: 20px;">
-                                <a href="{{ '/coureurs/' | append: people[0] | downcase | replace: " ", "" | relative_url }}">{{ people[0] }}</a>
-                            </td>
-                            <td style="position: relative; padding: 20px;">
-                                <span>{{ people[1] }}</span>
-                            </td>
-                        </tr>
-                    {% endif %}
-                {% endfor %}
-            </tbody>
-        </table>
-        <div class="row" style="padding-top: 50px; padding-bottom: 50px;">
-            <b>Réglement : </b>
-            <ul>
-                <li>Participation : {{ data.point_participation }} points</li>
-                <li>Victoire : {{ data.point_win }} points</li>
-                <li>Top 5 : {{ data.point_top5 }} points</li>
-                <li>Top 10 : {{ data.point_top10 }} points</li>
-                {% if data.point_top15 %}
-                <li>Top 15 : {{ data.point_top15 }} points</li>
-                {% endif %}
-            </ul>
-            Mis à jour le {{ data.update_date }}
+  {% comment %} Order: 2nd | 1st | 3rd {% endcomment %}
+  {% assign podium_order = "" | split: "" %}
+  {% if p2 %}{% assign podium_order = podium_order | push: "2" %}{% endif %}
+  {% assign podium_order = podium_order | push: "1" %}
+  {% if p3 %}{% assign podium_order = podium_order | push: "3" %}{% endif %}
+
+  {% for slot in podium_order %}
+    {% if slot == "1" %}
+      {% assign pc = c1 %}{% assign pp = p1 %}{% assign pi = 1 %}
+    {% elsif slot == "2" %}
+      {% assign pc = c2 %}{% assign pp = p2 %}{% assign pi = 2 %}
+    {% else %}
+      {% assign pc = c3 %}{% assign pp = p3 %}{% assign pi = 3 %}
+    {% endif %}
+
+    <div class="velo-podium-card{% if slot == '1' %} velo-podium-card--first{% elsif slot == '2' %} velo-podium-card--second{% elsif slot == '3' %} velo-podium-card--third{% endif %}">
+      <span class="velo-podium-card__num">0{{ pi }}</span>
+
+      <div class="velo-podium-card__img-wrap{% unless pc.image %} velo-podium-card__img-placeholder{% endunless %}">
+        {% if pc.image %}
+          <img class="velo-podium-card__img"
+               src="{{ pc.image | relative_url }}"
+               alt="{{ pp[0] }}"
+               loading="lazy">
+        {% endif %}
+        {% if slot == "1" %}
+          <span class="velo-podium-card__leader-tag">{{ t.challenge.leader_tag }}</span>
+        {% endif %}
+      </div>
+
+      <div class="velo-podium-card__meta">
+        <h3 class="velo-podium-card__name">
+          <a href="{{ pc.url | default: '#' }}">{{ pp[0] }}</a>
+        </h3>
+        <div class="velo-podium-card__pts-row">
+          <span class="velo-podium-card__pts-label">{% if slot == '1' %}{{ t.challenge.leader_pts_label }}{% else %}{{ t.challenge.rank_pts_label }}{% endif %}</span>
+          <span class="velo-podium-card__pts">{{ pp[1] }} PTS</span>
         </div>
+      </div>
     </div>
+
+  {% endfor %}
 </section>
-<!-- ==================== End Table ==================== -->
+{% endif %}
 
+<!-- Main: table + rules sidebar -->
+<section class="velo-challenge-main">
 
-{%- include recent-blog.html -%}
+  <!-- Rankings table (pos 4+) -->
+  <div class="velo-challenge-table-wrap">
+    <div class="velo-challenge-table-header">
+      <h2 class="velo-challenge-table-title">{{ t.challenge.ranking_title }}</h2>
+      <p class="velo-challenge-table-sub">{{ t.challenge.ranking_sub }}</p>
+    </div>
+    <table class="velo-challenge-table">
+      <thead>
+        <tr>
+          <th class="velo-challenge-table__th">{{ t.challenge.col_pos }}</th>
+          <th class="velo-challenge-table__th">{{ t.challenge.col_rider }}</th>
+          <th class="velo-challenge-table__th velo-challenge-table__pts-col">Points</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% assign rank = 0 %}
+        {% for people in data.challenge %}
+          {% if people[1] > 0 %}
+            {% assign rank = rank | plus: 1 %}
+            {% if rank > 3 %}
+              {% assign rc = site.coureurs | where: "name", people[0] | first %}
+              <tr class="velo-challenge-table__row" {% if rc %}onclick="window.location='{{ rc.url }}'"{% endif %}>
+                <td class="velo-challenge-table__pos {% if rank == 4 %}velo-rank-4{% endif %}">{{ rank | prepend: "00" | slice: -2, 2 }}</td>
+                <td class="velo-challenge-table__rider">
+                  <div class="velo-challenge-rider">
+                    {% assign avatar_src = rc.head | default: rc.image %}
+                    {% if avatar_src %}
+                      <div class="velo-challenge-rider__avatar-wrap">
+                        <img class="velo-challenge-rider__avatar"
+                             src="{{ avatar_src | relative_url }}"
+                             alt="{{ people[0] }}"
+                             loading="lazy">
+                      </div>
+                    {% endif %}
+                    <span class="velo-challenge-rider__name">{{ people[0] }}</span>
+                  </div>
+                </td>
+                <td class="velo-challenge-table__pts">{{ people[1] }}</td>
+              </tr>
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+
+  <!-- Rules sidebar -->
+  <aside class="velo-challenge-rules">
+    <div class="velo-challenge-rules__box">
+      <h2 class="velo-challenge-rules__title">{{ t.challenge.rules_title }}</h2>
+      <div class="velo-challenge-rules__list">
+        <div class="velo-challenge-rules__item">
+          <span class="velo-challenge-rules__label">{{ t.challenge.rules_participation }}</span>
+          <span class="velo-challenge-rules__val">{{ data.point_participation }} PTS</span>
+        </div>
+        <div class="velo-challenge-rules__item">
+          <span class="velo-challenge-rules__label">{{ t.challenge.rules_win }}</span>
+          <span class="velo-challenge-rules__val">+{{ data.point_win }} PTS</span>
+        </div>
+        <div class="velo-challenge-rules__item">
+          <span class="velo-challenge-rules__label">{{ t.challenge.rules_top5 }}</span>
+          <span class="velo-challenge-rules__val">+{{ data.point_top5 }} PTS</span>
+        </div>
+        <div class="velo-challenge-rules__item">
+          <span class="velo-challenge-rules__label">{{ t.challenge.rules_top10 }}</span>
+          <span class="velo-challenge-rules__val">+{{ data.point_top10 }} PTS</span>
+        </div>
+        {% if data.point_top15 and data.point_top15 != 0 %}
+        <div class="velo-challenge-rules__item">
+          <span class="velo-challenge-rules__label">{{ t.challenge.rules_top15 }}</span>
+          <span class="velo-challenge-rules__val">+{{ data.point_top15 }} PTS</span>
+        </div>
+        {% endif %}
+      </div>
+      <div class="velo-challenge-rules__note">
+        {{ t.challenge.rules_note }}
+      </div>
+    </div>
+
+    <div class="velo-challenge-rules__update">
+      {{ t.challenge.update_prefix }} {{ data.update_date }}
+    </div>
+  </aside>
+
+</section>
+
+{%- include sponsors.html -%}
+{%- include recent-races.html limit=5 -%}
+
+<!-- ==================== End Challenge ==================== -->

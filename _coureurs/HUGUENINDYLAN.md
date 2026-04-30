@@ -1,11 +1,12 @@
 ---
 # preview details
-layout: coureurs-single
+layout: rider
 title: HUGUENIN DYLAN
 name: HUGUENIN DYLAN
 
 sports: Route
 image: assets/imgs/team/nobg/huguenin_dylan.png
+head: assets/imgs/team/head/huguenin_dylan.png
 large: assets/imgs/team/large/huguenin_dylan.png
 strava: https://www.strava.com/athletes/104428756
 nationality: fr

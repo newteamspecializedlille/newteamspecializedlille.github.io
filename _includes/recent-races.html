@@ -1,0 +1,49 @@
+<!-- ==================== Dernières Courses (Monochrome Velo) ==================== -->
+
+{% assign _limit = include.limit | default: 5 %}
+{% assign _months_fr = "Janvier,Février,Mars,Avril,Mai,Juin,Juillet,Août,Septembre,Octobre,Novembre,Décembre" | split: "," %}
+{% assign _t = site.data.settings.text %}
+
+<section class="velo-recent-races">
+
+  <div class="velo-section-header">
+    <h2 class="velo-section-title">{{ _t.recent_races.title }}</h2>
+    <a href="/blog" class="velo-btn-secondary">{{ _t.recent_races.cta }}</a>
+  </div>
+
+  <div class="velo-results__list">
+    {% for post in site.posts limit: _limit %}
+      {% assign title_parts = post.title | split: " - " %}
+
+      {% assign _best = 9999 %}
+      {% assign _parts = post.content | split: " : " %}
+      {% for _part in _parts offset:1 %}
+        {% assign _numstr = _part | split: "<" | first | strip %}
+        {% assign _num = _numstr | plus: 0 %}
+        {% if _num > 0 and _num < _best %}
+          {% assign _best = _num %}
+        {% endif %}
+      {% endfor %}
+
+      {% assign _month_idx = post.date | date: "%-m" | minus: 1 %}
+      <a class="velo-result-row" href="{{ post.url }}">
+        <div class="velo-result-row__inner">
+          <span class="velo-result-row__date">{{ post.date | date: "%-d" }} {{ _months_fr[_month_idx] }}</span>
+          <h3 class="velo-result-row__title">{{ title_parts[1] }}</h3>
+          {% if post.category %}
+            <span class="velo-result-row__category">{{ post.category }}</span>
+          {% endif %}
+        </div>
+        {% if _best < 9999 %}
+        <div class="velo-result-row__best">
+          {% if _best == 1 %}<span class="velo-rank velo-rank--1">1<sup>er</sup></span>
+          {% elsif _best == 2 %}<span class="velo-rank velo-rank--2">2<sup>e</sup></span>
+          {% elsif _best == 3 %}<span class="velo-rank velo-rank--3">3<sup>e</sup></span>
+          {% else %}<span class="velo-rank">{{ _best }}<sup>e</sup></span>{% endif %}
+        </div>
+        {% endif %}
+      </a>
+    {% endfor %}
+  </div>
+
+</section>

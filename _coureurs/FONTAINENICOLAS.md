@@ -1,11 +1,12 @@
 ---
 # preview details
-layout: coureurs-single
+layout: rider
 title: FONTAINE NICOLAS
 name: FONTAINE NICOLAS
 
 sports: Route
 image: assets/imgs/team/nobg/fontaine_nicolas.png
+head: assets/imgs/team/head/fontaine_nicolas.png
 large: assets/imgs/team/large/fontaine_nicolas.png
 strava: https://www.strava.com/athletes/11411732
 nationality: fr

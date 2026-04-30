@@ -1,0 +1,134 @@
+---
+layout: default
+comments: true
+---
+
+{% assign months_fr = "Janvier,Février,Mars,Avril,Mai,Juin,Juillet,Août,Septembre,Octobre,Novembre,Décembre" | split: "," %}
+{% assign t = site.data.settings.text %}
+
+<!-- ==================== Start Résultats Archive (Monochrome Velo) ==================== -->
+
+<!-- Hero -->
+<section class="velo-blog-hero">
+  <h1 class="velo-blog-hero__title">{{ t.blog.hero_title }}</h1>
+  <p class="velo-blog-hero__sub">{{ t.blog.hero_sub }}</p>
+</section>
+
+<!-- Filter Bar -->
+<section class="velo-blog-filters" id="velo-blog-filter-bar">
+  <span class="velo-blog-filters__label">{{ t.filter_label }}</span>
+  <div class="velo-blog-filters__group">
+    <a class="velo-blog-filter is-active" href="/blog/">{{ t.all }}</a>
+    <a class="velo-blog-filter" href="/categories/route/">ROUTE</a>
+    <a class="velo-blog-filter" href="/categories/cyclo-cross/">CX</a>
+    <a class="velo-blog-filter" href="/categories/vtt/">VTT</a>
+  </div>
+</section>
+
+<!-- Table -->
+<section class="velo-blog-table-section">
+  <div class="velo-blog-table-wrap">
+    <table class="velo-blog-table" id="velo-blog-table">
+      <thead>
+        <tr>
+          <th class="velo-blog-table__th">{{ t.date_col }}</th>
+          <th class="velo-blog-table__th">{{ t.race_col }}</th>
+          <th class="velo-blog-table__th">{{ t.discipline_col }}</th>
+          <th class="velo-blog-table__th velo-blog-table__result-col">{{ t.best_result_col }}</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for post in paginator.posts %}
+          {% assign title_parts = post.title | split: " - " %}
+
+          {% comment %} Best result extraction {% endcomment %}
+          {% assign _best = 9999 %}
+          {% assign _parts = post.content | split: " : " %}
+          {% for _part in _parts offset:1 %}
+            {% assign _numstr = _part | split: "<" | first | strip %}
+            {% assign _num = _numstr | plus: 0 %}
+            {% if _num > 0 and _num < _best %}
+              {% assign _best = _num %}
+            {% endif %}
+          {% endfor %}
+
+          {% assign _month_idx = post.date | date: "%-m" | minus: 1 %}
+          {% assign _cat = post.category | first | default: post.category %}
+
+          <tr class="velo-blog-table__row" data-category="{{ _cat }}" onclick="window.location='{{ post.url }}'">
+            <td class="velo-blog-table__date">{{ post.date | date: "%-d" }} {{ months_fr[_month_idx] }} {{ post.date | date: "%Y" }}</td>
+            <td class="velo-blog-table__name">{{ title_parts[1] | default: post.title }}</td>
+            <td class="velo-blog-table__disc">
+              {% if _cat %}<span class="velo-chip">{{ _cat }}</span>{% endif %}
+            </td>
+            <td class="velo-blog-table__result">
+              {% if _best < 9999 %}
+                {% if _best == 1 %}<span class="velo-rank velo-rank--1">1<sup>er</sup></span>
+                {% elsif _best == 2 %}<span class="velo-rank velo-rank--2">2<sup>e</sup></span>
+                {% elsif _best == 3 %}<span class="velo-rank velo-rank--3">3<sup>e</sup></span>
+                {% else %}<span class="velo-rank">{{ _best }}<sup>e</sup></span>{% endif %}
+              {% endif %}
+            </td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<!-- Pagination -->
+{% if paginator.total_pages > 1 %}
+{% assign cur = paginator.page %}
+{% assign total = paginator.total_pages %}
+{% assign win_start = cur | minus: 2 %}
+{% assign win_end = cur | plus: 2 %}
+{% if win_start < 1 %}{% assign win_start = 1 %}{% endif %}
+{% if win_end > total %}{% assign win_end = total %}{% endif %}
+
+<section class="velo-blog-pagination">
+  <div class="velo-blog-pagination__inner">
+
+    {% if paginator.previous_page %}
+      <a class="velo-blog-pagination__prev" href="{{ paginator.previous_page_path }}">&#8592; <span>{{ t.previous }}</span></a>
+    {% else %}
+      <span class="velo-blog-pagination__prev is-disabled">&#8592; <span>{{ t.previous }}</span></span>
+    {% endif %}
+
+    <div class="velo-blog-pagination__pages">
+      {% comment %} First page {% endcomment %}
+      {% if win_start > 1 %}
+        <a class="velo-blog-pagination__num" href="/blog/">1</a>
+        {% if win_start > 2 %}<span class="velo-blog-pagination__ellipsis">…</span>{% endif %}
+      {% endif %}
+
+      {% comment %} Window pages {% endcomment %}
+      {% for i in (win_start..win_end) %}
+        {% if i == cur %}
+          <span class="velo-blog-pagination__num is-active">{{ i }}</span>
+        {% elsif i == 1 %}
+          <a class="velo-blog-pagination__num" href="/blog/">{{ i }}</a>
+        {% else %}
+          <a class="velo-blog-pagination__num" href="/blog/page{{ i }}/">{{ i }}</a>
+        {% endif %}
+      {% endfor %}
+
+      {% comment %} Last page {% endcomment %}
+      {% if win_end < total %}
+        {% assign pre_last = total | minus: 1 %}
+        {% if win_end < pre_last %}<span class="velo-blog-pagination__ellipsis">…</span>{% endif %}
+        <a class="velo-blog-pagination__num" href="/blog/page{{ total }}/">{{ total }}</a>
+      {% endif %}
+    </div>
+
+    {% if paginator.next_page %}
+      <a class="velo-blog-pagination__next" href="{{ paginator.next_page_path }}"><span>{{ t.next }}</span> &#8594;</a>
+    {% else %}
+      <span class="velo-blog-pagination__next is-disabled"><span>{{ t.next }}</span> &#8594;</span>
+    {% endif %}
+
+  </div>
+  <p class="velo-blog-pagination__info">Page {{ cur }} / {{ total }} — {{ paginator.total_posts }} courses</p>
+</section>
+{% endif %}
+
+<!-- ==================== End Résultats Archive ==================== -->

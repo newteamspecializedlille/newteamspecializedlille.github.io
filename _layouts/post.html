@@ -1,137 +1,157 @@
 ---
 layout: default
-comments: true
 ---
 
-{% assign ui_text = site.data.ui-text['ui_text'] %}
+{% assign t = site.data.settings.text %}
+{% assign title_parts = page.title | split: " - " %}
+{% assign race_discipline = title_parts[0] | strip %}
+{% assign race_name = title_parts[1] | strip %}
+{% assign race_year = title_parts[2] | strip %}
 
-{% if page.author == nil %}
-	{% assign author = site.author %}
-{% else %}
-	{% assign author = page.author %}
-{% endif %}
+{% assign fr_months = "janvier,février,mars,avril,mai,juin,juillet,août,septembre,octobre,novembre,décembre" | split: "," %}
+{% assign month_index = page.date | date: "%-m" | minus: 1 %}
+{% assign date_fr = page.date | date: "%-d" | append: " " | append: fr_months[month_index] | append: " " | append: race_year %}
 
-{% assign blog_url = 'blog/' %}
+<div class="velo-post">
 
-<!-- ==================== Start Slider ==================== -->
+  <!-- ==================== Header ==================== -->
+  <header class="velo-post__header">
+    <div class="velo-post__header-inner">
 
-<header class="blog-header section-padding pb-0">
-	<div class="container mt-80">
-		<div class="row justify-content-center">
-			<div class="col-lg-10">
-				<div class="caption">
-					<div class="sub-title fz-12">
-						{% for category in page.category %}
-							<a href="{{ '/categories' | relative_url }}/{{ category | downcase | url_escape | strip | replace: ' ', '-' }}"><span>{{ category }}</span></a>
-						{% endfor %}
-					</div>
-					<h1 class="fz-55 mt-30">{{ page.title }}</h1>
-				</div>
-				<div class="info d-flex mt-40 align-items-center">
-					<div class="left-info">
-						<div class="d-flex align-items-center">
-							<div class="date ml-50">
-								<span class="opacity-7">Date</span>
-								<h6 class="fz-16">{{ page.date | date: site.date_format }}</h6>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-	{% if page.full_image != nil %}
-		<div class="background bg-img mt-80" data-background="{{ page.full_image | relative_url }}" alt="{{ page.title }}" class="circle-img"></div>
-	{% else %}
-		<div class="background bg-img mt-80" data-background="{{ page.image | relative_url }}" class="circle-img"></div>
-	{% endif %}
-</header>
+      <div class="velo-post__title-col">
+        <div class="velo-post__meta-tag">
+          {{ race_discipline | upcase }} &bull; {{ date_fr | upcase }}
+        </div>
+        <h1 class="velo-post__race-name">{{ race_name | upcase }}</h1>
+      </div>
 
-<!-- ==================== End Slider ==================== -->
+      <div class="velo-post__stats-col">
+        <div class="velo-post__stats-box">
+          <div class="velo-post__stats-box-title">Résultats équipe</div>
+          <div class="velo-post__stats-divider"></div>
+          <div class="velo-post__stats-grid">
+            <div>
+              <span class="velo-post__stat-label">Coureurs engagés</span>
+              <span class="velo-post__stat-value" id="stat-riders">—</span>
+            </div>
+            <div>
+              <span class="velo-post__stat-label">Meilleur résultat</span>
+              <span class="velo-post__stat-value" id="stat-best">—</span>
+            </div>
+          </div>
+        </div>
+      </div>
 
-<!-- ==================== Start Blog ==================== -->
+    </div>
+  </header>
 
-<section class="blog section-padding">
-	<div class="container">
-		<div class="row xlg-marg">
-			<div class="col-lg-8">
-				<div class="main-post">
-					<div class="item pb-60">
-						<!-- ==================== Start Blog Content ==================== -->
-						<article>
-							{{ page.content }}
-						</article>
-						<!-- ==================== End Blog Content ==================== -->
+  <!-- ==================== Content ==================== -->
+  <div class="velo-post__content-wrap">
+    <div class="velo-post__content">
+      {{ content }}
+    </div>
+  </div>
 
+  <!-- ==================== Photo Gallery ==================== -->
+  {% assign image_count = page.images | size %}
+  {% if image_count > 0 %}
+  <div class="velo-post__gallery">
+    {% for image in page.images %}
+    <div class="velo-post__gallery-item">
+      <img src="{{ image | relative_url }}" alt="{{ page.title }}" loading="lazy">
+    </div>
+    {% endfor %}
+  </div>
+  {% endif %}
 
-						<!-- ==================== Start Blog Pictures ==================== -->
-						<div class="mb-50 mt-50"><div class="row">
-						{% assign image_count = page.images | size %}
-						{% for image in page.images %}
+</div>
 
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  const content = document.querySelector('.velo-post__content');
+  if (!content) return;
 
-									<div class="col-sm-6" style="padding: 15px;">
-										<div class="iner-img sm-mb30">
-											<img src="{{ image | relative_url }}">
-										</div>
-									</div>
+  /* --- Transform ul lists after h3 into tables --- */
+  content.querySelectorAll('h3').forEach(function (h3) {
+    // Find next sibling ul (possibly after a p)
+    let sibling = h3.nextElementSibling;
+    // skip the participant count paragraph
+    let countP = null;
+    if (sibling && sibling.tagName === 'P') { countP = sibling; sibling = sibling.nextElementSibling; }
+    if (!sibling || sibling.tagName !== 'UL') return;
 
+    const ul = sibling;
+    const table = document.createElement('table');
+    table.className = 'velo-post__cat-table';
 
-						{% endfor %}
-						</div></div>
-						<!-- ==================== End Blog Pictures ==================== -->
-					</div>
+    // thead
+    table.innerHTML = '<thead><tr><th>Coureur</th><th>Résultat</th></tr></thead><tbody></tbody>';
+    const tbody = table.querySelector('tbody');
 
-					{% assign cat_size = page.category | size %}
-					{% if cat_size != 0 %}
-						<div class="info-area flex pt-50 bord-thin-top">
-							<div>
-								<div class="tags flex">
-									<div class="valign">
-										<span>Catégories :</span>
-									</div>
-									<div>
-										{% for category in page.category %}
-										<a href="{{ '/categories' | relative_url }}/{{ category | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category }}</a>
-										{% endfor %}
-									</div>
-								</div>
-							</div>
-						</div>
-					{% endif %}
+    let idx = 0;
+    ul.querySelectorAll('li').forEach(function (li) {
+      idx++;
+      const text = li.textContent;
+      const colonIdx = text.lastIndexOf(' : ');
+      const result = colonIdx >= 0 ? text.slice(colonIdx + 3).trim() : '';
+      const nameRaw = colonIdx >= 0 ? text.slice(0, colonIdx).trim() : text.trim();
+      const link = li.querySelector('a');
+      const isTeam = li.querySelector('strong') !== null;
 
-				</div>
+      const tr = document.createElement('tr');
+      if (isTeam) tr.classList.add('is-team');
 
-				<!-- ==================== Start Blog Comment ==================== -->
-				<div id="disqus_thread"></div>
-					<script>
-						/**
-						*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-						*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-						/*
-						var disqus_config = function () {
-						this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-						this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-						};
-						*/
-						(function() { // DON'T EDIT BELOW THIS LINE
-						var d = document, s = d.createElement('script');
-						s.src = 'https://teamspecializedlille.disqus.com/embed.js';
-						s.setAttribute('data-timestamp', +new Date());
-						(d.head || d.body).appendChild(s);
-						})();
-					</script>
-					<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+      // Name cell
+      const tdName = document.createElement('td');
+      if (link) {
+        const a = document.createElement('a');
+        a.href = link.href;
+        a.textContent = link.textContent;
+        tdName.appendChild(a);
+      } else {
+        tdName.textContent = nameRaw;
+      }
+      tr.appendChild(tdName);
 
-				<!-- ==================== End Blog Comment ==================== -->
-			</div>
+      // Result cell
+      const tdResult = document.createElement('td');
+      const resNum = parseInt(result);
+      if (!isNaN(resNum) && resNum <= 3) {
+        tdResult.innerHTML = '<span class="velo-rank velo-rank--' + resNum + '">' + resNum + '<sup>' + (resNum === 1 ? 'er' : 'e') + '</sup></span>';
+      } else {
+        tdResult.textContent = result;
+      }
+      tr.appendChild(tdResult);
 
-		 	{%- include sidebar.html -%}
+      tbody.appendChild(tr);
+    });
 
-		</div>
-	</div>
-</section>
+    ul.parentNode.insertBefore(table, ul);
+    ul.style.display = 'none';
+  });
 
-<!-- ==================== End Blog ==================== -->
-{%- include section-marq.html -%}
-{%- include recent-blog.html -%}
+  /* --- Stats: count visible li items --- */
+  const items = document.querySelectorAll('.velo-post__content ul li');
+  let best = Infinity;
+  items.forEach(function (li) {
+    const match = li.textContent.match(/:\s*(\d+)\s*$/);
+    if (match) {
+      const pos = parseInt(match[1], 10);
+      if (pos < best) best = pos;
+    }
+  });
+  document.getElementById('stat-riders').textContent = items.length || '—';
+  const bestEl = document.getElementById('stat-best');
+  if (best < Infinity) {
+    bestEl.textContent = best + 'e';
+    if (best === 1) bestEl.style.color = '#C9962A';
+    else if (best === 2) bestEl.style.color = '#8A9BA8';
+    else if (best === 3) bestEl.style.color = '#A0522D';
+  } else {
+    bestEl.textContent = '—';
+  }
+});
+</script>
+
+{%- include sponsors.html -%}
+{%- include recent-races.html limit=5 -%}

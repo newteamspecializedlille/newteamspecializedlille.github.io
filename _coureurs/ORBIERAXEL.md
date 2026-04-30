@@ -1,10 +1,11 @@
 ---
 # preview details
-layout: coureurs-single
+layout: rider
 title: ORBIER AXEL
 name: ORBIER AXEL
 sports:  Cylo-Cross
 image: assets/imgs/team/nobg/orbier_axel.png
+head: assets/imgs/team/head/orbier_axel.png
 strava: https://www.strava.com/athletes/20939373
 # full details
 large: assets/imgs/team/large/orbier_axel.png

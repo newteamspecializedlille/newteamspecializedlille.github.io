@@ -1,6 +1,6 @@
 ---
 # preview details
-layout: coureurs-single
+layout: rider
 title: LECOLIER STEPHANE
 name: LECOLIER STEPHANE
 
@@ -8,6 +8,7 @@ name: LECOLIER STEPHANE
 
 sports: Cyclo-Cross Route
 image: assets/imgs/team/nobg/lecolier_stephane.png
+head: assets/imgs/team/head/lecolier_stephane.png
 large: assets/imgs/team/large/lecolier_stephane.png
 nationality: fr
 date_of_birth: 10/10/1974

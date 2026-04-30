@@ -690,12 +690,11 @@ $(function () {
 
 
 /* =============================================================================
------------------------------  cursor Animation  -----------------------------
+-----------------------------  hover Animation  ------------------------------
 ============================================================================= */
 
 (function () {
     const link = document.querySelectorAll('.hover-this');
-    const cursor = document.querySelector('.cursor');
     const animateit = function (e) {
         const hoverAnim = this.querySelector('.hover-anim');
         const { offsetX: x, offsetY: y } = e,
@@ -706,22 +705,8 @@ $(function () {
         hoverAnim.style.transform = `translate(${xMove}px, ${yMove}px)`;
         if (e.type === 'mouseleave') hoverAnim.style.transform = '';
     };
-    const editCursor = e => {
-        const { clientX: x, clientY: y } = e;
-        cursor.style.left = x + 'px';
-        cursor.style.top = y + 'px';
-    };
     link.forEach(b => b.addEventListener('mousemove', animateit));
     link.forEach(b => b.addEventListener('mouseleave', animateit));
-    window.addEventListener('mousemove', editCursor);
-
-    $("a, .cursor-pointer").hover(
-        function () {
-            $(".cursor").addClass("cursor-active");
-        }, function () {
-            $(".cursor").removeClass("cursor-active");
-        }
-    );
 
     $(".team .item a").hover(
         function () {
@@ -780,18 +765,6 @@ $(function () {
 ============================================================================= */
 
 $(window).on("load", function () {
-
-
-    /* =============================================================================
-    ---------------------------------  Preloader  ----------------------------------
-    ============================================================================= */
-
-    var body = $('body');
-    body.addClass('loaded');
-    setTimeout(function () {
-        body.removeClass('loaded');
-    }, 1500);
-
 
     /* =============================================================================
     ------------------------------  Parallax image  --------------------------------
@@ -869,47 +842,6 @@ $(window).on("load", function () {
             return false;
         }
     });
-
-});
-
-
-/* =============================================================================
------------------------------  Button scroll up   ------------------------------
-============================================================================= */
-
-$(document).ready(function () {
-
-    "use strict";
-
-    var progressPath = document.querySelector('.progress-wrap path');
-    var pathLength = progressPath.getTotalLength();
-    progressPath.style.transition = progressPath.style.WebkitTransition = 'none';
-    progressPath.style.strokeDasharray = pathLength + ' ' + pathLength;
-    progressPath.style.strokeDashoffset = pathLength;
-    progressPath.getBoundingClientRect();
-    progressPath.style.transition = progressPath.style.WebkitTransition = 'stroke-dashoffset 10ms linear';
-    var updateProgress = function () {
-        var scroll = $(window).scrollTop();
-        var height = $(document).height() - $(window).height();
-        var progress = pathLength - (scroll * pathLength / height);
-        progressPath.style.strokeDashoffset = progress;
-    }
-    updateProgress();
-    $(window).scroll(updateProgress);
-    var offset = 150;
-    var duration = 550;
-    jQuery(window).on('scroll', function () {
-        if (jQuery(this).scrollTop() > offset) {
-            jQuery('.progress-wrap').addClass('active-progress');
-        } else {
-            jQuery('.progress-wrap').removeClass('active-progress');
-        }
-    });
-    jQuery('.progress-wrap').on('click', function (event) {
-        event.preventDefault();
-        jQuery('html, body').animate({ scrollTop: 0 }, duration);
-        return false;
-    })
 
 });
 
@@ -1305,28 +1237,9 @@ $(function () {
 
         var wind = $(window);
 
-        /* =============================================================================
-        -------------------------------  Smooth Footer   -------------------------------
-        ============================================================================= */
-
-        gsap.set('.footer-container', { yPercent: -50 })
-        const uncover = gsap.timeline({ paused: true })
-        uncover
-            .to('.footer-container', { yPercent: 0, ease: 'none' })
-            ;
-
-        ScrollTrigger.create({
-            trigger: 'main',
-            start: 'bottom bottom',
-            end: '+=50%',
-            animation: uncover,
-            scrub: true,
-        });
-
-
-        /* =============================================================================
-        -----------------------------  Portfolio Fixed  --------------------------------
-        ============================================================================= */
+    /* =============================================================================
+    -------------------------------  Portfolio Fixed  --------------------------------
+    ============================================================================= */
 
         wind.on('scroll', function () {
             $(".portfolio-fixed .sub-bg .cont").each(function () {
