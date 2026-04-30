@@ -1,0 +1,43 @@
+---
+layout: default
+---
+{% assign t = site.data.settings.text.not_found %}
+
+<main class="velo-404">
+  <!-- Background grid lines -->
+  <div class="velo-404__grid" aria-hidden="true">
+    <div class="velo-404__grid-line velo-404__grid-line--v" style="left:25%"></div>
+    <div class="velo-404__grid-line velo-404__grid-line--v" style="left:50%"></div>
+    <div class="velo-404__grid-line velo-404__grid-line--v" style="left:75%"></div>
+    <div class="velo-404__grid-line velo-404__grid-line--h" style="top:33%"></div>
+    <div class="velo-404__grid-line velo-404__grid-line--h" style="top:66%"></div>
+  </div>
+
+  <div class="velo-404__inner">
+    <!-- Giant number -->
+    <div class="velo-404__number" aria-hidden="true">404</div>
+
+    <!-- Divider -->
+    <div class="velo-404__divider"></div>
+
+    <!-- Content -->
+    <div class="velo-404__content">
+      <h1 class="velo-404__headline">{{ t.headline }}</h1>
+      <p class="velo-404__body">{{ t.body }}</p>
+
+      <!-- Technical data block -->
+      <div class="velo-404__data-block">
+        <div class="velo-404__data-block-left">
+          <span class="velo-404__data-label">{{ t.status_label }}</span>
+          <span class="velo-404__data-value">{{ t.status_value }}</span>
+        </div>
+        <span class="velo-404__data-icon">⚠</span>
+      </div>
+
+      <!-- CTA -->
+      <a href="{{ '/' | relative_url }}" class="velo-404__cta">
+        {{ t.cta }} →
+      </a>
+    </div>
+  </div>
+</main>
