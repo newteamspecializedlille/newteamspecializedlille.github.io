@@ -1,6 +1,6 @@
 ---
 # preview details
-layout: coureurs-single
+layout: rider
 title: DEFOSSE HERVE
 name: DEFOSSE HERVE
 image: assets/imgs/team/nobg/defosse_herve.png

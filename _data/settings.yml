@@ -51,7 +51,8 @@ portfolio:
 partners:
   - name: "SPECIALIZED"
   - name: "CYCLES LECOLIER"
-  - name: "STRAVA"
+  - name: "VILLENEUVE CHAUFFAGE"
+  - name: "LOCUFIER COUVERTURE"
 
 ### Text strings
 text:
@@ -128,3 +129,24 @@ text:
   recent_races:
     title: "Dernières Courses"
     cta: "Toutes les courses"
+
+  # Riders list page (riders.html)
+  riders:
+    subtitle: "<b>Team</b> Specialized Lille"
+    bg_title: "Team"
+    all: "Tout"
+    see_project: "Plus d'infos"
+
+  # Archive page
+  archive:
+    title: "Archive"
+    latest_posts: "Dernières Courses"
+    read_more: "Lire Plus"
+
+  # 404 page
+  not_found:
+    headline: "ERREUR 404 : LE MATÉRIEL NE SUIT PAS (OU C'EST REMCO ?)"
+    body: "On dirait que la chaîne a sauté ou que quelqu'un n'est pas content du réglage des freins. Comme dirait Remco : 'It's not my fault, look at the bike!'. Bref, vous avez quitté le peloton."
+    status_label: "STATUS"
+    status_value: "DROPPED"
+    cta: "RETOUR DANS LA ROUE"

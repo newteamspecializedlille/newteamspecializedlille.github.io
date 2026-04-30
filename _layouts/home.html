@@ -94,8 +94,8 @@ layout: default
           <h4 class="velo-home-rider-card__name">{{ coureur.name | split: " " | first }}<br>{{ coureur.name | split: " " | last }}</h4>
           <div class="velo-home-rider-card__meta">
             <div class="velo-home-rider-card__meta-row">
-              <span>{{ t.home.cat_col }}</span>
-              <span>{{ coureur.category | upcase }}</span>
+              <span>DISCIPLINE</span>
+              <span>{{ coureur.sports | upcase }}</span>
             </div>
           </div>
         </div>

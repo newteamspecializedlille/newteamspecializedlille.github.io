@@ -1,6 +1,6 @@
 ---
 # preview details
-layout: coureurs-single
+layout: rider
 title: DUFOUR JULIEN
 name: DUFOUR JULIEN
 

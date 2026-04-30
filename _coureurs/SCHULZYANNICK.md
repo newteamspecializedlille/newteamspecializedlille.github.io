@@ -1,6 +1,6 @@
 ---
 # preview details
-layout: coureurs-single
+layout: rider
 title: SCHULZ YANNICK
 name: SCHULZ YANNICK
 image: assets/imgs/team/nobg/schulz_yannick.png

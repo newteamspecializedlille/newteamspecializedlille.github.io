@@ -1,6 +1,6 @@
 ---
 # preview details
-layout: coureurs-single
+layout: rider
 title: DERASSE PATRICK
 name: DERASSE PATRICK
 image: assets/imgs/team/nobg/derasse_patrick.png

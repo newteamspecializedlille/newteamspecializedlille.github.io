@@ -1,6 +1,6 @@
 ---
 # preview details
-layout: coureurs-single
+layout: rider
 title: LECOLIER LOUIS
 name: LECOLIER LOUIS
 

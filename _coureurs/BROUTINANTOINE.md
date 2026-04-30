@@ -1,6 +1,6 @@
 ---
 # preview details
-layout: coureurs-single
+layout: rider
 title: BROUTIN ANTOINE
 name: BROUTIN ANTOINE
 image: assets/imgs/team/nobg/broutin_antoine.png

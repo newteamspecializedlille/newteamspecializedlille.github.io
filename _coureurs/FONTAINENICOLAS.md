@@ -1,6 +1,6 @@
 ---
 # preview details
-layout: coureurs-single
+layout: rider
 title: FONTAINE NICOLAS
 name: FONTAINE NICOLAS
 

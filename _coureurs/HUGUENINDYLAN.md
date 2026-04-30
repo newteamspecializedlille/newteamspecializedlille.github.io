@@ -1,6 +1,6 @@
 ---
 # preview details
-layout: coureurs-single
+layout: rider
 title: HUGUENIN DYLAN
 name: HUGUENIN DYLAN
 

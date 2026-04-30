@@ -1,6 +1,6 @@
 ---
 # preview details
-layout: coureurs-single
+layout: rider
 title: HUBAUT CHRISTOPHE
 name: HUBAUT CHRISTOPHE
 image: assets/imgs/team/nobg/hubaut_christophe.png

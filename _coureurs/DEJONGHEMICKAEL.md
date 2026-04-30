@@ -1,6 +1,6 @@
 ---
 # preview details
-layout: coureurs-single
+layout: rider
 title: DEJONGHE MICKAEL
 name: DEJONGHE MICKAEL
 sports: Cyclo-Cross Route

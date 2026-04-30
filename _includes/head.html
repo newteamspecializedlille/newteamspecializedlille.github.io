@@ -81,14 +81,16 @@
         }
 
 
-        if ( $('#search').length ) {
-            var sjs = SimpleJekyllSearch({
-              searchInput: document.getElementById('search'),
-              resultsContainer: document.getElementById('results-list'),
+        const searchInput = document.getElementById('search');
+        const resultsContainer = document.getElementById('results-list');
+        if (searchInput && resultsContainer) {
+            SimpleJekyllSearch({
+              searchInput: searchInput,
+              resultsContainer: resultsContainer,
               json: '/search-data.json',
               searchResultTemplate: '<li><span><a href="{{ site.url }}{url}">{title}</a></span></li>'
-        });
-	}
+            });
+        }
     });
     window.addEventListener("resize", updateDisplay);
 

@@ -207,6 +207,81 @@ nav.navbar,
 .velo-mobile-menu a:hover {
   color: var(--v-outline) !important;
 }
+.velo-mobile-menu__section {
+  display: flex;
+  flex-direction: column;
+}
+.velo-mobile-menu__section-title {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: rgba(255,255,255,0.45) !important;
+  padding: 1.25rem 0 0.5rem;
+  border-bottom: 1px solid rgba(255,255,255,0.15);
+}
+.velo-mobile-menu__sub {
+  font-size: 22px !important;
+  padding: 0.6rem 0 0.6rem 1rem !important;
+}
+
+/* Dropdown nav */
+.velo-nav__dropdown {
+  position: relative;
+}
+.velo-nav__dropdown-trigger {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-family: var(--v-font) !important;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--v-primary) !important;
+  padding: 0;
+  padding-bottom: 2px;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.15s;
+}
+.velo-nav__dropdown-trigger:hover,
+.velo-nav__dropdown.is-open .velo-nav__dropdown-trigger {
+  border-bottom-color: var(--v-primary);
+}
+.velo-nav__dropdown-menu {
+  display: none;
+  position: absolute;
+  top: calc(100% + 1rem);
+  right: 0;
+  background: #fff;
+  border: 1px solid var(--v-primary);
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  min-width: 200px;
+  z-index: 1000;
+}
+.velo-nav__dropdown.is-open .velo-nav__dropdown-menu {
+  display: block;
+}
+.velo-nav__dropdown-menu li a {
+  display: block;
+  padding: 0.65rem 1rem;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--v-primary) !important;
+  border-bottom: 1px solid rgba(0,0,0,0.08);
+  white-space: nowrap;
+}
+.velo-nav__dropdown-menu li:last-child a {
+  border-bottom: none;
+}
+.velo-nav__dropdown-menu li a:hover {
+  background: var(--v-primary);
+  color: #fff !important;
+}
 
 /* ================================================================
    MAIN CONTENT OFFSET
@@ -1656,7 +1731,7 @@ table tr:hover td {
   align-items: flex-end;
   justify-content: space-between;
   gap: 2rem;
-  padding: var(--v-margin) var(--v-margin) 3rem;
+  padding: clamp(4rem, 8vw, 7rem) var(--v-margin) 3rem;
   border-bottom: 3px solid var(--v-primary);
   background: var(--v-primary);
   color: var(--v-on-primary);
@@ -1970,7 +2045,7 @@ table tr:hover td {
   min-height: 420px;
 }
 .velo-home-hero__left {
-  padding: var(--v-margin);
+  padding: calc(var(--v-nav-h) + var(--v-margin)) var(--v-margin) var(--v-margin);
   border-right: 2px solid var(--v-primary);
   display: flex;
   flex-direction: column;
@@ -2010,7 +2085,7 @@ table tr:hover td {
 .velo-home-hero__right {
   background: var(--v-primary);
   color: #fff;
-  padding: var(--v-margin);
+  padding: calc(var(--v-nav-h) + var(--v-margin)) var(--v-margin) var(--v-margin);
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -2204,7 +2279,8 @@ table tr:hover td {
   justify-content: center;
 }
 .velo-home-rider-card__filler-logo {
-  width: 20%;
+  width: 60%;
+  max-width: 180px;
   height: auto;
   object-fit: contain;
   filter: brightness(0) invert(1);
@@ -2404,4 +2480,464 @@ table tr:hover td {
   .velo-home-results { grid-template-columns: 1fr; }
   .velo-home-results__intro { border-right: none; border-bottom: 2px solid var(--v-primary); }
   .velo-home-roster__header { flex-direction: column; align-items: flex-start; }
+}
+
+/* ==========================================================================
+   SPONSORS — Reusable include
+   ========================================================================== */
+.velo-sponsors {
+  display: flex;
+  align-items: center;
+  gap: 3rem;
+  padding: 2rem clamp(1.5rem, 6vw, 6rem);
+  border-top: 2px solid var(--v-primary);
+  border-bottom: 2px solid var(--v-primary);
+  background: #fff;
+}
+.velo-sponsors__label {
+  font-size: 0.6rem !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--v-gray) !important;
+  white-space: nowrap;
+  flex-shrink: 0;
+  padding-right: 2rem;
+  border-right: 1px solid #e0e0e0;
+}
+.velo-sponsors__list {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1.5rem 3rem;
+  flex: 1;
+}
+.velo-sponsors__item {
+  font-size: clamp(0.9rem, 1.8vw, 1.3rem) !important;
+  font-weight: 900 !important;
+  letter-spacing: -0.02em;
+  text-transform: uppercase;
+  color: var(--v-primary) !important;
+  opacity: 0.25;
+  transition: opacity 0.2s;
+}
+.velo-sponsors:hover .velo-sponsors__item {
+  opacity: 1;
+}
+@media (max-width: 600px) {
+  .velo-sponsors { flex-direction: column; align-items: flex-start; gap: 1rem; }
+  .velo-sponsors__label { border-right: none; padding-right: 0; border-bottom: 1px solid #e0e0e0; padding-bottom: 0.75rem; width: 100%; }
+}
+
+/* ==========================================================================
+   POST — Race Result Page
+   ========================================================================== */
+
+.velo-post {
+  background: #fff;
+}
+
+/* ---- Header ---- */
+.velo-post__header {
+  padding: clamp(4rem, 8vw, 7rem) clamp(1.5rem, 6vw, 6rem) clamp(2.5rem, 4vw, 4rem);
+  background: #fff;
+  border-bottom: 2px solid var(--v-primary);
+}
+.velo-post__header-inner {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 3rem;
+  align-items: end;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+.velo-post__title-col {
+  min-width: 0;
+}
+.velo-post__meta-tag {
+  display: inline-flex;
+  align-items: center;
+  font-size: 0.65rem !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  color: var(--v-gray) !important;
+  border-left: 4px solid var(--v-primary);
+  padding-left: 0.75rem;
+  margin-bottom: 1.25rem;
+  line-height: 1.4;
+}
+.velo-post__race-name {
+  font-size: clamp(3.5rem, 9vw, 8rem) !important;
+  font-weight: 900 !important;
+  line-height: 0.88 !important;
+  letter-spacing: -0.04em !important;
+  text-transform: uppercase !important;
+  color: var(--v-primary) !important;
+  word-break: break-word;
+  margin: 0 !important;
+}
+.velo-post__stats-col {
+  flex-shrink: 0;
+}
+.velo-post__stats-box {
+  border: 3px solid var(--v-primary);
+  padding: 1.5rem 2rem;
+  min-width: 220px;
+}
+.velo-post__stats-box-title {
+  font-size: 0.7rem !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--v-primary) !important;
+  margin-bottom: 0.75rem !important;
+}
+.velo-post__stats-divider {
+  height: 3px;
+  background: var(--v-primary);
+  margin-bottom: 1.25rem;
+}
+.velo-post__stats-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.25rem 2rem;
+}
+.velo-post__stat-label {
+  display: block;
+  font-size: 0.6rem !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--v-gray) !important;
+  margin-bottom: 0.25rem;
+}
+.velo-post__stat-value {
+  display: block;
+  font-size: 1.75rem !important;
+  font-weight: 900 !important;
+  line-height: 1 !important;
+  letter-spacing: -0.03em;
+  color: var(--v-primary) !important;
+}
+
+/* ---- Hero Image ---- */
+.velo-post__hero-img {
+  width: 100%;
+  max-height: 520px;
+  overflow: hidden;
+  border-bottom: 2px solid var(--v-primary);
+}
+.velo-post__hero-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  filter: grayscale(30%);
+}
+
+/* ---- Content wrapper ---- */
+.velo-post__content-wrap {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: clamp(2rem, 5vw, 4rem) clamp(1.5rem, 6vw, 6rem);
+}
+
+/* ---- Markdown Content ---- */
+
+/* Category headings (### 2ème Catégorie) */
+.velo-post__content h3 {
+  font-size: 0.65rem !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.2em !important;
+  text-transform: uppercase !important;
+  color: var(--v-gray) !important;
+  margin: 2.5rem 0 0.4rem !important;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--v-primary);
+}
+.velo-post__content h3:first-child {
+  margin-top: 0 !important;
+}
+
+/* Participant count paragraph */
+.velo-post__content h3 + p {
+  font-size: 1.75rem !important;
+  font-weight: 900 !important;
+  letter-spacing: -0.03em;
+  line-height: 1 !important;
+  color: var(--v-primary) !important;
+  margin: 0.25rem 0 0.75rem !important;
+}
+
+/* Team rider list (- [NOM] : RANK) */
+.velo-post__content ul {
+  list-style: none !important;
+  padding: 0 !important;
+  margin: 0 0 1.5rem !important;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+.velo-post__content ul li {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  border: 1.5px solid var(--v-primary);
+  padding: 0.3rem 0.75rem;
+  font-size: 0.65rem !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--v-primary) !important;
+}
+.velo-post__content ul li a {
+  color: var(--v-primary) !important;
+  text-decoration: none !important;
+  font-weight: 700 !important;
+}
+.velo-post__content ul li a:hover {
+  text-decoration: underline !important;
+}
+
+/* Scratch / Results table */
+.velo-post__content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0 2.5rem !important;
+  font-size: 0.8rem;
+}
+.velo-post__content table thead tr {
+  border-bottom: 2px solid var(--v-primary);
+}
+.velo-post__content table th {
+  padding: 0.6rem 0.75rem;
+  font-size: 0.6rem !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--v-gray) !important;
+  text-align: left;
+  white-space: nowrap;
+}
+.velo-post__content table td {
+  padding: 0.55rem 0.75rem;
+  border-bottom: 1px solid #f0f0f0;
+  color: var(--v-primary) !important;
+  font-size: 0.8rem !important;
+  vertical-align: middle;
+}
+/* Place column — bold number */
+.velo-post__content table td:first-child {
+  font-weight: 700;
+  font-size: 0.85rem !important;
+  white-space: nowrap;
+}
+/* Team rider row highlight (bold in markdown) */
+.velo-post__content table tr:has(strong) {
+  background: var(--v-primary) !important;
+}
+.velo-post__content table tr:has(strong) td,
+.velo-post__content table tr:has(strong) td strong,
+.velo-post__content table tr:has(strong) td a,
+.velo-post__content table tr:has(strong) td a strong {
+  color: #fff !important;
+  background: transparent !important;
+}
+.velo-post__content table tr:hover:not(:has(strong)) {
+  background: #f8f8f8;
+}
+/* Overflow scroll on mobile */
+.velo-post__content {
+  overflow-x: auto;
+}
+
+/* ---- Photo Gallery ---- */
+.velo-post__gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 2px;
+  border-top: 2px solid var(--v-primary);
+  margin-top: 3rem;
+}
+.velo-post__gallery-item {
+  aspect-ratio: 4/3;
+  overflow: hidden;
+}
+.velo-post__gallery-item img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  filter: grayscale(20%);
+  transition: filter 0.2s;
+}
+.velo-post__gallery-item img:hover {
+  filter: grayscale(0%);
+}
+
+/* ---- Responsive ---- */
+@media (max-width: 768px) {
+  .velo-post__header-inner {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    align-items: start;
+  }
+  .velo-post__stats-box {
+    min-width: 0;
+    width: 100%;
+  }
+  .velo-post__gallery {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* ============================================================
+   404 PAGE
+   ============================================================ */
+.velo-404 {
+  position: relative;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  background: #fff;
+  padding: 4rem 1.5rem;
+}
+
+.velo-404__grid {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.15;
+}
+
+.velo-404__grid-line {
+  position: absolute;
+  background: var(--v-primary);
+}
+
+.velo-404__grid-line--v {
+  width: 1px;
+  top: 0;
+  bottom: 0;
+}
+
+.velo-404__grid-line--h {
+  height: 1px;
+  left: 0;
+  right: 0;
+}
+
+.velo-404__inner {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 2rem;
+  width: 100%;
+  max-width: 800px;
+}
+
+.velo-404__number {
+  font-size: clamp(8rem, 25vw, 22rem);
+  font-weight: 900;
+  line-height: 0.85;
+  letter-spacing: -0.04em;
+  font-style: italic;
+  color: var(--v-primary) !important;
+  user-select: none;
+}
+
+.velo-404__divider {
+  width: 6rem;
+  height: 1px;
+  background: var(--v-primary);
+}
+
+.velo-404__content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.25rem;
+  max-width: 640px;
+}
+
+.velo-404__headline {
+  font-size: clamp(1rem, 2.5vw, 1.5rem);
+  font-weight: 800;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: var(--v-primary) !important;
+  line-height: 1.2;
+}
+
+.velo-404__body {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #4c4546 !important;
+  max-width: 520px;
+}
+
+.velo-404__data-block {
+  border: 1px solid var(--v-primary);
+  padding: 1rem 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+  width: 100%;
+  max-width: 320px;
+  background: #fff;
+}
+
+.velo-404__data-block-left {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.25rem;
+}
+
+.velo-404__data-label {
+  font-size: 0.65rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #7e7576 !important;
+  font-weight: 400;
+}
+
+.velo-404__data-value {
+  font-size: 1.5rem;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  color: var(--v-primary) !important;
+}
+
+.velo-404__data-icon {
+  font-size: 2rem;
+  color: var(--v-primary) !important;
+}
+
+.velo-404__cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: var(--v-primary);
+  color: #fff !important;
+  font-size: 0.875rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 1rem 2.5rem;
+  text-decoration: none;
+  transition: background 0.2s, color 0.2s;
+}
+
+.velo-404__cta:hover {
+  background: #fff;
+  color: var(--v-primary) !important;
+  outline: 2px solid var(--v-primary);
 }

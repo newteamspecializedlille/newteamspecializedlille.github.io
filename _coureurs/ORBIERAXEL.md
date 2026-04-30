@@ -1,6 +1,6 @@
 ---
 # preview details
-layout: coureurs-single
+layout: rider
 title: ORBIER AXEL
 name: ORBIER AXEL
 sports:  Cylo-Cross

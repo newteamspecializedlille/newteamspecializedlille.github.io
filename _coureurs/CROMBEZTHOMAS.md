@@ -1,6 +1,6 @@
 ---
 # preview details
-layout: coureurs-single
+layout: rider
 title: CROMBEZ THOMAS
 name: CROMBEZ THOMAS
 image: assets/imgs/team/nobg/crombez_thomas.png
