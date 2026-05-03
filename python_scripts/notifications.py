@@ -74,7 +74,6 @@ def convert_date(date_str):
 
 def get_url(file_name, race_type):
     race_type = race_type.replace(" ", "%20").lower()
-    file_name = file_name.replace("-", "/")
     return f"{host}{race_type}/{file_name}/"
 
 def get_race_name(post):

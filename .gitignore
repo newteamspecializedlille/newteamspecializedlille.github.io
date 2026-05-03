@@ -9,3 +9,5 @@ python_scripts/__pycache__/
 python_scripts/test.xls
 Gemfile.lock
 .idea/
+.DS_Store
+**/.DS_Store
