@@ -181,16 +181,7 @@ layout: default
   </div>
 </section>
 
-<!-- PARTNERS -->
-<section class="velo-home-partners">
-  {% for partner in s.partners %}
-    {% if partner.url %}
-      <a class="velo-home-partners__item" href="{{ partner.url }}" target="_blank" rel="noopener">{{ partner.name }}</a>
-    {% else %}
-      <span class="velo-home-partners__item">{{ partner.name }}</span>
-    {% endif %}
-  {% endfor %}
-</section>
+{%- include sponsors.html -%}
 
 <!-- JS: roster filter -->
 <script>
