@@ -1,0 +1,35 @@
+name: Upload Photos
+
+on:
+  repository_dispatch:
+    types: [upload_photos]
+
+jobs:
+  upload_and_commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout du dépôt
+        uses: actions/checkout@v4
+
+      - name: Afficher les données reçues
+        run: |
+          echo "Photographe   : ${{ github.event.client_payload.photographer_name }}"
+          echo "Post URL      : ${{ github.event.client_payload.post_url }}"
+          echo "Nb images     : $(echo '${{ github.event.client_payload.images_urls }}' | python3 -c 'import sys,json; print(len(json.load(sys.stdin)))')"
+
+      - name: Exécuter le script d'upload
+        env:
+          PHOTOGRAPHER_NAME: ${{ github.event.client_payload.photographer_name }}
+          POST_URL: ${{ github.event.client_payload.post_url }}
+          IMAGES_URLS: ${{ toJson(github.event.client_payload.images_urls) }}
+        run: python3 python_scripts/upload_photos.py
+
+      - name: Commit et push sur main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/results/ _posts/
+          git diff --cached --quiet && echo "Rien à commiter" || \
+            git commit -m "Add photos from ${{ github.event.client_payload.photographer_name }}" && \
+            git push origin main
