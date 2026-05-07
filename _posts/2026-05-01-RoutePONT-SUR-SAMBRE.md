@@ -5,6 +5,13 @@ date: 2026-05-01
 category: Route
 tags: Route
 image: assets/img/blog/road.png
+images:
+  - photographer: Em’Photographie
+    path: assets/results/2026/routepont-sur-sambre/img_4535.jpeg
+  - photographer: Em’Photographie
+    path: assets/results/2026/routepont-sur-sambre/img_4533.jpeg
+  - photographer: Em’Photographie
+    path: assets/results/2026/routepont-sur-sambre/img_4534.jpeg
 ---
 
 ### 1ère Catégorie
