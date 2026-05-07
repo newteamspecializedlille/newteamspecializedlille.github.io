@@ -21,9 +21,9 @@ jobs:
 
       - name: Afficher les données reçues
         run: |
-          echo "Photographe   : ${{ github.event.client_payload.photographer_name }}"
-          echo "Post URL      : ${{ github.event.client_payload.post_url }}"
-          echo "Nb images     : $(echo '${{ github.event.client_payload.images_urls }}' | python3 -c 'import sys,json; print(len(json.load(sys.stdin)))')"
+          echo "Photographe : ${{ github.event.client_payload.photographer_name }}"
+          echo "Post URL    : ${{ github.event.client_payload.post_url }}"
+          echo "Images raw  : ${{ github.event.client_payload.images_urls }}"
 
       - name: Exécuter le script d'upload
         env:
