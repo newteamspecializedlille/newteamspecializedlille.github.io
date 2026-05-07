@@ -5,6 +5,9 @@ date: 2026-03-14
 category: Route
 tags: Route
 image: assets/img/blog/road.png
+images:
+  - photographer: François Martin
+    path: assets/results/2026/routebousies/img_4246.jpeg
 ---
 
 ### 1ère Catégorie
