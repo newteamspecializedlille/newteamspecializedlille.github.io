@@ -129,17 +129,41 @@ def rebuild_post(fm_lines: list, extra: dict, body: str) -> str:
 # Logique principale
 # ---------------------------------------------------------------------------
 
+def parse_images_urls(raw: str) -> list:
+    """Parse le format Zapier : blocs de clés/valeurs séparés par lignes vides.
+
+    Chaque bloc peut contenir :
+      cdnUrl: https://...
+      mimeType: image/png
+      name: photo.png
+      size: 123456
+      uuid: ...
+
+    Retourne la liste des cdnUrl trouvées.
+    """
+    urls = []
+    # Cherche toutes les lignes "cdnUrl: <url>"
+    for match in re.finditer(r'cdnUrl:\s*(https?://\S+)', raw):
+        urls.append(match.group(1).strip())
+    return urls
+
+
 def main():
     photographer_name = os.environ.get('PHOTOGRAPHER_NAME', '').strip()
     post_url          = os.environ.get('POST_URL', '').strip()
-    images_urls_raw   = os.environ.get('IMAGES_URLS', '[]').strip()
+    images_urls_raw   = os.environ.get('IMAGES_URLS', '').strip()
 
+    # Essayer JSON d'abord, sinon parser le format clé:valeur Zapier
     try:
-        images_urls = json.loads(images_urls_raw)
-        if not isinstance(images_urls, list):
-            images_urls = [images_urls]
-    except json.JSONDecodeError:
-        images_urls = [u.strip() for u in images_urls_raw.split(',') if u.strip()]
+        parsed = json.loads(images_urls_raw)
+        if isinstance(parsed, list):
+            images_urls = parsed
+        elif isinstance(parsed, str):
+            images_urls = parse_images_urls(parsed)
+        else:
+            images_urls = []
+    except (json.JSONDecodeError, ValueError):
+        images_urls = parse_images_urls(images_urls_raw)
 
     print(f"Photographe   : {photographer_name}")
     print(f"Post URL      : {post_url}")
