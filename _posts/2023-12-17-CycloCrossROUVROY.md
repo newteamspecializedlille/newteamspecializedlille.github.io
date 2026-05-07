@@ -4,7 +4,9 @@ title: Cyclo Cross - ROUVROY - 2024
 date: 2023-12-17
 category: Cyclo Cross
 tags: cyclo-cross
-image: assets/img/resultats/2023-12-17-CycloCrossROUVROY/1.jpg
+image: assets/resultats/2023/cyclo-cross/12-17-rouvroy/1.jpg
+images:
+  - path: assets/resultats/2023/cyclo-cross/12-17-rouvroy/1.jpg
 ---
 
 ### 3ème Catégorie
@@ -98,4 +100,4 @@ image: assets/img/resultats/2023-12-17-CycloCrossROUVROY/1.jpg
 | 80 | DOCHNIAK LEO | HAVELUY CYCLO CLUB | 0 | 1ère | 0:38:53 | 
 | **81** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
 
-![1](http://teamspecializedlille.github.io/assets/img/resultats/2023-12-17-CycloCrossROUVROY/1.jpg)
+![1](http://teamspecializedlille.github.io/assets/resultats/2023/cyclo-cross/12-17-rouvroy/1.jpg)

@@ -4,7 +4,12 @@ title: Cyclo Cross - HASPRES - 2024
 date: 2023-11-19
 category: Cyclo Cross
 tags: cyclo-cross
-image: assets/img/resultats/2023-11-19-CycloCrossHASPRES/1.jpg
+image: assets/resultats/2023/cyclo-cross/11-19-haspres/1.jpg
+images:
+  - path: assets/resultats/2023/cyclo-cross/11-19-haspres/1.jpg
+  - path: assets/resultats/2023/cyclo-cross/11-19-haspres/2.jpg
+  - path: assets/resultats/2023/cyclo-cross/11-19-haspres/3.jpg
+  - path: assets/resultats/2023/cyclo-cross/11-19-haspres/4.jpg
 ---
 
 ### 3ème Catégorie
@@ -114,7 +119,7 @@ image: assets/img/resultats/2023-11-19-CycloCrossHASPRES/1.jpg
 | 96 | DELTOUR LUCAS | UNION VELOCIPEDIQUE FOURM | 0 | 1ère | 0:38:53 | 
 | 97 | ROULY ALEXIS | ETOILE CYCLISTE LIEU ST A | 0 | 2ème | 0:38:53 | 
 
-![1](http://teamspecializedlille.github.io/assets/img/resultats/2023-11-19-CycloCrossHASPRES/1.jpg)
-![2](http://teamspecializedlille.github.io/assets/img/resultats/2023-11-19-CycloCrossHASPRES/2.jpg)
-![3](http://teamspecializedlille.github.io/assets/img/resultats/2023-11-19-CycloCrossHASPRES/3.jpg)
-![4](http://teamspecializedlille.github.io/assets/img/resultats/2023-11-19-CycloCrossHASPRES/4.jpg)
+![1](http://teamspecializedlille.github.io/assets/resultats/2023/cyclo-cross/11-19-haspres/1.jpg)
+![2](http://teamspecializedlille.github.io/assets/resultats/2023/cyclo-cross/11-19-haspres/2.jpg)
+![3](http://teamspecializedlille.github.io/assets/resultats/2023/cyclo-cross/11-19-haspres/3.jpg)
+![4](http://teamspecializedlille.github.io/assets/resultats/2023/cyclo-cross/11-19-haspres/4.jpg)

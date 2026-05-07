@@ -4,7 +4,7 @@ title: Route - Rumigny - 2024
 date: 2024-04-07
 category: Route
 tags: Route
-image: assets/img/resultats/2024-04-07-RouteRumigny/1.jpeg
+image: assets/resultats/2024/route/04-07-rumigny/1.jpeg
 ---
 
 ### 3ème Catégorie
@@ -65,6 +65,6 @@ image: assets/img/resultats/2024-04-07-RouteRumigny/1.jpeg
 | 47     | COLLIER GUILLAUME                                                                  | CYCLO CLUB HAUTVILLERS OUVILLE      |
 | 48     | LENNE SIMEON                                                                       | CYCLO CLUB D’AIRAINES (SEG)         |
 
-![1](http://teamspecializedlille.github.io/assets/img/resultats/2024-04-07-RouteRumigny/1.jpeg)
-![2](http://teamspecializedlille.github.io/assets/img/resultats/2024-04-07-RouteRumigny/2.jpeg)
-![3](http://teamspecializedlille.github.io/assets/img/resultats/2024-04-07-RouteRumigny/3.jpeg)
+![1](http://teamspecializedlille.github.io/assets/resultats/2024/route/04-07-rumigny/1.jpeg)
+![2](http://teamspecializedlille.github.io/assets/resultats/2024/route/04-07-rumigny/2.jpeg)
+![3](http://teamspecializedlille.github.io/assets/resultats/2024/route/04-07-rumigny/3.jpeg)

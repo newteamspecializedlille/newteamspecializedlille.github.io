@@ -4,7 +4,12 @@ title: Cyclo Cross - ESTEVELLES - 2024
 date: 2023-12-24
 category: Cyclo Cross
 tags: cyclo-cross
-image: assets/img/resultats/2023-12-24-CycloCrossESTEVELLES/1.jpg
+image: assets/resultats/2023/cyclo-cross/12-24-estevelles/1.jpg
+images:
+  - path: assets/resultats/2023/cyclo-cross/12-24-estevelles/1.jpg
+  - path: assets/resultats/2023/cyclo-cross/12-24-estevelles/2.jpg
+  - path: assets/resultats/2023/cyclo-cross/12-24-estevelles/3.jpg
+  - path: assets/resultats/2023/cyclo-cross/12-24-estevelles/4.jpg
 ---
 
 ### 2ème Catégorie
@@ -84,7 +89,7 @@ image: assets/img/resultats/2023-12-24-CycloCrossESTEVELLES/1.jpg
 | 61 | DUFOUR SYLVAIN | VELO CLUB UNION HALLUIN | 0 | 3ème | 0:38:53 | 
 | 62 | TAHON SIMON | AGNY ARTeam | 0 | 3ème | 0:38:53 | 
 
-![1](http://teamspecializedlille.github.io/assets/img/resultats/2023-12-24-CycloCrossESTEVELLES/1.jpg)
-![2](http://teamspecializedlille.github.io/assets/img/resultats/2023-12-24-CycloCrossESTEVELLES/2.jpg)
-![3](http://teamspecializedlille.github.io/assets/img/resultats/2023-12-24-CycloCrossESTEVELLES/3.jpg)
-![4](http://teamspecializedlille.github.io/assets/img/resultats/2023-12-24-CycloCrossESTEVELLES/4.jpg)
+![1](http://teamspecializedlille.github.io/assets/resultats/2023/cyclo-cross/12-24-estevelles/1.jpg)
+![2](http://teamspecializedlille.github.io/assets/resultats/2023/cyclo-cross/12-24-estevelles/2.jpg)
+![3](http://teamspecializedlille.github.io/assets/resultats/2023/cyclo-cross/12-24-estevelles/3.jpg)
+![4](http://teamspecializedlille.github.io/assets/resultats/2023/cyclo-cross/12-24-estevelles/4.jpg)

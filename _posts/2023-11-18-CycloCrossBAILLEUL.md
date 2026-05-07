@@ -4,7 +4,14 @@ title: Cyclo Cross - BAILLEUL - 2024
 date: 2023-11-18
 category: Cyclo Cross
 tags: cyclo-cross
-image: assets/img/resultats/2023-11-18-CycloCrossBAILLEUL/1.jpeg
+image: assets/resultats/2023/cyclo-cross/11-18-bailleul/1.jpeg
+images:
+  - path: assets/resultats/2023/cyclo-cross/11-18-bailleul/1.jpeg
+  - path: assets/resultats/2023/cyclo-cross/11-18-bailleul/2.jpeg
+  - path: assets/resultats/2023/cyclo-cross/11-18-bailleul/3.jpeg
+  - path: assets/resultats/2023/cyclo-cross/11-18-bailleul/4.jpeg
+  - path: assets/resultats/2023/cyclo-cross/11-18-bailleul/5.jpeg
+  - path: assets/resultats/2023/cyclo-cross/11-18-bailleul/6.jpeg
 ---
 
 ### 2ème Catégorie
@@ -92,9 +99,9 @@ image: assets/img/resultats/2023-11-18-CycloCrossBAILLEUL/1.jpeg
 | 68 | POUBLANG CYRILLE | CYCLO CLUB BERGUES | 0 | 3ème | 0:38:53 | 
 | 69 | ANTOGNARELLI MARINE | ESPOIR CYCLISTE WAMBRECHI | 0 | Féminines | 0:38:53 | 
 
-![1](http://teamspecializedlille.github.io/assets/img/resultats/2023-11-18-CycloCrossBAILLEUL/1.jpeg)
-![2](http://teamspecializedlille.github.io/assets/img/resultats/2023-11-18-CycloCrossBAILLEUL/2.jpeg)
-![3](http://teamspecializedlille.github.io/assets/img/resultats/2023-11-18-CycloCrossBAILLEUL/3.jpeg)
-![4](http://teamspecializedlille.github.io/assets/img/resultats/2023-11-18-CycloCrossBAILLEUL/4.jpeg)
-![5](http://teamspecializedlille.github.io/assets/img/resultats/2023-11-18-CycloCrossBAILLEUL/5.jpeg)
-![6](http://teamspecializedlille.github.io/assets/img/resultats/2023-11-18-CycloCrossBAILLEUL/6.jpeg)
+![1](http://teamspecializedlille.github.io/assets/resultats/2023/cyclo-cross/11-18-bailleul/1.jpeg)
+![2](http://teamspecializedlille.github.io/assets/resultats/2023/cyclo-cross/11-18-bailleul/2.jpeg)
+![3](http://teamspecializedlille.github.io/assets/resultats/2023/cyclo-cross/11-18-bailleul/3.jpeg)
+![4](http://teamspecializedlille.github.io/assets/resultats/2023/cyclo-cross/11-18-bailleul/4.jpeg)
+![5](http://teamspecializedlille.github.io/assets/resultats/2023/cyclo-cross/11-18-bailleul/5.jpeg)
+![6](http://teamspecializedlille.github.io/assets/resultats/2023/cyclo-cross/11-18-bailleul/6.jpeg)

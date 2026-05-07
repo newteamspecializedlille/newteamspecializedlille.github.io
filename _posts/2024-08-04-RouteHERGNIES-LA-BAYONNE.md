@@ -2,9 +2,11 @@
 published: true
 date: 2024-08-04
 title: Route - HERGNIES LA BAYONNE - 2024
-image: assets/img/resultats/2024-08-04-RouteHERGNIES-LA-BAYONNE/lill_sory.png
+image: assets/resultats/2024/route/08-04-hergnies-la-bayonne/lill_sory.png
 category: Route
 tags: Route
+images:
+  - path: assets/resultats/2024/route/08-04-hergnies-la-bayonne/lill_sory.png
 ---
 ### 2ème Catégorie
 

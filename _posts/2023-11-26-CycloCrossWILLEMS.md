@@ -4,7 +4,12 @@ title: Cyclo Cross - WILLEMS - 2024
 date: 2023-11-26
 category: Cyclo Cross
 tags: cyclo-cross
-image: assets/img/resultats/2023-11-26-CycloCrossWILLEMS/1.jpg
+image: assets/resultats/2023/cyclo-cross/11-26-willems/1.jpg
+images:
+  - path: assets/resultats/2023/cyclo-cross/11-26-willems/1.jpg
+  - path: assets/resultats/2023/cyclo-cross/11-26-willems/2.jpg
+  - path: assets/resultats/2023/cyclo-cross/11-26-willems/3.jpg
+  - path: assets/resultats/2023/cyclo-cross/11-26-willems/4.jpg
 ---
 
 
@@ -111,7 +116,7 @@ image: assets/img/resultats/2023-11-26-CycloCrossWILLEMS/1.jpg
 | **86** | **[LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
 | 87 | CAPELLE FRANCKY | ETOILE CYCLISTE TOURCOING | 0 | 3ème | 0:38:53 | 
 
-![1](http://teamspecializedlille.github.io/assets/img/resultats/2023-11-26-CycloCrossWILLEMS/1.jpg)
-![2](http://teamspecializedlille.github.io/assets/img/resultats/2023-11-26-CycloCrossWILLEMS/2.jpg)
-![3](http://teamspecializedlille.github.io/assets/img/resultats/2023-11-26-CycloCrossWILLEMS/3.jpg)
-![4](http://teamspecializedlille.github.io/assets/img/resultats/2023-11-26-CycloCrossWILLEMS/4.jpg)
+![1](http://teamspecializedlille.github.io/assets/resultats/2023/cyclo-cross/11-26-willems/1.jpg)
+![2](http://teamspecializedlille.github.io/assets/resultats/2023/cyclo-cross/11-26-willems/2.jpg)
+![3](http://teamspecializedlille.github.io/assets/resultats/2023/cyclo-cross/11-26-willems/3.jpg)
+![4](http://teamspecializedlille.github.io/assets/resultats/2023/cyclo-cross/11-26-willems/4.jpg)

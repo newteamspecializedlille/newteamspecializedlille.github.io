@@ -4,7 +4,11 @@ title: VTT - Championnat Nord - 2024
 date: 2024-03-24
 category: VTT
 tags: VTT
-image: assets/img/resultats/2024-03-24-VTT2024Departement/1.jpg
+image: assets/resultats/2024/vtt/03-24-2024departement/1.jpg
+images:
+  - path: assets/resultats/2024/vtt/03-24-2024departement/1.jpg
+  - path: assets/resultats/2024/vtt/03-24-2024departement/2.jpg
+  - path: assets/resultats/2024/vtt/03-24-2024departement/3.jpg
 ---
 
 ### VTT Vétérans B
@@ -59,6 +63,6 @@ image: assets/img/resultats/2024-03-24-VTT2024Departement/1.jpg
 | 41 | DELORGE FREDERIC | UNION SPORTIVE VALENCIENNES CRESPIN | 6 | Vétérans B | 0:59:26 | 
 | 42 | BERNIER STEPHANE | VTT  CLUB PONT SUR SAMBRE | 5 | Vétérans B | 0:53:11 | 
 
-![1](http://teamspecializedlille.github.io/assets/img/resultats/2024-03-24-VTT2024Departement/1.jpg)
-![2](http://teamspecializedlille.github.io/assets/img/resultats/2024-03-24-VTT2024Departement/2.jpg)
-![3](http://teamspecializedlille.github.io/assets/img/resultats/2024-03-24-VTT2024Departement/3.jpg)
+![1](http://teamspecializedlille.github.io/assets/resultats/2024/vtt/03-24-2024departement/1.jpg)
+![2](http://teamspecializedlille.github.io/assets/resultats/2024/vtt/03-24-2024departement/2.jpg)
+![3](http://teamspecializedlille.github.io/assets/resultats/2024/vtt/03-24-2024departement/3.jpg)

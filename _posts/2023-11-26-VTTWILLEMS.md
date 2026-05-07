@@ -4,7 +4,13 @@ title: VTT - WILLEMS - 2024
 date: 2023-11-26
 category: VTT
 tags: VTT
-image: assets/img/resultats/2023-11-26-VTTWILLEMS/1.jpg
+image: assets/resultats/2023/vtt/11-26-willems/1.jpg
+images:
+  - path: assets/resultats/2023/vtt/11-26-willems/1.jpg
+  - path: assets/resultats/2023/vtt/11-26-willems/2.jpg
+  - path: assets/resultats/2023/vtt/11-26-willems/3.jpg
+  - path: assets/resultats/2023/vtt/11-26-willems/4.jpg
+  - path: assets/resultats/2023/vtt/11-26-willems/5.jpg
 ---
 
 ### VTT Sénior A
@@ -66,8 +72,8 @@ image: assets/img/resultats/2023-11-26-VTTWILLEMS/1.jpg
 | 40 | HAVET STEPHANE | HENIN ETOILE CYCLISTE HENINOISE | 7 | Vétérans B | 0:52:20 | 
 | 41 | BESIN PIERRE | LES MOULIN'EUX - ST VAAST | 0 | Seniors B | 0:38:53 | 
 
-![1](http://teamspecializedlille.github.io/assets/img/resultats/2023-11-26-VTTWILLEMS/1.jpg)
-![2](http://teamspecializedlille.github.io/assets/img/resultats/2023-11-26-VTTWILLEMS/2.jpg)
-![3](http://teamspecializedlille.github.io/assets/img/resultats/2023-11-26-VTTWILLEMS/3.jpg)
-![4](http://teamspecializedlille.github.io/assets/img/resultats/2023-11-26-VTTWILLEMS/4.jpg)
-![5](http://teamspecializedlille.github.io/assets/img/resultats/2023-11-26-VTTWILLEMS/5.jpg)
+![1](http://teamspecializedlille.github.io/assets/resultats/2023/vtt/11-26-willems/1.jpg)
+![2](http://teamspecializedlille.github.io/assets/resultats/2023/vtt/11-26-willems/2.jpg)
+![3](http://teamspecializedlille.github.io/assets/resultats/2023/vtt/11-26-willems/3.jpg)
+![4](http://teamspecializedlille.github.io/assets/resultats/2023/vtt/11-26-willems/4.jpg)
+![5](http://teamspecializedlille.github.io/assets/resultats/2023/vtt/11-26-willems/5.jpg)

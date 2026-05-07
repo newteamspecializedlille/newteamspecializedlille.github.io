@@ -4,7 +4,13 @@ title: Cyclo Cross - ESTEVELLES2 - 2024
 date: 2023-12-31
 category: Cyclo Cross
 tags: cyclo-cross
-image: assets/img/resultats/2023-12-31-CycloCrossESTEVELLES2/1.jpg
+image: assets/resultats/2023/cyclo-cross/12-31-estevelles2/1.jpg
+images:
+  - path: assets/resultats/2023/cyclo-cross/12-31-estevelles2/1.jpg
+  - path: assets/resultats/2023/cyclo-cross/12-31-estevelles2/2.jpg
+  - path: assets/resultats/2023/cyclo-cross/12-31-estevelles2/3.jpg
+  - path: assets/resultats/2023/cyclo-cross/12-31-estevelles2/4.jpg
+  - path: assets/resultats/2023/cyclo-cross/12-31-estevelles2/5.jpg
 ---
 
 ### 3ème Catégorie
@@ -67,8 +73,8 @@ image: assets/img/resultats/2023-12-31-CycloCrossESTEVELLES2/1.jpg
 | 48 | FOULON RANDY | AGNY ARTeam | 0 | 2ème | 0:38:53 | 
 | 49 | PONCET ALEXIS | TEAM ENFER DU NORD WALLER | 0 | 2ème | 0:38:53 | 
 
-![1](http://teamspecializedlille.github.io/assets/img/resultats/2023-12-31-CycloCrossESTEVELLES2/1.jpg)
-![2](http://teamspecializedlille.github.io/assets/img/resultats/2023-12-31-CycloCrossESTEVELLES2/2.jpg)
-![3](http://teamspecializedlille.github.io/assets/img/resultats/2023-12-31-CycloCrossESTEVELLES2/3.jpg)
-![4](http://teamspecializedlille.github.io/assets/img/resultats/2023-12-31-CycloCrossESTEVELLES2/4.jpg)
-![5](http://teamspecializedlille.github.io/assets/img/resultats/2023-12-31-CycloCrossESTEVELLES2/5.jpg)
+![1](http://teamspecializedlille.github.io/assets/resultats/2023/cyclo-cross/12-31-estevelles2/1.jpg)
+![2](http://teamspecializedlille.github.io/assets/resultats/2023/cyclo-cross/12-31-estevelles2/2.jpg)
+![3](http://teamspecializedlille.github.io/assets/resultats/2023/cyclo-cross/12-31-estevelles2/3.jpg)
+![4](http://teamspecializedlille.github.io/assets/resultats/2023/cyclo-cross/12-31-estevelles2/4.jpg)
+![5](http://teamspecializedlille.github.io/assets/resultats/2023/cyclo-cross/12-31-estevelles2/5.jpg)

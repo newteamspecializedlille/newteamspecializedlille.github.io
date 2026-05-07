@@ -4,7 +4,9 @@ title: VTT - CRESPIN - 2024
 date: 2024-01-06
 category: VTT
 tags: VTT
-image: assets/img/resultats/2024-01-06-VTTCRESPIN/1.jpg
+image: assets/resultats/2024/vtt/01-06-crespin/1.jpg
+images:
+  - path: assets/resultats/2024/vtt/01-06-crespin/1.jpg
 ---
 
 ### VTT Vétérans B
@@ -47,4 +49,4 @@ image: assets/img/resultats/2024-01-06-VTTCRESPIN/1.jpg
 | 29 | BERNIER STEPHANE | VTT  CLUB PONT SUR SAMBRE | 6 | Vétérans B | 0:57:28 | 
 | 30 | LAGUILLIER REGIS | TEAM DECOPUB PROVILLE | 0 | Vétérans A | 0:38:53 | 
 
-![1](http://teamspecializedlille.github.io/assets/img/resultats/2024-01-06-VTTCRESPIN/1.jpg)
+![1](http://teamspecializedlille.github.io/assets/resultats/2024/vtt/01-06-crespin/1.jpg)

@@ -4,7 +4,7 @@ title: VTT - PONT SUR SAMBRE - 2024
 date: 2023-12-03
 category: VTT
 tags: VTT
-image: assets/img/resultats/2023-12-03-VTTPONT-SUR-SAMBRE/1.jpg
+image: assets/resultats/2023/vtt/12-03-pont-sur-sambre/1.jpg
 ---
 
 ### VTT Vétérans B
@@ -55,5 +55,5 @@ image: assets/img/resultats/2023-12-03-VTTPONT-SUR-SAMBRE/1.jpg
 | 37 | LAMAND MATHIEU | VELO CLUB SOLESMES | 7 | Seniors B | 0:55:59 | 
 | 38 | ROMAIN RICHARD | LES MOULIN'EUX - ST VAAST | 0 | Seniors B | 0:38:53 | 
 
-![1](http://teamspecializedlille.github.io/assets/img/resultats/2023-12-03-VTTPONT-SUR-SAMBRE/1.jpg)
-![2](http://teamspecializedlille.github.io/assets/img/resultats/2023-12-03-VTTPONT-SUR-SAMBRE/2.jpg)
+![1](http://teamspecializedlille.github.io/assets/resultats/2023/vtt/12-03-pont-sur-sambre/1.jpg)
+![2](http://teamspecializedlille.github.io/assets/resultats/2023/vtt/12-03-pont-sur-sambre/2.jpg)

@@ -4,7 +4,14 @@ title:  Cyclo Cross - Championnat Régional Nord 2024
 date: 2024-01-07
 category: Cyclo Cross
 tags: cyclo-cross
-image: assets/img/resultats/2024-01-07-CycloCrossWALLERS-AREMBERG2/1.jpg
+image: assets/resultats/2024/cyclo-cross/01-07-wallers-aremberg2/1.jpg
+images:
+  - path: assets/resultats/2024/cyclo-cross/01-07-wallers-aremberg2/1.jpg
+  - path: assets/resultats/2024/cyclo-cross/01-07-wallers-aremberg2/2.jpg
+  - path: assets/resultats/2024/cyclo-cross/01-07-wallers-aremberg2/3.jpg
+  - path: assets/resultats/2024/cyclo-cross/01-07-wallers-aremberg2/4.jpg
+  - path: assets/resultats/2024/cyclo-cross/01-07-wallers-aremberg2/5.jpg
+  - path: assets/resultats/2024/cyclo-cross/01-07-wallers-aremberg2/6.jpg
 ---
 
 ### Vétérans 50/59 ans
@@ -112,9 +119,9 @@ image: assets/img/resultats/2024-01-07-CycloCrossWALLERS-AREMBERG2/1.jpg
 |85|MILLET FABRICE|VTT  CLUB PONT SUR SAMBRE|Vétérans 50/59 ans|
 |86|SAINTRAIN GERARD|ETOILE CYCLISTE LIEU ST A|Vétérans 50/59 ans|
 
-![1](http://teamspecializedlille.github.io/assets/img/resultats/2024-01-07-CycloCrossWALLERS-AREMBERG2/1.jpg)
-![2](http://teamspecializedlille.github.io/assets/img/resultats/2024-01-07-CycloCrossWALLERS-AREMBERG2/2.jpg)
-![3](http://teamspecializedlille.github.io/assets/img/resultats/2024-01-07-CycloCrossWALLERS-AREMBERG2/3.jpg)
-![4](http://teamspecializedlille.github.io/assets/img/resultats/2024-01-07-CycloCrossWALLERS-AREMBERG2/4.jpg)
-![5](http://teamspecializedlille.github.io/assets/img/resultats/2024-01-07-CycloCrossWALLERS-AREMBERG2/5.jpg)
-![6](http://teamspecializedlille.github.io/assets/img/resultats/2024-01-07-CycloCrossWALLERS-AREMBERG2/6.jpg)
+![1](http://teamspecializedlille.github.io/assets/resultats/2024/cyclo-cross/01-07-wallers-aremberg2/1.jpg)
+![2](http://teamspecializedlille.github.io/assets/resultats/2024/cyclo-cross/01-07-wallers-aremberg2/2.jpg)
+![3](http://teamspecializedlille.github.io/assets/resultats/2024/cyclo-cross/01-07-wallers-aremberg2/3.jpg)
+![4](http://teamspecializedlille.github.io/assets/resultats/2024/cyclo-cross/01-07-wallers-aremberg2/4.jpg)
+![5](http://teamspecializedlille.github.io/assets/resultats/2024/cyclo-cross/01-07-wallers-aremberg2/5.jpg)
+![6](http://teamspecializedlille.github.io/assets/resultats/2024/cyclo-cross/01-07-wallers-aremberg2/6.jpg)

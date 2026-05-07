@@ -4,7 +4,11 @@ title: Cyclo Cross - BEUVRY - 2024
 date: 2024-01-14
 category: Cyclo Cross
 tags: cyclo-cross
-image: assets/img/resultats/2024-01-14-CycloCrossBEUVRY/1.jpg
+image: assets/resultats/2024/cyclo-cross/01-14-beuvry/1.jpg
+images:
+  - path: assets/resultats/2024/cyclo-cross/01-14-beuvry/1.jpg
+  - path: assets/resultats/2024/cyclo-cross/01-14-beuvry/2.jpg
+  - path: assets/resultats/2024/cyclo-cross/01-14-beuvry/3.jpg
 ---
 
 ### 3ème Catégorie
@@ -63,6 +67,6 @@ image: assets/img/resultats/2024-01-14-CycloCrossBEUVRY/1.jpg
 | 45 | DELPLACE SYLVIAN | HENIN ETOILE CYCLISTE HEN | 0 | 3ème | 0:38:53 | 
 | 46 | CANU CHRISTIAN | UNION SPORTIVE SAINT ANDR | 0 | 3ème | 0:38:53 | 
 
-![1](http://teamspecializedlille.github.io/assets/img/resultats/2024-01-14-CycloCrossBEUVRY/1.jpg)
-![2](http://teamspecializedlille.github.io/assets/img/resultats/2024-01-14-CycloCrossBEUVRY/2.jpg)
-![3](http://teamspecializedlille.github.io/assets/img/resultats/2024-01-14-CycloCrossBEUVRY/3.jpg)
+![1](http://teamspecializedlille.github.io/assets/resultats/2024/cyclo-cross/01-14-beuvry/1.jpg)
+![2](http://teamspecializedlille.github.io/assets/resultats/2024/cyclo-cross/01-14-beuvry/2.jpg)
+![3](http://teamspecializedlille.github.io/assets/resultats/2024/cyclo-cross/01-14-beuvry/3.jpg)

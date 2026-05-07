@@ -7,9 +7,7 @@ tags: Route
 image: assets/img/blog/road.png
 images:
   - photographer: felix
-    path: assets/results/2026/routefenain/photo_01.jpg
   - photographer: felix
-    path: assets/results/2026/routefenain/photo_02.jpg
 ---
 
 ### 1ère Catégorie

@@ -4,7 +4,13 @@ title: VTT - DOULLENS - 2024
 date: 2024-02-25
 category: VTT
 tags: VTT
-image: assets/img/resultats/2024-02-25-VTTDOULLENS/1.jpg
+image: assets/resultats/2024/vtt/02-25-doullens/1.jpg
+images:
+  - path: assets/resultats/2024/vtt/02-25-doullens/1.jpg
+  - path: assets/resultats/2024/vtt/02-25-doullens/2.jpg
+  - path: assets/resultats/2024/vtt/02-25-doullens/3.jpg
+  - path: assets/resultats/2024/vtt/02-25-doullens/4.jpg
+  - path: assets/resultats/2024/vtt/02-25-doullens/5.jpg
 ---
 
 ### VTT Vétérans B
@@ -54,8 +60,8 @@ image: assets/img/resultats/2024-02-25-VTTDOULLENS/1.jpg
 | 36 | SAVARY FABIEN | ARTOIS CYCLING TEAM | 5 | Vétérans A | 0:49:21 | 
 | 37 | MIENS JEROME | VELO CLUB SOLESMES | 0 | Vétérans A | 0:38:53 | 
 
-![1](http://teamspecializedlille.github.io/assets/img/resultats/2024-02-25-VTTDOULLENS/1.jpg)
-![2](http://teamspecializedlille.github.io/assets/img/resultats/2024-02-25-VTTDOULLENS/2.jpg)
-![3](http://teamspecializedlille.github.io/assets/img/resultats/2024-02-25-VTTDOULLENS/3.jpg)
-![4](http://teamspecializedlille.github.io/assets/img/resultats/2024-02-25-VTTDOULLENS/4.jpg)
-![5](http://teamspecializedlille.github.io/assets/img/resultats/2024-02-25-VTTDOULLENS/5.jpg)
+![1](http://teamspecializedlille.github.io/assets/resultats/2024/vtt/02-25-doullens/1.jpg)
+![2](http://teamspecializedlille.github.io/assets/resultats/2024/vtt/02-25-doullens/2.jpg)
+![3](http://teamspecializedlille.github.io/assets/resultats/2024/vtt/02-25-doullens/3.jpg)
+![4](http://teamspecializedlille.github.io/assets/resultats/2024/vtt/02-25-doullens/4.jpg)
+![5](http://teamspecializedlille.github.io/assets/resultats/2024/vtt/02-25-doullens/5.jpg)

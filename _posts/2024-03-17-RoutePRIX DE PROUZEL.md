@@ -4,7 +4,12 @@ title: Route - PRIX DE PROUZEL - 2024
 date: 2024-03-17
 category: Route
 tags: Route
-image: assets/img/resultats/2024-03-17-RoutePRIXDEPROUZEL/1.jpeg
+image: assets/resultats/2024/route/03-17-prixdeprouzel/1.jpeg
+images:
+  - path: assets/resultats/2024/route/03-17-prixdeprouzel/1.jpeg
+  - path: assets/resultats/2024/route/03-17-prixdeprouzel/2.jpeg
+  - path: assets/resultats/2024/route/03-17-prixdeprouzel/3.jpeg
+  - path: assets/resultats/2024/route/03-17-prixdeprouzel/4.jpeg
 ---
 
 ### 3ème Catégorie
@@ -37,7 +42,7 @@ image: assets/img/resultats/2024-03-17-RoutePRIXDEPROUZEL/1.jpeg
 |Ab|TORIO ERIC|LE SPRINTER CLUB DE ROCHY CONDE|
 |**Ab**|**[DERASSE PATRICK](https://teamspecializedlille.cc/coureurs/derassepatrick)**|**TEAM SPECIALIZED LILLE**|
 
-![1](http://teamspecializedlille.github.io/assets/img/resultats/2024-03-17-RoutePRIXDEPROUZEL/1.jpeg)
-![2](http://teamspecializedlille.github.io/assets/img/resultats/2024-03-17-RoutePRIXDEPROUZEL/2.jpeg)
-![3](http://teamspecializedlille.github.io/assets/img/resultats/2024-03-17-RoutePRIXDEPROUZEL/3.jpeg)
-![4](http://teamspecializedlille.github.io/assets/img/resultats/2024-03-17-RoutePRIXDEPROUZEL/4.jpeg)
+![1](http://teamspecializedlille.github.io/assets/resultats/2024/route/03-17-prixdeprouzel/1.jpeg)
+![2](http://teamspecializedlille.github.io/assets/resultats/2024/route/03-17-prixdeprouzel/2.jpeg)
+![3](http://teamspecializedlille.github.io/assets/resultats/2024/route/03-17-prixdeprouzel/3.jpeg)
+![4](http://teamspecializedlille.github.io/assets/resultats/2024/route/03-17-prixdeprouzel/4.jpeg)

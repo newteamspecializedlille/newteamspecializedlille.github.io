@@ -4,7 +4,14 @@ title: Cyclo Cross - MERICOURT (62680) ULTRA VTT - 2024
 date: 2024-02-11
 category: Cyclo Cross
 tags: cyclo-cross
-image: assets/img/resultats/2024-02-11-CycloCrossMERICOURT-(62680)-ULTRA-VTT/1.jpg
+image: assets/resultats/2024/cyclo-cross/02-11-mericourt-(62680)-ultra-vtt/1.jpg
+images:
+  - path: assets/resultats/2024/cyclo-cross/02-11-mericourt-(62680)-ultra-vtt/1.jpg
+  - path: assets/resultats/2024/cyclo-cross/02-11-mericourt-(62680)-ultra-vtt/2.jpg
+  - path: assets/resultats/2024/cyclo-cross/02-11-mericourt-(62680)-ultra-vtt/3.jpg
+  - path: assets/resultats/2024/cyclo-cross/02-11-mericourt-(62680)-ultra-vtt/4.jpg
+  - path: assets/resultats/2024/cyclo-cross/02-11-mericourt-(62680)-ultra-vtt/5.jpg
+  - path: assets/resultats/2024/cyclo-cross/02-11-mericourt-(62680)-ultra-vtt/6.jpg
 ---
 
 ### 3ème Catégorie
@@ -53,9 +60,9 @@ image: assets/img/resultats/2024-02-11-CycloCrossMERICOURT-(62680)-ULTRA-VTT/1.j
 | 35 | BOYANNICK ARNAUD | OHM CYCLISME HESDIN | 5 | 3ème | 0:52:42 | 
 | 36 | ALEXANDRE MAGGY | VELO CLUB SOLESMES | 5 | Féminines | 0:53:40 | 
 
-![1](http://teamspecializedlille.github.io/assets/img/resultats/2024-02-11-CycloCrossMERICOURT-(62680)-ULTRA-VTT/1.jpg)
-![2](http://teamspecializedlille.github.io/assets/img/resultats/2024-02-11-CycloCrossMERICOURT-(62680)-ULTRA-VTT/2.jpg)
-![3](http://teamspecializedlille.github.io/assets/img/resultats/2024-02-11-CycloCrossMERICOURT-(62680)-ULTRA-VTT/3.jpg)
-![4](http://teamspecializedlille.github.io/assets/img/resultats/2024-02-11-CycloCrossMERICOURT-(62680)-ULTRA-VTT/4.jpg)
-![5](http://teamspecializedlille.github.io/assets/img/resultats/2024-02-11-CycloCrossMERICOURT-(62680)-ULTRA-VTT/5.jpg)
-![6](http://teamspecializedlille.github.io/assets/img/resultats/2024-02-11-CycloCrossMERICOURT-(62680)-ULTRA-VTT/6.jpg)
+![1](http://teamspecializedlille.github.io/assets/resultats/2024/cyclo-cross/02-11-mericourt-(62680)-ultra-vtt/1.jpg)
+![2](http://teamspecializedlille.github.io/assets/resultats/2024/cyclo-cross/02-11-mericourt-(62680)-ultra-vtt/2.jpg)
+![3](http://teamspecializedlille.github.io/assets/resultats/2024/cyclo-cross/02-11-mericourt-(62680)-ultra-vtt/3.jpg)
+![4](http://teamspecializedlille.github.io/assets/resultats/2024/cyclo-cross/02-11-mericourt-(62680)-ultra-vtt/4.jpg)
+![5](http://teamspecializedlille.github.io/assets/resultats/2024/cyclo-cross/02-11-mericourt-(62680)-ultra-vtt/5.jpg)
+![6](http://teamspecializedlille.github.io/assets/resultats/2024/cyclo-cross/02-11-mericourt-(62680)-ultra-vtt/6.jpg)

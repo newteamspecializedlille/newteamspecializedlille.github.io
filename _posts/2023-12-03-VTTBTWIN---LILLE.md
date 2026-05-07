@@ -4,7 +4,12 @@ title: VTT - BTWIN - LILLE - 2024
 date: 2023-12-03
 category: VTT
 tags: VTT
-image: assets/img/resultats/2023-12-03-VTTBTWIN---LILLE/1.jpg
+image: assets/resultats/2023/vtt/12-03-btwin---lille/1.jpg
+images:
+  - path: assets/resultats/2023/vtt/12-03-btwin---lille/1.jpg
+  - path: assets/resultats/2023/vtt/12-03-btwin---lille/2.jpg
+  - path: assets/resultats/2023/vtt/12-03-pont-sur-sambre/1.jpg
+  - path: assets/resultats/2023/vtt/12-03-pont-sur-sambre/2.jpg
 ---
 
 ### VTT Vétérans A
@@ -65,5 +70,5 @@ image: assets/img/resultats/2023-12-03-VTTBTWIN---LILLE/1.jpg
 | 47 | PRUVOST CLEMENT | AGNY ARTeam | 0 | Seniors B | 0:38:53 | 
 | 48 | FARDOUX DANY | FLEURBAIX TEAM SHARK VTT | 0 | Vétérans A | 0:38:53 | 
 
-![1](http://teamspecializedlille.github.io/assets/img/resultats/2023-12-03-VTTBTWIN---LILLE/1.jpg)
-![2](http://teamspecializedlille.github.io/assets/img/resultats/2023-12-03-VTTBTWIN---LILLE/2.jpg)
+![1](http://teamspecializedlille.github.io/assets/resultats/2023/vtt/12-03-btwin---lille/1.jpg)
+![2](http://teamspecializedlille.github.io/assets/resultats/2023/vtt/12-03-btwin---lille/2.jpg)

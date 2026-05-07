@@ -4,7 +4,10 @@ title: VTT - ESTEVELLES - 2024
 date: 2023-12-24
 category: VTT
 tags: VTT
-image: assets/img/resultats/2023-12-24-VTTESTEVELLES/1.jpg
+image: assets/resultats/2023/vtt/12-24-estevelles/1.jpg
+images:
+  - path: assets/resultats/2023/vtt/12-24-estevelles/1.jpg
+  - path: assets/resultats/2023/vtt/12-24-estevelles/2.jpg
 ---
 
 ### VTT Vétérans A
@@ -56,5 +59,5 @@ image: assets/img/resultats/2023-12-24-VTTESTEVELLES/1.jpg
 | 38 | WALLART RODERIC | CYCLO CLUB WAVRIN | 6 | Vétérans A | 0:52:15 | 
 | 39 | DUHAMEL ARNAUD | AGNY ARTeam | 0 | Vétérans B | 0:38:53 | 
 
-![1](http://teamspecializedlille.github.io/assets/img/resultats/2023-12-24-VTTESTEVELLES/1.jpg)
-![2](http://teamspecializedlille.github.io/assets/img/resultats/2023-12-24-VTTESTEVELLES/2.jpg)
+![1](http://teamspecializedlille.github.io/assets/resultats/2023/vtt/12-24-estevelles/1.jpg)
+![2](http://teamspecializedlille.github.io/assets/resultats/2023/vtt/12-24-estevelles/2.jpg)

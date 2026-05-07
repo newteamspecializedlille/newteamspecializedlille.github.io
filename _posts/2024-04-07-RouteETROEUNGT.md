@@ -5,6 +5,10 @@ date: 2024-04-07
 category: Route
 tags: Route
 image: assets/img/blog/road.png
+images:
+  - path: assets/resultats/2024/route/04-07-rumigny/1.jpeg
+  - path: assets/resultats/2024/route/04-07-rumigny/2.jpeg
+  - path: assets/resultats/2024/route/04-07-rumigny/3.jpeg
 ---
 
 ### 2ème Catégorie

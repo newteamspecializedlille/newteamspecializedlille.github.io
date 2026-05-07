@@ -4,7 +4,10 @@ title: VTT - ST WAAST LA VALLEE - 2024
 date: 2023-12-16
 category: VTT
 tags: VTT
-image: assets/img/resultats/2023-12-16-VTTST-WAAST-LA-VALLEE/1.jpg
+image: assets/resultats/2023/vtt/12-16-st-waast-la-vallee/1.jpg
+images:
+  - path: assets/resultats/2023/vtt/12-16-st-waast-la-vallee/1.jpg
+  - path: assets/resultats/2023/vtt/12-16-st-waast-la-vallee/2.jpg
 ---
 
 ### VTT Vétérans B
@@ -72,5 +75,5 @@ image: assets/img/resultats/2023-12-16-VTTST-WAAST-LA-VALLEE/1.jpg
 | 54 | RAMETTE SAMUEL | VTT  CLUB PONT SUR SAMBRE | 0 | Vétérans B | 0:38:53 | 
 | 55 | DUBRAY YVES | LES VIKINGS VTT MARCHE NO | 0 | Vétérans B | 0:38:53 | 
 
-![1](http://teamspecializedlille.github.io/assets/img/resultats/2023-12-16-VTTST-WAAST-LA-VALLEE/1.jpg)
-![2](http://teamspecializedlille.github.io/assets/img/resultats/2023-12-16-VTTST-WAAST-LA-VALLEE/2.jpg)
+![1](http://teamspecializedlille.github.io/assets/resultats/2023/vtt/12-16-st-waast-la-vallee/1.jpg)
+![2](http://teamspecializedlille.github.io/assets/resultats/2023/vtt/12-16-st-waast-la-vallee/2.jpg)

@@ -29,22 +29,45 @@ def sanitize_path_segment(segment: str) -> str:
     return safe or 'unknown'
 
 
+CATEGORY_SLUG_MAP = {
+    'route':       'Route',
+    'vtt':         'VTT',
+    'cyclo-cross': 'Cyclo Cross',
+    'rando':       'Rando',
+}
+
+# Préfixes de type dans le slug Jekyll (ex: RoutePONT-SUR-SAMBRE → Route)
+SLUG_TYPE_PREFIXES = ['CycloCross', 'Route', 'Rando', 'VTT']
+
+
 def extract_url_parts(post_url: str) -> dict:
-    """Extrait year, month, day, route_slug (brut) et route_name (sanitisé) depuis l'URL."""
-    match = re.search(r'/route/(\d{4})/(\d{2})/(\d{2})/([^/]+)/?', post_url)
+    """Extrait year, month, day, race_type, route_slug et route_name depuis l'URL."""
+    match = re.search(r'/([a-z-]+)/(\d{4})/(\d{2})/(\d{2})/([^/]+)/?', post_url)
     if match:
-        year, month, day, slug = match.groups()
+        cat_slug, year, month, day, slug = match.groups()
     else:
-        match = re.search(r'/route/(\d+)/.*?/([^/]+)/?$', post_url)
+        match = re.search(r'/([a-z-]+)/(\d+)/.*?/([^/]+)/?$', post_url)
         if match:
-            year, month, day, slug = match.group(1), '00', '00', match.group(2)
+            cat_slug, year, slug = match.group(1), match.group(2), match.group(3)
+            month, day = '00', '00'
         else:
             return {'year': 'unknown', 'month': '00', 'day': '00',
-                    'route_slug': 'unknown', 'route_name': 'unknown'}
+                    'race_type': 'Unknown', 'route_slug': 'unknown', 'route_name': 'unknown'}
+
+    race_type = CATEGORY_SLUG_MAP.get(cat_slug, cat_slug.capitalize())
+
+    # Retirer le préfixe de type du slug pour le nom du dossier (ex: RoutePONT → PONT)
+    clean_slug = slug
+    for prefix in SLUG_TYPE_PREFIXES:
+        if slug.startswith(prefix):
+            clean_slug = slug[len(prefix):]
+            break
+
     return {
         'year': year, 'month': month, 'day': day,
+        'race_type': race_type,
         'route_slug': slug,
-        'route_name': sanitize_path_segment(slug),
+        'route_name': sanitize_path_segment(clean_slug) if clean_slug else sanitize_path_segment(slug),
     }
 
 
@@ -173,14 +196,15 @@ def main():
     year       = parts['year']
     month      = parts['month']
     day        = parts['day']
+    race_type  = parts['race_type']
     route_slug = parts['route_slug']
     route_name = parts['route_name']
 
     print(f"Post cible    : _posts/{year}-{month}-{day}-{route_slug}.md")
-    print(f"Dossier assets: assets/results/{year}/{route_name}/")
+    print(f"Dossier assets: assets/resultats/{year}/{race_type}/{month}-{day}-{route_name}/")
 
     # Créer le dossier de destination
-    dest_dir = os.path.join('assets', 'results', year, route_name)
+    dest_dir = os.path.join('assets', 'resultats', year, race_type.lower(), f"{month}-{day}-{route_name}")
     os.makedirs(dest_dir, exist_ok=True)
 
     uploaded_paths = []

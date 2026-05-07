@@ -4,7 +4,9 @@ title: VTT - LE QUESNOY - 2024
 date: 2024-01-14
 category: VTT
 tags: VTT
-image: assets/img/resultats/2024-01-14-VTTLE-QUESNOY/1.jpg
+image: assets/resultats/2024/vtt/01-14-le-quesnoy/1.jpg
+images:
+  - path: assets/resultats/2024/vtt/01-14-le-quesnoy/1.jpg
 ---
 
 ### VTT Vétérans B
@@ -57,4 +59,4 @@ image: assets/img/resultats/2024-01-14-VTTLE-QUESNOY/1.jpg
 | 39 | BOURGEAULT LOUIS | VELO CLUB SOLESMES | 0 | Seniors A | 0:38:53 | 
 | 40 | FORRIERE MAXENCE | VELO CLUB SOLESMES | 0 | Seniors A | 0:38:53 | 
 
-![1](http://teamspecializedlille.github.io/assets/img/resultats/2024-01-14-VTTLE-QUESNOY/1.jpg)
+![1](http://teamspecializedlille.github.io/assets/resultats/2024/vtt/01-14-le-quesnoy/1.jpg)

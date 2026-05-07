@@ -4,7 +4,14 @@ title:  Cyclo Cross - Championnat National 2024
 date: 2024-01-27
 category: Cyclo Cross
 tags: cyclo-cross
-image: assets/img/resultats/2024-01-27-CycloCross2024National/1.jpg
+image: assets/resultats/2024/cyclo-cross/01-27-2024national/1.jpg
+images:
+  - path: assets/resultats/2024/cyclo-cross/01-27-2024national/1.jpg
+  - path: assets/resultats/2024/cyclo-cross/01-27-2024national/2.jpg
+  - path: assets/resultats/2024/cyclo-cross/01-27-2024national/3.jpg
+  - path: assets/resultats/2024/cyclo-cross/01-27-2024national/4.jpg
+  - path: assets/resultats/2024/cyclo-cross/01-27-2024national/5.jpg
+  - path: assets/resultats/2024/cyclo-cross/01-27-2024national/6.jpg
 ---
 
 ### Vétérans 50/59 ans
@@ -485,9 +492,9 @@ image: assets/img/resultats/2024-01-27-CycloCross2024National/1.jpg
 | 462     | L'HORLOGE JOSETTE                                                                      | 2     | 00:49:05     | Adulte Féminin 50 ans et plus  |
 | 463     | MARC MAURICE                                                                           | 2     | 00:52:55     | Adulte Masculin 60 ans et plus |
 
-![1](http://teamspecializedlille.github.io/assets/img/resultats/2024-01-27-CycloCross2024National/1.jpg)
-![2](http://teamspecializedlille.github.io/assets/img/resultats/2024-01-27-CycloCross2024National/2.jpg)
-![3](http://teamspecializedlille.github.io/assets/img/resultats/2024-01-27-CycloCross2024National/3.jpg)
-![4](http://teamspecializedlille.github.io/assets/img/resultats/2024-01-27-CycloCross2024National/4.jpg)
-![5](http://teamspecializedlille.github.io/assets/img/resultats/2024-01-27-CycloCross2024National/5.jpg)
-![6](http://teamspecializedlille.github.io/assets/img/resultats/2024-01-27-CycloCross2024National/6.jpg)
+![1](http://teamspecializedlille.github.io/assets/resultats/2024/cyclo-cross/01-27-2024national/1.jpg)
+![2](http://teamspecializedlille.github.io/assets/resultats/2024/cyclo-cross/01-27-2024national/2.jpg)
+![3](http://teamspecializedlille.github.io/assets/resultats/2024/cyclo-cross/01-27-2024national/3.jpg)
+![4](http://teamspecializedlille.github.io/assets/resultats/2024/cyclo-cross/01-27-2024national/4.jpg)
+![5](http://teamspecializedlille.github.io/assets/resultats/2024/cyclo-cross/01-27-2024national/5.jpg)
+![6](http://teamspecializedlille.github.io/assets/resultats/2024/cyclo-cross/01-27-2024national/6.jpg)

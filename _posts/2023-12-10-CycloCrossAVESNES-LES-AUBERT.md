@@ -4,7 +4,14 @@ title:  Cyclo Cross - Championnat Départemental Nord 2023
 date: 2023-12-10
 category: Cyclo Cross
 tags: cyclo-cross
-image: assets/img/resultats/2023-12-10-CycloCrossAVESNES-LES-AUBERT/1.jpg
+image: assets/resultats/2023/cyclo-cross/12-10-avesnes-les-aubert/1.jpg
+images:
+  - path: assets/resultats/2023/cyclo-cross/12-10-avesnes-les-aubert/1.jpg
+  - path: assets/resultats/2023/cyclo-cross/12-10-avesnes-les-aubert/2.jpg
+  - path: assets/resultats/2023/cyclo-cross/12-10-avesnes-les-aubert/3.jpg
+  - path: assets/resultats/2023/cyclo-cross/12-10-avesnes-les-aubert/4.jpg
+  - path: assets/resultats/2023/cyclo-cross/12-10-avesnes-les-aubert/5.jpg
+  - path: assets/resultats/2023/cyclo-cross/12-10-avesnes-les-aubert/6.jpg
 ---
 
 ### Vétérans 50/59 ans
@@ -116,10 +123,10 @@ image: assets/img/resultats/2023-12-10-CycloCrossAVESNES-LES-AUBERT/1.jpg
 |94| GRARD RODRIGUE                                                                         |CYCLO CLUB ORCHIES|Ab|Vétérans 50/59 ans|Ab|
 |97| CORNELIS MICHEL                                                                        |U.C. CAPELLOISE FOURMIES|Ab|Vétérans 60 ans et +|Ab|
 
-![1](http://teamspecializedlille.github.io/assets/img/resultats/2023-12-10-CycloCrossAVESNES-LES-AUBERT/1.jpg)
-![2](http://teamspecializedlille.github.io/assets/img/resultats/2023-12-10-CycloCrossAVESNES-LES-AUBERT/2.jpg)
-![3](http://teamspecializedlille.github.io/assets/img/resultats/2023-12-10-CycloCrossAVESNES-LES-AUBERT/3.jpg)
-![4](http://teamspecializedlille.github.io/assets/img/resultats/2023-12-10-CycloCrossAVESNES-LES-AUBERT/4.jpg)
-![5](http://teamspecializedlille.github.io/assets/img/resultats/2023-12-10-CycloCrossAVESNES-LES-AUBERT/5.jpg)
-![6](http://teamspecializedlille.github.io/assets/img/resultats/2023-12-10-CycloCrossAVESNES-LES-AUBERT/6.jpg)
+![1](http://teamspecializedlille.github.io/assets/resultats/2023/cyclo-cross/12-10-avesnes-les-aubert/1.jpg)
+![2](http://teamspecializedlille.github.io/assets/resultats/2023/cyclo-cross/12-10-avesnes-les-aubert/2.jpg)
+![3](http://teamspecializedlille.github.io/assets/resultats/2023/cyclo-cross/12-10-avesnes-les-aubert/3.jpg)
+![4](http://teamspecializedlille.github.io/assets/resultats/2023/cyclo-cross/12-10-avesnes-les-aubert/4.jpg)
+![5](http://teamspecializedlille.github.io/assets/resultats/2023/cyclo-cross/12-10-avesnes-les-aubert/5.jpg)
+![6](http://teamspecializedlille.github.io/assets/resultats/2023/cyclo-cross/12-10-avesnes-les-aubert/6.jpg)
 

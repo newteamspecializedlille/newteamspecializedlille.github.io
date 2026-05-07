@@ -7,11 +7,11 @@ tags: Route
 image: assets/img/blog/road.png
 images:
   - photographer: Em’Photographie
-    path: assets/results/2026/routepont-sur-sambre/img_4535.jpeg
+    path: assets/resultats/2026/route/05-01-pont-sur-sambre/img_4535.jpeg
   - photographer: Em’Photographie
-    path: assets/results/2026/routepont-sur-sambre/img_4533.jpeg
+    path: assets/resultats/2026/route/05-01-pont-sur-sambre/img_4533.jpeg
   - photographer: Em’Photographie
-    path: assets/results/2026/routepont-sur-sambre/img_4534.jpeg
+    path: assets/resultats/2026/route/05-01-pont-sur-sambre/img_4534.jpeg
 ---
 
 ### 1ère Catégorie

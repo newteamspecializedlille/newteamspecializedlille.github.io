@@ -6,9 +6,7 @@ category: Route
 tags: Route
 images:
   - photographer: felix toto
-    path: assets/results/2026/routebavay/photo_01.jpg
   - photographer: felix toto
-    path: assets/results/2026/routebavay/photo_02.jpg
 ---
 
 ### 3ème Catégorie

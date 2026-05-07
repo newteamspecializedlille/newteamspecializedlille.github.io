@@ -7,15 +7,15 @@ tags: Route
 image: assets/img/blog/road.png
 images:
   - photographer: Helene_CyclingPix
-    path: assets/results/2026/routewambrechies/thumbnail4.jpeg
+    path: assets/resultats/2026/route/05-03-wambrechies/thumbnail4.jpeg
   - photographer: Helene_CyclingPix
-    path: assets/results/2026/routewambrechies/thumbnail2.jpeg
+    path: assets/resultats/2026/route/05-03-wambrechies/thumbnail2.jpeg
   - photographer: Helene_CyclingPix
-    path: assets/results/2026/routewambrechies/thumbnail3.jpeg
+    path: assets/resultats/2026/route/05-03-wambrechies/thumbnail3.jpeg
   - photographer: Helene_CyclingPix
-    path: assets/results/2026/routewambrechies/thumbnail5.jpeg
+    path: assets/resultats/2026/route/05-03-wambrechies/thumbnail5.jpeg
   - photographer: Helene_CyclingPix
-    path: assets/results/2026/routewambrechies/thumbnail.jpeg
+    path: assets/resultats/2026/route/05-03-wambrechies/thumbnail.jpeg
 ---
 
 ### 3ème Catégorie

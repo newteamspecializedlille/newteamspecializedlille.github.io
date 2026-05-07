@@ -5,6 +5,8 @@ date: 2026-04-12
 category: Route
 tags: Route
 image: assets/img/blog/road.png
+images:
+  - path: assets/resultats/2026/route/04-12-etroeungt/2026-05-06-lunch-ride-5.jpg
 ---
 
 ### 2ème Catégorie

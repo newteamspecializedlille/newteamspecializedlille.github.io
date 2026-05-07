@@ -4,7 +4,14 @@ title: Route - ORCHIES - 2024
 date: 2024-03-03
 category: Route
 tags: Route
-image: assets/img/resultats/2024-03-03-RouteORCHIES/1.jpeg
+image: assets/resultats/2024/route/03-03-orchies/1.jpeg
+images:
+  - path: assets/resultats/2024/route/03-03-orchies/1.jpeg
+  - path: assets/resultats/2024/route/03-03-orchies/2.jpeg
+  - path: assets/resultats/2024/route/03-03-orchies/3.jpeg
+  - path: assets/resultats/2024/route/03-03-orchies/4.jpeg
+  - path: assets/resultats/2024/route/03-03-orchies/5.jpeg
+  - path: assets/resultats/2024/route/03-03-orchies/6.jpeg
 ---
 
 ### 1ère Catégorie
@@ -187,9 +194,9 @@ image: assets/img/resultats/2024-03-03-RouteORCHIES/1.jpeg
 | 161 | CLAISSE ANAIS | UNION SPORTIVE VALENCIENN | 0 | 3ème | 0:38:53 | 
 | 162 | LONGELIN LOIC | ESEG DOUAI | 0 | 3ème | 0:38:53 | 
 
-![1](http://teamspecializedlille.github.io/assets/img/resultats/2024-03-03-RouteORCHIES/1.jpeg)
-![2](http://teamspecializedlille.github.io/assets/img/resultats/2024-03-03-RouteORCHIES/2.jpeg)
-![3](http://teamspecializedlille.github.io/assets/img/resultats/2024-03-03-RouteORCHIES/3.jpeg)
-![4](http://teamspecializedlille.github.io/assets/img/resultats/2024-03-03-RouteORCHIES/4.jpeg)
-![5](http://teamspecializedlille.github.io/assets/img/resultats/2024-03-03-RouteORCHIES/5.jpeg)
-![6](http://teamspecializedlille.github.io/assets/img/resultats/2024-03-03-RouteORCHIES/6.jpeg)
+![1](http://teamspecializedlille.github.io/assets/resultats/2024/route/03-03-orchies/1.jpeg)
+![2](http://teamspecializedlille.github.io/assets/resultats/2024/route/03-03-orchies/2.jpeg)
+![3](http://teamspecializedlille.github.io/assets/resultats/2024/route/03-03-orchies/3.jpeg)
+![4](http://teamspecializedlille.github.io/assets/resultats/2024/route/03-03-orchies/4.jpeg)
+![5](http://teamspecializedlille.github.io/assets/resultats/2024/route/03-03-orchies/5.jpeg)
+![6](http://teamspecializedlille.github.io/assets/resultats/2024/route/03-03-orchies/6.jpeg)

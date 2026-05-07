@@ -5,6 +5,10 @@ date: 2024-06-02
 category: Route
 tags: Route
 image: assets/img/blog/road.png
+images:
+  - path: assets/resultats/2024/route/06-02-saint-sauveur/1.jpeg
+  - path: assets/resultats/2024/route/06-02-saint-sauveur/2.jpeg
+  - path: assets/resultats/2024/route/06-02-saint-sauveur/3.jpeg
 ---
 
 ### 2ème Catégorie

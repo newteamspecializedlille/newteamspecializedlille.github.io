@@ -4,11 +4,14 @@ title: VTT - HERGNIES - 2024
 date: 2024-02-18
 category: VTT
 tags: VTT
-image: assets/img/resultats/2024-02-18-VTTHERGNIES/1.jpg
+image: assets/resultats/2024/vtt/02-18-hergnies/1.jpg
 images:
-    - assets/img/resultats/2024-02-18-VTTHERGNIES/1.jpg
-    - assets/img/resultats/2024-02-18-VTTHERGNIES/2.jpg
-    - assets/img/resultats/2024-02-18-VTTHERGNIES/3.jpg
+    - assets/resultats/2024/vtt/02-18-hergnies/1.jpg
+    - assets/resultats/2024/vtt/02-18-hergnies/2.jpg
+    - assets/resultats/2024/vtt/02-18-hergnies/3.jpg
+  - path: assets/resultats/2024/vtt/02-18-hergnies/1.jpg
+  - path: assets/resultats/2024/vtt/02-18-hergnies/2.jpg
+  - path: assets/resultats/2024/vtt/02-18-hergnies/3.jpg
 ---
 
 ### VTT Vétérans B

@@ -4,7 +4,14 @@ title: VTT - WALLERS AREMBERG2 - 2024
 date: 2024-01-07
 category: VTT
 tags: VTT
-image: assets/img/resultats/2024-01-07-VTTWALLERS-AREMBERG2/1.jpg
+image: assets/resultats/2024/vtt/01-07-wallers-aremberg2/1.jpg
+images:
+  - path: assets/resultats/2024/vtt/01-07-wallers-aremberg2/1.jpg
+  - path: assets/resultats/2024/vtt/01-07-wallers-aremberg2/2.jpg
+  - path: assets/resultats/2024/vtt/01-07-wallers-aremberg2/3.jpg
+  - path: assets/resultats/2024/vtt/01-07-wallers-aremberg2/4.jpg
+  - path: assets/resultats/2024/vtt/01-07-wallers-aremberg2/5.jpg
+  - path: assets/resultats/2024/vtt/01-07-wallers-aremberg2/6.jpg
 ---
 
 ### VTT Vétérans A
@@ -57,9 +64,9 @@ image: assets/img/resultats/2024-01-07-VTTWALLERS-AREMBERG2/1.jpg
 | 35 | DUBRAY YVES | LES VIKINGS VTT MARCHE NORDIQUE OHAIN | 6 | Vétérans B | 0:55:20 | 
 | 36 | BERNIER STEPHANE | VTT  CLUB PONT SUR SAMBRE | 6 | Vétérans B | 0:57:46 | 
 
-![1](http://teamspecializedlille.github.io/assets/img/resultats/2024-01-07-VTTWALLERS-AREMBERG2/1.jpg)
-![2](http://teamspecializedlille.github.io/assets/img/resultats/2024-01-07-VTTWALLERS-AREMBERG2/2.jpg)
-![3](http://teamspecializedlille.github.io/assets/img/resultats/2024-01-07-VTTWALLERS-AREMBERG2/3.jpg)
-![4](http://teamspecializedlille.github.io/assets/img/resultats/2024-01-07-VTTWALLERS-AREMBERG2/4.jpg)
-![5](http://teamspecializedlille.github.io/assets/img/resultats/2024-01-07-VTTWALLERS-AREMBERG2/5.jpg)
-![6](http://teamspecializedlille.github.io/assets/img/resultats/2024-01-07-VTTWALLERS-AREMBERG2/6.jpg)
+![1](http://teamspecializedlille.github.io/assets/resultats/2024/vtt/01-07-wallers-aremberg2/1.jpg)
+![2](http://teamspecializedlille.github.io/assets/resultats/2024/vtt/01-07-wallers-aremberg2/2.jpg)
+![3](http://teamspecializedlille.github.io/assets/resultats/2024/vtt/01-07-wallers-aremberg2/3.jpg)
+![4](http://teamspecializedlille.github.io/assets/resultats/2024/vtt/01-07-wallers-aremberg2/4.jpg)
+![5](http://teamspecializedlille.github.io/assets/resultats/2024/vtt/01-07-wallers-aremberg2/5.jpg)
+![6](http://teamspecializedlille.github.io/assets/resultats/2024/vtt/01-07-wallers-aremberg2/6.jpg)

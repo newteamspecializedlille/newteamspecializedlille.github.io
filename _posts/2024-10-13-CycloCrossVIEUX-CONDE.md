@@ -4,7 +4,20 @@ title: Cyclo Cross - VIEUX CONDE - 2025
 date: 2024-10-13
 category: Cyclo Cross
 tags: cyclo-cross
-image: http://teamspecializedlille.github.io/assets/img/resultats/2024-10-13-CycloCrossVIEUX-CONDE/1.jpg
+image: http://teamspecializedlille.github.io/assets/resultats/2024/cyclo-cross/10-13-vieux-conde/1.jpg
+images:
+  - path: assets/resultats/2024/cyclo-cross/10-13-vieux-conde/1.jpg
+  - path: assets/resultats/2024/cyclo-cross/10-13-vieux-conde/10.jpg
+  - path: assets/resultats/2024/cyclo-cross/10-13-vieux-conde/11.jpg
+  - path: assets/resultats/2024/cyclo-cross/10-13-vieux-conde/12.jpg
+  - path: assets/resultats/2024/cyclo-cross/10-13-vieux-conde/2.jpg
+  - path: assets/resultats/2024/cyclo-cross/10-13-vieux-conde/3.jpg
+  - path: assets/resultats/2024/cyclo-cross/10-13-vieux-conde/4.jpg
+  - path: assets/resultats/2024/cyclo-cross/10-13-vieux-conde/5.jpg
+  - path: assets/resultats/2024/cyclo-cross/10-13-vieux-conde/6.jpg
+  - path: assets/resultats/2024/cyclo-cross/10-13-vieux-conde/7.jpg
+  - path: assets/resultats/2024/cyclo-cross/10-13-vieux-conde/8.jpg
+  - path: assets/resultats/2024/cyclo-cross/10-13-vieux-conde/9.jpg
 ---
 
 ### 2ème Catégorie
@@ -130,14 +143,14 @@ image: http://teamspecializedlille.github.io/assets/img/resultats/2024-10-13-Cyc
 | 107 | LOIRE HERVE | AMIS DU CYCLISME NESLOIS | 0 | 3ème | 0:38:53 | 
 | 108 | CODDEVILLE RUDY | VELO CLUB UNION HALLUIN | 0 | 3ème | 0:38:53 | 
 
-![2.jpg](http://teamspecializedlille.github.io/assets/img/resultats/2024-10-13-CycloCrossVIEUX-CONDE/2.jpg)
-![3.jpg](http://teamspecializedlille.github.io/assets/img/resultats/2024-10-13-CycloCrossVIEUX-CONDE/3.jpg)
-![4.jpg](http://teamspecializedlille.github.io/assets/img/resultats/2024-10-13-CycloCrossVIEUX-CONDE/4.jpg)
-![5.jpg](http://teamspecializedlille.github.io/assets/img/resultats/2024-10-13-CycloCrossVIEUX-CONDE/5.jpg)
-![6.jpg](http://teamspecializedlille.github.io/assets/img/resultats/2024-10-13-CycloCrossVIEUX-CONDE/6.jpg)
-![7.jpg](http://teamspecializedlille.github.io/assets/img/resultats/2024-10-13-CycloCrossVIEUX-CONDE/7.jpg)
-![8.jpg](http://teamspecializedlille.github.io/assets/img/resultats/2024-10-13-CycloCrossVIEUX-CONDE/8.jpg)
-![9.jpg](http://teamspecializedlille.github.io/assets/img/resultats/2024-10-13-CycloCrossVIEUX-CONDE/9.jpg)
-![10.jpg](http://teamspecializedlille.github.io/assets/img/resultats/2024-10-13-CycloCrossVIEUX-CONDE/10.jpg)
-![11.jpg](http://teamspecializedlille.github.io/assets/img/resultats/2024-10-13-CycloCrossVIEUX-CONDE/11.jpg)
-![12.jpg](http://teamspecializedlille.github.io/assets/img/resultats/2024-10-13-CycloCrossVIEUX-CONDE/12.jpg)
+![2.jpg](http://teamspecializedlille.github.io/assets/resultats/2024/cyclo-cross/10-13-vieux-conde/2.jpg)
+![3.jpg](http://teamspecializedlille.github.io/assets/resultats/2024/cyclo-cross/10-13-vieux-conde/3.jpg)
+![4.jpg](http://teamspecializedlille.github.io/assets/resultats/2024/cyclo-cross/10-13-vieux-conde/4.jpg)
+![5.jpg](http://teamspecializedlille.github.io/assets/resultats/2024/cyclo-cross/10-13-vieux-conde/5.jpg)
+![6.jpg](http://teamspecializedlille.github.io/assets/resultats/2024/cyclo-cross/10-13-vieux-conde/6.jpg)
+![7.jpg](http://teamspecializedlille.github.io/assets/resultats/2024/cyclo-cross/10-13-vieux-conde/7.jpg)
+![8.jpg](http://teamspecializedlille.github.io/assets/resultats/2024/cyclo-cross/10-13-vieux-conde/8.jpg)
+![9.jpg](http://teamspecializedlille.github.io/assets/resultats/2024/cyclo-cross/10-13-vieux-conde/9.jpg)
+![10.jpg](http://teamspecializedlille.github.io/assets/resultats/2024/cyclo-cross/10-13-vieux-conde/10.jpg)
+![11.jpg](http://teamspecializedlille.github.io/assets/resultats/2024/cyclo-cross/10-13-vieux-conde/11.jpg)
+![12.jpg](http://teamspecializedlille.github.io/assets/resultats/2024/cyclo-cross/10-13-vieux-conde/12.jpg)

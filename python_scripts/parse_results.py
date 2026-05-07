@@ -7,6 +7,7 @@ import team_members
 import race_results
 import urllib3
 import json
+import sync_drive
 
 base = "https://cyclismeufolep5962.fr/"
 column_result = 0
@@ -280,6 +281,10 @@ class ParseResults:
         file_name = self.race_date.replace("/", "-") + "-" + self.race_type.replace(" ", "") + self.race_name.replace(
             " ", "-") + ".md"
         print("[NEW POST] : " + file_name)
+        try:
+            sync_drive.create_race_folder(self.race_year, self.race_type, self.race_name, self.race_date)
+        except Exception as e:
+            print(f"[DRIVE] Erreur création dossier : {e}")
         with open("../_posts/" + file_name, "w", encoding='utf8') as outfile:
             outfile.write("---\n")
             outfile.write("layout: post\n")

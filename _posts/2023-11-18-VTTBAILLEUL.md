@@ -4,7 +4,10 @@ title: VTT - BAILLEUL - 2024
 date: 2023-11-18
 category: VTT
 tags: VTT
-image: assets/img/resultats/2023-11-18-VTTBAILLEUL/1.jpeg
+image: assets/resultats/2023/vtt/11-18-bailleul/1.jpeg
+images:
+  - path: assets/resultats/2023/vtt/11-18-bailleul/1.jpeg
+  - path: assets/resultats/2023/vtt/11-18-bailleul/2.jpeg
 ---
 
 ### VTT Vétérans A
@@ -47,5 +50,5 @@ image: assets/img/resultats/2023-11-18-VTTBAILLEUL/1.jpeg
 | 29 | HELLEBOIS ALAIN | CLUB CYCLISTE D'ISBERGUES | 0 | Vétérans B | 0:38:53 | 
 | 30 | HAVET STEPHANE | HENIN ETOILE CYCLISTE HEN | 0 | Vétérans B | 0:38:53 | 
 
-![1](http://teamspecializedlille.github.io/assets/img/resultats/2023-11-18-VTTBAILLEUL/1.jpeg)
-![2](http://teamspecializedlille.github.io/assets/img/resultats/2023-11-18-VTTBAILLEUL/2.jpeg)
+![1](http://teamspecializedlille.github.io/assets/resultats/2023/vtt/11-18-bailleul/1.jpeg)
+![2](http://teamspecializedlille.github.io/assets/resultats/2023/vtt/11-18-bailleul/2.jpeg)

@@ -48,7 +48,7 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Add photos from ${{ github.event.client_payload.photographer_name }}"
-          file_pattern: "assets/results/ _posts/"
+          file_pattern: "assets/resultats/ _posts/"
 
       - name: Setup Ruby
         if: steps.commit.outputs.changes_detected == 'true'

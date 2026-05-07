@@ -4,7 +4,7 @@ title: Route - SAINT-SAUVEUR - 2024
 date: 2024-06-02
 category: Route
 tags: Route
-image: assets/img/resultats/2024-06-02-RouteSAINT-SAUVEUR/1.jpeg
+image: assets/resultats/2024/route/06-02-saint-sauveur/1.jpeg
 ---
 
 ### 3ème Catégorie
@@ -45,6 +45,6 @@ image: assets/img/resultats/2024-06-02-RouteSAINT-SAUVEUR/1.jpeg
 | 29	    | PERRYNICOLAS	                                                                | OHM CYCLISME HESDIN	                     | Ab      |
 | 30     | 	GODIN JULIEN	                                                               | CLUB CYCLISTEDEOISEMONT                  | Ab      |
 
-![1](http://teamspecializedlille.github.io/assets/img/resultats/2024-06-02-RouteSAINT-SAUVEUR/1.jpeg)
-![2](http://teamspecializedlille.github.io/assets/img/resultats/2024-06-02-RouteSAINT-SAUVEUR/2.jpeg)
-![3](http://teamspecializedlille.github.io/assets/img/resultats/2024-06-02-RouteSAINT-SAUVEUR/3.jpeg)
+![1](http://teamspecializedlille.github.io/assets/resultats/2024/route/06-02-saint-sauveur/1.jpeg)
+![2](http://teamspecializedlille.github.io/assets/resultats/2024/route/06-02-saint-sauveur/2.jpeg)
+![3](http://teamspecializedlille.github.io/assets/resultats/2024/route/06-02-saint-sauveur/3.jpeg)

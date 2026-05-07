@@ -7,9 +7,7 @@ tags: Route
 image: assets/img/blog/road.png
 images:
   - photographer: felix Dupont
-    path: assets/results/2026/routevieux-conde/photo_02.png
   - photographer: Jean-Pierre
-    path: assets/results/2026/routevieux-conde/photo_01.png
 ---
 
 ### 1ère Catégorie

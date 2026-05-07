@@ -4,7 +4,11 @@ title: VTT - VIEUX CONDE - 2025
 date: 2024-10-13
 category: VTT
 tags: VTT
-image: assets/img/resultats/2024-10-13-VTTVIEUX-CONDE/1.jpg
+image: assets/resultats/2024/vtt/10-13-vieux-conde/1.jpg
+images:
+  - path: assets/resultats/2024/vtt/10-13-vieux-conde/1.jpg
+  - path: assets/resultats/2024/vtt/10-13-vieux-conde/2.jpg
+  - path: assets/resultats/2024/vtt/10-13-vieux-conde/3.jpg
 ---
 
 ### VTT Vétérans B
@@ -74,6 +78,6 @@ image: assets/img/resultats/2024-10-13-VTTVIEUX-CONDE/1.jpg
 | 56 | HORCHOLLE REMI | VTT  CLUB PONT SUR SAMBRE | 0 | Seniors B | 0:38:53 | 
 | 57 | DELHAYE RUDY | VELO CLUB DE L'ESCAUT ANZ | 0 | Seniors B | 0:38:53 | 
 
-![1.jpg](http://teamspecializedlille.github.io/assets/img/resultats/2024-10-13-VTTVIEUX-CONDE/1.jpg)
-![2.jpg](http://teamspecializedlille.github.io/assets/img/resultats/2024-10-13-VTTVIEUX-CONDE/2.jpg)
-![3.jpg](http://teamspecializedlille.github.io/assets/img/resultats/2024-10-13-VTTVIEUX-CONDE/3.jpg)
+![1.jpg](http://teamspecializedlille.github.io/assets/resultats/2024/vtt/10-13-vieux-conde/1.jpg)
+![2.jpg](http://teamspecializedlille.github.io/assets/resultats/2024/vtt/10-13-vieux-conde/2.jpg)
+![3.jpg](http://teamspecializedlille.github.io/assets/resultats/2024/vtt/10-13-vieux-conde/3.jpg)

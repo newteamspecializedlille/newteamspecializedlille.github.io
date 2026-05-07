@@ -4,7 +4,13 @@ title: Route - RIEULAY - 2024
 date: 2024-03-10
 category: Route
 tags: Route
-image: assets/img/resultats/2024-03-10-RouteRIEULAY/1.jpeg
+image: assets/resultats/2024/route/03-10-rieulay/1.jpeg
+images:
+  - path: assets/resultats/2024/route/03-10-rieulay/1.jpeg
+  - path: assets/resultats/2024/route/03-10-rieulay/2.jpeg
+  - path: assets/resultats/2024/route/03-10-rieulay/3.jpeg
+  - path: assets/resultats/2024/route/03-10-rieulay/4.jpeg
+  - path: assets/resultats/2024/route/03-10-rieulay/5.jpeg
 ---
 
 ### 1ère Catégorie
@@ -346,8 +352,8 @@ image: assets/img/resultats/2024-03-10-RouteRIEULAY/1.jpeg
 | 316 | NUEE VALENTIN | ESPOIR CYCLISTE WAMBRECHI | 0 | 3ème | 0:38:53 | 
 | 317 | LANSIAU ALAIN | HENIN ETOILE CYCLISTE HEN | 0 | 4ème | 0:38:53 | 
 
-![1](http://teamspecializedlille.github.io/assets/img/resultats/2024-03-10-RouteRIEULAY/1.jpeg)
-![2](http://teamspecializedlille.github.io/assets/img/resultats/2024-03-10-RouteRIEULAY/2.jpeg)
-![3](http://teamspecializedlille.github.io/assets/img/resultats/2024-03-10-RouteRIEULAY/3.jpeg)
-![4](http://teamspecializedlille.github.io/assets/img/resultats/2024-03-10-RouteRIEULAY/4.jpeg)
-![5](http://teamspecializedlille.github.io/assets/img/resultats/2024-03-10-RouteRIEULAY/5.jpeg)
+![1](http://teamspecializedlille.github.io/assets/resultats/2024/route/03-10-rieulay/1.jpeg)
+![2](http://teamspecializedlille.github.io/assets/resultats/2024/route/03-10-rieulay/2.jpeg)
+![3](http://teamspecializedlille.github.io/assets/resultats/2024/route/03-10-rieulay/3.jpeg)
+![4](http://teamspecializedlille.github.io/assets/resultats/2024/route/03-10-rieulay/4.jpeg)
+![5](http://teamspecializedlille.github.io/assets/resultats/2024/route/03-10-rieulay/5.jpeg)

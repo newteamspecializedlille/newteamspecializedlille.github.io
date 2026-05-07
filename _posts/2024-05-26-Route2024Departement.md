@@ -4,7 +4,7 @@ title: VTT - Championnat Nord - 2024
 date: 2024-03-24
 category: VTT
 tags: VTT
-image: assets/img/resultats/2024-03-24-VTT2024Departement/1.jpg
+image: assets/resultats/2024/vtt/03-24-2024departement/1.jpg
 ---
 
 ### Juniors -17/19 ans

@@ -4,7 +4,9 @@ title: VTT - BOUVIGNIES - 2024
 date: 2024-01-13
 category: VTT
 tags: VTT
-image: assets/img/resultats/2024-01-13-VTTBOUVIGNIES/1.jpg
+image: assets/resultats/2024/vtt/01-13-bouvignies/1.jpg
+images:
+  - path: assets/resultats/2024/vtt/01-13-bouvignies/1.jpg
 ---
 
 ### VTT Vétérans B
@@ -48,4 +50,4 @@ image: assets/img/resultats/2024-01-13-VTTBOUVIGNIES/1.jpg
 | 30 | TREHOUST FRANCOIS | AGNY ARTeam | 5 | Vétérans B | 1:1:20 | 
 | 31 | MARLIER RONALD | VELO CLUB UNION HALLUIN | 0 | Seniors B | 0:38:53 | 
 
-![1](http://teamspecializedlille.github.io/assets/img/resultats/2024-01-13-VTTBOUVIGNIES/1.jpg)
+![1](http://teamspecializedlille.github.io/assets/resultats/2024/vtt/01-13-bouvignies/1.jpg)
