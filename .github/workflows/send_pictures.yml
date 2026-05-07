@@ -8,7 +8,7 @@ permissions:
   contents: read
 
 concurrency:
-  group: "pages"
+  group: "upload-photos"
   cancel-in-progress: false
 
 jobs:
