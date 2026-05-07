@@ -5,6 +5,11 @@ date: 2026-04-04
 category: Route
 tags: Route
 image: assets/img/blog/road.png
+images:
+  - photographer: felix toto
+    path: assets/results/2026/routebavay/photo_01.jpg
+  - photographer: felix toto
+    path: assets/results/2026/routebavay/photo_02.jpg
 ---
 
 ### 3ème Catégorie
