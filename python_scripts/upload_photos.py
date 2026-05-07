@@ -185,14 +185,14 @@ def main():
 
     uploaded_paths = []
 
-    for counter, cdn_url in enumerate(images_urls, start=1):
+    for cdn_url in images_urls:
         if not cdn_url:
             continue
 
-        # Déduire l'extension depuis l'URL
-        ext_match = re.search(r'\.(\w{2,4})(?:\?|$)', cdn_url)
-        ext = ext_match.group(1).lower() if ext_match else 'jpg'
-        filename = f"photo_{counter:02d}.{ext}"
+        # Extraire le nom de fichier depuis l'URL CDN et le sanitizer
+        raw_filename = cdn_url.rstrip('/').split('/')[-1].split('?')[0]
+        name_part, _, ext = raw_filename.rpartition('.')
+        filename = sanitize_path_segment(name_part) + (f'.{ext.lower()}' if ext else '.jpg')
         dest_path = os.path.join(dest_dir, filename)
 
         print(f"  Téléchargement {filename} depuis {cdn_url[:70]}...")
