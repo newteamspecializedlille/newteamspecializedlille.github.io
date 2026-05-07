@@ -12,6 +12,12 @@ images:
     path: assets/results/2026/routewambrechies/photo_02.jpeg
   - photographer: Helene_CyclingPix
     path: assets/results/2026/routewambrechies/photo_03.jpeg
+  - photographer: Helene_CyclingPix
+    path: assets/results/2026/routewambrechies/thumbnail4.jpeg
+  - photographer: Helene_CyclingPix
+    path: assets/results/2026/routewambrechies/thumbnail2.jpeg
+  - photographer: Helene_CyclingPix
+    path: assets/results/2026/routewambrechies/thumbnail3.jpeg
 ---
 
 ### 3ème Catégorie
