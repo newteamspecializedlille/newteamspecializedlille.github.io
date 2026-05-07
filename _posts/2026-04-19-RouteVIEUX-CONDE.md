@@ -5,6 +5,9 @@ date: 2026-04-19
 category: Route
 tags: Route
 image: assets/img/blog/road.png
+images:
+  - photographer: felix Dupont
+    path: assets/results/2026/routevieux-conde/photo_02.png
 ---
 
 ### 1ère Catégorie
