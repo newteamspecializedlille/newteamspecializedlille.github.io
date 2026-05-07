@@ -5,6 +5,9 @@ date: 2026-04-06
 category: Route
 tags: Route
 image: assets/img/blog/road.png
+images:
+  - photographer: felix
+    path: assets/results/2026/routeprovin/photo_01.png
 ---
 
 ### 1ère Catégorie
