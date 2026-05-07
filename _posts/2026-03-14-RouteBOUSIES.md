@@ -7,7 +7,7 @@ tags: Route
 image: assets/img/blog/road.png
 images:
   - photographer: François Martin
-    path: assets/results/2026/routebousies/img_4246.jpeg
+    path: assets/resultats/2026/route/03-14-bousies/img_4246.jpeg
 ---
 
 ### 1ère Catégorie
