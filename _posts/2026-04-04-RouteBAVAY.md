@@ -4,7 +4,6 @@ title: Route - BAVAY - 2026
 date: 2026-04-04
 category: Route
 tags: Route
-image: assets/img/blog/road.png
 images:
   - photographer: felix toto
     path: assets/results/2026/routebavay/photo_01.jpg

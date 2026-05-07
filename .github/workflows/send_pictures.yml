@@ -12,6 +12,13 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      actions: write
+      pages: write
+      id-token: write
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - name: Checkout du dépôt
@@ -33,7 +40,35 @@ jobs:
         run: python3 python_scripts/upload_photos.py
 
       - name: Commit et push sur main
+        id: commit
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Add photos from ${{ github.event.client_payload.photographer_name }}"
           file_pattern: "assets/results/ _posts/"
+
+      - name: Setup Ruby
+        if: steps.commit.outputs.changes_detected == 'true'
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+          bundler-cache: true
+
+      - name: Setup Pages
+        if: steps.commit.outputs.changes_detected == 'true'
+        id: pages
+        uses: actions/configure-pages@v4
+
+      - name: Build with Jekyll
+        if: steps.commit.outputs.changes_detected == 'true'
+        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+        env:
+          JEKYLL_ENV: production
+
+      - name: Upload artifact
+        if: steps.commit.outputs.changes_detected == 'true'
+        uses: actions/upload-pages-artifact@v3
+
+      - name: Deploy to GitHub Pages
+        if: steps.commit.outputs.changes_detected == 'true'
+        id: deployment
+        uses: actions/deploy-pages@v4

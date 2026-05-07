@@ -2999,8 +2999,7 @@ a.velo-home-partners__item {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
   gap: 2px;
-  border-top: 2px solid var(--v-primary);
-  margin-top: 3rem;
+  border-bottom: 2px solid var(--v-primary);
 }
 .velo-post__gallery-item {
   aspect-ratio: 4/3;
@@ -3017,6 +3016,109 @@ a.velo-home-partners__item {
 .velo-post__gallery-item img:hover {
   filter: grayscale(0%);
 }
+.velo-post__gallery-caption {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: linear-gradient(transparent, rgba(0,0,0,0.65));
+  color: #fff;
+  font-size: 0.72rem;
+  letter-spacing: 0.04em;
+  padding: 1.2rem 0.75rem 0.5rem;
+  opacity: 0;
+  transition: opacity 0.2s;
+  pointer-events: none;
+}
+.velo-post__gallery-item {
+  position: relative;
+}
+.velo-post__gallery-item:hover .velo-post__gallery-caption {
+  opacity: 1;
+}
+
+.velo-post__gallery-filler {
+  background: var(--v-primary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+}
+.velo-post__gallery-filler img {
+  width: 55%;
+  max-width: 180px;
+  height: auto;
+  object-fit: contain;
+  filter: brightness(0) invert(1);
+}
+@media (max-width: 768px) {
+  .velo-post__gallery-filler { display: none !important; }
+}
+
+/* ---- Lightbox ---- */
+.velo-lightbox {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  background: rgba(0,0,0,0.92);
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.velo-lightbox--open {
+  display: flex;
+}.velo-lightbox__inner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 90vw;
+  max-height: 90vh;
+}
+.velo-lightbox__inner img {
+  max-width: 90vw;
+  max-height: 80vh;
+  object-fit: contain;
+  display: block;
+  border: 2px solid var(--v-primary);
+}
+.velo-lightbox__caption {
+  color: #e0e0e0;
+  font-size: 0.85rem;
+  margin-top: 0.75rem;
+  letter-spacing: 0.05em;
+}
+.velo-lightbox__close {
+  position: fixed;
+  top: 1.25rem;
+  right: 1.5rem;
+  background: none;
+  border: none;
+  color: #fff;
+  font-size: 2rem;
+  cursor: pointer;
+  line-height: 1;
+  opacity: 0.8;
+  transition: opacity 0.15s;
+}
+.velo-lightbox__close:hover { opacity: 1; }
+.velo-lightbox__arrow {
+  position: fixed;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  color: #fff;
+  font-size: 4rem;
+  cursor: pointer;
+  line-height: 1;
+  opacity: 0.6;
+  transition: opacity 0.15s;
+  padding: 0 1rem;
+}
+.velo-lightbox__arrow:hover { opacity: 1; }
+.velo-lightbox__arrow--prev { left: 0.5rem; }
+.velo-lightbox__arrow--next { right: 0.5rem; }
 
 /* ---- Responsive ---- */
 @media (max-width: 768px) {

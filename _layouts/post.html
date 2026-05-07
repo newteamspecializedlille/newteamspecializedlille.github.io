@@ -45,24 +45,43 @@ layout: default
     </div>
   </header>
 
+  <!-- ==================== Photo Gallery ==================== -->
+  {% assign image_count = page.images | size %}
+  {% if image_count > 0 %}
+  <div class="velo-post__gallery">
+    {% for img in page.images %}
+    <div class="velo-post__gallery-item"
+         data-index="{{ forloop.index0 }}"
+         data-src="{{ img.path | relative_url }}"
+         data-photographer="{{ img.photographer }}">
+      <img src="{{ img.path | relative_url }}" alt="Photo par {{ img.photographer }}" loading="lazy">
+      <div class="velo-post__gallery-caption">{{ img.photographer }}</div>
+    </div>
+    {% endfor %}
+    <!-- Filler noir avec logo Specialized pour combler l'espace vide (masqué sur mobile) -->
+    <div class="velo-post__gallery-filler" id="gallery-filler">
+      <img src="{{ 'assets/images/specialized.webp' | relative_url }}" alt="Specialized">
+    </div>
+  </div>
+
+  <!-- Lightbox -->
+  <div class="velo-lightbox" id="velo-lightbox" aria-modal="true" role="dialog" aria-label="Visionneuse photo">
+    <button class="velo-lightbox__close" id="velo-lb-close" aria-label="Fermer">&#x2715;</button>
+    <button class="velo-lightbox__arrow velo-lightbox__arrow--prev" id="velo-lb-prev" aria-label="Photo précédente">&#8249;</button>
+    <button class="velo-lightbox__arrow velo-lightbox__arrow--next" id="velo-lb-next" aria-label="Photo suivante">&#8250;</button>
+    <div class="velo-lightbox__inner">
+      <img src="" alt="" id="velo-lb-img">
+      <div class="velo-lightbox__caption" id="velo-lb-caption"></div>
+    </div>
+  </div>
+  {% endif %}
+
   <!-- ==================== Content ==================== -->
   <div class="velo-post__content-wrap">
     <div class="velo-post__content">
       {{ content }}
     </div>
   </div>
-
-  <!-- ==================== Photo Gallery ==================== -->
-  {% assign image_count = page.images | size %}
-  {% if image_count > 0 %}
-  <div class="velo-post__gallery">
-    {% for image in page.images %}
-    <div class="velo-post__gallery-item">
-      <img src="{{ image | relative_url }}" alt="{{ page.title }}" loading="lazy">
-    </div>
-    {% endfor %}
-  </div>
-  {% endif %}
 
 </div>
 
@@ -131,16 +150,16 @@ document.addEventListener('DOMContentLoaded', function () {
   });
 
   /* --- Stats: count visible li items --- */
-  const items = document.querySelectorAll('.velo-post__content ul li');
+  const raceItems = document.querySelectorAll('.velo-post__content ul li');
   let best = Infinity;
-  items.forEach(function (li) {
+  raceItems.forEach(function (li) {
     const match = li.textContent.match(/:\s*(\d+)\s*$/);
     if (match) {
       const pos = parseInt(match[1], 10);
       if (pos < best) best = pos;
     }
   });
-  document.getElementById('stat-riders').textContent = items.length || '—';
+  document.getElementById('stat-riders').textContent = raceItems.length || '—';
   const bestEl = document.getElementById('stat-best');
   if (best < Infinity) {
     bestEl.textContent = best + 'e';
@@ -151,6 +170,93 @@ document.addEventListener('DOMContentLoaded', function () {
     bestEl.textContent = '—';
   }
 });
+
+/* Gallery filler (desktop only) */
+(function () {
+  var filler = document.getElementById('gallery-filler');
+  if (!filler) return;
+
+  function updateFiller() {
+    if (window.innerWidth <= 768) { filler.style.display = 'none'; return; }
+    var grid = filler.parentElement;
+    var colCount = Math.round(grid.offsetWidth / 282); // ~280px + 2px gap
+    if (colCount < 1) colCount = 1;
+    var photoCount = grid.querySelectorAll('.velo-post__gallery-item').length;
+    var remainder = photoCount % colCount;
+    if (remainder === 0) {
+      filler.style.display = 'none';
+    } else {
+      var span = colCount - remainder;
+      filler.style.display = '';
+      filler.style.gridColumn = 'span ' + span;
+    }
+  }
+
+  updateFiller();
+  window.addEventListener('resize', updateFiller);
+})();
+
+/* Gallery lightbox init */
+(function () {
+  var galleryItems = Array.from(document.querySelectorAll('.velo-post__gallery-item'));
+  if (!galleryItems.length) return;
+
+  var lb       = document.getElementById('velo-lightbox');
+  var lbImg    = document.getElementById('velo-lb-img');
+  var lbCap    = document.getElementById('velo-lb-caption');
+  var btnClose = document.getElementById('velo-lb-close');
+  var btnPrev  = document.getElementById('velo-lb-prev');
+  var btnNext  = document.getElementById('velo-lb-next');
+  var current  = 0;
+  var multiImg = galleryItems.length > 1;
+
+  /* Arrows hidden until lightbox opens */
+  btnPrev.style.display = 'none';
+  btnNext.style.display = 'none';
+
+  function openLb(idx) {
+    current = idx;
+    var item = galleryItems[idx];
+    lbImg.src = item.dataset.src;
+    lbImg.alt = 'Photo par ' + item.dataset.photographer;
+    lbCap.textContent = '\uD83D\uDCF7 ' + item.dataset.photographer;
+    lb.style.display = 'flex';
+    if (multiImg) {
+      btnPrev.style.display = '';
+      btnNext.style.display = '';
+    }
+  }
+
+  function closeLb() {
+    lb.style.display = 'none';
+    btnPrev.style.display = 'none';
+    btnNext.style.display = 'none';
+    lbImg.src = '';
+  }
+
+  function prevImg(e) { e.stopPropagation(); openLb((current - 1 + galleryItems.length) % galleryItems.length); }
+  function nextImg(e) { e.stopPropagation(); openLb((current + 1) % galleryItems.length); }
+
+  galleryItems.forEach(function (item, idx) {
+    item.addEventListener('click', function () { openLb(idx); });
+  });
+
+  btnClose.addEventListener('click', function (e) { e.stopPropagation(); closeLb(); });
+  btnPrev.addEventListener('click', prevImg);
+  btnNext.addEventListener('click', nextImg);
+
+  /* Click on dark backdrop closes */
+  lb.addEventListener('click', function (e) {
+    if (e.target === lb || e.target === document.querySelector('.velo-lightbox__inner')) closeLb();
+  });
+
+  document.addEventListener('keydown', function (e) {
+    if (lb.style.display !== 'flex') return;
+    if (e.key === 'Escape')     { closeLb(); }
+    if (e.key === 'ArrowLeft')  { openLb((current - 1 + galleryItems.length) % galleryItems.length); }
+    if (e.key === 'ArrowRight') { openLb((current + 1) % galleryItems.length); }
+  });
+})();
 </script>
 
 {%- include sponsors.html -%}

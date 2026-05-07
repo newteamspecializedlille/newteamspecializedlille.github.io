@@ -5,11 +5,6 @@ date: 2026-05-03
 category: Route
 tags: Route
 image: assets/img/blog/road.png
-images:
-  - photographer: Jean-Pierre
-    path: assets/results/2026/routewambrechies/photo_01.png
-  - photographer: Jean-Pierre
-    path: assets/results/2026/routewambrechies/photo_02.png
 ---
 
 ### 3ème Catégorie
