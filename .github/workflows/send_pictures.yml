@@ -4,6 +4,11 @@ on:
   repository_dispatch:
     types: [upload_photos]
 
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
 jobs:
   upload_and_commit:
     runs-on: ubuntu-latest
@@ -11,6 +16,8 @@ jobs:
     steps:
       - name: Checkout du dépôt
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Afficher les données reçues
         run: |
