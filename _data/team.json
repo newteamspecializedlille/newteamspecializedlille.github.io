@@ -370,7 +370,8 @@
                     "2026/04/11|BOUVIGNIES|2ème": 15,
                     "2026/04/19|VIEUX CONDE|2ème": 20,
                     "2026/04/26|MAULDE - CHORETTE|2ème": 19,
-                    "2026/05/01|PONT SUR SAMBRE|2ème": 19
+                    "2026/05/01|PONT SUR SAMBRE|2ème": 19,
+                    "2026/05/08|HALLUIN|2ème": 8
                 },
                 "2025": {
                     "2025/03/02|BOUE|1ère": 28,
@@ -840,7 +841,8 @@
                     "2026/03/14|BOUSIES|3ème": 17,
                     "2026/03/28|TAISNIERES SUR HON|3ème": 11,
                     "2026/04/04|BAVAY|3ème": 27,
-                    "2026/04/19|VIEUX CONDE|3ème": 32
+                    "2026/04/19|VIEUX CONDE|3ème": 32,
+                    "2026/05/08|HALLUIN|3ème": 11
                 },
                 "2023": {
                     "2023/09/02|POIX DU NORD|2ème": 8,
@@ -893,6 +895,7 @@
                     "2026/04/06|PROVIN|3ème": 21,
                     "2026/04/26|MAULDE - CHORETTE|3ème": 47,
                     "2026/05/01|PONT SUR SAMBRE|3ème": 10,
+                    "2026/05/08|HALLUIN|3ème": 24,
                     "2026/05/09|NEUF MESNIL|3ème": 9
                 },
                 "2025": {
@@ -1092,7 +1095,8 @@
             "road": {
                 "2026": {
                     "2026/04/05|HAVELUY|2ème": 40,
-                    "2026/05/01|PONT SUR SAMBRE|2ème": 69
+                    "2026/05/01|PONT SUR SAMBRE|2ème": 69,
+                    "2026/05/08|HALLUIN|2ème": 20
                 },
                 "2025": {
                     "2025/03/16|RIEULAY|2ème": 53,
@@ -1251,7 +1255,8 @@
                     "2026/03/08|RIEULAY|3ème": 35,
                     "2026/03/14|BOUSIES|3ème": "Ab",
                     "2026/04/26|MAULDE - CHORETTE|3ème": 49,
-                    "2026/05/01|PONT SUR SAMBRE|3ème": 48
+                    "2026/05/01|PONT SUR SAMBRE|3ème": 48,
+                    "2026/05/08|HALLUIN|3ème": 36
                 },
                 "2025": {
                     "2025/09/06|POIX DU NORD|3ème": 26,
@@ -1272,6 +1277,7 @@
                     "2026/04/06|PROVIN|3ème": "Ab",
                     "2026/05/01|PONT SUR SAMBRE|3ème": 20,
                     "2026/05/03|WAMBRECHIES|3ème": 28,
+                    "2026/05/08|HALLUIN|3ème": 16,
                     "2026/05/09|NEUF MESNIL|3ème": 8
                 }
             }
