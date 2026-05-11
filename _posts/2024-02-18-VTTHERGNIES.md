@@ -6,9 +6,6 @@ category: VTT
 tags: VTT
 image: assets/resultats/2024/vtt/02-18-hergnies/1.jpg
 images:
-    - assets/resultats/2024/vtt/02-18-hergnies/1.jpg
-    - assets/resultats/2024/vtt/02-18-hergnies/2.jpg
-    - assets/resultats/2024/vtt/02-18-hergnies/3.jpg
   - path: assets/resultats/2024/vtt/02-18-hergnies/1.jpg
   - path: assets/resultats/2024/vtt/02-18-hergnies/2.jpg
   - path: assets/resultats/2024/vtt/02-18-hergnies/3.jpg
