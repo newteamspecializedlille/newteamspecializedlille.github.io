@@ -67,7 +67,8 @@
                     "2026/04/05|HAVELUY|1ère": 21,
                     "2026/04/06|PROVIN|1ère": 8,
                     "2026/04/19|VIEUX CONDE|1ère": 18,
-                    "2026/04/26|MAULDE - CHORETTE|1ère": 46
+                    "2026/04/26|MAULDE - CHORETTE|1ère": 46,
+                    "2026/05/10|DEPARTEMENTAL NORD|17/19ans": 3
                 },
                 "2025": {
                     "2025/03/16|RIEULAY|1ère": 27,
@@ -266,7 +267,8 @@
                     "2026/04/05|HAVELUY|1ère": 28,
                     "2026/04/19|VIEUX CONDE|1ère": 19,
                     "2026/04/26|MAULDE - CHORETTE|1ère": 14,
-                    "2026/05/01|PONT SUR SAMBRE|1ère": 33
+                    "2026/05/01|PONT SUR SAMBRE|1ère": 33,
+                    "2026/05/10|DEPARTEMENTAL NORD|17/19ans": 2
                 },
                 "2025": {
                     "2025/03/16|RIEULAY|1ère": 28,
@@ -371,7 +373,8 @@
                     "2026/04/19|VIEUX CONDE|2ème": 20,
                     "2026/04/26|MAULDE - CHORETTE|2ème": 19,
                     "2026/05/01|PONT SUR SAMBRE|2ème": 19,
-                    "2026/05/08|HALLUIN|2ème": 8
+                    "2026/05/08|HALLUIN|2ème": 8,
+                    "2026/05/10|DEPARTEMENTAL NORD|30/39ans": 27
                 },
                 "2025": {
                     "2025/03/02|BOUE|1ère": 28,
@@ -545,7 +548,8 @@
                     "2026/04/19|VIEUX CONDE|2ème": "Ab",
                     "2026/04/26|MAULDE - CHORETTE|2ème": 47,
                     "2026/05/01|PONT SUR SAMBRE|2ème": 45,
-                    "2026/05/09|NEUF MESNIL|2ème": 27
+                    "2026/05/09|NEUF MESNIL|2ème": 27,
+                    "2026/05/10|DEPARTEMENTAL NORD|30/39ans": 36
                 },
                 "2025": {
                     "2025/03/16|RIEULAY|2ème": 73,
@@ -1038,7 +1042,8 @@
                     "2026/04/05|HAVELUY|1ère": 19,
                     "2026/04/06|PROVIN|1ère": 5,
                     "2026/04/19|VIEUX CONDE|1ère": 15,
-                    "2026/05/01|PONT SUR SAMBRE|1ère": 23
+                    "2026/05/01|PONT SUR SAMBRE|1ère": 23,
+                    "2026/05/10|DEPARTEMENTAL NORD|20/29ans": 8
                 },
                 "2025": {
                     "2025/03/15|BOUSIES|1ère": 24,
@@ -1096,7 +1101,8 @@
                 "2026": {
                     "2026/04/05|HAVELUY|2ème": 40,
                     "2026/05/01|PONT SUR SAMBRE|2ème": 69,
-                    "2026/05/08|HALLUIN|2ème": 20
+                    "2026/05/08|HALLUIN|2ème": 20,
+                    "2026/05/10|DEPARTEMENTAL NORD|30/39ans": 17
                 },
                 "2025": {
                     "2025/03/16|RIEULAY|2ème": 53,
@@ -1188,7 +1194,8 @@
                     "2026/03/29|FENAIN|1ère": 2,
                     "2026/04/19|VIEUX CONDE|1ère": 11,
                     "2026/04/26|MAULDE - CHORETTE|1ère": 4,
-                    "2026/05/01|PONT SUR SAMBRE|1ère": 6
+                    "2026/05/01|PONT SUR SAMBRE|1ère": 6,
+                    "2026/05/10|DEPARTEMENTAL NORD|30/39ans": 1
                 },
                 "2025": {
                     "2025/03/23|DIMECHAUX|1ère": 4,

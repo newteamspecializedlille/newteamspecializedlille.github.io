@@ -16,3 +16,4 @@ assets/resultats/.sync_manifest.json
 **/.sync_manifest.json
 credentials.json
 **/credentials.json
+.bundle/config
