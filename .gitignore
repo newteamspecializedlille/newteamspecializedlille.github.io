@@ -14,3 +14,5 @@ Gemfile.lock
 credentials.json.sync_manifest.json
 assets/resultats/.sync_manifest.json
 **/.sync_manifest.json
+credentials.json
+**/credentials.json
