@@ -7,6 +7,7 @@ tags: Route
 image: assets/img/blog/road.png
 images:
   - path: assets/resultats/2026/route/04-12-etroeungt/2026-05-06-lunch-ride-5.jpg
+  - path: assets/resultats/2026/route/04-12-etroeungt/2026_05_06 lunch_ride-5.jpg
 ---
 
 ### 2ème Catégorie

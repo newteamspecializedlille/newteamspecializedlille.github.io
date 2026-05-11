@@ -532,7 +532,7 @@
         },
         {
             "name": "DEFOSSE HERVE",
-            "course": 458,
+            "course": 459,
             "cx": {},
             "vtt": {},
             "road": {
@@ -543,7 +543,8 @@
                     "2026/04/18|ASSEVENT|2ème": 11,
                     "2026/04/19|VIEUX CONDE|2ème": "Ab",
                     "2026/04/26|MAULDE - CHORETTE|2ème": 47,
-                    "2026/05/01|PONT SUR SAMBRE|2ème": 45
+                    "2026/05/01|PONT SUR SAMBRE|2ème": 45,
+                    "2026/05/09|NEUF MESNIL|2ème": 27
                 },
                 "2025": {
                     "2025/03/16|RIEULAY|2ème": 73,
@@ -878,7 +879,7 @@
         },
         {
             "name": "DEJONGHE MICKAEL",
-            "course": 195,
+            "course": 196,
             "cx": {},
             "vtt": {},
             "road": {
@@ -891,7 +892,8 @@
                     "2026/04/04|BAVAY|3ème": 29,
                     "2026/04/06|PROVIN|3ème": 21,
                     "2026/04/26|MAULDE - CHORETTE|3ème": 47,
-                    "2026/05/01|PONT SUR SAMBRE|3ème": 10
+                    "2026/05/01|PONT SUR SAMBRE|3ème": 10,
+                    "2026/05/09|NEUF MESNIL|3ème": 9
                 },
                 "2025": {
                     "2025/03/09|CRESPIN2|3ème": 22,
@@ -1260,7 +1262,7 @@
         },
         {
             "name": "LECOURT CHARLIE",
-            "course": 5,
+            "course": 6,
             "cx": {},
             "vtt": {},
             "road": {
@@ -1269,7 +1271,8 @@
                     "2026/03/14|BOUSIES|3ème": 32,
                     "2026/04/06|PROVIN|3ème": "Ab",
                     "2026/05/01|PONT SUR SAMBRE|3ème": 20,
-                    "2026/05/03|WAMBRECHIES|3ème": 28
+                    "2026/05/03|WAMBRECHIES|3ème": 28,
+                    "2026/05/09|NEUF MESNIL|3ème": 8
                 }
             }
         },
