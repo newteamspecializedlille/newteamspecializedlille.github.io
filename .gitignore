@@ -12,3 +12,5 @@ Gemfile.lock
 .DS_Store
 **/.DS_Store
 credentials.json.sync_manifest.json
+assets/resultats/.sync_manifest.json
+**/.sync_manifest.json
