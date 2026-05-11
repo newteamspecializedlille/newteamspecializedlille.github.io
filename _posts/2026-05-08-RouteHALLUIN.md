@@ -5,6 +5,22 @@ date: 2026-05-08
 category: Route
 tags: Route
 image: assets/img/blog/road.png
+images:
+  - path: assets/resultats/2026/route/05-08-halluin/2026_halluin8.jpg
+  - path: assets/resultats/2026/route/05-08-halluin/2026_halluin6.jpg
+  - path: assets/resultats/2026/route/05-08-halluin/2026_halluin5.jpg
+  - path: assets/resultats/2026/route/05-08-halluin/2026_halluin4.jpg
+  - path: assets/resultats/2026/route/05-08-halluin/2026_halluin9.jpg
+  - path: assets/resultats/2026/route/05-08-halluin/2026_halluin7.jpg
+  - path: assets/resultats/2026/route/05-08-halluin/2026_halluin14.jpg
+  - path: assets/resultats/2026/route/05-08-halluin/2026_halluin10.jpg
+  - path: assets/resultats/2026/route/05-08-halluin/2026_halluin15.jpg
+  - path: assets/resultats/2026/route/05-08-halluin/2026_halluin2.jpg
+  - path: assets/resultats/2026/route/05-08-halluin/2026_halluin12.jpg
+  - path: assets/resultats/2026/route/05-08-halluin/2026_halluin1.jpg
+  - path: assets/resultats/2026/route/05-08-halluin/2026_halluin11.jpg
+  - path: assets/resultats/2026/route/05-08-halluin/2026_halluin13.jpg
+  - path: assets/resultats/2026/route/05-08-halluin/2026_halluin3.jpg
 ---
 
 ### 2ème Catégorie
