@@ -25,4 +25,5 @@ image: assets/img/blog/road.png
 
 ### Masculins 50/59 ans
 48 participants
+- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 11
 - [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 36

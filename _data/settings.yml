@@ -113,7 +113,7 @@ text:
     rules_top5: "Top 5"
     rules_top10: "Top 10"
     rules_top15: "Top 15"
-    rules_note: "Les points sont attribués à chaque épreuve validée. Le classement est mis à jour après chaque course."
+    rules_note: "Les points sont attribués à chaque épreuve validée. Le classement est mis à jour après chaque course. Pas de points pour les courses avec moins de 20 participants."
     update_prefix: "Mis à jour le"
 
   # Coureur single page
