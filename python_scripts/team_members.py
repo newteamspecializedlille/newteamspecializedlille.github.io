@@ -1,9 +1,13 @@
 import json
 import datetime
 import operator
+import os
 
-team_path_file = '../_data/team.json'
-challenge_path_file = "../_data/challenge.json"
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+REPO_ROOT = os.path.dirname(SCRIPT_DIR)
+DATA_DIR = os.path.join(REPO_ROOT, '_data')
+team_path_file = os.path.join(REPO_ROOT, '_data', 'team.json')
+
 
 class ChallengePoints:
     def __init__(self, point_win, point_top5, point_top10, point_top15, point_participation):
@@ -13,75 +17,88 @@ class ChallengePoints:
         self.point_top15 = point_top15
         self.point_participation = point_participation
 
+
 class TeamMember:
     def __init__(self, name):
         self.name = name
-        self.course = 0
+        self.active = True
         self.cx = {}
         self.vtt = {}
         self.road = {}
 
     def to_dict(self):
-        res = {"name": self.name, "course": self.course,
-               "cx": dict(sorted(self.cx.items(), reverse=True)),
-               "vtt": dict(sorted(self.vtt.items(), reverse=True)),
-               "road": dict(sorted(self.road.items(), reverse=True))}
-        return res
+        return {
+            "name": self.name,
+            "active": self.active,
+            "cx": dict(sorted(self.cx.items(), reverse=True)),
+            "vtt": dict(sorted(self.vtt.items(), reverse=True)),
+            "road": dict(sorted(self.road.items(), reverse=True)),
+        }
+
+    def _calc_points_for_season(self, season_races, points_challenge):
+        points = 0
+        for race in season_races:
+            pos = race.get("pos")
+            if isinstance(pos, int):
+                if pos == 1:
+                    points += points_challenge.point_win
+                elif pos <= 5:
+                    points += points_challenge.point_top5
+                elif pos <= 10:
+                    points += points_challenge.point_top10
+                elif pos <= 15:
+                    points += points_challenge.point_top15
+                points += points_challenge.point_participation
+        return points
 
     def challenge_calcul_point(self, year, points_challenge):
         points = 0
         if self.road.get(year):
-            for race in self.road[year].items():
-                if isinstance(race[1], int):
-                    if race[1] == 1:
-                        points += points_challenge.point_win
-                    elif race[1] <= 5:
-                        points += points_challenge.point_top5
-                    elif race[1] <= 10:
-                        points += points_challenge.point_top10
-                    elif race[1] <= 15:
-                        points += points_challenge.point_top15
-                    points += points_challenge.point_participation
+            points += self._calc_points_for_season(self.road[year], points_challenge)
         return points
 
     def challenge_calcul_point_boue(self, year, points_challenge):
         points = 0
         if self.cx.get(year):
-            for race in self.cx[year].items():
-                if isinstance(race[1], int):
-                    if race[1] == 1:
-                        points += points_challenge.point_win
-                    elif race[1] <= 5:
-                        points += points_challenge.point_top5
-                    elif race[1] <= 10:
-                        points += points_challenge.point_top10
-                    elif race[1] <= 15:
-                        points += points_challenge.point_top15
-                    points += points_challenge.point_participation
+            points += self._calc_points_for_season(self.cx[year], points_challenge)
         if self.vtt.get(year):
-            for race in self.vtt[year].items():
-                if isinstance(race[1], int):
-                    if race[1] == 1:
-                        points += points_challenge.point_win
-                    elif race[1] <= 5:
-                        points += points_challenge.point_top5
-                    elif race[1] <= 10:
-                        points += points_challenge.point_top10
-                    elif race[1] <= 15:
-                        points += points_challenge.point_top15
-                    points += points_challenge.point_participation
+            points += self._calc_points_for_season(self.vtt[year], points_challenge)
         return points
 
 
+def _migrate_season(season_dict):
+    """Convertit {'date|race|cat': pos} en liste d'objets résultats."""
+    if isinstance(season_dict, list):
+        return season_dict
+    if not isinstance(season_dict, dict):
+        return []
+
+    result = []
+    for key, pos in season_dict.items():
+        parts = key.split("|")
+        if len(parts) == 3:
+            result.append({"date": parts[0], "race": parts[1], "cat": parts[2], "pos": pos})
+        elif len(parts) == 2:
+            result.append({"date": parts[0], "race": parts[1], "cat": "", "pos": pos})
+        else:
+            result.append({"date": "", "race": key, "cat": "", "pos": pos})
+    return result
+
+
 def get_points_challenge(file_challenge):
-    with open(file_challenge, 'r') as challenge_file:
+    with open(file_challenge, 'r', encoding='utf8') as challenge_file:
         data_challenge = json.load(challenge_file)
-        return ChallengePoints(data_challenge["point_win"], data_challenge["point_top5"], data_challenge["point_top10"], data_challenge[
-            "point_top15"], data_challenge["point_participation"])
+        return ChallengePoints(
+            data_challenge["point_win"],
+            data_challenge["point_top5"],
+            data_challenge["point_top10"],
+            data_challenge["point_top15"],
+            data_challenge["point_participation"],
+        )
 
 
 def update_challenge(team: dict[str, TeamMember], challenge_year, challenge):
-    file_name = "../_data/" + challenge + challenge_year + ".json"
+    file_name = os.path.join(DATA_DIR, f"{challenge}{challenge_year}.json")
     points_challenge = get_points_challenge(file_name)
     data = {}
     challenge_res = {}
@@ -103,69 +120,26 @@ def update_challenge(team: dict[str, TeamMember], challenge_year, challenge):
     with open(file_name, "w", encoding='utf8') as outfile:
         outfile.write(json_object)
 
+
 def load_team_from_file(team: dict[str, TeamMember]) -> dict[str, TeamMember]:
-    team_file = open(team_path_file, 'r')
-    data = json.load(team_file)
+    with open(team_path_file, 'r', encoding='utf8') as team_file:
+        data = json.load(team_file)
 
     for member in data['team_members']:
-        team[member["name"]] = TeamMember(member["name"])
-        team[member["name"]].course = member["course"]
-        team[member["name"]].cx = member["cx"]
-        team[member["name"]].vtt = member["vtt"]
-        team[member["name"]].road = member["road"]
+        team_member = TeamMember(member["name"])
+        team_member.active = member.get("active", True)
+        team_member.cx = {year: _migrate_season(season) for year, season in member.get("cx", {}).items()}
+        team_member.vtt = {year: _migrate_season(season) for year, season in member.get("vtt", {}).items()}
+        team_member.road = {year: _migrate_season(season) for year, season in member.get("road", {}).items()}
+        team[team_member.name] = team_member
 
-    team_file.close()
     return team
-
-
-def remove_old_team(team):
-    if "BOONE ERIC" in team:
-        team.pop("BOONE ERIC")
-    if "BRADEFER GERY" in team:
-        team.pop("BRADEFER GERY")
-    if "DEBUY SEBASTIEN" in team:
-        team.pop("DEBUY SEBASTIEN")
-    if "DARQUE JEAN FRANCOIS" in team:
-        team.pop("DARQUE JEAN FRANCOIS")
-    if "DUFOUR JONATHAN" in team:
-        team.pop("DUFOUR JONATHAN")
-    if "VERHULST ERIC" in team:
-        team.pop("VERHULST ERIC")
-    if "LECLERCQ FRANCK" in team:
-        team.pop("LECLERCQ FRANCK")
-    if "MOLKA MICHAEL" in team:
-        team.pop("MOLKA MICHAEL")
-    if "RAMBEAU CHRISTOPHER" in team:
-        team.pop("RAMBEAU CHRISTOPHER")
-    if "HULEUX LUDOVIC" in team:
-        team.pop("HULEUX LUDOVIC")
-    if "LECLERCQ CLEMENT" in team:
-        team.pop("LECLERCQ CLEMENT")
-    if "LECLERC CLEMENT" in team:
-        team.pop("LECLERC CLEMENT")
-    if "GINET LIONEL" in team:
-        team.pop("GINET LIONEL")
-    if "THEIL MICKAEL" in team:
-        team.pop("THEIL MICKAEL")
-    if "HOUREZ CEDRIC" in team:
-        team.pop("HOUREZ CEDRIC")
-    if "MATTIOLI RONALD" in team:
-        team.pop("MATTIOLI RONALD")
-    if "WALTER BENOIT" in team:
-        team.pop("WALTER BENOIT")
-    if "MEAUSOONE HENRI" in team:
-        team.pop("MEAUSOONE HENRI")
-    if "TRINEL EMILY" in team:
-        team.pop("TRINEL EMILY")
 
 
 def update_team_file(team):
     data = {}
-    array = []
-    remove_old_team(team)
-    for m in team.values():
-        array.append(m.to_dict())
-    data["team_members"] = array
+    team_to_save = {k: v for k, v in team.items() if v.active}
+    data["team_members"] = [member.to_dict() for member in team_to_save.values()]
     json_object = json.dumps(data, ensure_ascii=False, indent=4)
     with open(team_path_file, "w", encoding='utf8') as outfile:
         outfile.write(json_object)
