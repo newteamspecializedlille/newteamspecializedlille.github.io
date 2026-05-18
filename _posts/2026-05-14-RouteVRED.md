@@ -7,10 +7,6 @@ tags: Route
 image: assets/img/blog/road.png
 ---
 
-### 1ère Catégorie
-37 participants
-- [POULAIN NOAH](https://teamspecializedlille.cc/coureurs/poulainnoah) : 33
-
 ### 2ème Catégorie
 71 participants
 - [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 18
