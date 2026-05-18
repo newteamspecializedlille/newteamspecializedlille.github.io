@@ -2,7 +2,7 @@
     "team_members": [
         {
             "name": "DERASSE DAVID",
-            "course": 129,
+            "course": 130,
             "cx": {
                 "2026": {
                     "2025/11/30|VERLINGHEM|1ère": 14,
@@ -69,7 +69,8 @@
                     "2026/04/12|MANQUEVILLE-LILLERS|1ère": 1,
                     "2026/04/19|VIEUX CONDE|1ère": 18,
                     "2026/04/26|MAULDE - CHORETTE|1ère": 46,
-                    "2026/05/10|DEPARTEMENTAL NORD|17/19ans": 3
+                    "2026/05/10|DEPARTEMENTAL NORD|17/19ans": 3,
+                    "2026/05/15|CRITéRIUM DE BEAUMONT|1ère": 10
                 },
                 "2025": {
                     "2025/03/16|RIEULAY|1ère": 27,
@@ -358,7 +359,7 @@
         },
         {
             "name": "DUFOUR JULIEN",
-            "course": 391,
+            "course": 392,
             "cx": {},
             "vtt": {},
             "road": {
@@ -378,7 +379,8 @@
                     "2026/05/08|HALLUIN|2ème": 8,
                     "2026/05/10|DEPARTEMENTAL NORD|30/39ans": 27,
                     "2026/05/14|VRED|2ème": 18,
-                    "2026/05/17|LALLAING|2ème": 14
+                    "2026/05/17|LALLAING|2ème": 14,
+                    "2026/05/15|CRITéRIUM DE BEAUMONT|2ème": 9
                 },
                 "2025": {
                     "2025/03/02|BOUE|1ère": 28,
@@ -540,7 +542,7 @@
         },
         {
             "name": "DEFOSSE HERVE",
-            "course": 460,
+            "course": 461,
             "cx": {},
             "vtt": {},
             "road": {
@@ -554,7 +556,8 @@
                     "2026/05/01|PONT SUR SAMBRE|2ème": 45,
                     "2026/05/09|NEUF MESNIL|2ème": 27,
                     "2026/05/10|DEPARTEMENTAL NORD|50/59ans": 36,
-                    "2026/05/14|VRED|2ème": 48
+                    "2026/05/14|VRED|2ème": 48,
+                    "2026/05/15|CRITéRIUM DE BEAUMONT|2ème": 25
                 },
                 "2025": {
                     "2025/03/16|RIEULAY|2ème": 73,
@@ -891,7 +894,7 @@
         },
         {
             "name": "DEJONGHE MICKAEL",
-            "course": 198,
+            "course": 199,
             "cx": {},
             "vtt": {},
             "road": {
@@ -908,7 +911,8 @@
                     "2026/05/08|HALLUIN|3ème": 24,
                     "2026/05/09|NEUF MESNIL|3ème": 9,
                     "2026/05/14|VRED|3ème": 62,
-                    "2026/05/17|LALLAING|3ème": "Ab"
+                    "2026/05/17|LALLAING|3ème": "Ab",
+                    "2026/05/15|CRITéRIUM DE BEAUMONT|3ème": 22
                 },
                 "2025": {
                     "2025/03/09|CRESPIN2|3ème": 22,

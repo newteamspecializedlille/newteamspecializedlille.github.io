@@ -7,9 +7,10 @@ import team_members
 import race_results
 import urllib3
 import json
+import urllib.parse
 import sync_drive
 
-base = "https://cyclismeufolep5962.fr/"
+base = "https://www.cyclismeufolep5962.fr/"
 column_result = 0
 column_name = 1
 column_team = 2
@@ -410,8 +411,11 @@ class ParseResults:
                 self.set_race_infos(file)
                 if file not in self.races_parsed and self.race_date <= current_date:
                     url = base + file
+                    encoded_url = urllib.parse.quote(url, safe=':/', encoding=None, errors=None)
+
                     print(url)
-                    if self.parse_results_race(url, season):
+                    print(encoded_url)
+                    if self.parse_results_race(encoded_url, season):
                         self.races_parsed.append(file)
                         self.display_race_infos()
                         self.create_post_race()
@@ -421,13 +425,13 @@ class ParseResults:
         myobj = {'saison': year}
 
         # vtt
-        r = requests.post('https://cyclismeufolep5962.fr/calResVTT.php', verify=False, data=myobj).text.splitlines()
+        r = requests.post('https://cyclismeufolep5962.fr/calResVTT.php', verify=False, data=myobj).content.decode('utf-8').splitlines()
         self.parse_race_payload(r, year)
         # cross
-        r = requests.post('https://cyclismeufolep5962.fr/calResCross.php', verify=False, data=myobj).text.splitlines()
+        r = requests.post('https://cyclismeufolep5962.fr/calResCross.php', verify=False, data=myobj).content.decode('utf-8').splitlines()
         self.parse_race_payload(r, year)
         # road
-        r = requests.post('https://cyclismeufolep5962.fr/calResRoute.php', verify=False, data=myobj).text.splitlines()
+        r = requests.post('https://cyclismeufolep5962.fr/calResRoute.php', verify=False, data=myobj).content.decode('utf-8').splitlines()
 
         self.parse_race_payload(r, year)
         save_races_parsed(self.races_parsed)
