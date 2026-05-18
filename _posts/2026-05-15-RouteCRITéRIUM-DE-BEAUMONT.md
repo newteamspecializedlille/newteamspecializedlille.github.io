@@ -5,6 +5,21 @@ date: 2026-05-15
 category: Route
 tags: Route
 image: assets/img/blog/road.png
+images:
+  - path: assets/resultats/2026/route/05-15-critérium de beaumont/2026_beaumont2.jpg
+  - path: assets/resultats/2026/route/05-15-critérium de beaumont/2026_beaumont6.jpg
+  - path: assets/resultats/2026/route/05-15-critérium de beaumont/2026_beaumont3.jpg
+  - path: assets/resultats/2026/route/05-15-critérium de beaumont/2026_beaumont7.jpg
+  - path: assets/resultats/2026/route/05-15-critérium de beaumont/2026_beaumont8.jpg
+  - path: assets/resultats/2026/route/05-15-critérium de beaumont/2026_beaumont5.jpg
+  - path: assets/resultats/2026/route/05-15-critérium de beaumont/2026_beaumont12.jpg
+  - path: assets/resultats/2026/route/05-15-critérium de beaumont/2026_beaumont4.jpg
+  - path: assets/resultats/2026/route/05-15-critérium de beaumont/2026_beaumont13.jpg
+  - path: assets/resultats/2026/route/05-15-critérium de beaumont/2026_beaumont9.jpg
+  - path: assets/resultats/2026/route/05-15-critérium de beaumont/2026_beaumont14.jpg
+  - path: assets/resultats/2026/route/05-15-critérium de beaumont/2026_beaumont11.jpg
+  - path: assets/resultats/2026/route/05-15-critérium de beaumont/2026_beaumont1.jpg
+  - path: assets/resultats/2026/route/05-15-critérium de beaumont/2026_beaumont10.jpg
 ---
 
 ### 1ère Catégorie
