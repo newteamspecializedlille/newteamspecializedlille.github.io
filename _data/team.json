@@ -358,7 +358,7 @@
         },
         {
             "name": "DUFOUR JULIEN",
-            "course": 390,
+            "course": 391,
             "cx": {},
             "vtt": {},
             "road": {
@@ -377,7 +377,8 @@
                     "2026/05/01|PONT SUR SAMBRE|2ème": 19,
                     "2026/05/08|HALLUIN|2ème": 8,
                     "2026/05/10|DEPARTEMENTAL NORD|30/39ans": 27,
-                    "2026/05/14|VRED|2ème": 18
+                    "2026/05/14|VRED|2ème": 18,
+                    "2026/05/17|LALLAING|2ème": 14
                 },
                 "2025": {
                     "2025/03/02|BOUE|1ère": 28,
@@ -890,7 +891,7 @@
         },
         {
             "name": "DEJONGHE MICKAEL",
-            "course": 197,
+            "course": 198,
             "cx": {},
             "vtt": {},
             "road": {
@@ -906,7 +907,8 @@
                     "2026/05/01|PONT SUR SAMBRE|3ème": 10,
                     "2026/05/08|HALLUIN|3ème": 24,
                     "2026/05/09|NEUF MESNIL|3ème": 9,
-                    "2026/05/14|VRED|3ème": 62
+                    "2026/05/14|VRED|3ème": 62,
+                    "2026/05/17|LALLAING|3ème": "Ab"
                 },
                 "2025": {
                     "2025/03/09|CRESPIN2|3ème": 22,
@@ -1281,7 +1283,7 @@
         },
         {
             "name": "LECOURT CHARLIE",
-            "course": 6,
+            "course": 7,
             "cx": {},
             "vtt": {},
             "road": {
@@ -1292,7 +1294,8 @@
                     "2026/05/01|PONT SUR SAMBRE|3ème": 20,
                     "2026/05/03|WAMBRECHIES|3ème": 28,
                     "2026/05/08|HALLUIN|3ème": 16,
-                    "2026/05/09|NEUF MESNIL|3ème": 8
+                    "2026/05/09|NEUF MESNIL|3ème": 8,
+                    "2026/05/17|LALLAING|3ème": 15
                 }
             }
         },
