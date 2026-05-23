@@ -359,7 +359,7 @@
         },
         {
             "name": "DUFOUR JULIEN",
-            "course": 392,
+            "course": 393,
             "cx": {},
             "vtt": {},
             "road": {
@@ -380,7 +380,8 @@
                     "2026/05/10|DEPARTEMENTAL NORD|30/39ans": 27,
                     "2026/05/14|VRED|2ème": 18,
                     "2026/05/17|LALLAING|2ème": 14,
-                    "2026/05/15|CRITéRIUM DE BEAUMONT|2ème": 9
+                    "2026/05/15|CRITéRIUM DE BEAUMONT|2ème": 9,
+                    "2026/05/22|LIEU ST AMAND1|2ème": 21
                 },
                 "2025": {
                     "2025/03/02|BOUE|1ère": 28,
@@ -542,7 +543,7 @@
         },
         {
             "name": "DEFOSSE HERVE",
-            "course": 461,
+            "course": 462,
             "cx": {},
             "vtt": {},
             "road": {
@@ -557,7 +558,8 @@
                     "2026/05/09|NEUF MESNIL|2ème": 27,
                     "2026/05/10|DEPARTEMENTAL NORD|50/59ans": 36,
                     "2026/05/14|VRED|2ème": 48,
-                    "2026/05/15|CRITéRIUM DE BEAUMONT|2ème": 25
+                    "2026/05/15|CRITéRIUM DE BEAUMONT|2ème": 25,
+                    "2026/05/22|LIEU ST AMAND1|2ème": 19
                 },
                 "2025": {
                     "2025/03/16|RIEULAY|2ème": 73,
@@ -894,7 +896,7 @@
         },
         {
             "name": "DEJONGHE MICKAEL",
-            "course": 199,
+            "course": 200,
             "cx": {},
             "vtt": {},
             "road": {
@@ -912,7 +914,8 @@
                     "2026/05/09|NEUF MESNIL|3ème": 9,
                     "2026/05/14|VRED|3ème": 62,
                     "2026/05/17|LALLAING|3ème": "Ab",
-                    "2026/05/15|CRITéRIUM DE BEAUMONT|3ème": 22
+                    "2026/05/15|CRITéRIUM DE BEAUMONT|3ème": 22,
+                    "2026/05/22|LIEU ST AMAND1|3ème": 10
                 },
                 "2025": {
                     "2025/03/09|CRESPIN2|3ème": 22,
