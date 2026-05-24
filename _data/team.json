@@ -543,7 +543,7 @@
         },
         {
             "name": "DEFOSSE HERVE",
-            "course": 462,
+            "course": 463,
             "cx": {},
             "vtt": {},
             "road": {
@@ -559,7 +559,8 @@
                     "2026/05/10|DEPARTEMENTAL NORD|50/59ans": 36,
                     "2026/05/14|VRED|2ème": 48,
                     "2026/05/15|CRITéRIUM DE BEAUMONT|2ème": 25,
-                    "2026/05/22|LIEU ST AMAND1|2ème": 19
+                    "2026/05/22|LIEU ST AMAND1|2ème": 19,
+                    "2026/05/23|LA FLAMENGRIE NORD|2ème": 8
                 },
                 "2025": {
                     "2025/03/16|RIEULAY|2ème": 73,
@@ -896,7 +897,7 @@
         },
         {
             "name": "DEJONGHE MICKAEL",
-            "course": 200,
+            "course": 201,
             "cx": {},
             "vtt": {},
             "road": {
@@ -915,7 +916,8 @@
                     "2026/05/14|VRED|3ème": 62,
                     "2026/05/17|LALLAING|3ème": "Ab",
                     "2026/05/15|CRITéRIUM DE BEAUMONT|3ème": 22,
-                    "2026/05/22|LIEU ST AMAND1|3ème": 10
+                    "2026/05/22|LIEU ST AMAND1|3ème": 10,
+                    "2026/05/23|LA FLAMENGRIE NORD|3ème": 21
                 },
                 "2025": {
                     "2025/03/09|CRESPIN2|3ème": 22,
@@ -1290,7 +1292,7 @@
         },
         {
             "name": "LECOURT CHARLIE",
-            "course": 7,
+            "course": 8,
             "cx": {},
             "vtt": {},
             "road": {
@@ -1302,7 +1304,8 @@
                     "2026/05/03|WAMBRECHIES|3ème": 28,
                     "2026/05/08|HALLUIN|3ème": 16,
                     "2026/05/09|NEUF MESNIL|3ème": 8,
-                    "2026/05/17|LALLAING|3ème": 15
+                    "2026/05/17|LALLAING|3ème": 15,
+                    "2026/05/23|LA FLAMENGRIE NORD|3ème": "Ab"
                 }
             }
         },
