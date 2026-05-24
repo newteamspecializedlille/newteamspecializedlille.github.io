@@ -127,7 +127,7 @@
         },
         {
             "name": "LECOLIER STEPHANE",
-            "course": 298,
+            "course": 299,
             "cx": {
                 "2024": {
                     "2024/01/27|2024National|50-59 ans": 27,
@@ -151,7 +151,8 @@
                     "2026/04/19|VIEUX CONDE|1ère": 23,
                     "2026/04/26|MAULDE - CHORETTE|1ère": 48,
                     "2026/05/01|PONT SUR SAMBRE|1ère": 7,
-                    "2026/05/10|DEPARTEMENTAL NORD|50/59ans": 11
+                    "2026/05/10|DEPARTEMENTAL NORD|50/59ans": 11,
+                    "2026/05/24|LIEU ST AMAND2|1ère": 5
                 },
                 "2025": {
                     "2025/03/16|RIEULAY|1ère": 34,
@@ -244,7 +245,7 @@
         },
         {
             "name": "LECOLIER LOUIS",
-            "course": 66,
+            "course": 67,
             "cx": {
                 "2024": {
                     "2024/01/27|2024National|17-19 ans": 45,
@@ -271,7 +272,8 @@
                     "2026/04/19|VIEUX CONDE|1ère": 19,
                     "2026/04/26|MAULDE - CHORETTE|1ère": 14,
                     "2026/05/01|PONT SUR SAMBRE|1ère": 33,
-                    "2026/05/10|DEPARTEMENTAL NORD|17/19ans": 2
+                    "2026/05/10|DEPARTEMENTAL NORD|17/19ans": 2,
+                    "2026/05/24|LIEU ST AMAND2|1ère": 16
                 },
                 "2025": {
                     "2025/03/16|RIEULAY|1ère": 28,
@@ -359,7 +361,7 @@
         },
         {
             "name": "DUFOUR JULIEN",
-            "course": 393,
+            "course": 394,
             "cx": {},
             "vtt": {},
             "road": {
@@ -381,7 +383,8 @@
                     "2026/05/14|VRED|2ème": 18,
                     "2026/05/17|LALLAING|2ème": 14,
                     "2026/05/15|CRITéRIUM DE BEAUMONT|2ème": 9,
-                    "2026/05/22|LIEU ST AMAND1|2ème": 21
+                    "2026/05/22|LIEU ST AMAND1|2ème": 21,
+                    "2026/05/24|LIEU ST AMAND2|2ème": 11
                 },
                 "2025": {
                     "2025/03/02|BOUE|1ère": 28,
@@ -543,7 +546,7 @@
         },
         {
             "name": "DEFOSSE HERVE",
-            "course": 463,
+            "course": 464,
             "cx": {},
             "vtt": {},
             "road": {
@@ -560,7 +563,8 @@
                     "2026/05/14|VRED|2ème": 48,
                     "2026/05/15|CRITéRIUM DE BEAUMONT|2ème": 25,
                     "2026/05/22|LIEU ST AMAND1|2ème": 19,
-                    "2026/05/23|LA FLAMENGRIE NORD|2ème": 8
+                    "2026/05/23|LA FLAMENGRIE NORD|2ème": 8,
+                    "2026/05/24|LIEU ST AMAND2|2ème": 27
                 },
                 "2025": {
                     "2025/03/16|RIEULAY|2ème": 73,
@@ -1200,7 +1204,7 @@
         },
         {
             "name": "CROMBEZ THOMAS",
-            "course": 28,
+            "course": 29,
             "cx": {},
             "vtt": {},
             "road": {
@@ -1213,7 +1217,8 @@
                     "2026/04/19|VIEUX CONDE|1ère": 11,
                     "2026/04/26|MAULDE - CHORETTE|1ère": 4,
                     "2026/05/01|PONT SUR SAMBRE|1ère": 6,
-                    "2026/05/10|DEPARTEMENTAL NORD|30/39ans": 1
+                    "2026/05/10|DEPARTEMENTAL NORD|30/39ans": 1,
+                    "2026/05/24|LIEU ST AMAND2|1ère": 1
                 },
                 "2025": {
                     "2025/03/23|DIMECHAUX|1ère": 4,
@@ -1292,7 +1297,7 @@
         },
         {
             "name": "LECOURT CHARLIE",
-            "course": 8,
+            "course": 9,
             "cx": {},
             "vtt": {},
             "road": {
@@ -1305,7 +1310,8 @@
                     "2026/05/08|HALLUIN|3ème": 16,
                     "2026/05/09|NEUF MESNIL|3ème": 8,
                     "2026/05/17|LALLAING|3ème": 15,
-                    "2026/05/23|LA FLAMENGRIE NORD|3ème": "Ab"
+                    "2026/05/23|LA FLAMENGRIE NORD|3ème": "Ab",
+                    "2026/05/24|LIEU ST AMAND2|3ème": 4
                 }
             }
         },
