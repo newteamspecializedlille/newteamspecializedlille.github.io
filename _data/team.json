@@ -546,7 +546,7 @@
         },
         {
             "name": "DEFOSSE HERVE",
-            "course": 464,
+            "course": 465,
             "cx": {},
             "vtt": {},
             "road": {
@@ -564,7 +564,8 @@
                     "2026/05/15|CRITéRIUM DE BEAUMONT|2ème": 25,
                     "2026/05/22|LIEU ST AMAND1|2ème": 19,
                     "2026/05/23|LA FLAMENGRIE NORD|2ème": 8,
-                    "2026/05/24|LIEU ST AMAND2|2ème": 27
+                    "2026/05/24|LIEU ST AMAND2|2ème": 27,
+                    "2026/05/30|LA GROISE|2ème": 22
                 },
                 "2025": {
                     "2025/03/16|RIEULAY|2ème": 73,
@@ -1297,7 +1298,7 @@
         },
         {
             "name": "LECOURT CHARLIE",
-            "course": 9,
+            "course": 10,
             "cx": {},
             "vtt": {},
             "road": {
@@ -1311,7 +1312,8 @@
                     "2026/05/09|NEUF MESNIL|3ème": 8,
                     "2026/05/17|LALLAING|3ème": 15,
                     "2026/05/23|LA FLAMENGRIE NORD|3ème": "Ab",
-                    "2026/05/24|LIEU ST AMAND2|3ème": 4
+                    "2026/05/24|LIEU ST AMAND2|3ème": 4,
+                    "2026/05/30|LA GROISE|3ème": 12
                 }
             }
         },
