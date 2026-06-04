@@ -21,6 +21,8 @@ image: assets/img/blog/road.png
 ### 3ème Catégorie
 67 participants
 - [LECOURT CHARLIE](https://teamspecializedlille.cc/coureurs/lecourtcharlie) : 4
+- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 40
+
 
 ### Scratch
 190 participants

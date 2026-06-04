@@ -386,7 +386,8 @@
                     "2026/05/17|LALLAING|2ème": 14,
                     "2026/05/15|CRITéRIUM DE BEAUMONT|2ème": 9,
                     "2026/05/22|LIEU ST AMAND1|2ème": 21,
-                    "2026/05/24|LIEU ST AMAND2|2ème": 11
+                    "2026/05/24|LIEU ST AMAND2|2ème": 11,
+                    "2026/05/25|AUBERCHICOURT|2ème": 35
                 },
                 "2025": {
                     "2025/03/02|BOUE|1ère": 28,
@@ -567,6 +568,7 @@
                     "2026/05/22|LIEU ST AMAND1|2ème": 19,
                     "2026/05/23|LA FLAMENGRIE NORD|2ème": 8,
                     "2026/05/24|LIEU ST AMAND2|2ème": 27,
+                    "2026/05/25|AUBERCHICOURT|2ème": 16,
                     "2026/05/30|LA GROISE|2ème": 22
                 },
                 "2025": {
@@ -920,11 +922,14 @@
                     "2026/05/01|PONT SUR SAMBRE|3ème": 10,
                     "2026/05/08|HALLUIN|3ème": 24,
                     "2026/05/09|NEUF MESNIL|3ème": 9,
+                    "2026/05/10|DEPARTEMENTAL NORD|40/49ans": 30,
                     "2026/05/14|VRED|3ème": 62,
                     "2026/05/17|LALLAING|3ème": "Ab",
                     "2026/05/15|CRITéRIUM DE BEAUMONT|3ème": 22,
                     "2026/05/22|LIEU ST AMAND1|3ème": 10,
                     "2026/05/23|LA FLAMENGRIE NORD|3ème": 21,
+                    "2026/05/24|LIEU ST AMAND2|3ème": 40,
+                    "2026/05/25|AUBERCHICOURT|3ème": 40,
                     "2026/05/31|BETTRECHIES|3ème": 12
                 },
                 "2025": {
@@ -1223,7 +1228,8 @@
                     "2026/04/26|MAULDE - CHORETTE|1ère": 4,
                     "2026/05/01|PONT SUR SAMBRE|1ère": 6,
                     "2026/05/10|DEPARTEMENTAL NORD|30/39ans": 1,
-                    "2026/05/24|LIEU ST AMAND2|1ère": 1
+                    "2026/05/24|LIEU ST AMAND2|1ère": 1,
+                    "2026/05/25|AUBERCHICOURT|1ère": 3
                 },
                 "2025": {
                     "2025/03/23|DIMECHAUX|1ère": 4,
@@ -1291,7 +1297,8 @@
                     "2026/03/14|BOUSIES|3ème": "Ab",
                     "2026/04/26|MAULDE - CHORETTE|3ème": 49,
                     "2026/05/01|PONT SUR SAMBRE|3ème": 48,
-                    "2026/05/08|HALLUIN|3ème": 36
+                    "2026/05/08|HALLUIN|3ème": 36,
+                    "2026/05/25|AUBERCHICOURT|3ème": 30
                 },
                 "2025": {
                     "2025/09/06|POIX DU NORD|3ème": 26,
@@ -1317,6 +1324,7 @@
                     "2026/05/17|LALLAING|3ème": 15,
                     "2026/05/23|LA FLAMENGRIE NORD|3ème": "Ab",
                     "2026/05/24|LIEU ST AMAND2|3ème": 4,
+                    "2026/05/25|AUBERCHICOURT|3ème": 24,
                     "2026/05/30|LA GROISE|3ème": 12
                 }
             }

@@ -23,6 +23,10 @@ image: assets/img/blog/road.png
 - [BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine) : 17
 - [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 27
 
+### Masculins 40/49 ans
+59 participants
+- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 30
+
 ### Masculins 50/59 ans
 48 participants
 - [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 11
