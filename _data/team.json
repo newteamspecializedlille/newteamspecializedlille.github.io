@@ -2,7 +2,7 @@
     "team_members": [
         {
             "name": "DERASSE DAVID",
-            "course": 130,
+            "course": 131,
             "cx": {
                 "2026": {
                     "2025/11/30|VERLINGHEM|1ère": 14,
@@ -70,7 +70,8 @@
                     "2026/04/19|VIEUX CONDE|1ère": 18,
                     "2026/04/26|MAULDE - CHORETTE|1ère": 46,
                     "2026/05/10|DEPARTEMENTAL NORD|17/19ans": 3,
-                    "2026/05/15|CRITéRIUM DE BEAUMONT|1ère": 10
+                    "2026/05/15|CRITéRIUM DE BEAUMONT|1ère": 10,
+                    "2026/06/07|MAING|1ère": 25
                 },
                 "2025": {
                     "2025/03/16|RIEULAY|1ère": 27,
@@ -363,7 +364,7 @@
         },
         {
             "name": "DUFOUR JULIEN",
-            "course": 394,
+            "course": 395,
             "cx": {},
             "vtt": {},
             "road": {
@@ -387,7 +388,8 @@
                     "2026/05/15|CRITéRIUM DE BEAUMONT|2ème": 9,
                     "2026/05/22|LIEU ST AMAND1|2ème": 21,
                     "2026/05/24|LIEU ST AMAND2|2ème": 11,
-                    "2026/05/25|AUBERCHICOURT|2ème": 35
+                    "2026/05/25|AUBERCHICOURT|2ème": 35,
+                    "2026/06/07|MAING|2ème": 2
                 },
                 "2025": {
                     "2025/03/02|BOUE|1ère": 28,
@@ -549,7 +551,7 @@
         },
         {
             "name": "DEFOSSE HERVE",
-            "course": 465,
+            "course": 466,
             "cx": {},
             "vtt": {},
             "road": {
@@ -569,7 +571,8 @@
                     "2026/05/23|LA FLAMENGRIE NORD|2ème": 8,
                     "2026/05/24|LIEU ST AMAND2|2ème": 27,
                     "2026/05/25|AUBERCHICOURT|2ème": 16,
-                    "2026/05/30|LA GROISE|2ème": 22
+                    "2026/05/30|LA GROISE|2ème": 22,
+                    "2026/06/07|MAING|2ème": 28
                 },
                 "2025": {
                     "2025/03/16|RIEULAY|2ème": 73,
@@ -1174,7 +1177,7 @@
         },
         {
             "name": "DERASSE PATRICK",
-            "course": 20,
+            "course": 21,
             "cx": {},
             "vtt": {
                 "2026": {
@@ -1188,7 +1191,8 @@
                     "2026/04/06|PROVIN|4ème": 27,
                     "2026/04/12|MANQUEVILLE-LILLERS|4ème": 3,
                     "2026/04/19|VIEUX CONDE|4ème": "Ab",
-                    "2026/04/26|MAULDE - CHORETTE|4ème": 30
+                    "2026/04/26|MAULDE - CHORETTE|4ème": 30,
+                    "2026/06/07|MAING|4ème": 34
                 },
                 "2025": {
                     "2025/04/13|ETROEUNGT|3ème": "Ab",
@@ -1309,7 +1313,7 @@
         },
         {
             "name": "LECOURT CHARLIE",
-            "course": 10,
+            "course": 11,
             "cx": {},
             "vtt": {},
             "road": {
@@ -1325,7 +1329,8 @@
                     "2026/05/23|LA FLAMENGRIE NORD|3ème": "Ab",
                     "2026/05/24|LIEU ST AMAND2|3ème": 4,
                     "2026/05/25|AUBERCHICOURT|3ème": 24,
-                    "2026/05/30|LA GROISE|3ème": 12
+                    "2026/05/30|LA GROISE|3ème": 12,
+                    "2026/06/07|MAING|3ème": 18
                 }
             }
         },
