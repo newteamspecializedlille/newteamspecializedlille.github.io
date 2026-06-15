@@ -42,8 +42,6 @@ images:
   - path: assets/resultats/2026/route/06-14-region/region34.JPG
   - path: assets/resultats/2026/route/06-14-region/region35.JPG
   - path: assets/resultats/2026/route/06-14-region/region36.JPG
-  - path: assets/resultats/2026/route/06-14-region/region37.JPG
-  - path: assets/resultats/2026/route/06-14-region/region38.JPG
 ---
 
 ### Masculins 17/19 ans
