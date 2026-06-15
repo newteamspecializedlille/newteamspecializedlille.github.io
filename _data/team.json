@@ -71,7 +71,8 @@
                     "2026/04/26|MAULDE - CHORETTE|1ère": 46,
                     "2026/05/10|DEPARTEMENTAL NORD|17/19ans": 3,
                     "2026/05/15|CRITéRIUM DE BEAUMONT|1ère": 10,
-                    "2026/06/07|MAING|1ère": 25
+                    "2026/06/07|MAING|1ère": 25,
+                    "2026/06/14|REGION|17/19ans": 5
                 },
                 "2025": {
                     "2025/03/16|RIEULAY|1ère": 27,
@@ -154,7 +155,8 @@
                     "2026/05/01|PONT SUR SAMBRE|1ère": 7,
                     "2026/05/10|DEPARTEMENTAL NORD|50/59ans": 11,
                     "2026/05/24|LIEU ST AMAND2|1ère": 5,
-                    "2026/05/31|BETTRECHIES|1ère": 14
+                    "2026/05/31|BETTRECHIES|1ère": 14,
+                    "2026/06/14|REGION|50/59ans": 5
                 },
                 "2025": {
                     "2025/03/16|RIEULAY|1ère": 34,
@@ -276,7 +278,8 @@
                     "2026/05/01|PONT SUR SAMBRE|1ère": 33,
                     "2026/05/10|DEPARTEMENTAL NORD|17/19ans": 2,
                     "2026/05/24|LIEU ST AMAND2|1ère": 16,
-                    "2026/05/31|BETTRECHIES|1ère": 9
+                    "2026/05/31|BETTRECHIES|1ère": 9,
+                    "2026/06/14|REGION|17/19ans": "AB"
                 },
                 "2025": {
                     "2025/03/16|RIEULAY|1ère": 28,
@@ -389,7 +392,8 @@
                     "2026/05/22|LIEU ST AMAND1|2ème": 21,
                     "2026/05/24|LIEU ST AMAND2|2ème": 11,
                     "2026/05/25|AUBERCHICOURT|2ème": 35,
-                    "2026/06/07|MAING|2ème": 2
+                    "2026/06/07|MAING|2ème": 2,
+                    "2026/06/14|REGION|30/39ans": 17
                 },
                 "2025": {
                     "2025/03/02|BOUE|1ère": 28,
@@ -572,7 +576,8 @@
                     "2026/05/24|LIEU ST AMAND2|2ème": 27,
                     "2026/05/25|AUBERCHICOURT|2ème": 16,
                     "2026/05/30|LA GROISE|2ème": 22,
-                    "2026/06/07|MAING|2ème": 28
+                    "2026/06/07|MAING|2ème": 28,
+                    "2026/06/14|REGION|50/59ans": 18
                 },
                 "2025": {
                     "2025/03/16|RIEULAY|2ème": 73,
@@ -870,7 +875,8 @@
                     "2026/04/04|BAVAY|3ème": 27,
                     "2026/04/19|VIEUX CONDE|3ème": 32,
                     "2026/05/08|HALLUIN|3ème": 11,
-                    "2026/05/14|VRED|3ème": 13
+                    "2026/05/14|VRED|3ème": 13,
+                    "2026/06/14|REGION|40/49ans": 24
                 },
                 "2023": {
                     "2023/09/02|POIX DU NORD|2ème": 8,
@@ -933,7 +939,8 @@
                     "2026/05/23|LA FLAMENGRIE NORD|3ème": 21,
                     "2026/05/24|LIEU ST AMAND2|3ème": 40,
                     "2026/05/25|AUBERCHICOURT|3ème": 40,
-                    "2026/05/31|BETTRECHIES|3ème": 12
+                    "2026/05/31|BETTRECHIES|3ème": 12,
+                    "2026/06/14|REGION|40/49ans": 13
                 },
                 "2025": {
                     "2025/03/09|CRESPIN2|3ème": 22,
@@ -1077,7 +1084,8 @@
                     "2026/04/19|VIEUX CONDE|1ère": 15,
                     "2026/05/01|PONT SUR SAMBRE|1ère": 23,
                     "2026/05/10|DEPARTEMENTAL NORD|20/29ans": 8,
-                    "2026/05/31|BETTRECHIES|1ère": 16
+                    "2026/05/31|BETTRECHIES|1ère": 16,
+                    "2026/06/14|REGION|20/29ans": 22
                 },
                 "2025": {
                     "2025/03/15|BOUSIES|1ère": 24,
@@ -1233,7 +1241,8 @@
                     "2026/05/01|PONT SUR SAMBRE|1ère": 6,
                     "2026/05/10|DEPARTEMENTAL NORD|30/39ans": 1,
                     "2026/05/24|LIEU ST AMAND2|1ère": 1,
-                    "2026/05/25|AUBERCHICOURT|1ère": 3
+                    "2026/05/25|AUBERCHICOURT|1ère": 3,
+                    "2026/06/14|REGION|30/39ans": 8
                 },
                 "2025": {
                     "2025/03/23|DIMECHAUX|1ère": 4,
