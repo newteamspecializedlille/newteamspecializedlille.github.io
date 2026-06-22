@@ -367,7 +367,7 @@
         },
         {
             "name": "DUFOUR JULIEN",
-            "course": 396,
+            "course": 397,
             "cx": {},
             "vtt": {},
             "road": {
@@ -394,7 +394,8 @@
                     "2026/05/25|AUBERCHICOURT|2ème": 35,
                     "2026/06/07|MAING|2ème": 2,
                     "2026/06/14|REGION|30/39ans": 17,
-                    "2026/06/20|NEUVIREUIL - IZEL|2ème": 18
+                    "2026/06/20|NEUVIREUIL - IZEL|2ème": 18,
+                    "2026/06/21|MAULDE 1|2ème": 11
                 },
                 "2025": {
                     "2025/03/02|BOUE|1ère": 28,
@@ -556,7 +557,7 @@
         },
         {
             "name": "DEFOSSE HERVE",
-            "course": 467,
+            "course": 468,
             "cx": {},
             "vtt": {},
             "road": {
@@ -579,7 +580,8 @@
                     "2026/05/30|LA GROISE|2ème": 22,
                     "2026/06/07|MAING|2ème": 28,
                     "2026/06/14|REGION|50/59ans": 18,
-                    "2026/06/20|NEUVIREUIL - IZEL|2ème": 16
+                    "2026/06/20|NEUVIREUIL - IZEL|2ème": 16,
+                    "2026/06/21|MAULDE 1|2ème": 14
                 },
                 "2025": {
                     "2025/03/16|RIEULAY|2ème": 73,
@@ -917,7 +919,7 @@
         },
         {
             "name": "DEJONGHE MICKAEL",
-            "course": 203,
+            "course": 204,
             "cx": {},
             "vtt": {},
             "road": {
@@ -943,7 +945,8 @@
                     "2026/05/25|AUBERCHICOURT|3ème": 40,
                     "2026/05/31|BETTRECHIES|3ème": 12,
                     "2026/06/14|REGION|40/49ans": 13,
-                    "2026/06/20|NEUVIREUIL - IZEL|3ème": 22
+                    "2026/06/20|NEUVIREUIL - IZEL|3ème": 22,
+                    "2026/06/21|MAULDE 1|3ème": 7
                 },
                 "2025": {
                     "2025/03/09|CRESPIN2|3ème": 22,
@@ -1230,7 +1233,7 @@
         },
         {
             "name": "CROMBEZ THOMAS",
-            "course": 29,
+            "course": 30,
             "cx": {},
             "vtt": {},
             "road": {
@@ -1246,7 +1249,8 @@
                     "2026/05/10|DEPARTEMENTAL NORD|30/39ans": 1,
                     "2026/05/24|LIEU ST AMAND2|1ère": 1,
                     "2026/05/25|AUBERCHICOURT|1ère": 3,
-                    "2026/06/14|REGION|30/39ans": 8
+                    "2026/06/14|REGION|30/39ans": 8,
+                    "2026/06/21|BRIASTRE|1ère": 13
                 },
                 "2025": {
                     "2025/03/23|DIMECHAUX|1ère": 4,
@@ -1326,7 +1330,7 @@
         },
         {
             "name": "LECOURT CHARLIE",
-            "course": 12,
+            "course": 13,
             "cx": {},
             "vtt": {},
             "road": {
@@ -1344,7 +1348,8 @@
                     "2026/05/25|AUBERCHICOURT|3ème": 24,
                     "2026/05/30|LA GROISE|3ème": 12,
                     "2026/06/07|MAING|3ème": 18,
-                    "2026/06/20|JOLIMETZ|3ème": 8
+                    "2026/06/20|JOLIMETZ|3ème": 8,
+                    "2026/06/21|BRIASTRE|3ème": 9
                 }
             }
         },
