@@ -370,7 +370,7 @@
         },
         {
             "name": "DUFOUR JULIEN",
-            "course": 398,
+            "course": 399,
             "cx": {},
             "vtt": {},
             "road": {
@@ -399,7 +399,8 @@
                     "2026/06/14|REGION|30/39ans": 17,
                     "2026/06/20|NEUVIREUIL - IZEL|2ème": 18,
                     "2026/06/21|MAULDE 1|2ème": 11,
-                    "2026/06/28|FONTAINE AU BOIS|2ème": 17
+                    "2026/06/28|FONTAINE AU BOIS|2ème": 17,
+                    "2026/07/04|BOUSIES2|2ème": "Ab"
                 },
                 "2025": {
                     "2025/03/02|BOUE|1ère": 28,
@@ -561,7 +562,7 @@
         },
         {
             "name": "DEFOSSE HERVE",
-            "course": 469,
+            "course": 470,
             "cx": {},
             "vtt": {},
             "road": {
@@ -586,7 +587,8 @@
                     "2026/06/14|REGION|50/59ans": 18,
                     "2026/06/20|NEUVIREUIL - IZEL|2ème": 16,
                     "2026/06/21|MAULDE 1|2ème": 14,
-                    "2026/06/28|FONTAINE AU BOIS|2ème": "Ab"
+                    "2026/06/28|FONTAINE AU BOIS|2ème": "Ab",
+                    "2026/07/04|BOUSIES2|2ème": 19
                 },
                 "2025": {
                     "2025/03/16|RIEULAY|2ème": 73,
@@ -874,7 +876,7 @@
         },
         {
             "name": "HUBAUT CHRISTOPHE",
-            "course": 176,
+            "course": 177,
             "cx": {},
             "vtt": {},
             "road": {
@@ -885,7 +887,8 @@
                     "2026/04/19|VIEUX CONDE|3ème": 32,
                     "2026/05/08|HALLUIN|3ème": 11,
                     "2026/05/14|VRED|3ème": 13,
-                    "2026/06/14|REGION|40/49ans": 24
+                    "2026/06/14|REGION|40/49ans": 24,
+                    "2026/07/04|BOUSIES2|3ème": 7
                 },
                 "2023": {
                     "2023/09/02|POIX DU NORD|2ème": 8,
@@ -924,7 +927,7 @@
         },
         {
             "name": "DEJONGHE MICKAEL",
-            "course": 205,
+            "course": 206,
             "cx": {},
             "vtt": {},
             "road": {
@@ -952,7 +955,8 @@
                     "2026/06/14|REGION|40/49ans": 13,
                     "2026/06/20|NEUVIREUIL - IZEL|3ème": 22,
                     "2026/06/21|MAULDE 1|3ème": 7,
-                    "2026/06/28|FONTAINE AU BOIS|3ème": 33
+                    "2026/06/28|FONTAINE AU BOIS|3ème": 33,
+                    "2026/07/04|BOUSIES2|3ème": 23
                 },
                 "2025": {
                     "2025/03/09|CRESPIN2|3ème": 22,
