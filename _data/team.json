@@ -370,7 +370,7 @@
         },
         {
             "name": "DUFOUR JULIEN",
-            "course": 399,
+            "course": 400,
             "cx": {},
             "vtt": {},
             "road": {
@@ -400,7 +400,8 @@
                     "2026/06/20|NEUVIREUIL - IZEL|2ème": 18,
                     "2026/06/21|MAULDE 1|2ème": 11,
                     "2026/06/28|FONTAINE AU BOIS|2ème": 17,
-                    "2026/07/04|BOUSIES2|2ème": "Ab"
+                    "2026/07/04|BOUSIES2|2ème": "Ab",
+                    "2026/07/05|VIESLY|2ème": 24
                 },
                 "2025": {
                     "2025/03/02|BOUE|1ère": 28,
@@ -562,7 +563,7 @@
         },
         {
             "name": "DEFOSSE HERVE",
-            "course": 470,
+            "course": 471,
             "cx": {},
             "vtt": {},
             "road": {
@@ -588,7 +589,8 @@
                     "2026/06/20|NEUVIREUIL - IZEL|2ème": 16,
                     "2026/06/21|MAULDE 1|2ème": 14,
                     "2026/06/28|FONTAINE AU BOIS|2ème": "Ab",
-                    "2026/07/04|BOUSIES2|2ème": 19
+                    "2026/07/04|BOUSIES2|2ème": 19,
+                    "2026/07/05|VIESLY|2ème": 13
                 },
                 "2025": {
                     "2025/03/16|RIEULAY|2ème": 73,
@@ -927,7 +929,7 @@
         },
         {
             "name": "DEJONGHE MICKAEL",
-            "course": 206,
+            "course": 207,
             "cx": {},
             "vtt": {},
             "road": {
@@ -956,7 +958,8 @@
                     "2026/06/20|NEUVIREUIL - IZEL|3ème": 22,
                     "2026/06/21|MAULDE 1|3ème": 7,
                     "2026/06/28|FONTAINE AU BOIS|3ème": 33,
-                    "2026/07/04|BOUSIES2|3ème": 23
+                    "2026/07/04|BOUSIES2|3ème": 23,
+                    "2026/07/05|VIESLY|3ème": 29
                 },
                 "2025": {
                     "2025/03/09|CRESPIN2|3ème": 22,
@@ -1153,7 +1156,7 @@
         },
         {
             "name": "BROUTIN ANTOINE",
-            "course": 30,
+            "course": 31,
             "cx": {},
             "vtt": {},
             "road": {
@@ -1162,7 +1165,8 @@
                     "2026/05/01|PONT SUR SAMBRE|2ème": 69,
                     "2026/05/08|HALLUIN|2ème": 20,
                     "2026/05/10|DEPARTEMENTAL NORD|30/39ans": 17,
-                    "2026/06/20|NEUVIREUIL - IZEL|2ème": 7
+                    "2026/06/20|NEUVIREUIL - IZEL|2ème": 7,
+                    "2026/07/05|VIESLY|2ème": 16
                 },
                 "2025": {
                     "2025/03/16|RIEULAY|2ème": 53,
