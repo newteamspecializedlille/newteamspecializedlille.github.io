@@ -5,6 +5,28 @@ date: 2026-07-04
 category: Route
 tags: Route
 image: assets/img/blog/road.png
+images:
+  - path: assets/resultats/2026/route/07-04-bousie2/DSC_0588.JPG
+  - path: assets/resultats/2026/route/07-04-bousie2/DSC_0718.JPG
+  - path: assets/resultats/2026/route/07-04-bousie2/DSC_1100.JPG
+  - path: assets/resultats/2026/route/07-04-bousie2/DSC_1183.JPG
+  - path: assets/resultats/2026/route/07-04-bousie2/DSC_1317.JPG
+  - path: assets/resultats/2026/route/07-04-bousie2/DSC_1474.JPG
+  - path: assets/resultats/2026/route/07-04-bousie2/DSC_1627.JPG
+  - path: assets/resultats/2026/route/07-04-bousie2/DSC_0650.JPG
+  - path: assets/resultats/2026/route/07-04-bousie2/DSC_0785.JPG
+  - path: assets/resultats/2026/route/07-04-bousie2/DSC_1126.JPG
+  - path: assets/resultats/2026/route/07-04-bousie2/DSC_1223.JPG
+  - path: assets/resultats/2026/route/07-04-bousie2/DSC_1374.JPG
+  - path: assets/resultats/2026/route/07-04-bousie2/DSC_1522.JPG
+  - path: assets/resultats/2026/route/07-04-bousie2/DSC_1724.JPG
+  - path: assets/resultats/2026/route/07-04-bousie2/DSC_0715.JPG
+  - path: assets/resultats/2026/route/07-04-bousie2/DSC_0925.JPG
+  - path: assets/resultats/2026/route/07-04-bousie2/DSC_1149.JPG
+  - path: assets/resultats/2026/route/07-04-bousie2/DSC_1251.JPG
+  - path: assets/resultats/2026/route/07-04-bousie2/DSC_1408.JPG
+  - path: assets/resultats/2026/route/07-04-bousie2/DSC_1594.JPG
+  - path: assets/resultats/2026/route/07-04-bousie2/DSC_1864.JPG
 ---
 
 ### 2ème Catégorie
