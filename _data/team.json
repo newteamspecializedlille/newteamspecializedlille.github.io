@@ -370,7 +370,7 @@
         },
         {
             "name": "DUFOUR JULIEN",
-            "course": 402,
+            "course": 403,
             "cx": {},
             "vtt": {},
             "road": {
@@ -403,7 +403,8 @@
                     "2026/07/04|BOUSIES2|2ème": "Ab",
                     "2026/07/05|VIESLY|2ème": 24,
                     "2026/07/12|RAMILLIES|2ème": 8,
-                    "2026/07/14|ROEULX|2ème": 17
+                    "2026/07/14|ROEULX|2ème": 17,
+                    "2026/07/19|VIEUX CONDE SOLITUDE|2ème": 8
                 },
                 "2025": {
                     "2025/03/02|BOUE|1ère": 28,
@@ -1350,7 +1351,7 @@
         },
         {
             "name": "LECOURT CHARLIE",
-            "course": 13,
+            "course": 14,
             "cx": {},
             "vtt": {},
             "road": {
@@ -1369,7 +1370,8 @@
                     "2026/05/30|LA GROISE|3ème": 12,
                     "2026/06/07|MAING|3ème": 18,
                     "2026/06/20|JOLIMETZ|3ème": 8,
-                    "2026/06/21|BRIASTRE|3ème": 9
+                    "2026/06/21|BRIASTRE|3ème": 9,
+                    "2026/07/19|VIEUX CONDE SOLITUDE|3ème": "Ab"
                 }
             }
         },
