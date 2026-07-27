@@ -130,7 +130,7 @@
         },
         {
             "name": "LECOLIER STEPHANE",
-            "course": 301,
+            "course": 302,
             "cx": {
                 "2024": {
                     "2024/01/27|2024National|50-59 ans": 27,
@@ -158,7 +158,8 @@
                     "2026/05/24|LIEU ST AMAND2|1ère": 5,
                     "2026/05/31|BETTRECHIES|1ère": 14,
                     "2026/06/14|REGION|50/59ans": 5,
-                    "2026/06/28|FONTAINE AU BOIS|1ère": 29
+                    "2026/06/28|FONTAINE AU BOIS|1ère": 29,
+                    "2026/07/26|HERGNIES CENTRE|1ère": 17
                 },
                 "2025": {
                     "2025/03/16|RIEULAY|1ère": 34,
@@ -251,7 +252,7 @@
         },
         {
             "name": "LECOLIER LOUIS",
-            "course": 69,
+            "course": 70,
             "cx": {
                 "2024": {
                     "2024/01/27|2024National|17-19 ans": 45,
@@ -282,7 +283,8 @@
                     "2026/05/24|LIEU ST AMAND2|1ère": 16,
                     "2026/05/31|BETTRECHIES|1ère": 9,
                     "2026/06/14|REGION|17/19ans": "AB",
-                    "2026/06/28|FONTAINE AU BOIS|1ère": 15
+                    "2026/06/28|FONTAINE AU BOIS|1ère": 15,
+                    "2026/07/26|HERGNIES CENTRE|1ère": 30
                 },
                 "2025": {
                     "2025/03/16|RIEULAY|1ère": 28,
@@ -370,7 +372,7 @@
         },
         {
             "name": "DUFOUR JULIEN",
-            "course": 404,
+            "course": 405,
             "cx": {},
             "vtt": {},
             "road": {
@@ -405,7 +407,8 @@
                     "2026/07/12|RAMILLIES|2ème": 8,
                     "2026/07/14|ROEULX|2ème": 17,
                     "2026/07/19|VIEUX CONDE SOLITUDE|2ème": 8,
-                    "2026/07/20|BOUCHAIN|2ème": 7
+                    "2026/07/20|BOUCHAIN|2ème": 7,
+                    "2026/07/26|HERGNIES CENTRE|2ème": 14
                 },
                 "2025": {
                     "2025/03/02|BOUE|1ère": 28,
@@ -1096,7 +1099,7 @@
         },
         {
             "name": "MINNECI ELIO",
-            "course": 41,
+            "course": 42,
             "cx": {},
             "vtt": {},
             "road": {
@@ -1110,7 +1113,8 @@
                     "2026/05/10|DEPARTEMENTAL NORD|20/29ans": 8,
                     "2026/05/31|BETTRECHIES|1ère": 16,
                     "2026/06/14|REGION|20/29ans": 22,
-                    "2026/06/28|FONTAINE AU BOIS|1ère": 44
+                    "2026/06/28|FONTAINE AU BOIS|1ère": 44,
+                    "2026/07/26|HERGNIES CENTRE|1ère": 18
                 },
                 "2025": {
                     "2025/03/15|BOUSIES|1ère": 24,
@@ -1253,7 +1257,7 @@
         },
         {
             "name": "CROMBEZ THOMAS",
-            "course": 31,
+            "course": 32,
             "cx": {},
             "vtt": {},
             "road": {
@@ -1271,7 +1275,8 @@
                     "2026/05/25|AUBERCHICOURT|1ère": 3,
                     "2026/06/14|REGION|30/39ans": 8,
                     "2026/06/21|BRIASTRE|1ère": 13,
-                    "2026/07/12|RAMILLIES|1ère": 2
+                    "2026/07/12|RAMILLIES|1ère": 2,
+                    "2026/07/26|HERGNIES CENTRE|1ère": 6
                 },
                 "2025": {
                     "2025/03/23|DIMECHAUX|1ère": 4,
