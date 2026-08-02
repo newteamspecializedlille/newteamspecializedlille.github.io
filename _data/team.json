@@ -372,7 +372,7 @@
         },
         {
             "name": "DUFOUR JULIEN",
-            "course": 405,
+            "course": 406,
             "cx": {},
             "vtt": {},
             "road": {
@@ -408,7 +408,8 @@
                     "2026/07/14|ROEULX|2ème": 17,
                     "2026/07/19|VIEUX CONDE SOLITUDE|2ème": 8,
                     "2026/07/20|BOUCHAIN|2ème": 7,
-                    "2026/07/26|HERGNIES CENTRE|2ème": 14
+                    "2026/07/26|HERGNIES CENTRE|2ème": 14,
+                    "2026/08/01|SAINT AMAND LES EAUX|2ème": 12
                 },
                 "2025": {
                     "2025/03/02|BOUE|1ère": 28,
@@ -885,7 +886,7 @@
         },
         {
             "name": "HUBAUT CHRISTOPHE",
-            "course": 177,
+            "course": 178,
             "cx": {},
             "vtt": {},
             "road": {
@@ -897,7 +898,8 @@
                     "2026/05/08|HALLUIN|3ème": 11,
                     "2026/05/14|VRED|3ème": 13,
                     "2026/06/14|REGION|40/49ans": 24,
-                    "2026/07/04|BOUSIES2|3ème": 7
+                    "2026/07/04|BOUSIES2|3ème": 7,
+                    "2026/08/01|SAINT AMAND LES EAUX|3ème": 2
                 },
                 "2023": {
                     "2023/09/02|POIX DU NORD|2ème": 8,
@@ -936,7 +938,7 @@
         },
         {
             "name": "DEJONGHE MICKAEL",
-            "course": 208,
+            "course": 209,
             "cx": {},
             "vtt": {},
             "road": {
@@ -967,7 +969,8 @@
                     "2026/06/28|FONTAINE AU BOIS|3ème": 33,
                     "2026/07/04|BOUSIES2|3ème": 23,
                     "2026/07/05|VIESLY|3ème": 29,
-                    "2026/07/12|RAMILLIES|3ème": 16
+                    "2026/07/12|RAMILLIES|3ème": 16,
+                    "2026/08/01|SAINT AMAND LES EAUX|3ème": 26
                 },
                 "2025": {
                     "2025/03/09|CRESPIN2|3ème": 22,
@@ -1335,7 +1338,7 @@
         },
         {
             "name": "HUGUENIN DYLAN",
-            "course": 7,
+            "course": 8,
             "cx": {},
             "vtt": {},
             "road": {
@@ -1346,7 +1349,8 @@
                     "2026/05/01|PONT SUR SAMBRE|3ème": 48,
                     "2026/05/08|HALLUIN|3ème": 36,
                     "2026/05/25|AUBERCHICOURT|3ème": 30,
-                    "2026/07/12|RAMILLIES|3ème": 46
+                    "2026/07/12|RAMILLIES|3ème": 46,
+                    "2026/08/01|SAINT AMAND LES EAUX|3ème": 24
                 },
                 "2025": {
                     "2025/09/06|POIX DU NORD|3ème": 26,
