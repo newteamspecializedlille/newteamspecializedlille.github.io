@@ -372,7 +372,7 @@
         },
         {
             "name": "DUFOUR JULIEN",
-            "course": 406,
+            "course": 407,
             "cx": {},
             "vtt": {},
             "road": {
@@ -409,7 +409,8 @@
                     "2026/07/19|VIEUX CONDE SOLITUDE|2ème": 8,
                     "2026/07/20|BOUCHAIN|2ème": 7,
                     "2026/07/26|HERGNIES CENTRE|2ème": 14,
-                    "2026/08/01|SAINT AMAND LES EAUX|2ème": 12
+                    "2026/08/01|SAINT AMAND LES EAUX|2ème": 12,
+                    "2026/08/02|BAYONNE HERGNIES |2ème": "Ab"
                 },
                 "2025": {
                     "2025/03/02|BOUE|1ère": 28,
@@ -938,7 +939,7 @@
         },
         {
             "name": "DEJONGHE MICKAEL",
-            "course": 209,
+            "course": 210,
             "cx": {},
             "vtt": {},
             "road": {
@@ -970,7 +971,8 @@
                     "2026/07/04|BOUSIES2|3ème": 23,
                     "2026/07/05|VIESLY|3ème": 29,
                     "2026/07/12|RAMILLIES|3ème": 16,
-                    "2026/08/01|SAINT AMAND LES EAUX|3ème": 26
+                    "2026/08/01|SAINT AMAND LES EAUX|3ème": 26,
+                    "2026/08/02|BAYONNE HERGNIES |3ème": 6
                 },
                 "2025": {
                     "2025/03/09|CRESPIN2|3ème": 22,
