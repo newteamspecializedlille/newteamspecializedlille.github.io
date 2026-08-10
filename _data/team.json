@@ -572,7 +572,7 @@
         },
         {
             "name": "DEFOSSE HERVE",
-            "course": 471,
+            "course": 472,
             "cx": {},
             "vtt": {},
             "road": {
@@ -599,7 +599,8 @@
                     "2026/06/21|MAULDE 1|2ème": 14,
                     "2026/06/28|FONTAINE AU BOIS|2ème": "Ab",
                     "2026/07/04|BOUSIES2|2ème": 19,
-                    "2026/07/05|VIESLY|2ème": 13
+                    "2026/07/05|VIESLY|2ème": 13,
+                    "2026/08/09|ANICHE|2ème": 26
                 },
                 "2025": {
                     "2025/03/16|RIEULAY|2ème": 73,
@@ -779,7 +780,7 @@
         },
         {
             "name": "DEFER OLIVIER",
-            "course": 213,
+            "course": 214,
             "cx": {},
             "vtt": {
                 "2026": {
@@ -791,7 +792,8 @@
             },
             "road": {
                 "2026": {
-                    "2026/03/07|HASPRES|2ème": 40
+                    "2026/03/07|HASPRES|2ème": 40,
+                    "2026/08/08|ROCQ|3ème": 21
                 },
                 "2025": {
                     "2025/03/09|CRESPIN2|2ème": 10,
@@ -887,7 +889,7 @@
         },
         {
             "name": "HUBAUT CHRISTOPHE",
-            "course": 178,
+            "course": 179,
             "cx": {},
             "vtt": {},
             "road": {
@@ -900,7 +902,8 @@
                     "2026/05/14|VRED|3ème": 13,
                     "2026/06/14|REGION|40/49ans": 24,
                     "2026/07/04|BOUSIES2|3ème": 7,
-                    "2026/08/01|SAINT AMAND LES EAUX|3ème": 2
+                    "2026/08/01|SAINT AMAND LES EAUX|3ème": 2,
+                    "2026/08/08|ROCQ|3ème": 11
                 },
                 "2023": {
                     "2023/09/02|POIX DU NORD|2ème": 8,
@@ -1059,10 +1062,13 @@
         },
         {
             "name": "LECOLIER BENOIT",
-            "course": 114,
+            "course": 115,
             "cx": {},
             "vtt": {},
             "road": {
+                "2026": {
+                    "2026/08/08|ROCQ|2ème": 15
+                },
                 "2024": {
                     "2024/04/21|DIMECHAUX|2ème": 3,
                     "2024/05/01|WAVRIN|2ème": 22,
@@ -1262,7 +1268,7 @@
         },
         {
             "name": "CROMBEZ THOMAS",
-            "course": 32,
+            "course": 33,
             "cx": {},
             "vtt": {},
             "road": {
@@ -1281,7 +1287,8 @@
                     "2026/06/14|REGION|30/39ans": 8,
                     "2026/06/21|BRIASTRE|1ère": 13,
                     "2026/07/12|RAMILLIES|1ère": 2,
-                    "2026/07/26|HERGNIES CENTRE|1ère": 6
+                    "2026/07/26|HERGNIES CENTRE|1ère": 6,
+                    "2026/08/09|ANICHE|1ère": 1
                 },
                 "2025": {
                     "2025/03/23|DIMECHAUX|1ère": 4,
@@ -1363,7 +1370,7 @@
         },
         {
             "name": "LECOURT CHARLIE",
-            "course": 14,
+            "course": 15,
             "cx": {},
             "vtt": {},
             "road": {
@@ -1383,7 +1390,8 @@
                     "2026/06/07|MAING|3ème": 18,
                     "2026/06/20|JOLIMETZ|3ème": 8,
                     "2026/06/21|BRIASTRE|3ème": 9,
-                    "2026/07/19|VIEUX CONDE SOLITUDE|3ème": "Ab"
+                    "2026/07/19|VIEUX CONDE SOLITUDE|3ème": "Ab",
+                    "2026/08/08|ROCQ|3ème": 7
                 }
             }
         },
