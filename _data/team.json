@@ -572,7 +572,7 @@
         },
         {
             "name": "DEFOSSE HERVE",
-            "course": 472,
+            "course": 473,
             "cx": {},
             "vtt": {},
             "road": {
@@ -600,7 +600,8 @@
                     "2026/06/28|FONTAINE AU BOIS|2ème": "Ab",
                     "2026/07/04|BOUSIES2|2ème": 19,
                     "2026/07/05|VIESLY|2ème": 13,
-                    "2026/08/09|ANICHE|2ème": 26
+                    "2026/08/09|ANICHE|2ème": 26,
+                    "2026/08/15|COLLERET|2ème": 15
                 },
                 "2025": {
                     "2025/03/16|RIEULAY|2ème": 73,
@@ -1370,7 +1371,7 @@
         },
         {
             "name": "LECOURT CHARLIE",
-            "course": 15,
+            "course": 16,
             "cx": {},
             "vtt": {},
             "road": {
@@ -1391,7 +1392,8 @@
                     "2026/06/20|JOLIMETZ|3ème": 8,
                     "2026/06/21|BRIASTRE|3ème": 9,
                     "2026/07/19|VIEUX CONDE SOLITUDE|3ème": "Ab",
-                    "2026/08/08|ROCQ|3ème": 7
+                    "2026/08/08|ROCQ|3ème": 7,
+                    "2026/08/15|COLLERET|3ème": 3
                 }
             }
         },
