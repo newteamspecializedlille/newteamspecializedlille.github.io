@@ -572,7 +572,7 @@
         },
         {
             "name": "DEFOSSE HERVE",
-            "course": 473,
+            "course": 474,
             "cx": {},
             "vtt": {},
             "road": {
@@ -601,7 +601,8 @@
                     "2026/07/04|BOUSIES2|2ème": 19,
                     "2026/07/05|VIESLY|2ème": 13,
                     "2026/08/09|ANICHE|2ème": 26,
-                    "2026/08/15|COLLERET|2ème": 15
+                    "2026/08/15|COLLERET|2ème": 15,
+                    "2026/08/16|THUN ST AMAND|2ème": 25
                 },
                 "2025": {
                     "2025/03/16|RIEULAY|2ème": 73,
@@ -781,7 +782,7 @@
         },
         {
             "name": "DEFER OLIVIER",
-            "course": 214,
+            "course": 215,
             "cx": {},
             "vtt": {
                 "2026": {
@@ -794,7 +795,8 @@
             "road": {
                 "2026": {
                     "2026/03/07|HASPRES|2ème": 40,
-                    "2026/08/08|ROCQ|3ème": 21
+                    "2026/08/08|ROCQ|3ème": 21,
+                    "2026/08/16|THUN ST AMAND|3ème": 29
                 },
                 "2025": {
                     "2025/03/09|CRESPIN2|2ème": 10,
@@ -890,7 +892,7 @@
         },
         {
             "name": "HUBAUT CHRISTOPHE",
-            "course": 179,
+            "course": 180,
             "cx": {},
             "vtt": {},
             "road": {
@@ -904,7 +906,8 @@
                     "2026/06/14|REGION|40/49ans": 24,
                     "2026/07/04|BOUSIES2|3ème": 7,
                     "2026/08/01|SAINT AMAND LES EAUX|3ème": 2,
-                    "2026/08/08|ROCQ|3ème": 11
+                    "2026/08/08|ROCQ|3ème": 11,
+                    "2026/08/16|THUN ST AMAND|3ème": 4
                 },
                 "2023": {
                     "2023/09/02|POIX DU NORD|2ème": 8,
@@ -1371,7 +1374,7 @@
         },
         {
             "name": "LECOURT CHARLIE",
-            "course": 16,
+            "course": 17,
             "cx": {},
             "vtt": {},
             "road": {
@@ -1393,7 +1396,8 @@
                     "2026/06/21|BRIASTRE|3ème": 9,
                     "2026/07/19|VIEUX CONDE SOLITUDE|3ème": "Ab",
                     "2026/08/08|ROCQ|3ème": 7,
-                    "2026/08/15|COLLERET|3ème": 3
+                    "2026/08/15|COLLERET|3ème": 3,
+                    "2026/08/16|THUN ST AMAND|3ème": 12
                 }
             }
         },
