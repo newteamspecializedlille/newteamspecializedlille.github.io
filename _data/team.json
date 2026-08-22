@@ -2,7 +2,7 @@
     "team_members": [
         {
             "name": "DERASSE DAVID",
-            "course": 132,
+            "course": 133,
             "cx": {
                 "2026": {
                     "2025/11/30|VERLINGHEM|1ère": 14,
@@ -73,7 +73,8 @@
                     "2026/05/15|CRITéRIUM DE BEAUMONT|1ère": 10,
                     "2026/06/07|MAING|1ère": 25,
                     "2026/06/14|REGION|17/19ans": 5,
-                    "2026/06/28|FONTAINE AU BOIS|1ère": 47
+                    "2026/06/28|FONTAINE AU BOIS|1ère": 47,
+                    "2026/08/21|BEUVRY|1ère": 4
                 },
                 "2025": {
                     "2025/03/16|RIEULAY|1ère": 27,
@@ -782,7 +783,7 @@
         },
         {
             "name": "DEFER OLIVIER",
-            "course": 215,
+            "course": 216,
             "cx": {},
             "vtt": {
                 "2026": {
@@ -796,7 +797,8 @@
                 "2026": {
                     "2026/03/07|HASPRES|2ème": 40,
                     "2026/08/08|ROCQ|3ème": 21,
-                    "2026/08/16|THUN ST AMAND|3ème": 29
+                    "2026/08/16|THUN ST AMAND|3ème": 29,
+                    "2026/08/21|BEUVRY|3ème": 4
                 },
                 "2025": {
                     "2025/03/09|CRESPIN2|2ème": 10,
@@ -1231,7 +1233,7 @@
         },
         {
             "name": "DERASSE PATRICK",
-            "course": 21,
+            "course": 22,
             "cx": {},
             "vtt": {
                 "2026": {
@@ -1246,7 +1248,8 @@
                     "2026/04/12|MANQUEVILLE-LILLERS|4ème": 3,
                     "2026/04/19|VIEUX CONDE|4ème": "Ab",
                     "2026/04/26|MAULDE - CHORETTE|4ème": 30,
-                    "2026/06/07|MAING|4ème": 34
+                    "2026/06/07|MAING|4ème": 34,
+                    "2026/08/21|BEUVRY|4ème": 21
                 },
                 "2025": {
                     "2025/04/13|ETROEUNGT|3ème": "Ab",
@@ -1351,7 +1354,7 @@
         },
         {
             "name": "HUGUENIN DYLAN",
-            "course": 8,
+            "course": 9,
             "cx": {},
             "vtt": {},
             "road": {
@@ -1363,7 +1366,8 @@
                     "2026/05/08|HALLUIN|3ème": 36,
                     "2026/05/25|AUBERCHICOURT|3ème": 30,
                     "2026/07/12|RAMILLIES|3ème": 46,
-                    "2026/08/01|SAINT AMAND LES EAUX|3ème": 24
+                    "2026/08/01|SAINT AMAND LES EAUX|3ème": 24,
+                    "2026/08/21|BEUVRY|3ème": "Ab"
                 },
                 "2025": {
                     "2025/09/06|POIX DU NORD|3ème": 26,
@@ -1374,7 +1378,7 @@
         },
         {
             "name": "LECOURT CHARLIE",
-            "course": 17,
+            "course": 18,
             "cx": {},
             "vtt": {},
             "road": {
@@ -1397,7 +1401,8 @@
                     "2026/07/19|VIEUX CONDE SOLITUDE|3ème": "Ab",
                     "2026/08/08|ROCQ|3ème": 7,
                     "2026/08/15|COLLERET|3ème": 3,
-                    "2026/08/16|THUN ST AMAND|3ème": 12
+                    "2026/08/16|THUN ST AMAND|3ème": 12,
+                    "2026/08/21|BEUVRY|3ème": 6
                 }
             }
         },
