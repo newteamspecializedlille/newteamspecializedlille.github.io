@@ -903,7 +903,7 @@
         },
         {
             "name": "HUBAUT CHRISTOPHE",
-            "course": 182,
+            "course": 183,
             "cx": {},
             "vtt": {},
             "road": {
@@ -920,7 +920,8 @@
                     "2026/08/08|ROCQ|3ème": 11,
                     "2026/08/16|THUN ST AMAND|3ème": 4,
                     "2026/08/22|St VAAST EN CAMBRAISIS|3ème": 3,
-                    "2026/08/29|FEIGNIES|3ème": 26
+                    "2026/08/29|FEIGNIES|3ème": 26,
+                    "2026/09/05|BACHANT|3ème": 25
                 },
                 "2023": {
                     "2023/09/02|POIX DU NORD|2ème": 8,
@@ -1371,7 +1372,7 @@
         },
         {
             "name": "HUGUENIN DYLAN",
-            "course": 11,
+            "course": 12,
             "cx": {},
             "vtt": {},
             "road": {
@@ -1386,7 +1387,8 @@
                     "2026/08/01|SAINT AMAND LES EAUX|3ème": 24,
                     "2026/08/21|BEUVRY|3ème": "Ab",
                     "2026/08/23|RAISMES|3ème": 20,
-                    "2026/08/30|FLINES LES MORTAGNE|3ème": 34
+                    "2026/08/30|FLINES LES MORTAGNE|3ème": 34,
+                    "2026/09/05|BACHANT|3ème": 28
                 },
                 "2025": {
                     "2025/09/06|POIX DU NORD|3ème": 26,
