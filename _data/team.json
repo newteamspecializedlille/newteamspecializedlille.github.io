@@ -580,7 +580,7 @@
         },
         {
             "name": "DEFOSSE HERVE",
-            "course": 476,
+            "course": 477,
             "cx": {},
             "vtt": {},
             "road": {
@@ -612,7 +612,8 @@
                     "2026/08/15|COLLERET|2ème": 15,
                     "2026/08/16|THUN ST AMAND|2ème": 25,
                     "2026/08/23|RAISMES|2ème": "Ab",
-                    "2026/09/06|LIEU ST AMAND3|2ème": 30
+                    "2026/09/06|LIEU ST AMAND3|2ème": 30,
+                    "2026/09/13|CLARY|2ème": 12
                 },
                 "2025": {
                     "2025/03/16|RIEULAY|2ème": 73,
@@ -964,7 +965,7 @@
         },
         {
             "name": "DEJONGHE MICKAEL",
-            "course": 213,
+            "course": 214,
             "cx": {},
             "vtt": {},
             "road": {
@@ -1000,7 +1001,8 @@
                     "2026/08/02|BAYONNE HERGNIES |3ème": 6,
                     "2026/08/29|FEIGNIES|3ème": 28,
                     "2026/08/30|FLINES LES MORTAGNE|3ème": 46,
-                    "2026/09/06|LIEU ST AMAND3|3ème": 17
+                    "2026/09/06|LIEU ST AMAND3|3ème": 17,
+                    "2026/09/13|CLARY|3ème": 7
                 },
                 "2025": {
                     "2025/03/09|CRESPIN2|3ème": 22,
@@ -1405,7 +1407,7 @@
         },
         {
             "name": "LECOURT CHARLIE",
-            "course": 23,
+            "course": 24,
             "cx": {},
             "vtt": {},
             "road": {
@@ -1434,7 +1436,8 @@
                     "2026/08/29|FEIGNIES|3ème": 20,
                     "2026/08/30|FLINES LES MORTAGNE|3ème": 5,
                     "2026/09/06|LINSELLES|3ème": 2,
-                    "2026/09/12|FEIGNIES2|3ème": 22
+                    "2026/09/12|FEIGNIES2|3ème": 22,
+                    "2026/09/13|CLARY|3ème": 1
                 }
             }
         },
