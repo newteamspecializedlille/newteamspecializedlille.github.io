@@ -375,7 +375,7 @@
         },
         {
             "name": "DUFOUR JULIEN",
-            "course": 411,
+            "course": 412,
             "cx": {},
             "vtt": {},
             "road": {
@@ -417,7 +417,8 @@
                     "2026/08/23|RAISMES|2ème": 8,
                     "2026/08/29|FEIGNIES|2ème": 5,
                     "2026/08/30|FLINES LES MORTAGNE|2ème": 27,
-                    "2026/09/06|LIEU ST AMAND3|2ème": 27
+                    "2026/09/06|LIEU ST AMAND3|2ème": 27,
+                    "2026/09/12|FEIGNIES2|2ème": 7
                 },
                 "2025": {
                     "2025/03/02|BOUE|1ère": 28,
@@ -1404,7 +1405,7 @@
         },
         {
             "name": "LECOURT CHARLIE",
-            "course": 22,
+            "course": 23,
             "cx": {},
             "vtt": {},
             "road": {
@@ -1432,7 +1433,8 @@
                     "2026/08/23|RAISMES|3ème": 3,
                     "2026/08/29|FEIGNIES|3ème": 20,
                     "2026/08/30|FLINES LES MORTAGNE|3ème": 5,
-                    "2026/09/06|LINSELLES|3ème": 2
+                    "2026/09/06|LINSELLES|3ème": 2,
+                    "2026/09/12|FEIGNIES2|3ème": 22
                 }
             }
         },
