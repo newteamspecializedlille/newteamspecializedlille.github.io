@@ -131,7 +131,7 @@
         },
         {
             "name": "LECOLIER STEPHANE",
-            "course": 303,
+            "course": 304,
             "cx": {
                 "2024": {
                     "2024/01/27|2024National|50-59 ans": 27,
@@ -161,7 +161,8 @@
                     "2026/06/14|REGION|50/59ans": 5,
                     "2026/06/28|FONTAINE AU BOIS|1ère": 29,
                     "2026/07/26|HERGNIES CENTRE|1ère": 17,
-                    "2026/08/30|FLINES LES MORTAGNE|1ère": 17
+                    "2026/08/30|FLINES LES MORTAGNE|1ère": 17,
+                    "2026/09/20|LEWARDE|1ère": "Ab"
                 },
                 "2025": {
                     "2025/03/16|RIEULAY|1ère": 34,
@@ -254,7 +255,7 @@
         },
         {
             "name": "LECOLIER LOUIS",
-            "course": 71,
+            "course": 72,
             "cx": {
                 "2024": {
                     "2024/01/27|2024National|17-19 ans": 45,
@@ -287,7 +288,8 @@
                     "2026/06/14|REGION|17/19ans": "AB",
                     "2026/06/28|FONTAINE AU BOIS|1ère": 15,
                     "2026/07/26|HERGNIES CENTRE|1ère": 30,
-                    "2026/08/30|FLINES LES MORTAGNE|1ère": 24
+                    "2026/08/30|FLINES LES MORTAGNE|1ère": 24,
+                    "2026/09/20|LEWARDE|1ère": 21
                 },
                 "2025": {
                     "2025/03/16|RIEULAY|1ère": 28,
@@ -375,7 +377,7 @@
         },
         {
             "name": "DUFOUR JULIEN",
-            "course": 413,
+            "course": 414,
             "cx": {},
             "vtt": {},
             "road": {
@@ -419,7 +421,8 @@
                     "2026/08/30|FLINES LES MORTAGNE|2ème": 27,
                     "2026/09/06|LIEU ST AMAND3|2ème": 27,
                     "2026/09/12|FEIGNIES2|2ème": 7,
-                    "2026/09/13|HORNAING|2ème": 10
+                    "2026/09/13|HORNAING|2ème": 10,
+                    "2026/09/20|LEWARDE|2ème": 6
                 },
                 "2025": {
                     "2025/03/02|BOUE|1ère": 28,
@@ -581,7 +584,7 @@
         },
         {
             "name": "DEFOSSE HERVE",
-            "course": 477,
+            "course": 478,
             "cx": {},
             "vtt": {},
             "road": {
@@ -614,7 +617,8 @@
                     "2026/08/16|THUN ST AMAND|2ème": 25,
                     "2026/08/23|RAISMES|2ème": "Ab",
                     "2026/09/06|LIEU ST AMAND3|2ème": 30,
-                    "2026/09/13|CLARY|2ème": 12
+                    "2026/09/13|CLARY|2ème": 12,
+                    "2026/09/20|LEWARDE|2ème": 50
                 },
                 "2025": {
                     "2025/03/16|RIEULAY|2ème": 73,
@@ -909,7 +913,7 @@
         },
         {
             "name": "HUBAUT CHRISTOPHE",
-            "course": 183,
+            "course": 184,
             "cx": {},
             "vtt": {},
             "road": {
@@ -927,7 +931,8 @@
                     "2026/08/16|THUN ST AMAND|3ème": 4,
                     "2026/08/22|St VAAST EN CAMBRAISIS|3ème": 3,
                     "2026/08/29|FEIGNIES|3ème": 26,
-                    "2026/09/05|BACHANT|3ème": 25
+                    "2026/09/05|BACHANT|3ème": 25,
+                    "2026/09/20|LEWARDE|3ème": 44
                 },
                 "2023": {
                     "2023/09/02|POIX DU NORD|2ème": 8,
@@ -966,7 +971,7 @@
         },
         {
             "name": "DEJONGHE MICKAEL",
-            "course": 214,
+            "course": 215,
             "cx": {},
             "vtt": {},
             "road": {
@@ -1003,7 +1008,8 @@
                     "2026/08/29|FEIGNIES|3ème": 28,
                     "2026/08/30|FLINES LES MORTAGNE|3ème": 46,
                     "2026/09/06|LIEU ST AMAND3|3ème": 17,
-                    "2026/09/13|CLARY|3ème": 7
+                    "2026/09/13|CLARY|3ème": 7,
+                    "2026/09/20|LEWARDE|3ème": 38
                 },
                 "2025": {
                     "2025/03/09|CRESPIN2|3ème": 22,
@@ -1139,7 +1145,7 @@
         },
         {
             "name": "MINNECI ELIO",
-            "course": 43,
+            "course": 44,
             "cx": {},
             "vtt": {},
             "road": {
@@ -1155,7 +1161,8 @@
                     "2026/06/14|REGION|20/29ans": 22,
                     "2026/06/28|FONTAINE AU BOIS|1ère": 44,
                     "2026/07/26|HERGNIES CENTRE|1ère": 18,
-                    "2026/08/30|FLINES LES MORTAGNE|1ère": 23
+                    "2026/08/30|FLINES LES MORTAGNE|1ère": 23,
+                    "2026/09/20|LEWARDE|1ère": 25
                 },
                 "2025": {
                     "2025/03/15|BOUSIES|1ère": 24,
@@ -1299,7 +1306,7 @@
         },
         {
             "name": "CROMBEZ THOMAS",
-            "course": 36,
+            "course": 37,
             "cx": {},
             "vtt": {},
             "road": {
@@ -1322,7 +1329,8 @@
                     "2026/08/09|ANICHE|1ère": 1,
                     "2026/08/23|RAISMES|1ère": 3,
                     "2026/08/30|FLINES LES MORTAGNE|1ère": 4,
-                    "2026/09/06|LIEU ST AMAND3|1ère": 3
+                    "2026/09/06|LIEU ST AMAND3|1ère": 3,
+                    "2026/09/20|LEWARDE|1ère": 8
                 },
                 "2025": {
                     "2025/03/23|DIMECHAUX|1ère": 4,
@@ -1381,7 +1389,7 @@
         },
         {
             "name": "HUGUENIN DYLAN",
-            "course": 12,
+            "course": 13,
             "cx": {},
             "vtt": {},
             "road": {
@@ -1397,7 +1405,8 @@
                     "2026/08/21|BEUVRY|3ème": "Ab",
                     "2026/08/23|RAISMES|3ème": 20,
                     "2026/08/30|FLINES LES MORTAGNE|3ème": 34,
-                    "2026/09/05|BACHANT|3ème": 28
+                    "2026/09/05|BACHANT|3ème": 28,
+                    "2026/09/20|LEWARDE|3ème": 52
                 },
                 "2025": {
                     "2025/09/06|POIX DU NORD|3ème": 26,
