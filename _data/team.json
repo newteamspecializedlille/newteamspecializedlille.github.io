@@ -377,7 +377,7 @@
         },
         {
             "name": "DUFOUR JULIEN",
-            "course": 414,
+            "course": 415,
             "cx": {},
             "vtt": {},
             "road": {
@@ -422,7 +422,8 @@
                     "2026/09/06|LIEU ST AMAND3|2ème": 27,
                     "2026/09/12|FEIGNIES2|2ème": 7,
                     "2026/09/13|HORNAING|2ème": 10,
-                    "2026/09/20|LEWARDE|2ème": 6
+                    "2026/09/20|LEWARDE|2ème": 6,
+                    "2026/09/27|MAULDE 2|2ème": 8
                 },
                 "2025": {
                     "2025/03/02|BOUE|1ère": 28,
@@ -584,7 +585,7 @@
         },
         {
             "name": "DEFOSSE HERVE",
-            "course": 478,
+            "course": 479,
             "cx": {},
             "vtt": {},
             "road": {
@@ -618,7 +619,8 @@
                     "2026/08/23|RAISMES|2ème": "Ab",
                     "2026/09/06|LIEU ST AMAND3|2ème": 30,
                     "2026/09/13|CLARY|2ème": 12,
-                    "2026/09/20|LEWARDE|2ème": 50
+                    "2026/09/20|LEWARDE|2ème": 50,
+                    "2026/09/27|MAULDE 2|2ème": 22
                 },
                 "2025": {
                     "2025/03/16|RIEULAY|2ème": 73,
@@ -798,7 +800,7 @@
         },
         {
             "name": "DEFER OLIVIER",
-            "course": 221,
+            "course": 222,
             "cx": {},
             "vtt": {
                 "2026": {
@@ -818,7 +820,8 @@
                     "2026/08/29|FEIGNIES|3ème": 27,
                     "2026/08/30|FLINES LES MORTAGNE|3ème": 40,
                     "2026/09/06|LIEU ST AMAND3|3ème": 30,
-                    "2026/09/13|MAROEUIL|3ème": 4
+                    "2026/09/13|MAROEUIL|3ème": 4,
+                    "2026/09/27|MAULDE 2|3ème": 30
                 },
                 "2025": {
                     "2025/03/09|CRESPIN2|2ème": 10,
@@ -972,7 +975,7 @@
         },
         {
             "name": "DEJONGHE MICKAEL",
-            "course": 215,
+            "course": 216,
             "cx": {},
             "vtt": {},
             "road": {
@@ -1010,7 +1013,8 @@
                     "2026/08/30|FLINES LES MORTAGNE|3ème": 46,
                     "2026/09/06|LIEU ST AMAND3|3ème": 17,
                     "2026/09/13|CLARY|3ème": 7,
-                    "2026/09/20|LEWARDE|3ème": 38
+                    "2026/09/20|LEWARDE|3ème": 38,
+                    "2026/09/27|MAULDE 2|3ème": 1
                 },
                 "2025": {
                     "2025/03/09|CRESPIN2|3ème": 22,
@@ -1307,7 +1311,7 @@
         },
         {
             "name": "CROMBEZ THOMAS",
-            "course": 37,
+            "course": 38,
             "cx": {},
             "vtt": {},
             "road": {
@@ -1331,7 +1335,8 @@
                     "2026/08/23|RAISMES|1ère": 3,
                     "2026/08/30|FLINES LES MORTAGNE|1ère": 4,
                     "2026/09/06|LIEU ST AMAND3|1ère": 3,
-                    "2026/09/20|LEWARDE|1ère": 8
+                    "2026/09/20|LEWARDE|1ère": 8,
+                    "2026/09/27|MAULDE 2|1ère": 4
                 },
                 "2025": {
                     "2025/03/23|DIMECHAUX|1ère": 4,
@@ -1390,7 +1395,7 @@
         },
         {
             "name": "HUGUENIN DYLAN",
-            "course": 13,
+            "course": 14,
             "cx": {},
             "vtt": {},
             "road": {
@@ -1407,7 +1412,8 @@
                     "2026/08/23|RAISMES|3ème": 20,
                     "2026/08/30|FLINES LES MORTAGNE|3ème": 34,
                     "2026/09/05|BACHANT|3ème": 28,
-                    "2026/09/20|LEWARDE|3ème": 52
+                    "2026/09/20|LEWARDE|3ème": 52,
+                    "2026/09/27|MAULDE 2|3ème": 18
                 },
                 "2025": {
                     "2025/09/06|POIX DU NORD|3ème": 26,
