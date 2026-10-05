@@ -177,8 +177,13 @@ layout: default
 
     <div class="velo-accordion" id="velo-accordion">
       {% assign first_open = 0 %}
-      {% for year in (2018..2026) reversed %}
-        {% assign year_string = year | append: "" %}
+      {% assign years_list = "" | split: "" %}
+      {% for pair in team_people.road %}{% assign years_list = years_list | push: pair[0] %}{% endfor %}
+      {% for pair in team_people.cx %}{% assign years_list = years_list | push: pair[0] %}{% endfor %}
+      {% for pair in team_people.vtt %}{% assign years_list = years_list | push: pair[0] %}{% endfor %}
+      {% assign years_list = years_list | uniq | sort | reverse %}
+      {% for year_string in years_list %}
+        {% assign year = year_string %}
         {% if team_people.cx[year_string] or team_people.road[year_string] or team_people.vtt[year_string] %}
           <div class="velo-accordion__year{% if first_open == 0 %} is-open{% endif %}">
             {% assign first_open = 1 %}
