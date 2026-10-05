@@ -326,8 +326,11 @@
         },
         {
             "name": "MOULIN FELIX",
-            "course": 107,
+            "course": 108,
             "cx": {
+                "2027": {
+                    "2026/10/03|HERGNIES|3ème": "Ab"
+                },
                 "2026": {
                     "2026/02/22|CARVIN|3ème": 14
                 },
