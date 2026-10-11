@@ -1,0 +1,45 @@
+---
+layout: post
+title: VTT - VIEUX CONDE - 2027
+date: 2026-10-11
+category: VTT
+tags: VTT
+image: assets/img/blog/vtt.png
+---
+
+### VTT Sénior B
+3 participants
+- [CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas) : 1
+
+### Scratch
+27 participants
+
+| Place | Nom | Team | Tours | Catégorie | Temps |
+|---|---|---|---|---|---|
+| 1 | BRADFER GERY | ETOILE CYCLISTE LIEU ST AMAND | 8 | Vétérans A | 0:52:43 | 
+| 2 | RICHARD MATTEO | VTT CLUB PONT SUR SAMBRE | 8 | Seniors A | 0:53:35 | 
+| **3** | **[CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **8** | **Seniors B** | **0:53:36** | 
+| 4 | SAMIER GERMAIN | CAMPHIN EN CAREMBAULT CYCLING TEAM | 8 | Seniors A | 0:54:12 | 
+| 5 | LEDAIN JONATHAN | VTT SAINT AMAND LES EAUX | 8 | Seniors A | 0:55:32 | 
+| 6 | DESRUMAUX FRANCK | TEAM MELANTOIS - ANSTAING | 8 | Vétérans B | 0:55:46 | 
+| 7 | JABLONSKI SEBASTIEN | NEW TEAM MAULDE | 8 | Vétérans B | 0:55:46 | 
+| 8 | SAINT-QUENTIN HUGO | TEAM B.B.L. HERGNIES | 8 | Seniors A | 0:56:42 | 
+| 9 | ALEXANDRE GREGORY | ETOILE CYCLISTE FEIGNIES | 8 | Vétérans A | 0:57:13 | 
+| 10 | MATTIOLI RONALD | NOUVELLE ETOILE SPORTIVE BOUE ETREUX | 8 | Vétérans B | 0:57:23 | 
+| 11 | THOMASSEY SEBASTIEN | CAMPHIN EN CAREMBAULT CYCLING TEAM | 8 | Vétérans B | 0:57:53 | 
+| 12 | DARTUS MIKAEL | VELO CLUB SOLESMES | 8 | Vétérans B | 0:58:9 | 
+| 13 | CORMAN SEBASTIEN | CAMPHIN EN CAREMBAULT CYCLING TEAM | 8 | Vétérans A | 0:59:18 | 
+| 14 | HOUDART FLORENT | VTT CLUB PONT SUR SAMBRE | 8 | Seniors A | 0:59:49 | 
+| 15 | MEESMAECKER WILLIAM | UNION SPORTIVE SAINT ANDRE | 7 | Seniors A | 0:53:2 | 
+| 16 | ROSZKIEWICZ RAPHAEL | UNION SPORTIVE SAINT ANDRE | 7 | Vétérans A | 0:53:10 | 
+| 17 | LANGLET GUILLAUME | VELO CLUB SOLESMES | 7 | Vétérans A | 0:53:19 | 
+| 18 | BREVIERE ALEXANDRE | CAMPHIN EN CAREMBAULT CYCLING TEAM | 7 | Vétérans B | 0:53:46 | 
+| 19 | MICHEL STEPHANE | ETOILE CYCLISTE FEIGNIES | 7 | Vétérans B | 0:54:27 | 
+| 20 | GAILLET JULIEN | TEAM B.B.L. HERGNIES | 7 | Vétérans A | 0:56:33 | 
+| 21 | CINQUINA GUISEPPE | ETOILE CYCLISTE LIEU ST AMAND | 7 | Vétérans A | 0:56:40 | 
+| 22 | MARTINEZ JEROME | NEW TEAM MAULDE | 6 | Vétérans B | 0:43:36 | 
+| 23 | POT FREDERIC | ETOILE CYCLISTE FEIGNIES | 6 | Vétérans B | 0:53:27 | 
+| 24 | FOSSY YOHAN | VTT CLUB PONT SUR SAMBRE | 6 | Seniors B | 0:53:33 | 
+| 25 | WINS JEAN-FRANCOIS | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 6 | Vétérans B | 0:54:27 | 
+| 26 | MICHEL ANTHONY | ETOILE CYCLISTE FEIGNIES | 4 | Seniors A | 0:27:27 | 
+| 27 | VAN DURMEN PHILIPPE | UNION SPORTIVE SAINT ANDRE | 3 | Vétérans B | 0:19:17 | 

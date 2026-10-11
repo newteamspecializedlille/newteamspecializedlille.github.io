@@ -1320,9 +1320,13 @@
         },
         {
             "name": "CROMBEZ THOMAS",
-            "course": 38,
+            "course": 39,
             "cx": {},
-            "vtt": {},
+            "vtt": {
+                "2027": {
+                    "2026/10/11|VIEUX CONDE|Seniors B": 1
+                }
+            },
             "road": {
                 "2026": {
                     "2026/03/01|BOUE|1ère": 4,
