@@ -28,4 +28,8 @@ class RaceResults:
         self.VTTVeteransB = {}
         self.VTTVeteransC = {}
 
+        # catégories jeunes (Minimes, Benjamins, Pupilles, Poussins) : {catégorie: {coureur: place}}
+        self.young = {}
+        self.young_riders = {}
+
         self.scratch = {}

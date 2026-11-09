@@ -19,3 +19,4 @@ credentials.json
 .bundle/config
 .gstack/
 .serena/*
+.boost/*

@@ -2,8 +2,11 @@
     "team_members": [
         {
             "name": "DERASSE DAVID",
-            "course": 133,
+            "course": 134,
             "cx": {
+                "2027": {
+                    "2026/10/25|HALLUIN|1ère": 8
+                },
                 "2026": {
                     "2025/11/30|VERLINGHEM|1ère": 14,
                     "2025/12/21|ROUVROY|1ère": 11,
@@ -326,10 +329,11 @@
         },
         {
             "name": "MOULIN FELIX",
-            "course": 108,
+            "course": 109,
             "cx": {
                 "2027": {
-                    "2026/10/03|HERGNIES|3ème": "Ab"
+                    "2026/10/03|HERGNIES|3ème": "Ab",
+                    "2026/11/07|VERLINGHEM|3ème": 10
                 },
                 "2026": {
                     "2026/02/22|CARVIN|3ème": 14
@@ -806,9 +810,12 @@
         },
         {
             "name": "DEFER OLIVIER",
-            "course": 223,
+            "course": 224,
             "cx": {},
             "vtt": {
+                "2027": {
+                    "2026/11/01|HENIN BEAUMONT|Vétérans A": 9
+                },
                 "2026": {
                     "2025/10/05|ORCHIES|Vétérans A": 10,
                     "2025/10/26|HALLUIN|Vétérans A": 9,
@@ -983,8 +990,12 @@
         },
         {
             "name": "DEJONGHE MICKAEL",
-            "course": 216,
-            "cx": {},
+            "course": 217,
+            "cx": {
+                "2027": {
+                    "2026/11/07|VERLINGHEM|3ème": 34
+                }
+            },
             "vtt": {},
             "road": {
                 "2026": {
@@ -1408,9 +1419,13 @@
         },
         {
             "name": "HUGUENIN DYLAN",
-            "course": 14,
+            "course": 15,
             "cx": {},
-            "vtt": {},
+            "vtt": {
+                "2027": {
+                    "2026/11/01|HENIN BEAUMONT|Seniors B": 10
+                }
+            },
             "road": {
                 "2026": {
                     "2026/03/08|RIEULAY|3ème": 35,
@@ -1473,8 +1488,12 @@
         },
         {
             "name": "SCHULZ YANNICK",
-            "course": 1,
-            "cx": {},
+            "course": 2,
+            "cx": {
+                "2027": {
+                    "2026/11/07|VERLINGHEM|3ème": 27
+                }
+            },
             "vtt": {},
             "road": {
                 "2026": {
@@ -1493,6 +1512,17 @@
                     "2026/04/06|PROVIN|1ère": 2
                 }
             }
+        },
+        {
+            "name": "FONTAINE HECTOR",
+            "course": 1,
+            "cx": {
+                "2027": {
+                    "2026/10/25|ANZIN|Benjamins": 9
+                }
+            },
+            "vtt": {},
+            "road": {}
         }
     ]
 }

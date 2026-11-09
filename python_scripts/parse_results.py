@@ -16,6 +16,8 @@ column_name = 1
 column_team = 2
 column_lap = 3
 column_time = 4
+YOUNG_CATEGORIES = ["Minimes", "Benjamins", "Pupilles", "Poussins"]
+SCRATCH_SHEETS = 5  # seules les 5 premières feuilles alimentent le scratch
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 
@@ -129,10 +131,11 @@ class ParseResults:
         return False
 
     def parse_results_race_sheet(self, coureurbook, sheet, season):
+        sheet_index = sheet
         sheet = coureurbook.sheet_by_index(sheet)
         self.race_cat = sheet.name
         hash_race = self.get_hash_race()
-        scratch_enable = check_if_scratch_enable(sheet)
+        scratch_enable = check_if_scratch_enable(sheet) and sheet_index < SCRATCH_SHEETS
         if hash_race not in self.results:
             self.results[hash_race] = race_results.RaceResults(hash_race)
         for line in range(sheet.nrows):
@@ -157,8 +160,12 @@ class ParseResults:
                     self.results[hash_race].VTTVeteransB_riders += 1
                 elif self.race_cat == "Vétérans C":
                     self.results[hash_race].VTTVeteransC_riders += 1
+                elif self.race_cat in YOUNG_CATEGORIES and line > 1:
+                    riders = self.results[hash_race].young_riders
+                    riders[self.race_cat] = riders.get(self.race_cat, 0) + 1
             if self.is_team_member(sheet, line):
-                member = sheet.cell(line, column_name).value
+                # les noms des licenciés du club sont stockés en majuscules (ex: "FONTAINE Hector" -> "FONTAINE HECTOR")
+                member = str(sheet.cell(line, column_name).value).upper()
                 if member not in self.team:
                     self.team[member] = team_members.TeamMember(member)
                 self.team[member].course += 1
@@ -195,6 +202,9 @@ class ParseResults:
                     self.results[hash_race].VTTVeteransB[member] = return_result(sheet, line)
                 elif self.race_cat == "Vétérans C":
                     self.results[hash_race].VTTVeteransC[member] = return_result(sheet, line)
+                elif self.race_cat in YOUNG_CATEGORIES:
+                    young = self.results[hash_race].young
+                    young.setdefault(self.race_cat, {})[member] = return_result(sheet, line)
             member = sheet.cell(line, column_name).value
             if member != "" and line > 1 and scratch_enable and str(type(member)) == "<class 'str'>":
                 if sheet.cell(line, column_time).value == "":
@@ -230,11 +240,8 @@ class ParseResults:
                 output.write(r.content)
 
                 coureurbook = xlrd.open_workbook('test.xls')
-                self.parse_results_race_sheet(coureurbook, 0, season)
-                self.parse_results_race_sheet(coureurbook, 1, season)
-                self.parse_results_race_sheet(coureurbook, 2, season)
-                self.parse_results_race_sheet(coureurbook, 3, season)
-                self.parse_results_race_sheet(coureurbook, 4, season)
+                for sheet_index in range(coureurbook.nsheets):
+                    self.parse_results_race_sheet(coureurbook, sheet_index, season)
                 hash_race = self.get_hash_race()
 
                 if len(self.results[hash_race].scratch) > 0:
@@ -277,7 +284,8 @@ class ParseResults:
                     self.results[hash_race].VTTSeniorsB.keys()) == 0 and len(
                     self.results[hash_race].VTTVeteransA.keys()) == 0
                 and len(self.results[hash_race].VTTVeteransB.keys()) == 0 and len(
-                    self.results[hash_race].VTTVeteransC.keys()) == 0):
+                    self.results[hash_race].VTTVeteransC.keys()) == 0
+                and len(self.results[hash_race].young) == 0):
             return
         file_name = self.race_date.replace("/", "-") + "-" + self.race_type.replace(" ", "") + self.race_name.replace(
             " ", "-") + ".md"
@@ -371,6 +379,14 @@ class ParseResults:
                 outfile.write(str(self.results[hash_race].VTTVeteransC_riders) + " participants\n")
             for line in result_to_display.keys():
                 display_result_line_with_link(outfile, line, result_to_display[line])
+
+            for category in YOUNG_CATEGORIES:
+                result_to_display = self.results[hash_race].young.get(category, {})
+                if len(result_to_display) > 0:
+                    outfile.write("\n### " + category + "\n")
+                    outfile.write(str(self.results[hash_race].young_riders.get(category, 0)) + " participants\n")
+                    for line in result_to_display.keys():
+                        display_result_line_with_link(outfile, line, result_to_display[line])
 
             self.print_scratch_results(outfile, hash_race)
             self.results = {}
