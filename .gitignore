@@ -18,3 +18,4 @@ credentials.json
 **/credentials.json
 .bundle/config
 .gstack/
+.serena/*
