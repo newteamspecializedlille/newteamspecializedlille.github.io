@@ -1,0 +1,84 @@
+---
+layout: default
+title: Statistiques Route 2026
+---
+
+{% assign stats = site.data.road2026_stats %}
+
+<section class="velo-challenge-hero">
+  <div class="velo-challenge-hero__left">
+    <h1 class="velo-challenge-hero__title">{{ page.title }}</h1>
+  </div>
+  <div class="velo-challenge-hero__right">
+    <p class="velo-challenge-hero__label">Saison {{ stats.year }}</p>
+    <p class="velo-challenge-hero__sub">Résultats et points du challenge</p>
+  </div>
+</section>
+
+<section class="velo-road-stats" aria-label="Statistiques de la saison {{ stats.year }}">
+  <div class="velo-road-stats__summary">
+    <article class="velo-road-stats__card">
+      <span class="velo-road-stats__label">Coureurs</span>
+      <strong class="velo-road-stats__value">{{ stats.summary.riders }}</strong>
+    </article>
+    <article class="velo-road-stats__card">
+      <span class="velo-road-stats__label">Courses enregistrées</span>
+      <strong class="velo-road-stats__value">{{ stats.summary.races }}</strong>
+    </article>
+    <article class="velo-road-stats__card">
+      <span class="velo-road-stats__label">Places dans le top 10</span>
+      <strong class="velo-road-stats__value">{{ stats.summary.top_10_finishes }}</strong>
+    </article>
+    <article class="velo-road-stats__card">
+      <span class="velo-road-stats__label">Points challenge</span>
+      <strong class="velo-road-stats__value">{{ stats.summary.challenge_points }}</strong>
+    </article>
+  </div>
+
+  <p class="velo-road-stats__note">
+    Le nombre de courses inclut toutes les places enregistrées et les abandons. Les points correspondent au total du challenge 2026, toutes disciplines confondues.
+  </p>
+
+  <div class="velo-road-stats__table-wrap" role="region" aria-label="Tableau des statistiques par coureur" tabindex="0">
+    <table class="velo-road-stats__table">
+      <caption>Courses, places de 1 à 10 et points du challenge par coureur</caption>
+      <thead>
+        <tr>
+          <th scope="col" class="velo-road-stats__name" data-sort="text">Coureur</th>
+          <th scope="col" data-sort="number">Courses</th>
+          {% for place in stats.place_labels %}
+            <th scope="col" data-sort="number">{% if place == 1 %}1re place{% else %}{{ place }}e place{% endif %}</th>
+          {% endfor %}
+          <th scope="col" data-sort="number">Points challenge</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for rider in stats.riders %}
+          <tr>
+            <th scope="row" class="velo-road-stats__name">{{ rider.name }}</th>
+            <td>{{ rider.races }}</td>
+            {% for count in rider.places %}
+              <td>{{ count }}</td>
+            {% endfor %}
+            <td class="velo-road-stats__points">{{ rider.challenge_points }}</td>
+          </tr>
+        {% endfor %}
+      </tbody>
+      <tfoot>
+        <tr>
+          <th scope="row" class="velo-road-stats__name">Total</th>
+          <td>{{ stats.summary.races }}</td>
+          {% for count in stats.summary.place_counts %}
+            <td>{{ count }}</td>
+          {% endfor %}
+          <td class="velo-road-stats__points">{{ stats.summary.challenge_points }}</td>
+        </tr>
+      </tfoot>
+    </table>
+  </div>
+</section>
+
+<script src="{{ '/assets/js/road-stats.js' | relative_url }}" defer></script>
+
+{%- include sponsors.html -%}
+{%- include recent-races.html limit=5 -%}

@@ -103,6 +103,52 @@ def update_challenge(team: dict[str, TeamMember], challenge_year, challenge):
     with open(file_name, "w", encoding='utf8') as outfile:
         outfile.write(json_object)
 
+
+def update_road_statistics(team: dict[str, TeamMember], year):
+    with open("../_data/challenge" + year + ".json", "r", encoding="utf8") as challenge_file:
+        challenge_data = json.load(challenge_file)
+
+    challenge_points = challenge_data["challenge"]
+    riders = []
+    place_totals = [0] * 10
+
+    for member in team.values():
+        races = member.road.get(year, {})
+        places = [
+            sum(
+                1
+                for result in races.values()
+                if isinstance(result, int) and not isinstance(result, bool) and result == place
+            )
+            for place in range(1, 11)
+        ]
+        place_totals = [total + count for total, count in zip(place_totals, places)]
+        riders.append({
+            "name": member.name,
+            "races": len(races),
+            "places": places,
+            "challenge_points": challenge_points.get(member.name, 0),
+        })
+
+    riders.sort(key=lambda rider: (-sum(rider["places"]), rider["name"]))
+    data = {
+        "year": int(year),
+        "place_labels": list(range(1, 11)),
+        "summary": {
+            "riders": len(riders),
+            "races": sum(rider["races"] for rider in riders),
+            "top_10_finishes": sum(place_totals),
+            "place_counts": place_totals,
+            "challenge_points": sum(rider["challenge_points"] for rider in riders),
+        },
+        "riders": riders,
+    }
+
+    json_object = json.dumps(data, ensure_ascii=False, indent=4)
+    with open("../_data/road" + year + "_stats.json", "w", encoding="utf8") as outfile:
+        outfile.write(json_object)
+
+
 def load_team_from_file(team: dict[str, TeamMember]) -> dict[str, TeamMember]:
     team_file = open(team_path_file, 'r')
     data = json.load(team_file)

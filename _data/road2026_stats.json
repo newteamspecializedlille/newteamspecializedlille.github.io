@@ -1,0 +1,375 @@
+{
+    "year": 2026,
+    "place_labels": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+    ],
+    "summary": {
+        "riders": 20,
+        "races": 270,
+        "top_10_finishes": 78,
+        "place_counts": [
+            7,
+            8,
+            8,
+            10,
+            7,
+            7,
+            8,
+            13,
+            5,
+            5
+        ],
+        "challenge_points": 2843
+    },
+    "riders": [
+        {
+            "name": "CROMBEZ THOMAS",
+            "races": 21,
+            "places": [
+                4,
+                2,
+                3,
+                4,
+                1,
+                2,
+                0,
+                2,
+                0,
+                0
+            ],
+            "challenge_points": 291
+        },
+        {
+            "name": "DUFOUR JULIEN",
+            "races": 43,
+            "places": [
+                0,
+                1,
+                0,
+                0,
+                1,
+                1,
+                2,
+                6,
+                1,
+                1
+            ],
+            "challenge_points": 446
+        },
+        {
+            "name": "LECOURT CHARLIE",
+            "races": 26,
+            "places": [
+                1,
+                1,
+                2,
+                1,
+                1,
+                1,
+                1,
+                2,
+                1,
+                0
+            ],
+            "challenge_points": 268
+        },
+        {
+            "name": "DEJONGHE MICKAEL",
+            "races": 35,
+            "places": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                2,
+                0,
+                1,
+                2
+            ],
+            "challenge_points": 365
+        },
+        {
+            "name": "DERASSE DAVID",
+            "races": 11,
+            "places": [
+                1,
+                0,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                0,
+                1
+            ],
+            "challenge_points": 133
+        },
+        {
+            "name": "HUBAUT CHRISTOPHE",
+            "races": 16,
+            "places": [
+                0,
+                2,
+                1,
+                1,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0
+            ],
+            "challenge_points": 178
+        },
+        {
+            "name": "LECOLIER LOUIS",
+            "races": 15,
+            "places": [
+                0,
+                1,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                1,
+                1
+            ],
+            "challenge_points": 152
+        },
+        {
+            "name": "LECOLIER STEPHANE",
+            "races": 14,
+            "places": [
+                0,
+                0,
+                0,
+                0,
+                2,
+                0,
+                1,
+                0,
+                1,
+                0
+            ],
+            "challenge_points": 143
+        },
+        {
+            "name": "DEFER OLIVIER",
+            "races": 11,
+            "places": [
+                0,
+                0,
+                0,
+                2,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0
+            ],
+            "challenge_points": 119
+        },
+        {
+            "name": "FONTAINE NICOLAS",
+            "races": 2,
+            "places": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "challenge_points": 26
+        },
+        {
+            "name": "MINNECI ELIO",
+            "races": 14,
+            "places": [
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+            ],
+            "challenge_points": 148
+        },
+        {
+            "name": "BROUTIN ANTOINE",
+            "races": 6,
+            "places": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0
+            ],
+            "challenge_points": 62
+        },
+        {
+            "name": "DEFOSSE HERVE",
+            "races": 32,
+            "places": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0
+            ],
+            "challenge_points": 298
+        },
+        {
+            "name": "DERASSE PATRICK",
+            "races": 7,
+            "places": [
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "challenge_points": 63
+        },
+        {
+            "name": "FONTAINE HECTOR",
+            "races": 0,
+            "places": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "challenge_points": 0
+        },
+        {
+            "name": "HUGUENIN DYLAN",
+            "races": 14,
+            "places": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "challenge_points": 120
+        },
+        {
+            "name": "LECOLIER BENOIT",
+            "races": 2,
+            "places": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "challenge_points": 21
+        },
+        {
+            "name": "MOULIN FELIX",
+            "races": 0,
+            "places": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "challenge_points": 0
+        },
+        {
+            "name": "ORBIER AXEL",
+            "races": 0,
+            "places": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "challenge_points": 0
+        },
+        {
+            "name": "SCHULZ YANNICK",
+            "races": 1,
+            "places": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "challenge_points": 10
+        }
+    ]
+}

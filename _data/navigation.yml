@@ -36,3 +36,6 @@ main:
 
         - title: "Challenge Route 2026"
           url: "/challenge/challenge2026"
+
+        - title: "Statistiques Route 2026"
+          url: "/challenge/statistiques-route-2026"

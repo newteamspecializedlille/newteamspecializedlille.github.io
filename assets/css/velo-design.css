@@ -3594,6 +3594,120 @@ a.velo-home-partners__item {
   filter: none !important;
 }
 
+/* --- Road season statistics --- */
+.velo-road-stats {
+  padding: 2rem var(--v-margin) 4rem;
+}
+.velo-road-stats__summary {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 1rem;
+}
+.velo-road-stats__card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  padding: 1.25rem;
+  border: 2px solid var(--v-primary);
+}
+.velo-road-stats__label {
+  color: var(--v-gray);
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+.velo-road-stats__value {
+  color: var(--v-primary);
+  font-size: clamp(1.5rem, 3vw, 2.25rem);
+  font-variant-numeric: tabular-nums;
+  line-height: 1;
+}
+.velo-road-stats__note {
+  margin: 1.5rem 0;
+  color: var(--v-gray);
+  font-size: 0.85rem;
+}
+.velo-road-stats__table-wrap {
+  overflow-x: auto;
+  border-bottom: 3px solid var(--v-primary);
+}
+.velo-road-stats__table {
+  width: 100%;
+  min-width: 900px;
+  border-collapse: collapse;
+  font-variant-numeric: tabular-nums;
+}
+.velo-road-stats__table caption {
+  padding: 0 0 1rem;
+  color: var(--v-gray);
+  font-size: 0.75rem;
+  text-align: left;
+}
+.velo-road-stats__table th,
+.velo-road-stats__table td {
+  padding: 0.8rem 0.65rem;
+  border-bottom: 1px solid var(--v-gray);
+  text-align: right;
+  white-space: nowrap;
+}
+.velo-road-stats__table thead th {
+  color: var(--v-gray);
+  font-size: 0.7rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+.velo-road-stats__table .velo-road-stats__name {
+  text-align: left;
+}
+.velo-road-stats__sort {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.35rem 0;
+  border: 0;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  letter-spacing: inherit;
+  text-transform: inherit;
+  cursor: pointer;
+}
+.velo-road-stats__sort:hover {
+  color: var(--v-primary);
+}
+.velo-road-stats__sort:focus-visible {
+  outline: 2px solid var(--v-primary);
+  outline-offset: 3px;
+}
+.velo-road-stats__table [aria-sort] .velo-road-stats__sort {
+  color: var(--v-primary);
+  font-weight: 800;
+}
+.velo-road-stats__table tbody th {
+  font-size: 0.8rem;
+  font-weight: 700;
+}
+.velo-road-stats__table tbody tr:hover {
+  box-shadow: inset 3px 0 0 var(--v-spe);
+}
+.velo-road-stats__table tfoot th,
+.velo-road-stats__table tfoot td {
+  border-top: 2px solid var(--v-primary);
+  border-bottom: 0;
+  font-weight: 800;
+}
+.velo-road-stats__table .velo-road-stats__points {
+  color: var(--v-teal-dk);
+  font-weight: 800;
+}
+
+@media (max-width: 700px) {
+  .velo-road-stats__summary {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
 /* --- Page coureur : portrait en couleur --- */
 .velo-coureur__portrait-img,
 .velo-coureur__portrait-img--fun {
