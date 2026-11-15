@@ -1,0 +1,64 @@
+---
+layout: post
+title: Cyclo Cross - COMINES - 2027
+date: 2026-11-14
+category: Cyclo Cross
+tags: cyclo-cross
+image: assets/img/blog/cx.png
+---
+
+### 3ème Catégorie
+17 participants
+- [MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix) : 4
+- [SCHULZ YANNICK](https://teamspecializedlille.cc/coureurs/schulzyannick) : 13
+- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 15
+
+### Scratch
+44 participants
+
+| Place | Nom | Team | Tours | Catégorie | Temps |
+|---|---|---|---|---|---|
+| 1 | BUGNICOURT CYRIL | UNION VELOCIPEDIQUE FOURMISIENNE | 8 | 1ère | 0:48:21 | 
+| 2 | BUGNICOURT ELIAS | UNION VELOCIPEDIQUE FOURMISIENNE | 8 | 1ère | 0:48:21 | 
+| 3 | REUTER Sébastien | CYCLO CLUB ORCHIES | 8 | 1ère | 0:49:37 | 
+| 4 | BROSSE JIMMY | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 8 | 2ème | 0:51:49 | 
+| 5 | WALTER BENOIT | VELO CLUB UNION HALLUIN | 8 | 2ème | 0:53:28 | 
+| 6 | DUMORTIER ANTOINE | CYCLO CLUB ARMENTIEROIS | 8 | 2ème | 0:53:43 | 
+| 7 | HEBERT PIERRICK | NEW ORANGE TEAM BOUSBECQUE | 8 | 1ère | 0:54:16 | 
+| 8 | DHOTE SAMUEL | VELO CLUB AMANDINOIS | 8 | 2ème | 0:54:29 | 
+| 9 | DUPLAY GUILLAUME | WAMBRECHIES | 8 | 2ème | 0:54:39 | 
+| 10 | VEYS GREG | CYCLO CLUB ARMENTIEROIS | 8 | 2ème | 0:54:46 | 
+| 11 | KNOCKAERT JULIEN | TEAM CYCLISTE PROVINOIS - PROVIN | 8 | 2ème | 0:54:48 | 
+| 12 | CODDEVILLE KENNY | VELO CLUB UNION HALLUIN | 8 | 2ème | 0:55:57 | 
+| 13 | DAGHELET THOMAS | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 8 | 2ème | 0:56:35 | 
+| 14 | LEONARDI FLORIAN | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 7 | 2ème | 0:48:44 | 
+| 15 | DETAVERNIER FLORIAN | ROUE D'OR COMINOISE | 7 | 3ème | 0:49:04 | 
+| 16 | THEVE EMMANUEL | ROUE D'OR COMINOISE | 7 | 3ème | 0:49:28 | 
+| 17 | DUFOUR SYLVAIN | VELO CLUB UNION HALLUIN | 7 | 3ème | 0:49:38 | 
+| 18 | LIAL DENIS | CAMPAGNE LES WARDRECQUES CLUB CYCLISTE CCCW | 7 | 2ème | 0:49:40 | 
+| 19 | REUTER BENOIT | CYCLO CLUB ORCHIES | 7 | 2ème | 0:50:20 | 
+| **20** | **[MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **7** | **3ème** | **0:50:22** | 
+| 21 | CARPENTIER ROMAIN | VTT CLUB PONT SUR SAMBRE | 7 | 3ème | 0:51:01 | 
+| 22 | ALBERTINI LUDOVIC | NEW ORANGE TEAM BOUSBECQUE | 7 | 2ème | 0:51:17 | 
+| 23 | LEVAS LAURENT | MANQUEVILLE LILLERS CLUB CYCLISTE | 7 | 3ème | 0:51:40 | 
+| 24 | DOOLAEGHE TERRY | VELO CLUB UNION HALLUIN | 7 | 3ème | 0:51:52 | 
+| 25 | VANWYNSBERGHE SAMUEL | NEW ORANGE TEAM BOUSBECQUE | 7 | 3ème | 0:52:00 | 
+| 26 | FAUCHILLE ERIC | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 7 | 3ème | 0:53:18 | 
+| 27 | DOMITILE GREGORY | ROUE D'OR COMINOISE | 7 | 3ème | 0:53:40 | 
+| 28 | BAUW EDOUARD | BAILLEUL VELO CLUB | 7 | 3ème | 0:54:45 | 
+| 29 | CARPELS GUILLAUME | VELO CLUB UNION HALLUIN | 7 | 2ème | 0:55:00 | 
+| 30 | GEMELINE MATTHIEU | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 7 | 3ème | 0:55:46 | 
+| **31** | **[SCHULZ YANNICK](https://teamspecializedlille.cc/coureurs/schulzyannick)** | **TEAM SPECIALIZED LILLE** | **7** | **3ème** | **0:55:49** | 
+| 32 | SAMYN GEOFFREY | CYCLO CLUB ARMENTIEROIS | 7 | 2ème | 0:55:51 | 
+| 33 | GELLE MAXIME | BAILLEUL VELO CLUB | 7 | 2ème | 0:56:06 | 
+| 34 | DAENS VINCENT | MANQUEVILLE LILLERS CLUB CYCLISTE | 7 | 3ème | 0:56:06 | 
+| **35** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **7** | **3ème** | **0:56:46** | 
+| 36 | CHILESE COLIN | CYCLO CLUB ORCHIES | 7 | 2ème | 0:57:06 | 
+| 37 | CAUWET FRANCK | OUTREAU CLUB SPORTIF OUTRELOIS (C.S.O) | 6 | 3ème | 0:50:48 | 
+| 38 | DE RIEMAECKER TOM | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 5 | Cadets | 0:30:06 | 
+| 39 | DETAVERNIER MAXENCE | ROUE D'OR COMINOISE | 5 | Cadets | 0:30:07 | 
+| 40 | SIJNESAEL RUBEN | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 5 | Cadets | 0:33:25 | 
+| 41 | DUTILLY GUILLAUME | ARMENTIERE | 5 | 3ème | 0:56:02 | 
+| 42 | LONZA GASPARD | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 4 | Cadets | 0:24:21 | 
+| 43 | TRACKOEN NEO | CYCLO CLUB WAVRIN | 4 | Cadets | 0:30:06 | 
+| 44 | CAPELLE ANTOINE | E.C.TOURCOING | 0 | 1ère | 0:38:53 | 

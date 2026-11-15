@@ -2,10 +2,11 @@
     "team_members": [
         {
             "name": "DERASSE DAVID",
-            "course": 134,
+            "course": 135,
             "cx": {
                 "2027": {
-                    "2026/10/25|HALLUIN|1ère": 8
+                    "2026/10/25|HALLUIN|1ère": 8,
+                    "2026/11/11|DENAIN|1ère": 13
                 },
                 "2026": {
                     "2025/11/30|VERLINGHEM|1ère": 14,
@@ -329,11 +330,12 @@
         },
         {
             "name": "MOULIN FELIX",
-            "course": 109,
+            "course": 110,
             "cx": {
                 "2027": {
                     "2026/10/03|HERGNIES|3ème": "Ab",
-                    "2026/11/07|VERLINGHEM|3ème": 10
+                    "2026/11/07|VERLINGHEM|3ème": 10,
+                    "2026/11/14|COMINES|3ème": 4
                 },
                 "2026": {
                     "2026/02/22|CARVIN|3ème": 14
@@ -990,10 +992,12 @@
         },
         {
             "name": "DEJONGHE MICKAEL",
-            "course": 217,
+            "course": 219,
             "cx": {
                 "2027": {
-                    "2026/11/07|VERLINGHEM|3ème": 34
+                    "2026/11/07|VERLINGHEM|3ème": 34,
+                    "2026/11/11|DENAIN|3ème": 26,
+                    "2026/11/14|COMINES|3ème": 15
                 }
             },
             "vtt": {},
@@ -1488,10 +1492,12 @@
         },
         {
             "name": "SCHULZ YANNICK",
-            "course": 2,
+            "course": 4,
             "cx": {
                 "2027": {
-                    "2026/11/07|VERLINGHEM|3ème": 27
+                    "2026/11/07|VERLINGHEM|3ème": 27,
+                    "2026/11/11|DENAIN|3ème": "Ab",
+                    "2026/11/14|COMINES|3ème": 13
                 }
             },
             "vtt": {},
