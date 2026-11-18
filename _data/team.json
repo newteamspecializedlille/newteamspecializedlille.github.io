@@ -2,11 +2,13 @@
     "team_members": [
         {
             "name": "DERASSE DAVID",
-            "course": 135,
+            "course": 137,
             "cx": {
                 "2027": {
                     "2026/10/25|HALLUIN|1ère": 8,
-                    "2026/11/11|DENAIN|1ère": 13
+                    "2026/11/11|DENAIN|1ère": 13,
+                    "2026/11/01|HENIN BEAUMONT|1ère": 7,
+                    "2026/11/08|LILLERS|1ère": 7
                 },
                 "2026": {
                     "2025/11/30|VERLINGHEM|1ère": 14,
