@@ -992,12 +992,13 @@
         },
         {
             "name": "DEJONGHE MICKAEL",
-            "course": 219,
+            "course": 220,
             "cx": {
                 "2027": {
                     "2026/11/07|VERLINGHEM|3ème": 34,
                     "2026/11/11|DENAIN|3ème": 26,
-                    "2026/11/14|COMINES|3ème": 15
+                    "2026/11/14|COMINES|3ème": 15,
+                    "2026/11/15|RAISMES|3ème": 29
                 }
             },
             "vtt": {},
@@ -1423,11 +1424,12 @@
         },
         {
             "name": "HUGUENIN DYLAN",
-            "course": 15,
+            "course": 16,
             "cx": {},
             "vtt": {
                 "2027": {
-                    "2026/11/01|HENIN BEAUMONT|Seniors B": 10
+                    "2026/11/01|HENIN BEAUMONT|Seniors B": 10,
+                    "2026/11/15|RAISMES|Seniors A": "AB"
                 }
             },
             "road": {
