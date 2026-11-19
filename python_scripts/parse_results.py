@@ -284,14 +284,13 @@ class ParseResults:
                 # les noms des licenciés du club sont stockés en majuscules (ex: "FONTAINE Hector" -> "FONTAINE HECTOR")
                 member = self.find_team_key(str(sheet.cell(line, column_name).value).upper())
                 if member not in self.team:
-                    # un ancien membre (_data/former_members.json) est recréé sans alerte, puis retiré à l'écriture
-                    if member not in team_members.load_former_members():
-                        print("[ALERTE] " + self.race_name + " / " + self.race_cat + " : nouveau membre créé « " + member
-                              + " » (club « TEAM SPECIALIZED LILLE » dans le PDF) : vérifier qu'il ne s'agit pas d'un "
-                              + "membre existant mal orthographié")
+                    print("[ALERTE] " + self.race_name + " / " + self.race_cat + " : nouveau membre créé « " + member
+                          + " » (club « TEAM SPECIALIZED LILLE » dans le PDF) : vérifier qu'il ne s'agit pas d'un "
+                          + "membre existant mal orthographié")
                     self.team[member] = team_members.TeamMember(member)
                 discipline = DISCIPLINE_BY_TYPE.get(self.race_type)
-                if discipline:
+                # un ancien membre (active: false) apparaît dans le post mais ses résultats ne sont plus enregistrés
+                if discipline and self.team[member].active:
                     rank, status = to_rank_status(return_result(sheet, line))
                     self.team[member].upsert_result(discipline, season, team_members.make_result(
                         self.race_date.replace("/", "-"), self.race_name, self.race_cat, rank, status, participants))
@@ -327,11 +326,11 @@ class ParseResults:
 
     def parse_results_race_pdf(self, pdf_path, season):
         """Analyse un PDF de classement (une feuille par catégorie)."""
-        sheets = pdf_results.extract_sheets(pdf_path, roster=self.team.keys())
+        sheets = pdf_results.extract_sheets(pdf_path, roster=self.active_names())
         if not sheets:
             print("[PDF] aucune feuille exploitable dans " + pdf_path)
             return False
-        for sheet_name, name, club, close in pdf_results.suspect_names(sheets, self.team.keys()):
+        for sheet_name, name, club, close in pdf_results.suspect_names(sheets, self.active_names()):
             print("[ALERTE] " + self.race_name + " / " + sheet_name + " : « " + name + " » (club : " + (club or "?")
                   + ") ressemble au membre « " + close + " » mais n'est pas reconnu : orthographe à vérifier")
         book = _PdfBook(sheets)
@@ -339,6 +338,10 @@ class ParseResults:
             self.parse_results_race_sheet(book, index, season)
         self.finalize_scratch(self.get_hash_race())
         return True
+
+    def active_names(self):
+        """Noms des membres actuels (les anciens membres ne sont pas reconnus dans les PDF)."""
+        return [name for name, member in self.team.items() if member.active]
 
     def find_team_key(self, member):
         """Retrouve la clé existante d'un membre malgré accents/ordre des mots."""

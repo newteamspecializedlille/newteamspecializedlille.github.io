@@ -44,10 +44,7 @@ def main():
                                     year, args.championship)
     team_members.update_team_file(team)
     if args.type == "Route":
-        team_members.update_challenge(team, year, "challenge")
         team_members.update_road_statistics(team, year)
-    else:
-        team_members.update_challenge(team, year, "boue")
     site_links.update_race_urls()
     print("course ajoutée : vérifier `git diff --stat`, le post dans _posts/ et les alertes [ALERTE] ci-dessus")
 

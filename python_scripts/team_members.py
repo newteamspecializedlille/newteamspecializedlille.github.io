@@ -1,23 +1,37 @@
 import json
 import os
-import datetime
-import operator
 
 team_path_file = '../_data/team.json'
-challenge_path_file = "../_data/challenge.json"
-former_members_path_file = '../_data/former_members.json'
+# barèmes des challenges par saison (partagés avec le plugin Jekyll _plugins/challenges.rb qui calcule les classements)
+rules_path_file = '../_data/challenge_rules.json'
+
 
 class ChallengePoints:
-    def __init__(self, point_win, point_top5, point_top10, point_top15, point_participation):
+    def __init__(self, point_win, point_top5, point_top10, point_top15, point_participation, abandon_counts=False):
         self.point_win = point_win
         self.point_top5 = point_top5
         self.point_top10 = point_top10
         self.point_top15 = point_top15
         self.point_participation = point_participation
+        self.abandon_counts = abandon_counts
+
+    @classmethod
+    def from_rules(cls, kind, season, rules=None):
+        """Barème de la saison (kind : "challenge" ou "boue") d'après _data/challenge_rules.json (défaut sinon)."""
+        if rules is None:
+            with open(rules_path_file, "r", encoding="utf8") as rules_file:
+                rules = json.load(rules_file)
+        scales = rules[kind]
+        scale = scales.get(str(season), scales["default"])
+        return cls(scale["point_win"], scale["point_top5"], scale["point_top10"], scale.get("point_top15", 0),
+                   scale["point_participation"], rules.get("abandon_counts", False))
 
     def points_for_place(self, rank, status=None):
-        """Points d'une course : barème de la place + participation (0 si abandon ou sans place)."""
-        if status or not isinstance(rank, int) or isinstance(rank, bool):
+        """Points d'une course : barème de la place + participation (abandon : 0, ou la participation si la règle
+        `abandon_counts` est activée)."""
+        if status:
+            return self.point_participation if self.abandon_counts else 0
+        if not isinstance(rank, int) or isinstance(rank, bool):
             return 0
         if rank == 1:
             points = self.point_win
@@ -52,8 +66,9 @@ def result_identity(result):
 
 
 class TeamMember:
-    def __init__(self, name):
+    def __init__(self, name, active=True):
         self.name = name
+        self.active = active  # False : ancien membre (gardé pour les classements des saisons passées)
         self.cx = {}    # saison -> [résultat]
         self.vtt = {}
         self.road = {}
@@ -79,68 +94,16 @@ class TeamMember:
             return {year: sorted(sorted(results, key=lambda r: (r["raceName"], r["category"])),
                                  key=lambda r: r["date"])  # ordre chronologique (comme l'affichage historique)
                     for year, results in sorted(by_season.items(), reverse=True) if results}
-        return {"name": self.name, "cx": seasons(self.cx), "vtt": seasons(self.vtt), "road": seasons(self.road)}
-
-    def challenge_calcul_point(self, year, points_challenge):
-        """Challenge route : points des courses sur route de la saison."""
-        return points_challenge.points_for_results(self.road.get(year))
-
-    def challenge_calcul_point_boue(self, year, points_challenge):
-        """Challenge boue : points des cyclo-cross et VTT de la saison."""
-        return (points_challenge.points_for_results(self.cx.get(year))
-                + points_challenge.points_for_results(self.vtt.get(year)))
-
-
-def get_points_challenge(file_challenge):
-    with open(file_challenge, 'r') as challenge_file:
-        data_challenge = json.load(challenge_file)
-        return ChallengePoints(data_challenge["point_win"], data_challenge["point_top5"], data_challenge["point_top10"], data_challenge[
-            "point_top15"], data_challenge["point_participation"])
-
-
-def update_challenge(team: dict[str, TeamMember], challenge_year, challenge):
-    file_name = "../_data/" + challenge + challenge_year + ".json"
-    # nouvelle saison : reprend le barème de la saison précédente si le fichier n'existe pas encore
-    points_source = file_name
-    if not os.path.exists(file_name):
-        points_source = "../_data/" + challenge + str(int(challenge_year) - 1) + ".json"
-    points_challenge = get_points_challenge(points_source)
-    data = {}
-    challenge_res = {}
-    if challenge == "boue":
-        for m in team.values():
-            challenge_res[m.name] = m.challenge_calcul_point_boue(challenge_year, points_challenge)
-    elif challenge == "challenge":
-        for m in team.values():
-            challenge_res[m.name] = m.challenge_calcul_point(challenge_year, points_challenge)
-    data["point_win"] = points_challenge.point_win
-    data["point_top5"] = points_challenge.point_top5
-    data["point_top10"] = points_challenge.point_top10
-    data["point_top15"] = points_challenge.point_top15
-    data["point_participation"] = points_challenge.point_participation
-    data["update_date"] = datetime.datetime.now().strftime("%d %B %Y")
-    data["challenge_year"] = challenge_year
-    data["challenge"] = dict(sorted(challenge_res.items(), key=operator.itemgetter(1), reverse=True))
-    # la date de mise à jour ne change que si le classement change (évite un commit CI quotidien inutile)
-    if os.path.exists(file_name):
-        with open(file_name, "r", encoding="utf8") as previous_file:
-            previous = json.load(previous_file)
-        if {k: v for k, v in previous.items() if k != "update_date"} == {k: v for k, v in data.items() if k != "update_date"}:
-            data["update_date"] = previous.get("update_date", data["update_date"])
-    json_object = json.dumps(data, ensure_ascii=False, indent=4)
-    with open(file_name, "w", encoding='utf8') as outfile:
-        outfile.write(json_object)
+        return {"name": self.name, "active": self.active, "cx": seasons(self.cx), "vtt": seasons(self.vtt),
+                "road": seasons(self.road)}
 
 
 def update_road_statistics(team: dict[str, TeamMember], year):
-    with open("../_data/challenge" + year + ".json", "r", encoding="utf8") as challenge_file:
-        challenge_data = json.load(challenge_file)
-
-    challenge_points = challenge_data["challenge"]
+    points_rules = ChallengePoints.from_rules("challenge", year)
     riders = []
     place_totals = [0] * 10
 
-    for member in team.values():
+    for member in (m for m in team.values() if m.active):
         races = member.road.get(year, [])
         places = [sum(1 for result in races if result.get("rank") == place) for place in range(1, 11)]
         place_totals = [total + count for total, count in zip(place_totals, places)]
@@ -148,7 +111,7 @@ def update_road_statistics(team: dict[str, TeamMember], year):
             "name": member.name,
             "races": len(races),
             "places": places,
-            "challenge_points": challenge_points.get(member.name, 0),
+            "challenge_points": points_rules.points_for_results(races),
         })
 
     riders.sort(key=lambda rider: (-sum(rider["places"]), rider["name"]))
@@ -175,7 +138,7 @@ def load_team_from_file(team: dict[str, TeamMember]) -> dict[str, TeamMember]:
     data = json.load(team_file)
 
     for member in data['team_members']:
-        team[member["name"]] = TeamMember(member["name"])
+        team[member["name"]] = TeamMember(member["name"], member.get("active", True))
         team[member["name"]].cx = member["cx"]
         team[member["name"]].vtt = member["vtt"]
         team[member["name"]].road = member["road"]
@@ -184,23 +147,9 @@ def load_team_from_file(team: dict[str, TeamMember]) -> dict[str, TeamMember]:
     return team
 
 
-def load_former_members():
-    """Anciens membres (ne plus lister dans team.json) : _data/former_members.json."""
-    if not os.path.exists(former_members_path_file):
-        return set()
-    with open(former_members_path_file, "r", encoding="utf8") as file:
-        return set(json.load(file))
-
-
-def remove_old_team(team):
-    for name in load_former_members():
-        team.pop(name, None)
-
-
 def update_team_file(team):
     data = {}
     array = []
-    remove_old_team(team)
     for m in team.values():
         array.append(m.to_dict())
     data["team_members"] = array

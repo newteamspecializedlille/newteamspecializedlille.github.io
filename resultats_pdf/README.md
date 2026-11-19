@@ -14,7 +14,7 @@ resultats_pdf/route/  <NOM DE LA COURSE>.pdf
   d'après la couleur de la ligne) viennent du calendrier UFOLEP (pages VTT / Cross / Route).
   Le fichier est rattaché à la course dont le nom est celui du fichier (casse et accents ignorés), ou contenu de
   façon unique dans le nom du fichier (`TERRIL 89 - HENIN BEAUMONT.pdf` -> `HENIN BEAUMONT`).
-- Il suffit de pousser le PDF sur `main` : la CI crée le post, met à jour `team.json`, les challenges et envoie la notification.
+- Il suffit de pousser le PDF sur `main` : la CI crée le post, met à jour `team.json` (les classements challenge route / boue sont calculés au build depuis `team.json`, barèmes dans `_data/challenge_rules.json`) et envoie la notification.
 - Un PDF non rattaché est signalé dans le log de la CI (`[PDF] non rattaché ...`) : renommer le fichier.
 - Si la colonne Club est vide (cas Lillers), les équipiers sont reconnus par leur nom dans `_data/team.json`.
 - Le PDF doit être l'export Excel des classements (une feuille par page : `1ère Catégorie`, `2ème Catégorie`, ...).

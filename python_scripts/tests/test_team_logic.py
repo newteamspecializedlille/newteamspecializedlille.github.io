@@ -1,5 +1,6 @@
 import os
 import sys
+import tempfile
 import unittest
 
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
@@ -27,15 +28,30 @@ class PointsTest(unittest.TestCase):
         self.assertEqual(pts.points_for_results(results), 30)
         self.assertEqual(pts.points_for_results(None), 0)
 
-    def test_challenge_functions_use_same_scale(self):
-        pts = team_members.ChallengePoints(10, 3, 2, 1, 10)
-        m = team_members.TeamMember("X Y")
-        make = team_members.make_result
-        m.road = {"2026": [make("2026-03-01", "a", "1ère", 1)]}
-        m.cx = {"2027": [make("2026-11-01", "a", "1ère", 2)]}
-        m.vtt = {"2027": [make("2026-11-02", "b", "Seniors B", 6)]}
-        self.assertEqual(m.challenge_calcul_point("2026", pts), 20)
-        self.assertEqual(m.challenge_calcul_point_boue("2027", pts), 13 + 12)
+    def test_abandon_can_count_as_participation(self):
+        pts = team_members.ChallengePoints(10, 3, 2, 1, 10, abandon_counts=True)
+        self.assertEqual(pts.points_for_place(None, "AB"), 10)
+
+    def test_scales_come_from_rules_file(self):
+        rules = {"abandon_counts": False,
+                 "challenge": {"2024": {"point_win": 3, "point_top5": 2, "point_top10": 1, "point_top15": 0,
+                                        "point_participation": 10},
+                               "default": {"point_win": 10, "point_top5": 3, "point_top10": 2, "point_top15": 1,
+                                           "point_participation": 10}},
+                 "boue": {"default": {"point_win": 3, "point_top5": 2, "point_top10": 1, "point_top15": 0,
+                                      "point_participation": 10}}}
+        old = team_members.ChallengePoints.from_rules("challenge", 2024, rules)
+        new = team_members.ChallengePoints.from_rules("challenge", "2026", rules)
+        self.assertEqual((old.point_win, new.point_win), (3, 10))
+        self.assertEqual(team_members.ChallengePoints.from_rules("boue", 2027, rules).point_win, 3)
+
+    def test_real_rules_file_is_valid(self):
+        import json
+        path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "_data", "challenge_rules.json")
+        rules = json.load(open(path, encoding="utf8"))
+        for kind in ("challenge", "boue"):
+            self.assertIn("default", rules[kind])
+            self.assertEqual(team_members.ChallengePoints.from_rules(kind, 2099, rules).point_participation, 10)
 
 
 class ResultsTest(unittest.TestCase):
@@ -57,7 +73,7 @@ class ResultsTest(unittest.TestCase):
         d = m.to_dict()
         self.assertEqual([(r["date"], r["raceName"]) for r in d["cx"]["2027"]],
                          [("2026-10-18", "ANZIN"), ("2026-11-01", "HENIN")])
-        self.assertEqual(set(d), {"name", "cx", "vtt", "road"})
+        self.assertEqual(set(d), {"name", "active", "cx", "vtt", "road"})
 
     def test_rank_status(self):
         import parse_results
@@ -66,12 +82,29 @@ class ResultsTest(unittest.TestCase):
         self.assertEqual(parse_results.to_rank_status("AB"), (None, "AB"))
 
 
-class FormerMembersTest(unittest.TestCase):
-    def test_former_members_removed_from_file_data(self):
-        team = {"BOONE ERIC": team_members.TeamMember("BOONE ERIC"), "DUFOUR JULIEN": team_members.TeamMember("DUFOUR JULIEN")}
-        team_members.remove_old_team(team)
-        self.assertEqual(list(team), ["DUFOUR JULIEN"])
-        self.assertIn("BOONE ERIC", team_members.load_former_members())
+class ActiveMembersTest(unittest.TestCase):
+    def test_active_flag_round_trip_and_stats(self):
+        former = team_members.TeamMember("BOONE NICOLAS", active=False)
+        current = team_members.TeamMember("DUFOUR JULIEN")
+        self.assertFalse(former.to_dict()["active"])
+        self.assertTrue(current.to_dict()["active"])
+        current.upsert_result("road", "2026", team_members.make_result("2026-03-07", "HASPRES", "2ème", 8))
+        former.upsert_result("road", "2026", team_members.make_result("2026-03-07", "HASPRES", "2ème", 1))
+        with tempfile.TemporaryDirectory() as tmp:
+            os.makedirs(os.path.join(tmp, "python_scripts"))
+            old = os.getcwd()
+            os.chdir(os.path.join(tmp, "python_scripts"))
+            try:
+                os.makedirs("../_data")
+                import shutil
+                shutil.copy(team_members.rules_path_file.replace("../_data", os.path.join(old, "..", "_data")),
+                            "../_data/challenge_rules.json")
+                team_members.update_road_statistics({"B": former, "D": current}, "2026")
+                stats = __import__("json").load(open("../_data/road2026_stats.json", encoding="utf8"))
+            finally:
+                os.chdir(old)
+        self.assertEqual([r["name"] for r in stats["riders"]], ["DUFOUR JULIEN"])  # ancien membre absent des stats
+        self.assertEqual(stats["riders"][0]["challenge_points"], 12)
 
 
 class CategoryTest(unittest.TestCase):

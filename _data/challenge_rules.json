@@ -1,0 +1,12 @@
+{
+    "abandon_counts": false,
+    "challenge": {
+        "2024": {"point_win": 3, "point_top5": 2, "point_top10": 1, "point_top15": 0, "point_participation": 10},
+        "2025": {"point_win": 10, "point_top5": 3, "point_top10": 2, "point_top15": 1, "point_participation": 10},
+        "default": {"point_win": 10, "point_top5": 3, "point_top10": 2, "point_top15": 1, "point_participation": 10}
+    },
+    "boue": {
+        "2025": {"point_win": 3, "point_top5": 2, "point_top10": 1, "point_top15": 0, "point_participation": 10},
+        "default": {"point_win": 3, "point_top5": 2, "point_top10": 1, "point_top15": 0, "point_participation": 10}
+    }
+}
