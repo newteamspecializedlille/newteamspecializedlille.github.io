@@ -1,35 +1,21 @@
 class RaceResults:
+    """Résultats d'une course tels qu'affichés dans le post.
+
+    team[catégorie] = {membre: place} ; riders[catégorie] = nombre de partants ; scratch = classement général.
+    Les catégories sont celles de parse_results.POST_SECTIONS (+ les catégories jeunes).
+    """
+
     def __init__(self, name):
         self.name = name
         self.race_date = ""
         self.race_type = ""
         self.race_year = ""
-
-        self.one = {}
-        self.one_riders = 0
-        self.two = {}
-        self.two_riders = 0
-        self.three = {}
-        self.three_riders = 0
-        self.cadet = {}
-        self.cadet_riders = 0
-        self.fem = {}
-        self.fem_riders = 0
-
-        self.VTTSeniorsA_riders = 0
-        self.VTTSeniorsB_riders = 0
-        self.VTTVeteransA_riders = 0
-        self.VTTVeteransB_riders = 0
-        self.VTTVeteransC_riders = 0
-
-        self.VTTSeniorsA = {}
-        self.VTTSeniorsB = {}
-        self.VTTVeteransA = {}
-        self.VTTVeteransB = {}
-        self.VTTVeteransC = {}
-
-        # catégories jeunes (Minimes, Benjamins, Pupilles, Poussins) : {catégorie: {coureur: place}}
-        self.young = {}
-        self.young_riders = {}
-
+        self.team = {}
+        self.riders = {}
         self.scratch = {}
+
+    def add_rider(self, category):
+        self.riders[category] = self.riders.get(category, 0) + 1
+
+    def add_team_result(self, category, member, result):
+        self.team.setdefault(category, {})[member] = result

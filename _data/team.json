@@ -155,7 +155,7 @@
                     {
                         "date": "2024-12-15",
                         "raceName": "NORD",
-                        "category": "17-19 ans",
+                        "category": "17/19 ans",
                         "rank": 8,
                         "status": null,
                         "participants": 14
@@ -179,7 +179,7 @@
                     {
                         "date": "2025-01-12",
                         "raceName": "NOYELLES LES VERMELLES",
-                        "category": "17-19 ans",
+                        "category": "17/19 ans",
                         "rank": 7,
                         "status": null,
                         "participants": null
@@ -269,7 +269,7 @@
                     {
                         "date": "2023-12-10",
                         "raceName": "AVESNES LES AUBERT",
-                        "category": "17-19 ans",
+                        "category": "17/19 ans",
                         "rank": 8,
                         "status": null,
                         "participants": 12
@@ -301,7 +301,7 @@
                     {
                         "date": "2024-01-07",
                         "raceName": "WALLERS AREMBERG2",
-                        "category": "17-19 ans",
+                        "category": "17/19 ans",
                         "rank": 7,
                         "status": null,
                         "participants": 11
@@ -325,7 +325,7 @@
                     {
                         "date": "2024-01-27",
                         "raceName": "2024National",
-                        "category": "17-19 ans",
+                        "category": "17/19 ans",
                         "rank": 49,
                         "status": null,
                         "participants": 60
@@ -455,7 +455,7 @@
                     {
                         "date": "2026-05-10",
                         "raceName": "MARQUETTE EN OSTREVENT",
-                        "category": "17/19ans",
+                        "category": "17/19 ans",
                         "rank": 3,
                         "status": null,
                         "participants": 31
@@ -479,7 +479,7 @@
                     {
                         "date": "2026-06-14",
                         "raceName": "HASPRES2",
-                        "category": "17/19ans",
+                        "category": "17/19 ans",
                         "rank": 5,
                         "status": null,
                         "participants": 20
@@ -561,7 +561,7 @@
                     {
                         "date": "2025-05-18",
                         "raceName": "DEPARTEMENT-NORD",
-                        "category": "Juniors 17/19 ans",
+                        "category": "17/19 ans",
                         "rank": 8,
                         "status": null,
                         "participants": null
@@ -585,7 +585,7 @@
                     {
                         "date": "2025-06-15",
                         "raceName": "REGIONAL",
-                        "category": "17-19 ans",
+                        "category": "17/19 ans",
                         "rank": 4,
                         "status": null,
                         "participants": null
@@ -601,7 +601,7 @@
                     {
                         "date": "2025-07-04",
                         "raceName": "NATIONAL",
-                        "category": "Juniors 17/19 ans",
+                        "category": "17/19 ans",
                         "rank": 27,
                         "status": null,
                         "participants": null
@@ -747,7 +747,7 @@
                     {
                         "date": "2024-05-26",
                         "raceName": "Departemental",
-                        "category": "17/19ans",
+                        "category": "17/19 ans",
                         "rank": 6,
                         "status": null,
                         "participants": null
@@ -787,7 +787,7 @@
                     {
                         "date": "2024-07-05",
                         "raceName": "NATIONAL",
-                        "category": "17-19 ans",
+                        "category": "17/19 ans",
                         "rank": 45,
                         "status": null,
                         "participants": null
@@ -938,7 +938,7 @@
                     {
                         "date": "2023-12-10",
                         "raceName": "AVESNES LES AUBERT",
-                        "category": "50-59 ans",
+                        "category": "50/59 ans",
                         "rank": 3,
                         "status": null,
                         "participants": null
@@ -954,7 +954,7 @@
                     {
                         "date": "2024-01-07",
                         "raceName": "WALLERS AREMBERG2",
-                        "category": "50-59 ans",
+                        "category": "50/59 ans",
                         "rank": 2,
                         "status": null,
                         "participants": null
@@ -962,7 +962,7 @@
                     {
                         "date": "2024-01-27",
                         "raceName": "2024National",
-                        "category": "50-59 ans",
+                        "category": "50/59 ans",
                         "rank": 27,
                         "status": null,
                         "participants": null
@@ -1023,7 +1023,7 @@
                     {
                         "date": "2026-05-10",
                         "raceName": "MARQUETTE EN OSTREVENT",
-                        "category": "50/59ans",
+                        "category": "50/59 ans",
                         "rank": 11,
                         "status": null,
                         "participants": 48
@@ -1047,7 +1047,7 @@
                     {
                         "date": "2026-06-14",
                         "raceName": "HASPRES2",
-                        "category": "50/59ans",
+                        "category": "50/59 ans",
                         "rank": 5,
                         "status": null,
                         "participants": 46
@@ -1137,7 +1137,7 @@
                     {
                         "date": "2025-05-18",
                         "raceName": "DEPARTEMENT-NORD",
-                        "category": "Vétérans B - 50/59 ans",
+                        "category": "Vétérans B",
                         "rank": 2,
                         "status": null,
                         "participants": 59
@@ -1161,7 +1161,7 @@
                     {
                         "date": "2025-06-15",
                         "raceName": "REGIONAL",
-                        "category": "50-59 ans",
+                        "category": "50/59 ans",
                         "rank": 3,
                         "status": null,
                         "participants": null
@@ -1235,7 +1235,7 @@
                     {
                         "date": "2024-05-26",
                         "raceName": "Departemental",
-                        "category": "50/59ans",
+                        "category": "50/59 ans",
                         "rank": 2,
                         "status": null,
                         "participants": null
@@ -1267,7 +1267,7 @@
                     {
                         "date": "2024-07-05",
                         "raceName": "NATIONAL",
-                        "category": "50/59ans",
+                        "category": "50/59 ans",
                         "rank": 7,
                         "status": null,
                         "participants": null
@@ -1754,7 +1754,7 @@
                     {
                         "date": "2023-12-10",
                         "raceName": "AVESNES LES AUBERT",
-                        "category": "17-19 ans",
+                        "category": "17/19 ans",
                         "rank": 12,
                         "status": null,
                         "participants": 12
@@ -1770,7 +1770,7 @@
                     {
                         "date": "2024-01-07",
                         "raceName": "WALLERS AREMBERG2",
-                        "category": "17-19 ans",
+                        "category": "17/19 ans",
                         "rank": 8,
                         "status": null,
                         "participants": 11
@@ -1778,7 +1778,7 @@
                     {
                         "date": "2024-01-27",
                         "raceName": "2024National",
-                        "category": "17-19 ans",
+                        "category": "17/19 ans",
                         "rank": 45,
                         "status": null,
                         "participants": 60
@@ -1849,7 +1849,7 @@
                     {
                         "date": "2026-05-10",
                         "raceName": "MARQUETTE EN OSTREVENT",
-                        "category": "17/19ans",
+                        "category": "17/19 ans",
                         "rank": 2,
                         "status": null,
                         "participants": 31
@@ -1873,7 +1873,7 @@
                     {
                         "date": "2026-06-14",
                         "raceName": "HASPRES2",
-                        "category": "17/19ans",
+                        "category": "17/19 ans",
                         "rank": null,
                         "status": "AB",
                         "participants": 20
@@ -1979,7 +1979,7 @@
                     {
                         "date": "2025-05-18",
                         "raceName": "DEPARTEMENT-NORD",
-                        "category": "Juniors 17/19 ans",
+                        "category": "17/19 ans",
                         "rank": 3,
                         "status": null,
                         "participants": null
@@ -2003,7 +2003,7 @@
                     {
                         "date": "2025-06-15",
                         "raceName": "REGIONAL",
-                        "category": "17-19 ans",
+                        "category": "17/19 ans",
                         "rank": null,
                         "status": "AB",
                         "participants": null
@@ -2077,7 +2077,7 @@
                     {
                         "date": "2024-05-26",
                         "raceName": "Departemental",
-                        "category": "17/19ans",
+                        "category": "17/19 ans",
                         "rank": 10,
                         "status": null,
                         "participants": null
@@ -2109,7 +2109,7 @@
                     {
                         "date": "2024-07-05",
                         "raceName": "NATIONAL",
-                        "category": "17-19 ans",
+                        "category": "17/19 ans",
                         "rank": 12,
                         "status": null,
                         "participants": null
@@ -2298,7 +2298,7 @@
                     {
                         "date": "2023-12-10",
                         "raceName": "AVESNES LES AUBERT",
-                        "category": "30-39 ans",
+                        "category": "30/39 ans",
                         "rank": 15,
                         "status": null,
                         "participants": null
@@ -2314,7 +2314,7 @@
                     {
                         "date": "2024-01-07",
                         "raceName": "WALLERS AREMBERG2",
-                        "category": "30-39 ans",
+                        "category": "30/39 ans",
                         "rank": 14,
                         "status": null,
                         "participants": null
@@ -2540,7 +2540,7 @@
                     {
                         "date": "2026-05-10",
                         "raceName": "MARQUETTE EN OSTREVENT",
-                        "category": "30/39ans",
+                        "category": "30/39 ans",
                         "rank": 27,
                         "status": null,
                         "participants": 41
@@ -2604,7 +2604,7 @@
                     {
                         "date": "2026-06-14",
                         "raceName": "HASPRES2",
-                        "category": "30/39ans",
+                        "category": "30/39 ans",
                         "rank": 17,
                         "status": null,
                         "participants": 31
@@ -2886,7 +2886,7 @@
                     {
                         "date": "2025-05-18",
                         "raceName": "DEPARTEMENT-NORD",
-                        "category": "Séniors B - 30/39 ans",
+                        "category": "Seniors B",
                         "rank": 20,
                         "status": null,
                         "participants": 44
@@ -3128,7 +3128,7 @@
                     {
                         "date": "2024-05-26",
                         "raceName": "Departemental",
-                        "category": "30/39ans",
+                        "category": "30/39 ans",
                         "rank": 18,
                         "status": null,
                         "participants": null
@@ -4003,7 +4003,7 @@
                     {
                         "date": "2026-05-10",
                         "raceName": "MARQUETTE EN OSTREVENT",
-                        "category": "50/59ans",
+                        "category": "50/59 ans",
                         "rank": 36,
                         "status": null,
                         "participants": 48
@@ -4075,7 +4075,7 @@
                     {
                         "date": "2026-06-14",
                         "raceName": "HASPRES2",
-                        "category": "50/59ans",
+                        "category": "50/59 ans",
                         "rank": 18,
                         "status": null,
                         "participants": 46
@@ -4277,7 +4277,7 @@
                     {
                         "date": "2025-05-18",
                         "raceName": "DEPARTEMENT-NORD",
-                        "category": "Vétérans B - 50/59 ans",
+                        "category": "Vétérans B",
                         "rank": 22,
                         "status": null,
                         "participants": 59
@@ -4309,7 +4309,7 @@
                     {
                         "date": "2025-06-15",
                         "raceName": "REGIONAL",
-                        "category": "50-59 ans",
+                        "category": "50/59 ans",
                         "rank": 19,
                         "status": null,
                         "participants": null
@@ -4607,7 +4607,7 @@
                     {
                         "date": "2024-05-26",
                         "raceName": "Departemental",
-                        "category": "50/59ans",
+                        "category": "50/59 ans",
                         "rank": 14,
                         "status": null,
                         "participants": null
@@ -5729,7 +5729,7 @@
                     {
                         "date": "2025-05-18",
                         "raceName": "DEPARTEMENT-NORD",
-                        "category": "Vétérans A - 40/49 ans",
+                        "category": "Vétérans A",
                         "rank": 35,
                         "status": null,
                         "participants": null
@@ -5753,7 +5753,7 @@
                     {
                         "date": "2025-06-15",
                         "raceName": "REGIONAL",
-                        "category": "40-49 ans",
+                        "category": "40/49 ans",
                         "rank": 27,
                         "status": null,
                         "participants": null
@@ -5955,7 +5955,7 @@
                     {
                         "date": "2024-05-26",
                         "raceName": "Departemental",
-                        "category": "30/39ans",
+                        "category": "30/39 ans",
                         "rank": 43,
                         "status": null,
                         "participants": null
@@ -6035,7 +6035,7 @@
                     {
                         "date": "2024-08-09",
                         "raceName": "CLMNATIONAL",
-                        "category": "30/39ans",
+                        "category": "30/39 ans",
                         "rank": 7,
                         "status": null,
                         "participants": null
@@ -6360,7 +6360,7 @@
                     {
                         "date": "2026-06-14",
                         "raceName": "HASPRES2",
-                        "category": "40/49ans",
+                        "category": "40/49 ans",
                         "rank": 24,
                         "status": null,
                         "participants": 35
@@ -6808,7 +6808,7 @@
                     {
                         "date": "2026-05-10",
                         "raceName": "MARQUETTE EN OSTREVENT",
-                        "category": "40/49ans",
+                        "category": "40/49 ans",
                         "rank": 30,
                         "status": null,
                         "participants": 59
@@ -6880,7 +6880,7 @@
                     {
                         "date": "2026-06-14",
                         "raceName": "HASPRES2",
-                        "category": "40/49ans",
+                        "category": "40/49 ans",
                         "rank": 13,
                         "status": null,
                         "participants": 35
@@ -7130,7 +7130,7 @@
                     {
                         "date": "2025-05-18",
                         "raceName": "DEPARTEMENT-NORD",
-                        "category": "Vétérans A - 40/49 ans",
+                        "category": "Vétérans A",
                         "rank": 20,
                         "status": null,
                         "participants": null
@@ -7300,7 +7300,7 @@
                     {
                         "date": "2024-05-26",
                         "raceName": "Departemental",
-                        "category": "30/39ans",
+                        "category": "30/39 ans",
                         "rank": 38,
                         "status": null,
                         "participants": null
@@ -7657,7 +7657,7 @@
                     {
                         "date": "2024-05-26",
                         "raceName": "Departemental",
-                        "category": "40/49ans",
+                        "category": "40/49 ans",
                         "rank": 16,
                         "status": null,
                         "participants": null
@@ -7950,7 +7950,7 @@
                     {
                         "date": "2026-05-10",
                         "raceName": "MARQUETTE EN OSTREVENT",
-                        "category": "20/29ans",
+                        "category": "20/29 ans",
                         "rank": 8,
                         "status": null,
                         "participants": 38
@@ -7966,7 +7966,7 @@
                     {
                         "date": "2026-06-14",
                         "raceName": "HASPRES2",
-                        "category": "20/29ans",
+                        "category": "20/29 ans",
                         "rank": 22,
                         "status": null,
                         "participants": 28
@@ -8080,7 +8080,7 @@
                     {
                         "date": "2025-05-18",
                         "raceName": "DEPARTEMENT-NORD",
-                        "category": "Séniors A - 20/29 ans",
+                        "category": "Seniors A",
                         "rank": 18,
                         "status": null,
                         "participants": 41
@@ -8104,7 +8104,7 @@
                     {
                         "date": "2025-06-15",
                         "raceName": "REGIONAL",
-                        "category": "20-29 ans",
+                        "category": "20/29 ans",
                         "rank": 16,
                         "status": null,
                         "participants": null
@@ -8218,7 +8218,7 @@
                     {
                         "date": "2024-05-26",
                         "raceName": "Departemental",
-                        "category": "20/29ans",
+                        "category": "20/29 ans",
                         "rank": 22,
                         "status": null,
                         "participants": null
@@ -8379,7 +8379,7 @@
                     {
                         "date": "2026-05-10",
                         "raceName": "MARQUETTE EN OSTREVENT",
-                        "category": "30/39ans",
+                        "category": "30/39 ans",
                         "rank": 17,
                         "status": null,
                         "participants": 41
@@ -8955,7 +8955,7 @@
                     {
                         "date": "2026-05-10",
                         "raceName": "MARQUETTE EN OSTREVENT",
-                        "category": "30/39ans",
+                        "category": "30/39 ans",
                         "rank": 1,
                         "status": null,
                         "participants": 41
@@ -8987,7 +8987,7 @@
                     {
                         "date": "2026-06-14",
                         "raceName": "HASPRES2",
-                        "category": "30/39ans",
+                        "category": "30/39 ans",
                         "rank": 8,
                         "status": null,
                         "participants": 31
@@ -9125,7 +9125,7 @@
                     {
                         "date": "2025-05-18",
                         "raceName": "DEPARTEMENT-NORD",
-                        "category": "Séniors B - 30/39 ans",
+                        "category": "Seniors B",
                         "rank": 3,
                         "status": null,
                         "participants": 44
@@ -9141,7 +9141,7 @@
                     {
                         "date": "2025-06-15",
                         "raceName": "REGIONAL",
-                        "category": "30-39 ans",
+                        "category": "30/39 ans",
                         "rank": 4,
                         "status": null,
                         "participants": null
@@ -9368,7 +9368,7 @@
                     {
                         "date": "2024-12-15",
                         "raceName": "NORD",
-                        "category": "SeniorA",
+                        "category": "Seniors A",
                         "rank": 9,
                         "status": null,
                         "participants": 15
@@ -9376,7 +9376,7 @@
                     {
                         "date": "2025-01-12",
                         "raceName": "NOYELLES LES VERMELLES",
-                        "category": "20-29 ans",
+                        "category": "20/29 ans",
                         "rank": 5,
                         "status": null,
                         "participants": null

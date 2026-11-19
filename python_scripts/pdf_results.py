@@ -35,6 +35,30 @@ def name_key(name):
     return " ".join(sorted(strip_accents(name).upper().replace("-", " ").split()))
 
 
+AGE_RE = re.compile(r"(\d\d)\s*[/-]\s*(\d\d)\s*ans?")
+
+
+def normalize_category(label):
+    """Libellé de catégorie unique pour les variantes d'écriture (« 30/39ans », « 30-39 ans », « Masculins 30/39 ans »
+    -> « 30/39 ans » ; « Séniors B - 30/39 ans » -> « Seniors B » ; « 4ème Catégorie » -> « 4ème »)."""
+    text = label.strip()
+    plain = strip_accents(text).lower()
+    named = re.match(r"(seniors?|veterans?)\s*-?\s*([abc])\b", plain)
+    if named:  # nom de catégorie (avec ou sans tranche d'âge) : on garde le nom
+        return ("Seniors " if named.group(1).startswith("senior") else "Vétérans ") + named.group(2).upper()
+    if re.fullmatch(r"senior\s*([abc])", plain):
+        return "Seniors " + plain[-1].upper()
+    if re.search(r"\b60\s*(ans\s*)?(et\s*(plus|\+)|\+)", plain):
+        return "60 ans et plus"
+    age = AGE_RE.search(plain)
+    if age:
+        return "%s/%s ans" % age.groups()
+    m = re.fullmatch(r"(\d)\s*(?:e|eme|re|ere)\s*(?:categorie)?", plain)
+    if m:
+        return {"1": "1ère"}.get(m.group(1), m.group(1) + "ème")
+    return text
+
+
 def canonical_sheet_name(title):
     t = strip_accents(title).lower()
     # VTT par tranches d'âge (UFOLEP) : 20/29 = Seniors A, 30/39 = Seniors B, 40/49, 50/59, 60+ = Vétérans A, B, C
@@ -62,7 +86,7 @@ def canonical_sheet_name(title):
     m = re.search(r"\b([123])\s*(?:re|ere|e|me|eme)\b", t)
     if m:
         return {"1": "1ère", "2": "2ème", "3": "3ème"}[m.group(1)]
-    return title.strip()
+    return normalize_category(title.strip())
 
 
 class _Cell:

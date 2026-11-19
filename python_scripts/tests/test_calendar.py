@@ -37,7 +37,7 @@ class CalendarTest(unittest.TestCase):
         names = [pdf_results.canonical_sheet_name(t) for t in
                  ("VTT 20/29 ans", "VTT 30/39 ans", "VTT 40/49 ans", "VTT 50/59 ans", "VTT 60 et +")]
         self.assertEqual(names, ["Seniors A", "Seniors B", "Vétérans A", "Vétérans B", "Vétérans C"])
-        self.assertEqual(pdf_results.canonical_sheet_name("Masculins 30/39 ans"), "Masculins 30/39 ans")
+        self.assertEqual(pdf_results.canonical_sheet_name("Masculins 30/39 ans"), "30/39 ans")
 
 
 if __name__ == "__main__":

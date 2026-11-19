@@ -66,6 +66,29 @@ class ResultsTest(unittest.TestCase):
         self.assertEqual(parse_results.to_rank_status("AB"), (None, "AB"))
 
 
+class FormerMembersTest(unittest.TestCase):
+    def test_former_members_removed_from_file_data(self):
+        team = {"BOONE ERIC": team_members.TeamMember("BOONE ERIC"), "DUFOUR JULIEN": team_members.TeamMember("DUFOUR JULIEN")}
+        team_members.remove_old_team(team)
+        self.assertEqual(list(team), ["DUFOUR JULIEN"])
+        self.assertIn("BOONE ERIC", team_members.load_former_members())
+
+
+class CategoryTest(unittest.TestCase):
+    def test_normalize_category(self):
+        n = pdf_results.normalize_category
+        for label, expected in [("30/39ans", "30/39 ans"), ("30-39 ans", "30/39 ans"), ("Masculins 30/39 ans", "30/39 ans"),
+                                ("Juniors 17/19 ans", "17/19 ans"), ("Séniors B - 30/39 ans", "Seniors B"),
+                                ("Vétérans A - 40/49 ans", "Vétérans A"), ("SeniorA", "Seniors A"),
+                                ("4ème Catégorie", "4ème"), ("1ère", "1ère"), ("Juniors", "Juniors"),
+                                ("Masculins 60 ans et plus", "60 ans et plus"), ("Féminines", "Féminines"), ("", "")]:
+            self.assertEqual(n(label), expected, label)
+
+    def test_sheet_names_use_it(self):
+        self.assertEqual(pdf_results.canonical_sheet_name("Masculins 50/59 ans"), "50/59 ans")
+        self.assertEqual(pdf_results.canonical_sheet_name("4ème Catégorie"), "4ème")
+
+
 class MatchingTest(unittest.TestCase):
     ROSTER = ["FONTAINE HECTOR", "DUFOUR JULIEN"]
 

@@ -5,6 +5,7 @@ import operator
 
 team_path_file = '../_data/team.json'
 challenge_path_file = "../_data/challenge.json"
+former_members_path_file = '../_data/former_members.json'
 
 class ChallengePoints:
     def __init__(self, point_win, point_top5, point_top10, point_top15, point_participation):
@@ -183,47 +184,17 @@ def load_team_from_file(team: dict[str, TeamMember]) -> dict[str, TeamMember]:
     return team
 
 
+def load_former_members():
+    """Anciens membres (ne plus lister dans team.json) : _data/former_members.json."""
+    if not os.path.exists(former_members_path_file):
+        return set()
+    with open(former_members_path_file, "r", encoding="utf8") as file:
+        return set(json.load(file))
+
+
 def remove_old_team(team):
-    if "BOONE ERIC" in team:
-        team.pop("BOONE ERIC")
-    if "BRADEFER GERY" in team:
-        team.pop("BRADEFER GERY")
-    if "DEBUY SEBASTIEN" in team:
-        team.pop("DEBUY SEBASTIEN")
-    if "DARQUE JEAN FRANCOIS" in team:
-        team.pop("DARQUE JEAN FRANCOIS")
-    if "DUFOUR JONATHAN" in team:
-        team.pop("DUFOUR JONATHAN")
-    if "VERHULST ERIC" in team:
-        team.pop("VERHULST ERIC")
-    if "LECLERCQ FRANCK" in team:
-        team.pop("LECLERCQ FRANCK")
-    if "MOLKA MICHAEL" in team:
-        team.pop("MOLKA MICHAEL")
-    if "RAMBEAU CHRISTOPHER" in team:
-        team.pop("RAMBEAU CHRISTOPHER")
-    if "HULEUX LUDOVIC" in team:
-        team.pop("HULEUX LUDOVIC")
-    if "LECLERCQ CLEMENT" in team:
-        team.pop("LECLERCQ CLEMENT")
-    if "LECLERC CLEMENT" in team:
-        team.pop("LECLERC CLEMENT")
-    if "GINET LIONEL" in team:
-        team.pop("GINET LIONEL")
-    if "THEIL MICKAEL" in team:
-        team.pop("THEIL MICKAEL")
-    if "HOUREZ CEDRIC" in team:
-        team.pop("HOUREZ CEDRIC")
-    if "MATTIOLI RONALD" in team:
-        team.pop("MATTIOLI RONALD")
-    if "WALTER BENOIT" in team:
-        team.pop("WALTER BENOIT")
-    if "MEAUSOONE HENRI" in team:
-        team.pop("MEAUSOONE HENRI")
-    if "TRINEL EMILY" in team:
-        team.pop("TRINEL EMILY")
-    if "POULAIN NOAH" in team:
-        team.pop("POULAIN NOAH")
+    for name in load_former_members():
+        team.pop(name, None)
 
 
 def update_team_file(team):
