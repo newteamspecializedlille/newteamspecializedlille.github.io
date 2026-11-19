@@ -47,13 +47,14 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: requirements.txt
       - name: Install package
-        run: |
-          python3 -m pip install requests
-          python3 -m pip install xlrd
-          python3 -m pip install urllib3
-          python3 -m pip install beautifulsoup4
-          python3 -m pip install google-api-python-client google-auth-httplib2 google-auth-oauthlib Pillow
+        run: python3 -m pip install -r requirements.txt
       - name: Restore Google credentials
         env:
           GOOGLE_CREDENTIALS_B64: ${{ secrets.GOOGLE_CREDENTIALS_B64 }}
@@ -67,13 +68,19 @@ jobs:
           API_KEY: ${{ secrets.API_KEY }}
           API_KEY_DISQUS: ${{ secrets.API_KEY_DISQUS }}
           APP_ID: ${{ secrets.APP_ID }}
+        # Les classements viennent des PDF déposés dans resultats_pdf/ (ou téléchargés depuis le calendrier UFOLEP).
+        # Une erreur d'analyse ne doit pas empêcher le déploiement du site : elle est signalée en annotation.
         run: |
           rm -rf ../output.txt
           cd python_scripts
-          python main.py > ../output.txt
-          python notifications.py
+          python main.py > ../output.txt 2>&1 || echo "::error::main.py a échoué, voir le log ci-dessus"
+          cat ../output.txt
+          grep -E "^\[(ERROR|PDF|ALERTE)\]" ../output.txt | sed 's/^/::warning::/' || true
+          python notifications.py || echo "::warning::envoi des notifications en échec"
           rm -rf ../output.txt
 
+      - name: Rebase on latest main (evite un push rejete apres un push manuel)
+        run: git pull --rebase --autostash origin main || (git rebase --abort 2>/dev/null; true)
       - name: Save change in git
         uses: stefanzweifel/git-auto-commit-action@v5
         with:

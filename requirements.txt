@@ -1,0 +1,8 @@
+requests
+urllib3
+beautifulsoup4
+pdfplumber
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+Pillow

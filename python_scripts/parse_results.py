@@ -1,23 +1,40 @@
 from datetime import datetime
 
+import os
+import tempfile
 import requests
 import re
-import xlrd
+from bs4 import BeautifulSoup
 import team_members
 import race_results
+import pdf_results
 import urllib3
 import json
 import urllib.parse
 import sync_drive
 
 base = "https://www.cyclismeufolep5962.fr/"
+HTTP_TIMEOUT = 30
+# dossier des PDF de classement (resultats_pdf/{cx,vtt,route}/<NOM DE LA COURSE>.pdf)
+PDF_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "resultats_pdf")
+CALENDAR_PAGES = {"calResVTT.php": "VTT", "calResCross.php": "Cyclo Cross", "calResRoute.php": "Route"}
+# classe CSS de la ligne du calendrier UFOLEP -> type de course (lignes « Course » = course normale)
+CHAMPIONSHIPS = {
+    "Departemental Nord": "Championnat Nord",                  # bleu
+    "Departemental Pas de Calais": "Championnat Pas-de-Calais",  # vert
+    "Regional": "Championnat Département",                     # jaune
+    "National": "Championnat National",                        # blanc
+}
+# nom du calendrier -> nom historique de la course (garde les liens des posts et de team.json)
+ALIASES_FILE = "../_data/race_aliases.json"
+# "AAAA/MM/JJ|NOM" -> type de course (affiché dans les pages du site)
+RACE_TYPES_FILE = "../_data/race_types.json"
 column_result = 0
 column_name = 1
 column_team = 2
 column_lap = 3
 column_time = 4
 YOUNG_CATEGORIES = ["Minimes", "Benjamins", "Pupilles", "Poussins"]
-SCRATCH_SHEETS = 5  # seules les 5 premières feuilles alimentent le scratch
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 
@@ -69,6 +86,44 @@ def load_races_parsed():
     return races_parsed
 
 
+def load_json(path):
+    if not os.path.exists(path):
+        return {}
+    with open(path, "r", encoding="utf8") as json_file:
+        return json.load(json_file)
+
+
+def save_json(path, data):
+    with open(path, "w", encoding="utf8") as json_file:
+        json.dump(data, json_file, ensure_ascii=False, indent=4)
+        json_file.write("\n")
+
+
+def championship_label(css_classes):
+    """Type de course d'après les classes CSS de la ligne (None pour une course normale)."""
+    css = " ".join(css_classes).replace("tdCal", "").strip()
+    if css.startswith("National"):
+        css = "National"
+    return CHAMPIONSHIPS.get(css)
+
+
+def parse_calendar(html):
+    """Lit la page calendrier UFOLEP : [{date AAAA/MM/JJ, pdf (lien relatif), championship}]."""
+    rows = []
+    for tr in BeautifulSoup(html, "html.parser").find_all("tr"):
+        cells = tr.find_all("td")
+        if len(cells) < 4:
+            continue
+        date = re.search(r"(\d\d)/(\d\d)/(\d{4})", cells[0].get_text())
+        if not date:
+            continue
+        link = next((a["href"] for a in cells[-1].find_all("a", href=True)
+                     if a["href"].lower().endswith("classements.pdf")), None)
+        rows.append({"date": date.group(3) + "/" + date.group(2) + "/" + date.group(1), "pdf": link,
+                     "championship": championship_label(cells[0].get("class", []))})
+    return rows
+
+
 def sorted_algo(item):
     time = item[1].get("time", 0)[3] * 60 * 60 + item[1].get("time", 0)[4] * 60 + item[1].get("time", 0)[5]
     res = (item[1].get("lap", 0) * -1, time)
@@ -85,11 +140,25 @@ def print_line_table(outfile, bold, *arg):
     outfile.write("\n")
 
 
+class _PdfBook:
+    """Classeur construit à partir des feuilles d'un PDF."""
+
+    def __init__(self, sheets):
+        self._sheets = sheets
+        self.nsheets = len(sheets)
+
+    def sheet_by_index(self, index):
+        return self._sheets[index]
+
+
 class ParseResults:
     race_date = ""
     race_name = ""
     race_type = ""
     race_year = ""
+    race_championship = ""
+    aliases = {}
+    race_types = {}
     race_cat = ""
     races_parsed = []
     team = {}
@@ -102,6 +171,7 @@ class ParseResults:
         self.race_type = ""
         self.race_year = ""
         self.races_parsed = []
+        self.used_pdfs = set()
 
     def display_race_infos(self):
         print("__________________________________________________________________________")
@@ -116,6 +186,10 @@ class ParseResults:
         # year / race / cate /  => pos
         return self.race_date + "|" + self.race_name + "|" + self.race_cat
 
+    def is_participant_row(self, sheet, line):
+        """Une ligne compte comme participant dès que le nom est renseigné (le club peut être absent du PDF)."""
+        return line > 1 and str(sheet.cell(line, column_name).value) != ""
+
     def is_team_member(self, sheet, line):
         if line <= 1:
             return False
@@ -126,7 +200,7 @@ class ParseResults:
 
             if sheet.cell(line, column_result).value == "Ab" or sheet.cell(line, column_result).value == "AB":
                 member = sheet.cell(line, column_name).value
-                if member in self.team:
+                if self.find_team_key(str(member).upper()) in self.team:
                     return True
         return False
 
@@ -135,11 +209,11 @@ class ParseResults:
         sheet = coureurbook.sheet_by_index(sheet)
         self.race_cat = sheet.name
         hash_race = self.get_hash_race()
-        scratch_enable = check_if_scratch_enable(sheet) and sheet_index < SCRATCH_SHEETS
+        scratch_enable = check_if_scratch_enable(sheet) and sheet.scratch_eligible
         if hash_race not in self.results:
             self.results[hash_race] = race_results.RaceResults(hash_race)
         for line in range(sheet.nrows):
-            if str(sheet.cell(line, column_team).value) != "":
+            if self.is_participant_row(sheet, line):
                 if self.race_cat == "1ère":
                     self.results[hash_race].one_riders += 1
                 elif self.race_cat == "2ème":
@@ -150,7 +224,7 @@ class ParseResults:
                     self.results[hash_race].cadet_riders += 1
                 elif self.race_cat == "Féminines":
                     self.results[hash_race].fem_riders += 1
-                elif self.race_cat == "Séniors A":
+                elif self.race_cat in ("Séniors A", "Seniors A"):
                     self.results[hash_race].VTTSeniorsA_riders += 1
                 elif self.race_cat == "Seniors B":
                     self.results[hash_race].VTTSeniorsB_riders += 1
@@ -165,11 +239,18 @@ class ParseResults:
                     riders[self.race_cat] = riders.get(self.race_cat, 0) + 1
             if self.is_team_member(sheet, line):
                 # les noms des licenciés du club sont stockés en majuscules (ex: "FONTAINE Hector" -> "FONTAINE HECTOR")
-                member = str(sheet.cell(line, column_name).value).upper()
+                member = self.find_team_key(str(sheet.cell(line, column_name).value).upper())
                 if member not in self.team:
+                    print("[ALERTE] " + self.race_name + " / " + self.race_cat + " : nouveau membre créé « " + member
+                          + " » (club « TEAM SPECIALIZED LILLE » dans le PDF) : vérifier qu'il ne s'agit pas d'un "
+                          + "membre existant mal orthographié")
                     self.team[member] = team_members.TeamMember(member)
-                self.team[member].course += 1
                 hash_individual = self.get_hash_individual_race()
+                member_races = {"Cyclo Cross": self.team[member].cx, "VTT": self.team[member].vtt,
+                                "Route": self.team[member].road}.get(self.race_type, {})
+                # idempotent : une course déjà enregistrée n'est pas recomptée
+                if hash_individual not in member_races.get(season, {}):
+                    self.team[member].course += 1
                 if self.race_type == "Cyclo Cross":
                     if self.team[member].cx.get(season) is None:
                         self.team[member].cx[season] = {}
@@ -211,19 +292,12 @@ class ParseResults:
                     test = (40, 0, 0, 0, 38, 53)
                 else:
 
-                    raw_time = sheet.cell(line, column_time).value
-                    if isinstance(raw_time, str):
-                        raw_time = raw_time.split('.')[0]  # Remove characters after the point
-                        split_time = raw_time.split(":")
-                        try:
-                            test = (0, 0, 0, int(split_time[0]), int(split_time[1]), int(split_time[2]))
-                        except Exception:
-                            test = (40, 0, 0, 0, 38, 53)
-                    else:
-                        try:
-                            test = xlrd.xldate.xldate_as_tuple(raw_time, sheet.book.datemode)
-                        except Exception:
-                            test = (40, 0, 0, 0, 38, 53)
+                    raw_time = str(sheet.cell(line, column_time).value).split('.')[0]  # sans les centièmes
+                    split_time = raw_time.split(":")
+                    try:
+                        test = (0, 0, 0, int(split_time[0]), int(split_time[1]), int(split_time[2]))
+                    except Exception:
+                        test = (40, 0, 0, 0, 38, 53)
 
                 try:
                     lap = int(sheet.cell_value(line, column_lap))
@@ -232,31 +306,38 @@ class ParseResults:
                 self.results[hash_race].scratch[member] = {"team": str(sheet.cell_value(line, column_team)),
                                                            "lap": int(lap), "time": test, "cat": self.race_cat}
 
-    def parse_results_race(self, file_url, season):
-        try:
-            r = requests.get(file_url, verify=False)
-            if r.status_code == 200:
-                output = open('test.xls', 'wb')
-                output.write(r.content)
+    def finalize_scratch(self, hash_race):
+        """Trie le scratch (tours décroissants puis temps) et formate les temps."""
+        if len(self.results[hash_race].scratch) > 0:
+            self.results[hash_race].scratch = sorted(self.results[hash_race].scratch.items(), key=sorted_algo,
+                                                     reverse=False)
+            for res in self.results[hash_race].scratch:
+                res[1]["time"] = "%d:%02d:%02d" % (res[1]["time"][3], res[1]["time"][4], res[1]["time"][5])
 
-                coureurbook = xlrd.open_workbook('test.xls')
-                for sheet_index in range(coureurbook.nsheets):
-                    self.parse_results_race_sheet(coureurbook, sheet_index, season)
-                hash_race = self.get_hash_race()
-
-                if len(self.results[hash_race].scratch) > 0:
-                    self.results[hash_race].scratch = sorted(self.results[hash_race].scratch.items(), key=sorted_algo,
-                                                             reverse=False)
-                    for res in self.results[hash_race].scratch:
-                        res[1]["time"] = (
-                                str(res[1]["time"][3]) + ":" + str(res[1]["time"][4]) + ":" + str(res[1]["time"][5]))
-
-                return True
-            else:
-                return False
-        except requests.exceptions.ConnectionError:
-            print("Connection problem with " + file_url)
+    def parse_results_race_pdf(self, pdf_path, season):
+        """Analyse un PDF de classement (une feuille par catégorie)."""
+        sheets = pdf_results.extract_sheets(pdf_path, roster=self.team.keys())
+        if not sheets:
+            print("[PDF] aucune feuille exploitable dans " + pdf_path)
             return False
+        for sheet_name, name, club, close in pdf_results.suspect_names(sheets, self.team.keys()):
+            print("[ALERTE] " + self.race_name + " / " + sheet_name + " : « " + name + " » (club : " + (club or "?")
+                  + ") ressemble au membre « " + close + " » mais n'est pas reconnu : orthographe à vérifier")
+        book = _PdfBook(sheets)
+        for index in range(book.nsheets):
+            self.parse_results_race_sheet(book, index, season)
+        self.finalize_scratch(self.get_hash_race())
+        return True
+
+    def find_team_key(self, member):
+        """Retrouve la clé existante d'un membre malgré accents/ordre des mots."""
+        if member in self.team:
+            return member
+        wanted = pdf_results.name_key(member)
+        for key in self.team:
+            if pdf_results.name_key(key) == wanted:
+                return key
+        return member
 
     def set_race_date(self, line):
 
@@ -287,8 +368,7 @@ class ParseResults:
                     self.results[hash_race].VTTVeteransC.keys()) == 0
                 and len(self.results[hash_race].young) == 0):
             return
-        file_name = self.race_date.replace("/", "-") + "-" + self.race_type.replace(" ", "") + self.race_name.replace(
-            " ", "-") + ".md"
+        file_name = self.post_file_name()
         print("[NEW POST] : " + file_name)
         try:
             sync_drive.create_race_folder(self.race_year, self.race_type, self.race_name, self.race_date)
@@ -300,6 +380,8 @@ class ParseResults:
             outfile.write("title: " + self.race_type + " - " + self.race_name + " - " + self.race_year + "\n")
             outfile.write("date: " + self.race_date.replace("/", "-") + "\n")
             outfile.write("category: " + self.race_type + "\n")
+            if self.race_championship:
+                outfile.write("championship: " + self.race_championship + "\n")
             tag = self.race_type
             if self.race_type == "Cyclo Cross":
                 tag = "cyclo-cross"
@@ -393,15 +475,11 @@ class ParseResults:
 
     def print_scratch_results(self, outfile, hash_race):
         nb_line = 1
-        if (len(self.results[hash_race].VTTVeteransC.keys()) > 0 or len(
-                self.results[hash_race].VTTVeteransB.keys()) > 0 or len(
-            self.results[hash_race].VTTVeteransA.keys()) > 0 or len(
-            self.results[hash_race].VTTSeniorsB.keys()) > 0 or
-                len(self.results[hash_race].VTTSeniorsA.keys()) > 0 or len(
-                    self.results[hash_race].one.keys()) > 0 or len(
-                    self.results[hash_race].two.keys()) > 0 or len(self.results[hash_race].three.keys()) > 0 or len(
-                    self.results[hash_race].cadet.keys()) > 0 or
-                len(self.results[hash_race].fem.keys()) > 0 and self.results[hash_race].scratch.keys() > 0):
+        res = self.results[hash_race]
+        has_team_results = any(len(d) > 0 for d in (res.one, res.two, res.three, res.cadet, res.fem, res.VTTSeniorsA,
+                                                    res.VTTSeniorsB, res.VTTVeteransA, res.VTTVeteransB,
+                                                    res.VTTVeteransC))
+        if has_team_results and len(res.scratch) > 0:
             outfile.write("\n### Scratch\n")
             outfile.write(str(len(self.results[hash_race].scratch)) + " participants\n\n")
             print_scratch_results_header(outfile)
@@ -417,39 +495,146 @@ class ParseResults:
 
                 nb_line += 1
 
-    def parse_race_payload(self, res, season):
-        current_date = datetime.now().strftime("%Y/%m/%d")
-        for line in res:
-            if "/" in line:
-                self.set_race_date(line)
-            if "Classements.xls" in line:
-                file = re.search(r"(.*)='(.*)'(.*)", line).group(2)
-                self.set_race_infos(file)
-                if file not in self.races_parsed and self.race_date <= current_date:
-                    url = base + file
-                    encoded_url = urllib.parse.quote(url, safe=':/', encoding=None, errors=None)
+    def post_file_name(self):
+        return self.race_date.replace("/", "-") + "-" + self.race_type.replace(" ", "") + self.race_name.replace(
+            " ", "-") + ".md"
 
-                    print(url)
-                    print(encoded_url)
-                    if self.parse_results_race(encoded_url, season):
-                        self.races_parsed.append(file)
-                        self.display_race_infos()
-                        self.create_post_race()
+    def download_pdf(self, pdf_href):
+        """Télécharge le Classements.pdf publié sur le site UFOLEP (None si absent)."""
+        url = urllib.parse.quote(base + pdf_href, safe=':/', encoding=None, errors=None)
+        try:
+            r = requests.get(url, verify=False, timeout=HTTP_TIMEOUT)
+        except requests.exceptions.RequestException:
+            print("[PDF] connexion impossible : " + url)
+            return None
+        if r.status_code != 200 or not r.content.startswith(b"%PDF"):
+            return None
+        fd, path = tempfile.mkstemp(suffix=".pdf")
+        with os.fdopen(fd, "wb") as output:
+            output.write(r.content)
+        return path
+
+    def load_race(self, pdf_href, calendar_name, season):
+        """Charge une course : PDF déposé dans resultats_pdf/ (prioritaire), sinon PDF du site UFOLEP."""
+        pdf = pdf_results.find_pdf(PDF_DIR, self.race_type, calendar_name)
+        if pdf:
+            print("[PDF] " + pdf)
+            self.used_pdfs.add(os.path.abspath(pdf))
+            return self.parse_results_race_pdf(pdf, season)
+        downloaded = self.download_pdf(pdf_href)
+        if downloaded:
+            print("[PDF] téléchargé : " + pdf_href)
+            try:
+                return self.parse_results_race_pdf(downloaded, season)
+            finally:
+                os.remove(downloaded)
+        return False
+
+    def set_championship_on_post(self):
+        """Ajoute/met à jour `championship:` dans le front matter d'un post existant (idempotent)."""
+        path = "../_posts/" + self.post_file_name()
+        if not self.race_championship or not os.path.exists(path):
+            return
+        with open(path, "r", encoding="utf8") as post:
+            lines = post.read().split("\n")
+        if lines[0] != "---" or "---" not in lines[1:]:
+            return
+        end = lines.index("---", 1)
+        wanted = "championship: " + self.race_championship
+        front = [line for line in lines[1:end] if not line.startswith("championship:")]
+        front.insert(next((i + 1 for i, line in enumerate(front) if line.startswith("category:")), len(front)), wanted)
+        new = "\n".join(["---"] + front + lines[end:])
+        if new != "\n".join(lines):
+            with open(path, "w", encoding="utf8") as post:
+                post.write(new)
+
+    def process_calendar(self, html, season):
+        """Parcourt un calendrier UFOLEP : date, type de course et lien du PDF de chaque course."""
+        current_date = datetime.now().strftime("%Y/%m/%d")
+        for row in parse_calendar(html):
+            if not row["pdf"]:
+                continue  # pas encore de résultats publiés
+            self.race_date = row["date"]
+            self.set_race_infos(row["pdf"])
+            calendar_name = self.race_name
+            alias_key = self.race_type + "/" + self.race_year + "/" + calendar_name
+            self.race_name = self.aliases.get(alias_key, calendar_name)
+            self.race_championship = row["championship"]
+            if self.race_championship:
+                self.race_types[self.race_date + "|" + self.race_name] = self.race_championship
+            self.set_championship_on_post()
+            known_pdf = pdf_results.find_pdf(PDF_DIR, self.race_type, calendar_name)
+            if known_pdf:
+                self.used_pdfs.add(os.path.abspath(known_pdf))
+            key = row["pdf"]
+            # déjà traitée sous son nom historique (alias) ?
+            legacy_key = self.race_type + "/" + self.race_year + "/" + self.race_name + "/Classements.pdf"
+            if legacy_key in self.races_parsed:
+                key = legacy_key
+            if key not in self.races_parsed and self.race_date <= current_date:
+                try:
+                    loaded = self.load_race(row["pdf"], calendar_name, season)
+                except Exception as e:  # une course en erreur ne doit pas bloquer les autres
+                    print("[ERROR] " + key + " : " + repr(e))
+                    self.results = {}
+                    continue
+                if loaded:
+                    self.races_parsed.append(key)
+                    self.display_race_infos()
+                    self.create_post_race()
+
+    def add_race_from_pdf(self, pdf_path, race_type, race_name, race_date, year, championship=""):
+        """Ajoute une course à partir d'un PDF local, avec exactement le traitement de la CI
+        (utilisé par le skill add-races-from-pdf quand la CI ne peut pas rattacher le PDF au calendrier).
+
+        race_date : AAAA/MM/JJ ; year : année de la saison dans la clé (ex. cyclo-cross 2026-27 -> 2027).
+        """
+        self.races_parsed = load_races_parsed()
+        self.aliases = load_json(ALIASES_FILE)
+        self.race_types = load_json(RACE_TYPES_FILE)
+        self.race_type, self.race_name, self.race_year = race_type, race_name, str(year)
+        self.race_date, self.race_championship = race_date, championship
+        key = race_type + "/" + str(year) + "/" + race_name + "/Classements.pdf"
+        if key in self.races_parsed:
+            raise ValueError("course déjà traitée : " + key)
+        self.results = {}
+        if not self.parse_results_race_pdf(pdf_path, str(year)):
+            raise ValueError("PDF illisible : " + pdf_path)
+        self.races_parsed.append(key)
+        save_races_parsed(self.races_parsed)
+        if championship:
+            self.race_types[race_date + "|" + race_name] = championship
+            save_json(RACE_TYPES_FILE, dict(sorted(self.race_types.items())))
+        self.display_race_infos()
+        self.create_post_race()
+        return self.team
+
+    def fetch_calendar(self, page, year):
+        try:
+            r = requests.post('https://cyclismeufolep5962.fr/' + page, verify=False, data={'saison': year},
+                              timeout=HTTP_TIMEOUT)
+            return r.content.decode('utf-8')
+        except requests.exceptions.RequestException as e:
+            print("[CALENDRIER] " + page + " indisponible : " + repr(e))
+            return ""
 
     def generate_results(self, year):
         self.races_parsed = load_races_parsed()
-        myobj = {'saison': year}
+        self.used_pdfs = set()
+        self.aliases = load_json(ALIASES_FILE)
+        self.race_types = load_json(RACE_TYPES_FILE)
+        types_before = dict(self.race_types)
 
-        # vtt
-        r = requests.post('https://cyclismeufolep5962.fr/calResVTT.php', verify=False, data=myobj).content.decode('utf-8').splitlines()
-        self.parse_race_payload(r, year)
-        # cross
-        r = requests.post('https://cyclismeufolep5962.fr/calResCross.php', verify=False, data=myobj).content.decode('utf-8').splitlines()
-        self.parse_race_payload(r, year)
-        # road
-        r = requests.post('https://cyclismeufolep5962.fr/calResRoute.php', verify=False, data=myobj).content.decode('utf-8').splitlines()
-
-        self.parse_race_payload(r, year)
+        # calendrier UFOLEP : date / type / lien du PDF de chaque course
+        pages = os.getenv("CALENDARS", ",".join(CALENDAR_PAGES)).split(",")
+        for page in pages:
+            self.process_calendar(self.fetch_calendar(page, year), year)
         save_races_parsed(self.races_parsed)
+        if self.race_types != types_before:
+            save_json(RACE_TYPES_FILE, dict(sorted(self.race_types.items())))
+
+        for pdf in pdf_results.list_pdfs(PDF_DIR):
+            if os.path.abspath(pdf) not in self.used_pdfs:
+                print("[PDF] non rattaché à une course du calendrier (nom du fichier à vérifier) : " + pdf)
 
         return self.team

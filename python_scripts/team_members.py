@@ -1,4 +1,5 @@
 import json
+import os
 import datetime
 import operator
 
@@ -12,6 +13,26 @@ class ChallengePoints:
         self.point_top10 = point_top10
         self.point_top15 = point_top15
         self.point_participation = point_participation
+
+    def points_for_place(self, place):
+        """Points d'une course : barème de la place + participation (0 si abandon / pas de place numérique)."""
+        if not isinstance(place, int) or isinstance(place, bool):
+            return 0
+        if place == 1:
+            points = self.point_win
+        elif place <= 5:
+            points = self.point_top5
+        elif place <= 10:
+            points = self.point_top10
+        elif place <= 15:
+            points = self.point_top15
+        else:
+            points = 0
+        return points + self.point_participation
+
+    def points_for_results(self, results):
+        """Total des points d'un dict {course: place}."""
+        return sum(self.points_for_place(place) for place in (results or {}).values())
 
 class TeamMember:
     def __init__(self, name):
@@ -29,48 +50,13 @@ class TeamMember:
         return res
 
     def challenge_calcul_point(self, year, points_challenge):
-        points = 0
-        if self.road.get(year):
-            for race in self.road[year].items():
-                if isinstance(race[1], int):
-                    if race[1] == 1:
-                        points += points_challenge.point_win
-                    elif race[1] <= 5:
-                        points += points_challenge.point_top5
-                    elif race[1] <= 10:
-                        points += points_challenge.point_top10
-                    elif race[1] <= 15:
-                        points += points_challenge.point_top15
-                    points += points_challenge.point_participation
-        return points
+        """Challenge route : points des courses sur route de la saison."""
+        return points_challenge.points_for_results(self.road.get(year))
 
     def challenge_calcul_point_boue(self, year, points_challenge):
-        points = 0
-        if self.cx.get(year):
-            for race in self.cx[year].items():
-                if isinstance(race[1], int):
-                    if race[1] == 1:
-                        points += points_challenge.point_win
-                    elif race[1] <= 5:
-                        points += points_challenge.point_top5
-                    elif race[1] <= 10:
-                        points += points_challenge.point_top10
-                    elif race[1] <= 15:
-                        points += points_challenge.point_top15
-                    points += points_challenge.point_participation
-        if self.vtt.get(year):
-            for race in self.vtt[year].items():
-                if isinstance(race[1], int):
-                    if race[1] == 1:
-                        points += points_challenge.point_win
-                    elif race[1] <= 5:
-                        points += points_challenge.point_top5
-                    elif race[1] <= 10:
-                        points += points_challenge.point_top10
-                    elif race[1] <= 15:
-                        points += points_challenge.point_top15
-                    points += points_challenge.point_participation
-        return points
+        """Challenge boue : points des cyclo-cross et VTT de la saison."""
+        return (points_challenge.points_for_results(self.cx.get(year))
+                + points_challenge.points_for_results(self.vtt.get(year)))
 
 
 def get_points_challenge(file_challenge):
@@ -82,7 +68,11 @@ def get_points_challenge(file_challenge):
 
 def update_challenge(team: dict[str, TeamMember], challenge_year, challenge):
     file_name = "../_data/" + challenge + challenge_year + ".json"
-    points_challenge = get_points_challenge(file_name)
+    # nouvelle saison : reprend le barème de la saison précédente si le fichier n'existe pas encore
+    points_source = file_name
+    if not os.path.exists(file_name):
+        points_source = "../_data/" + challenge + str(int(challenge_year) - 1) + ".json"
+    points_challenge = get_points_challenge(points_source)
     data = {}
     challenge_res = {}
     if challenge == "boue":
@@ -99,6 +89,12 @@ def update_challenge(team: dict[str, TeamMember], challenge_year, challenge):
     data["update_date"] = datetime.datetime.now().strftime("%d %B %Y")
     data["challenge_year"] = challenge_year
     data["challenge"] = dict(sorted(challenge_res.items(), key=operator.itemgetter(1), reverse=True))
+    # la date de mise à jour ne change que si le classement change (évite un commit CI quotidien inutile)
+    if os.path.exists(file_name):
+        with open(file_name, "r", encoding="utf8") as previous_file:
+            previous = json.load(previous_file)
+        if {k: v for k, v in previous.items() if k != "update_date"} == {k: v for k, v in data.items() if k != "update_date"}:
+            data["update_date"] = previous.get("update_date", data["update_date"])
     json_object = json.dumps(data, ensure_ascii=False, indent=4)
     with open(file_name, "w", encoding='utf8') as outfile:
         outfile.write(json_object)
