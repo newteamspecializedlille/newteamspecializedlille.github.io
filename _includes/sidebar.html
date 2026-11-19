@@ -47,7 +47,7 @@
                 </div>
                 <div class="cont">
                     <span class="tag"><a href="blog-list.html">{{ post.categories }}</a></span>
-                    <h6><a href="{{ post.url }}">{{ post.title }}</a></h6>
+                    <h6><a href="{{ post.url }}">{{ post.title }}</a>{% include championship-badge.html label=post.championship %}</h6>
                 </div>
             </div>
             {% endfor %}

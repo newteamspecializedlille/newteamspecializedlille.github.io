@@ -1,0 +1,15 @@
+{%- comment -%}
+  Pastille « type de course » (Championnat Nord / Pas-de-Calais / Département / National).
+  Usage : {% include championship-badge.html label=page.championship %}  (rien si label vide = course normale)
+{%- endcomment -%}
+{%- assign _champ = include.label -%}
+{%- if _champ and _champ != "" -%}
+  {%- case _champ -%}
+    {%- when "Championnat Nord" -%}{%- assign _champ_slug = "nord" -%}
+    {%- when "Championnat Pas-de-Calais" -%}{%- assign _champ_slug = "pas-de-calais" -%}
+    {%- when "Championnat Département" -%}{%- assign _champ_slug = "departement" -%}
+    {%- when "Championnat National" -%}{%- assign _champ_slug = "national" -%}
+    {%- else -%}{%- assign _champ_slug = "autre" -%}
+  {%- endcase -%}
+  <span class="velo-championship velo-championship--{{ _champ_slug }}">{{ _champ }}</span>
+{%- endif -%}

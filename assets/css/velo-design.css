@@ -3713,3 +3713,24 @@ a.velo-home-partners__item {
 .velo-coureur__portrait-img--fun {
   filter: none !important;
 }
+
+/* ==================== Type de course (championnats) ==================== */
+.velo-championship {
+  display: inline-block;
+  padding: 2px 8px;
+  margin-left: 0.5rem;
+  font-size: 10px !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.08em !important;
+  text-transform: uppercase !important;
+  white-space: nowrap;
+  vertical-align: middle;
+  border: 1px solid transparent;
+  border-radius: 2px;
+}
+.velo-championship--nord           { background: #1d4ed8; color: #fff !important; }                 /* bleu */
+.velo-championship--pas-de-calais  { background: #15803d; color: #fff !important; }                 /* vert */
+.velo-championship--departement    { background: #facc15; color: #1a1a1a !important; }              /* jaune */
+.velo-championship--national       { background: #fff; color: #1a1a1a !important; border-color: #1a1a1a; } /* blanc */
+.velo-championship--autre          { background: #e5e7eb; color: #1a1a1a !important; }
+.velo-post__header .velo-championship { margin: 0 0 1rem 0; display: block; width: fit-content; font-size: 11px !important; padding: 4px 10px; }

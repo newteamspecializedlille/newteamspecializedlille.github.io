@@ -29,7 +29,7 @@
       <a class="velo-result-row" href="{{ post.url }}">
         <div class="velo-result-row__inner">
           <span class="velo-result-row__date">{{ post.date | date: "%-d" }} {{ _months_fr[_month_idx] }}</span>
-          <h3 class="velo-result-row__title">{{ title_parts[1] }}</h3>
+          <h3 class="velo-result-row__title">{{ title_parts[1] }}{% include championship-badge.html label=post.championship %}</h3>
           {% if post.category %}
             <span class="velo-result-row__category">{{ post.category }}</span>
           {% endif %}

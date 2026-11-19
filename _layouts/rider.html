@@ -218,8 +218,9 @@ layout: default
                           <tr class="velo-race-table__row">
                             <td class="velo-race-table__date">{{ date_parts[2] | plus: 0 }} {{ months_fr[_m_idx] }} {{ date_parts[0] }}</td>
                             <td class="velo-race-table__name">
-                              <a href="/route/{{ split_race[0] | append: '/Route' | append: split_race[1] | replace: ' ', '-' }}">{{ split_race[1] }}</a>
+                              {% assign _url_key = "road|" | append: split_race[0] | append: "|" | append: split_race[1] %}{% assign _post_url = site.data.race_urls[_url_key] %}{% if _post_url %}<a href="{{ _post_url }}">{{ split_race[1] }}</a>{% else %}{{ split_race[1] }}{% endif %}
                               {% if split_race[2] %}<span class="velo-race-table__cat">{{ split_race[2] }}</span>{% endif %}
+                              {% assign _champ_key = split_race[0] | append: "|" | append: split_race[1] %}{% assign _champ_label = site.data.race_types[_champ_key] %}{% include championship-badge.html label=_champ_label %}
                             </td>
                             <td class="velo-race-table__disc"><span class="velo-chip">ROAD</span></td>
                             <td class="velo-race-table__result">
@@ -240,8 +241,9 @@ layout: default
                           <tr class="velo-race-table__row">
                             <td class="velo-race-table__date">{{ date_parts[2] | plus: 0 }} {{ months_fr[_m_idx] }} {{ date_parts[0] }}</td>
                             <td class="velo-race-table__name">
-                              <a href="/cyclo%20cross/{{ split_race[0] | append: '/CycloCross' | append: split_race[1] | replace: ' ', '-' }}">{{ split_race[1] }}</a>
+                              {% assign _url_key = "cx|" | append: split_race[0] | append: "|" | append: split_race[1] %}{% assign _post_url = site.data.race_urls[_url_key] %}{% if _post_url %}<a href="{{ _post_url }}">{{ split_race[1] }}</a>{% else %}{{ split_race[1] }}{% endif %}
                               {% if split_race[2] %}<span class="velo-race-table__cat">{{ split_race[2] }}</span>{% endif %}
+                              {% assign _champ_key = split_race[0] | append: "|" | append: split_race[1] %}{% assign _champ_label = site.data.race_types[_champ_key] %}{% include championship-badge.html label=_champ_label %}
                             </td>
                             <td class="velo-race-table__disc"><span class="velo-chip">CX</span></td>
                             <td class="velo-race-table__result">
@@ -262,8 +264,9 @@ layout: default
                           <tr class="velo-race-table__row">
                             <td class="velo-race-table__date">{{ date_parts[2] | plus: 0 }} {{ months_fr[_m_idx] }} {{ date_parts[0] }}</td>
                             <td class="velo-race-table__name">
-                              <a href="/vtt/{{ split_race[0] | append: '/VTT' | append: split_race[1] | replace: ' ', '-' }}">{{ split_race[1] }}</a>
+                              {% assign _url_key = "vtt|" | append: split_race[0] | append: "|" | append: split_race[1] %}{% assign _post_url = site.data.race_urls[_url_key] %}{% if _post_url %}<a href="{{ _post_url }}">{{ split_race[1] }}</a>{% else %}{{ split_race[1] }}{% endif %}
                               {% if split_race[2] %}<span class="velo-race-table__cat">{{ split_race[2] }}</span>{% endif %}
+                              {% assign _champ_key = split_race[0] | append: "|" | append: split_race[1] %}{% assign _champ_label = site.data.race_types[_champ_key] %}{% include championship-badge.html label=_champ_label %}
                             </td>
                             <td class="velo-race-table__disc"><span class="velo-chip">VTT</span></td>
                             <td class="velo-race-table__result">

@@ -54,7 +54,7 @@ layout: default
 
           <tr class="velo-blog-table__row" data-category="{{ _cat }}" onclick="window.location='{{ post.url }}'">
             <td class="velo-blog-table__date">{{ post.date | date: "%-d" }} {{ months_fr[_month_idx] }} {{ post.date | date: "%Y" }}</td>
-            <td class="velo-blog-table__name">{{ title_parts[1] | default: post.title }}</td>
+            <td class="velo-blog-table__name">{{ title_parts[1] | default: post.title }}{% include championship-badge.html label=post.championship %}</td>
             <td class="velo-blog-table__disc">
               {% if _cat %}<span class="velo-chip">{{ _cat }}</span>{% endif %}
             </td>

@@ -23,6 +23,7 @@ layout: default
           {{ race_discipline | upcase }} &bull; {{ date_fr | upcase }}
         </div>
         <h1 class="velo-post__race-name">{{ race_name | upcase }}</h1>
+        {% include championship-badge.html label=page.championship %}
       </div>
 
       <div class="velo-post__stats-col">

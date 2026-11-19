@@ -161,7 +161,7 @@ layout: default
           {% assign _month_idx = post.date | date: "%-m" | minus: 1 %}
           {% assign _cat = post.category | first | default: post.category %}
           <tr class="velo-home-results__row" onclick="window.location='{{ post.url }}'">
-            <td class="velo-home-results__name">{{ title_parts[1] | default: post.title }}</td>
+            <td class="velo-home-results__name">{{ title_parts[1] | default: post.title }}{% include championship-badge.html label=post.championship %}</td>
             <td class="velo-home-results__date">{{ post.date | date: "%-d" }} {{ months_fr[_month_idx] }}</td>
             <td class="velo-home-results__disc">
               {% if _cat %}<span class="velo-chip">{{ _cat }}</span>{% endif %}
