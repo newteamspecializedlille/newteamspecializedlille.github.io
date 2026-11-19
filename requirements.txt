@@ -1,8 +1,8 @@
-requests
-urllib3
-beautifulsoup4
-pdfplumber
-google-api-python-client
-google-auth-httplib2
-google-auth-oauthlib
-Pillow
+requests~=2.34
+urllib3~=2.8
+beautifulsoup4~=4.15
+pdfplumber~=0.11.10
+google-api-python-client~=2.202
+google-auth-httplib2~=0.4
+google-auth-oauthlib~=1.5
+Pillow~=13.0

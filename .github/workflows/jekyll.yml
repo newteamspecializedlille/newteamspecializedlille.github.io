@@ -55,6 +55,10 @@ jobs:
           cache-dependency-path: requirements.txt
       - name: Install package
         run: python3 -m pip install -r requirements.txt
+      - name: Tests unitaires (parsing PDF, points, liens, notifications)
+        run: |
+          cd python_scripts
+          python -m unittest discover tests
       - name: Restore Google credentials
         env:
           GOOGLE_CREDENTIALS_B64: ${{ secrets.GOOGLE_CREDENTIALS_B64 }}
