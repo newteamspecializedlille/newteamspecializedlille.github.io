@@ -1,6 +1,8 @@
-from datetime import datetime
+from datetime import datetime, timedelta
 
 import os
+import copy
+import hashlib
 import tempfile
 import requests
 import re
@@ -29,6 +31,12 @@ CHAMPIONSHIPS = {
 ALIASES_FILE = "../_data/race_aliases.json"
 # "AAAA/MM/JJ|NOM" -> type de course (affiché dans les pages du site)
 RACE_TYPES_FILE = "../_data/race_types.json"
+# empreinte SHA-256 du dernier PDF lu pour chaque course : détecte un classement corrigé par UFOLEP
+PDF_HASHES_FILE = "../_data/pdf_hashes.json"
+# une course est revérifiée (PDF re-téléchargé) pendant ce nombre de jours après sa date
+RECHECK_DAYS = int(os.getenv("RECHECK_DAYS", "21"))
+# clés du front matter gérées par le script (les autres, ex. `images:` ajoutées par upload_photos, sont conservées)
+POST_FRONT_MATTER_KEYS = {"layout", "title", "date", "category", "championship", "tags", "image"}
 column_result = 0
 column_name = 1
 column_team = 2
@@ -122,6 +130,42 @@ def parse_calendar(html):
         rows.append({"date": date.group(3) + "/" + date.group(2) + "/" + date.group(1), "pdf": link,
                      "championship": championship_label(cells[0].get("class", []))})
     return rows
+
+
+def default_seasons(today, cx_override=None, road_override=None):
+    """Saison de chaque calendrier UFOLEP.
+
+    Cyclo-cross / VTT : année+1 dès août (novembre 2026 -> 2027). Route : année civile (août-septembre 2026 -> 2026).
+    """
+    cx_year = cx_override or str(today.year + 1 if today.month >= 8 else today.year)
+    road_year = road_override or str(today.year)
+    return {"calResVTT.php": cx_year, "calResCross.php": cx_year, "calResRoute.php": road_year}
+
+
+def file_sha256(path):
+    digest = hashlib.sha256()
+    with open(path, "rb") as pdf:
+        for chunk in iter(lambda: pdf.read(65536), b""):
+            digest.update(chunk)
+    return digest.hexdigest()
+
+
+def preserved_front_matter(path):
+    """Lignes du front matter d'un post existant à conserver (clés inconnues du script, ex. `images:` + sa liste)."""
+    if not os.path.exists(path):
+        return []
+    with open(path, "r", encoding="utf8") as post:
+        lines = post.read().split("\n")
+    if not lines or lines[0] != "---" or "---" not in lines[1:]:
+        return []
+    kept, keeping = [], False
+    for line in lines[1:lines.index("---", 1)]:
+        key = re.match(r"^([A-Za-z_][\w-]*):", line)
+        if key:
+            keeping = key.group(1) not in POST_FRONT_MATTER_KEYS
+        if keeping:
+            kept.append(line)
+    return kept
 
 
 def sorted_algo(item):
@@ -369,12 +413,18 @@ class ParseResults:
                 and len(self.results[hash_race].young) == 0):
             return
         file_name = self.post_file_name()
-        print("[NEW POST] : " + file_name)
-        try:
-            sync_drive.create_race_folder(self.race_year, self.race_type, self.race_name, self.race_date)
-        except Exception as e:
-            print(f"[DRIVE] Erreur création dossier : {e}")
-        with open("../_posts/" + file_name, "w", encoding='utf8') as outfile:
+        post_path = "../_posts/" + file_name
+        extra_front_matter = preserved_front_matter(post_path)
+        if os.path.exists(post_path):
+            # post déjà publié : mis à jour sans notification (les photos et autres clés du front matter sont gardées)
+            print("[MAJ] post mis à jour : " + file_name)
+        else:
+            print("[NEW POST] : " + file_name)
+            try:
+                sync_drive.create_race_folder(self.race_year, self.race_type, self.race_name, self.race_date)
+            except Exception as e:
+                print(f"[DRIVE] Erreur création dossier : {e}")
+        with open(post_path, "w", encoding='utf8') as outfile:
             outfile.write("---\n")
             outfile.write("layout: post\n")
             outfile.write("title: " + self.race_type + " - " + self.race_name + " - " + self.race_year + "\n")
@@ -392,6 +442,8 @@ class ParseResults:
                 outfile.write("image: assets/img/blog/vtt.png\n")
             elif self.race_type == "Route":
                 outfile.write("image: assets/img/blog/road.png\n")
+            for line in extra_front_matter:
+                outfile.write(line + "\n")
             outfile.write("---\n")
 
             result_to_display = self.results[hash_race].one
@@ -514,21 +566,72 @@ class ParseResults:
             output.write(r.content)
         return path
 
-    def load_race(self, pdf_href, calendar_name, season):
-        """Charge une course : PDF déposé dans resultats_pdf/ (prioritaire), sinon PDF du site UFOLEP."""
+    def fetch_race_pdf(self, pdf_href, calendar_name):
+        """PDF d'une course : fichier déposé dans resultats_pdf/ (prioritaire), sinon téléchargé depuis UFOLEP.
+        Retourne (chemin, fichier_temporaire) ou (None, False)."""
         pdf = pdf_results.find_pdf(PDF_DIR, self.race_type, calendar_name)
         if pdf:
-            print("[PDF] " + pdf)
             self.used_pdfs.add(os.path.abspath(pdf))
-            return self.parse_results_race_pdf(pdf, season)
+            return pdf, False
         downloaded = self.download_pdf(pdf_href)
-        if downloaded:
-            print("[PDF] téléchargé : " + pdf_href)
-            try:
-                return self.parse_results_race_pdf(downloaded, season)
-            finally:
-                os.remove(downloaded)
-        return False
+        return downloaded, downloaded is not None
+
+    def load_race(self, pdf_href, calendar_name, season, key=None):
+        """Lit une nouvelle course (et mémorise l'empreinte de son PDF)."""
+        path, temporary = self.fetch_race_pdf(pdf_href, calendar_name)
+        if not path:
+            return False
+        print("[PDF] " + (pdf_href if temporary else path))
+        try:
+            loaded = self.parse_results_race_pdf(path, season)
+            if loaded and key:
+                self.pdf_hashes[key] = file_sha256(path)
+            return loaded
+        finally:
+            if temporary:
+                os.remove(path)
+
+    def purge_race_results(self, season):
+        """Retire des membres les résultats de la course courante (avant de la relire)."""
+        attr = {"Cyclo Cross": "cx", "VTT": "vtt", "Route": "road"}[self.race_type]
+        prefix = self.race_date + "|" + self.race_name
+        for member in self.team.values():
+            results = getattr(member, attr).get(season, {})
+            for key in [k for k in results if k == prefix or k.startswith(prefix + "|")]:
+                del results[key]
+                member.course -= 1  # sera recompté à la relecture (compteur idempotent)
+
+    def refresh_race(self, pdf_href, calendar_name, key, season):
+        """Course récente déjà traitée : relit son PDF s'il a changé (classement corrigé par UFOLEP)."""
+        path, temporary = self.fetch_race_pdf(pdf_href, calendar_name)
+        if not path:
+            return
+        backup = copy.deepcopy(self.team)
+        try:
+            digest = file_sha256(path)
+            if self.pdf_hashes.get(key) == digest:
+                return
+            print("[MAJ] PDF nouveau ou modifié, course relue : " + key)
+            self.purge_race_results(season)
+            self.results = {}
+            if self.parse_results_race_pdf(path, season):
+                self.pdf_hashes[key] = digest
+                self.display_race_infos()
+                self.create_post_race()
+            else:
+                raise ValueError("PDF illisible")
+        except Exception as e:  # on garde les résultats précédents
+            print("[ERROR] relecture de " + key + " impossible, résultats conservés : " + repr(e))
+            self.team.clear()
+            self.team.update(backup)
+            self.results = {}
+        finally:
+            if temporary:
+                os.remove(path)
+
+    def is_recent(self):
+        limit = (datetime.now() - timedelta(days=RECHECK_DAYS)).strftime("%Y/%m/%d")
+        return self.race_date >= limit
 
     def set_championship_on_post(self):
         """Ajoute/met à jour `championship:` dans le front matter d'un post existant (idempotent)."""
@@ -563,25 +666,31 @@ class ParseResults:
             if self.race_championship:
                 self.race_types[self.race_date + "|" + self.race_name] = self.race_championship
             self.set_championship_on_post()
-            known_pdf = pdf_results.find_pdf(PDF_DIR, self.race_type, calendar_name)
-            if known_pdf:
-                self.used_pdfs.add(os.path.abspath(known_pdf))
             key = row["pdf"]
             # déjà traitée sous son nom historique (alias) ?
             legacy_key = self.race_type + "/" + self.race_year + "/" + self.race_name + "/Classements.pdf"
             if legacy_key in self.races_parsed:
                 key = legacy_key
-            if key not in self.races_parsed and self.race_date <= current_date:
-                try:
-                    loaded = self.load_race(row["pdf"], calendar_name, season)
-                except Exception as e:  # une course en erreur ne doit pas bloquer les autres
-                    print("[ERROR] " + key + " : " + repr(e))
-                    self.results = {}
-                    continue
-                if loaded:
-                    self.races_parsed.append(key)
-                    self.display_race_infos()
-                    self.create_post_race()
+            if key in self.races_parsed:
+                if self.is_recent():
+                    self.refresh_race(row["pdf"], calendar_name, key, season)
+                else:
+                    local_pdf = pdf_results.find_pdf(PDF_DIR, self.race_type, calendar_name)
+                    if local_pdf:  # PDF déposé à la main pour une course ancienne : rattaché, pas d'avertissement
+                        self.used_pdfs.add(os.path.abspath(local_pdf))
+                continue
+            if self.race_date > current_date:
+                continue
+            try:
+                loaded = self.load_race(row["pdf"], calendar_name, season, key)
+            except Exception as e:  # une course en erreur ne doit pas bloquer les autres
+                print("[ERROR] " + key + " : " + repr(e))
+                self.results = {}
+                continue
+            if loaded:
+                self.races_parsed.append(key)
+                self.display_race_infos()
+                self.create_post_race()
 
     def add_race_from_pdf(self, pdf_path, race_type, race_name, race_date, year, championship=""):
         """Ajoute une course à partir d'un PDF local, avec exactement le traitement de la CI
@@ -592,6 +701,7 @@ class ParseResults:
         self.races_parsed = load_races_parsed()
         self.aliases = load_json(ALIASES_FILE)
         self.race_types = load_json(RACE_TYPES_FILE)
+        self.pdf_hashes = load_json(PDF_HASHES_FILE)
         self.race_type, self.race_name, self.race_year = race_type, race_name, str(year)
         self.race_date, self.race_championship = race_date, championship
         key = race_type + "/" + str(year) + "/" + race_name + "/Classements.pdf"
@@ -602,6 +712,8 @@ class ParseResults:
             raise ValueError("PDF illisible : " + pdf_path)
         self.races_parsed.append(key)
         save_races_parsed(self.races_parsed)
+        self.pdf_hashes[key] = file_sha256(pdf_path)
+        save_json(PDF_HASHES_FILE, dict(sorted(self.pdf_hashes.items())))
         if championship:
             self.race_types[race_date + "|" + race_name] = championship
             save_json(RACE_TYPES_FILE, dict(sorted(self.race_types.items())))
@@ -618,20 +730,25 @@ class ParseResults:
             print("[CALENDRIER] " + page + " indisponible : " + repr(e))
             return ""
 
-    def generate_results(self, year):
+    def generate_results(self, seasons):
+        """seasons : {page calendrier: année de la saison} (route = année civile, CX/VTT = année+1 dès août)."""
         self.races_parsed = load_races_parsed()
         self.used_pdfs = set()
         self.aliases = load_json(ALIASES_FILE)
         self.race_types = load_json(RACE_TYPES_FILE)
-        types_before = dict(self.race_types)
+        self.pdf_hashes = load_json(PDF_HASHES_FILE)
+        types_before, hashes_before = dict(self.race_types), dict(self.pdf_hashes)
 
-        # calendrier UFOLEP : date / type / lien du PDF de chaque course
+        # calendriers UFOLEP : date / type / lien du PDF de chaque course
         pages = os.getenv("CALENDARS", ",".join(CALENDAR_PAGES)).split(",")
         for page in pages:
-            self.process_calendar(self.fetch_calendar(page, year), year)
+            season = str(seasons[page])
+            self.process_calendar(self.fetch_calendar(page, season), season)
         save_races_parsed(self.races_parsed)
         if self.race_types != types_before:
             save_json(RACE_TYPES_FILE, dict(sorted(self.race_types.items())))
+        if self.pdf_hashes != hashes_before:
+            save_json(PDF_HASHES_FILE, dict(sorted(self.pdf_hashes.items())))
 
         for pdf in pdf_results.list_pdfs(PDF_DIR):
             if os.path.abspath(pdf) not in self.used_pdfs:

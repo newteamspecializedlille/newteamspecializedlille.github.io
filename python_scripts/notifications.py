@@ -1,104 +1,74 @@
-import requests
+"""Envoie une notification OneSignal pour chaque nouveau post de résultat (lignes `[NEW POST] : ...` du log de main.py)."""
 import json
-from datetime import datetime, timedelta
-import re
 import os
+import re
+from datetime import datetime, timedelta, timezone
+
+import requests
+
+import site_links
+
+HOST = "https://teamspecializedlille.cc"
+OUTPUT_FILE = "../output.txt"
+MONTHS = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août", "septembre", "octobre",
+          "novembre", "décembre"]
+TYPES = {"Route": "Route", "VTT": "VTT", "CycloCross": "Cyclo Cross"}
 
 
-host = "https://teamspecializedlille.cc/"
+def get_new_posts(output_file=OUTPUT_FILE):
+    """Noms de fichiers des posts créés, d'après le log de main.py."""
+    posts = []
+    with open(output_file, "r", encoding="utf8") as file:
+        for line in file:
+            if line.startswith("[NEW POST] :"):
+                posts.append(line.split(":", 1)[1].strip())
+    return posts
 
 
-def post_notification(title, content, post_url, delay):
-    # Informations d'authentification OneSignal
-    API_KEY = os.getenv('API_KEY')
-    APP_ID = os.getenv('APP_ID')
+def describe_post(file_name):
+    """(type, nom de la course, date en français) d'après le nom de fichier AAAA-MM-JJ-<Type><NOM>.md"""
+    match = re.match(r"(\d{4})-(\d\d)-(\d\d)-(Route|VTT|CycloCross)(.*?)(\.md)?$", file_name)
+    if not match:
+        return None
+    year, month, day, race_type, name = match.group(1, 2, 3, 4, 5)
+    return TYPES[race_type], " ".join(name.replace("-", " ").split()), "%d %s" % (int(day), MONTHS[int(month) - 1])
 
-    # URL de l'API OneSignal
-    url = "https://onesignal.com/api/v1/notifications"
 
-    # Détails de la notification
-    notification_data = {
-        "app_id": APP_ID,
+def post_notification(title, content, post_url, delay=0):
+    api_key, app_id = os.getenv("API_KEY"), os.getenv("APP_ID")
+    send_after = (datetime.now(timezone.utc) + timedelta(minutes=delay)).strftime("%Y-%m-%dT%H:%M:%SZ")
+    payload = {
+        "app_id": app_id,
         "included_segments": ["Total Subscriptions"],
         "headings": {"en": title},
         "contents": {"en": content},
-        "url": post_url,  # URL vers laquelle rediriger les utilisateurs
-        "send_after": (datetime.utcnow() + timedelta(minutes=delay)).strftime("%Y-%m-%dT%H:%M:%SZ"),  # Délai de 10 minutes
-        "chrome_web_icon": f"{host}assets/images/favicons/android-chrome-192x192.png",  # URL de l'image pour Chrome
-        "firefox_icon": f"{host}assets/images/favicons/128.png",  # URL de l'image pour Firefox
-        "safari_icon": f"{host}assets/images/favicons/256.png"  # URL de l'image pour Safari
+        "url": post_url,
+        "send_after": send_after,
+        "chrome_web_icon": f"{HOST}/assets/images/favicons/android-chrome-192x192.png",
+        "firefox_icon": f"{HOST}/assets/images/favicons/128.png",
+        "safari_icon": f"{HOST}/assets/images/favicons/256.png",
     }
-
-    # En-têtes pour la requête
-    headers = {
-        "Content-Type": "application/json; charset=utf-8",
-        "Authorization": f"Basic {API_KEY}"
-    }
-
-    # Envoi de la requête POST
-    response = requests.post(url, headers=headers, data=json.dumps(notification_data))
-
-    # Vérification de la réponse
+    headers = {"Content-Type": "application/json; charset=utf-8", "Authorization": f"Basic {api_key}"}
+    response = requests.post("https://onesignal.com/api/v1/notifications", headers=headers,
+                             data=json.dumps(payload), timeout=30)
     if response.status_code == 200:
-        print("Notification envoyée avec succès !")
-        print("Réponse de l'API:", response.json())
+        print("Notification envoyée :", post_url)
     else:
-        print("Erreur lors de l'envoi de la notification.")
-        print("Code de statut :", response.status_code)
-        print("Réponse de l'API :", response.text)
+        print("Erreur lors de l'envoi de la notification :", response.status_code, response.text)
 
-def get_new_posts():
-    result = []
-    with open("../output.txt", 'r') as file:
-        lines = file.readlines()
-        for line in lines:
-            if line.startswith("[NEW POST] :"):
-                cleaned_line = line.replace(" ", "").replace(".md", "").replace("[NEWPOST]:", "")
-                result.append(cleaned_line.strip())
-    return result
 
-def convert_date(date_str):
-    # Parse the date string
-    date_obj = datetime.strptime(date_str, "%Y-%m-%d")
-    # Format the date to the desired format
-    formatted_date = date_obj.strftime("%d %B")
-    # Convert the month to French
-    months = {
-        "January": "Janvier", "February": "Février", "March": "Mars", "April": "Avril",
-        "May": "Mai", "June": "Juin", "July": "Juillet", "August": "Août",
-        "September": "Septembre", "October": "Octobre", "November": "Novembre", "December": "Décembre"
-    }
-    for eng, fr in months.items():
-        formatted_date = formatted_date.replace(eng, fr)
-    return formatted_date
-
-def get_url(file_name, race_type):
-    race_type = race_type.replace(" ", "%20").lower()
-    return f"{host}{race_type}/{file_name}/"
-
-def get_race_name(post):
-    # Use regex to find and extract the location part after "Route", "VTT", or "CycloCross"
-    match = re.search(r'(Route|VTT|CycloCross)(.*)', post)
-    if match:
-        return match.group(2)
-    return None
 def create_notifications(posts):
-    title = "Nouveau résultat disponible"
-    for post in posts:
-        if "Route" in post:
-            type = "Route"
-        elif "VTT" in post:
-            type = "VTT"
-        elif "CycloCross" in post:
-            type = "Cyclo Cross"
-        date_str = post[:10]
-        human_date = convert_date(date_str)
-        race_name = get_race_name(post)
-
-        content = f"Résultat {type} de {race_name} le {human_date} disponible sur le site"
-        url = get_url(post, type)
-        post_notification(title, content, url, 0)
+    for file_name in posts:
+        info = describe_post(file_name)
+        url = site_links.post_url(file_name)
+        if not info or not url:
+            print("[NOTIFICATION] post ignoré (nom inattendu) : " + file_name)
+            continue
+        race_type, race_name, human_date = info
+        post_notification("Nouveau résultat disponible",
+                          f"Résultat {race_type} de {race_name} le {human_date} disponible sur le site",
+                          f"{HOST}{url}/")
 
 
-new_posts = get_new_posts()
-create_notifications(new_posts)
+if __name__ == "__main__":
+    create_notifications(get_new_posts())

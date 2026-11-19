@@ -60,6 +60,21 @@ def load_posts():
     return posts
 
 
+def post_url(file_name):
+    """URL (sans domaine) d'un post d'après son nom de fichier `AAAA-MM-JJ-<Type><NOM>.md` et son front matter."""
+    base = os.path.basename(file_name)
+    m = re.match(r"(\d{4})-(\d\d)-(\d\d)-(.*?)(\.md)?$", base)
+    if not m:
+        return None
+    year, month, day, rest = m.group(1), m.group(2), m.group(3), m.group(4)
+    path = os.path.join(ROOT, "_posts", base if base.endswith(".md") else base + ".md")
+    meta = front_matter(path) if os.path.exists(path) else {}
+    date = re.match(r"(\d{4})-(\d\d)-(\d\d)", meta.get("date", ""))
+    url_date = "/".join(date.groups()) if date else "%s/%s/%s" % (year, month, day)
+    category = (meta.get("category") or rest).strip().lower()
+    return urllib.parse.quote("/%s/%s/%s" % (category, url_date, jekyll_slug(rest)), safe="/")
+
+
 def build_race_urls(team_members, posts=None):
     posts = posts if posts is not None else load_posts()
     urls = {}

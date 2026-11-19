@@ -75,7 +75,7 @@ jobs:
           cd python_scripts
           python main.py > ../output.txt 2>&1 || echo "::error::main.py a échoué, voir le log ci-dessus"
           cat ../output.txt
-          grep -E "^\[(ERROR|PDF|ALERTE)\]" ../output.txt | sed 's/^/::warning::/' || true
+          grep -E "^\[(ERROR|PDF|ALERTE|MAJ)\]" ../output.txt | sed 's/^/::warning::/' || true
           python notifications.py || echo "::warning::envoi des notifications en échec"
           rm -rf ../output.txt
 
