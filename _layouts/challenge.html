@@ -47,7 +47,8 @@ layout: default
 
 {%- for entry in entries -%}
   {%- assign parts = entry | split: "|" -%}
-  {%- assign view_data = site.data[parts[2]] -%}
+  {%- assign data_key = parts[2] -%}
+  {%- assign view_data = site.data[data_key] -%}
   {%- assign view_title = "Challenge Route " -%}
   {%- if parts[1] == "boue" -%}{%- assign view_title = "Challenge Boue " -%}{%- endif -%}
   {%- assign view_title = view_title | append: parts[0] -%}
