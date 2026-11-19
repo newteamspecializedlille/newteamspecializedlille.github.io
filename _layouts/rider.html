@@ -52,7 +52,8 @@ layout: default
       {% endif %}
     {% endfor %}
     {% if pos > 0 %}
-      {% assign ch_url = "/challenge/" | append: data_key %}
+      {% assign ch_kind = "route" %}{% if data_key contains "boue" %}{% assign ch_kind = "boue" %}{% endif %}
+      {% assign ch_url = "/challenge/?type=" | append: ch_kind | append: "&year=" | append: ch_year %}
       {% assign entry_str = ch_label | append: "|" | append: pos | append: "|" | append: rider_pts | append: "|" | append: ch_url %}
       {% assign challenge_results = challenge_results | push: entry_str %}
     {% endif %}
