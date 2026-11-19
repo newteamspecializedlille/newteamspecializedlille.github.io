@@ -14,11 +14,11 @@
     ],
     "summary": {
         "riders": 20,
-        "races": 270,
-        "top_10_finishes": 78,
+        "races": 274,
+        "top_10_finishes": 80,
         "place_counts": [
-            7,
             8,
+            9,
             8,
             10,
             7,
@@ -28,15 +28,15 @@
             5,
             5
         ],
-        "challenge_points": 2843
+        "challenge_points": 2896
     },
     "riders": [
         {
             "name": "CROMBEZ THOMAS",
-            "races": 21,
+            "races": 23,
             "places": [
-                4,
-                2,
+                5,
+                3,
                 3,
                 4,
                 1,
@@ -46,7 +46,7 @@
                 0,
                 0
             ],
-            "challenge_points": 291
+            "challenge_points": 324
         },
         {
             "name": "DUFOUR JULIEN",
@@ -169,7 +169,7 @@
         },
         {
             "name": "DEFER OLIVIER",
-            "races": 11,
+            "races": 12,
             "places": [
                 0,
                 0,
@@ -182,7 +182,7 @@
                 0,
                 0
             ],
-            "challenge_points": 119
+            "challenge_points": 129
         },
         {
             "name": "FONTAINE NICOLAS",
@@ -305,7 +305,7 @@
         },
         {
             "name": "LECOLIER BENOIT",
-            "races": 2,
+            "races": 3,
             "places": [
                 0,
                 0,
@@ -318,7 +318,7 @@
                 0,
                 0
             ],
-            "challenge_points": 21
+            "challenge_points": 31
         },
         {
             "name": "MOULIN FELIX",

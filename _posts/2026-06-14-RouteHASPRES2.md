@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Route - REGION- 2026
+title: Route - HASPRES2 - 2026
 date: 2026-06-14
 category: Route
+championship: Championnat Département
 tags: Route
 image: assets/img/blog/road.png
 images:

@@ -7,6 +7,49 @@ tags: VTT
 image: assets/img/blog/vtt.png
 ---
 
-### VTT Sénior A
+### VTT Sénior B
 6 participants
 - [HUGUENIN DYLAN](https://teamspecializedlille.cc/coureurs/huguenindylan) : AB
+
+### Scratch
+37 participants
+
+| Place | Nom | Team | Tours | Catégorie | Temps |
+|---|---|---|---|---|---|
+| 1 | LEDAIN JONATHAN | VTT SAINT AMAND LES EAUX | 6 | Seniors A | 0:51:53 | 
+| 2 | BRADFER GERY | ETOILE CYCLISTE LIEU ST AMAND | 6 | Vétérans A | 0:52:34 | 
+| 3 | WINS STEPHANE | ETOILE CYCLISTE LIEU ST AMAND | 6 | Vétérans A | 0:53:33 | 
+| 4 | ALEXANDRE GREGORY | ETOILE CYCLISTE FEIGNIES | 6 | Vétérans A | 0:53:38 | 
+| 5 | BOUTRY JULES |  | 6 | Seniors A | 0:54:33 | 
+| 6 | MARECHAL GUILLAUME | VELO CLUB SOLESMES | 6 | Seniors B | 0:54:48 | 
+| 7 | LORRIAUX JULIEN | VELO CLUB SOLESMES | 6 | Seniors B | 0:54:52 | 
+| 8 | DELADERIERE ROMAIN | VTT CLUB PONT SUR SAMBRE | 6 | Seniors B | 0:55:39 | 
+| 9 | MARTINEZ Jérôme | NEW TEAM MAULDE | 6 | Vétérans B | 0:55:48 | 
+| 10 | CORMAN SEBASTIEN | CAMPHIN EN CAREMBAULT CYCLING TEAM | 6 | Vétérans A | 0:56:11 | 
+| 11 | JABLONSKI SEBASTIEN | NEW TEAM MAULDE | 6 | Vétérans B | 0:56:57 | 
+| 12 | GAMACHE CHRISTOPHE | CYCLOS RANDONNEURS LA BASSEE | 6 | Vétérans B | 0:58:50 | 
+| 13 | DELPIRE Frédéric | VTT CLUB PONT SUR SAMBRE | 6 | Vétérans B | 1:01:10 | 
+| 14 | RUIZ MARTINEZ PABLO | VTT SAINT AMAND LES EAUX | 6 | Seniors B | 1:02:23 | 
+| 15 | DIAS XAVIER | NEW TEAM MAULDE | 5 | Vétérans C | 0:40:58 | 
+| 16 | MINET JONATHAN | ASSOCIATION CYCLISTE D'ETROEUNGT | 5 | Vétérans A | 0:51:56 | 
+| 17 | BOURDREL SYLVAIN | VELO VERT MAROEUILLOIS V.V.M | 5 | Vétérans C | 0:52:18 | 
+| 18 | MEESMAECKER WILLIAM | UNION SPORTIVE SAINT ANDRE | 5 | Seniors A | 0:52:34 | 
+| 19 | VRECK JULIEN | VTT CLUB PONT SUR SAMBRE | 5 | Vétérans A | 0:52:51 | 
+| 20 | BOSSU CLEMENCE | VELO CLUB DE L'ESCAUT ANZIN | 5 | Féminines | 0:53:41 | 
+| 21 | LADENT JEROME | TEAM SHARK VTT | 5 | Vétérans B | 0:53:51 | 
+| 22 | BLONDEAU LUDIVINE | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 5 | Féminines | 0:54:33 | 
+| 23 | WINS Jean-François | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 5 | Vétérans B | 0:55:30 | 
+| 24 | MERIAUX FREDERIC | TEAM SHARK VTT | 5 | Vétérans C | 0:56:33 | 
+| 25 | FOULON FRANCK | TEAM PROVILLE BIKE | 5 | Vétérans B | 0:56:58 | 
+| 26 | ALEXANDRE COUVREUR MAGGY | ETOILE CYCLISTE FEIGNIES | 5 | Féminines | 0:59:52 | 
+| 27 | POT FREDERIC | ETOILE CYCLISTE FEIGNIES | 5 | Vétérans B | 1:04:20 | 
+| 28 | DANEL JEAN-PIERRE | ARTOIS CYCLING TEAM | 5 | Vétérans C | 1:05:04 | 
+| 29 | SAMIER FREDERIC | CAMPHIN EN CAREMBAULT CYCLING TEAM | 5 | Vétérans C | 1:05:14 | 
+| 30 | JABLONSKI EVA | NEW TEAM MAULDE | 4 | Féminines | 0:53:31 | 
+| 31 | EROUART CHARLES | ESTEVELLES VELO CLUB ESTEVELLOISE | 4 | Vétérans C | 0:54:33 | 
+| 32 | SALET CAROLINE | CYCLOS RANDONNEURS LA BASSEE | 4 | Féminines | 0:59:52 | 
+| 33 | MARY KEVIN | PANACHE SACOCHE CLUB | 4 | Vétérans A | 1:01:10 | 
+| **34** | **[HUGUENIN DYLAN](https://teamspecializedlille.cc/coureurs/huguenindylan)** | **TEAM SPECIALIZED LILLE** | **0** | **Seniors B** | **0:38:53** | 
+| 35 | FOSSY YOHAN | VTT CLUB PONT SUR SAMBRE | 0 | Seniors B | 0:38:53 | 
+| 36 | BRUNIAUX STEPHANE | LES VIKINGS | 0 | Vétérans A | 0:38:53 | 
+| 37 | LEFEBVRE ALAIN | TEAM PROVILLE BIKE | 0 | Vétérans C | 0:38:53 | 

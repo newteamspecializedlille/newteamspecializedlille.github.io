@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cyclo Cross - LILLERS - 2027
-date: 2026-11-08
+date: 2026-10-18
 category: Cyclo Cross
 tags: cyclo-cross
 image: assets/img/blog/cx.png
@@ -43,7 +43,7 @@ image: assets/img/blog/cx.png
 | 25 | LEVAS Laurent |  | 7 | 3ème | 0:53:01 | 
 | 26 | TORCHON Loic |  | 7 | 3ème | 0:54:18 | 
 | 27 | GEORGES Alexandre |  | 6 | 3ème | 0:45:44 | 
-| 28 | BECAERT Loic |  | 6 | 3ème | 0:45:48 | 
+| 28 | Becaert Loic |  | 6 | 3ème | 0:45:48 | 
 | 29 | MARTIN Docile |  | 6 | 3ème | 0:45:59 | 
 | 30 | LADENT Jerome |  | 6 | 3ème | 0:46:34 | 
 | 31 | WITTEK DASSONVILLE Céline |  | 6 | 3ème | 0:46:36 | 

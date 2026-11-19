@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Route - DEPARTEMENTAL NORD - 2026
+title: Route - MARQUETTE EN OSTREVENT - 2026
 date: 2026-05-10
 category: Route
+championship: Championnat Nord
 tags: Route
 image: assets/img/blog/road.png
 ---

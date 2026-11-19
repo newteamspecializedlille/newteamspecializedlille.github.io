@@ -4,27 +4,28 @@
     "point_top10": 2,
     "point_top15": 1,
     "point_participation": 10,
-    "update_date": "05 October 2026",
+    "update_date": "19 November 2026",
     "challenge_year": "2026",
     "challenge": {
         "DUFOUR JULIEN": 446,
         "DEJONGHE MICKAEL": 365,
+        "CROMBEZ THOMAS": 324,
         "DEFOSSE HERVE": 298,
-        "CROMBEZ THOMAS": 291,
         "LECOURT CHARLIE": 268,
         "HUBAUT CHRISTOPHE": 178,
         "LECOLIER LOUIS": 152,
         "MINNECI ELIO": 148,
         "LECOLIER STEPHANE": 143,
         "DERASSE DAVID": 133,
+        "DEFER OLIVIER": 129,
         "HUGUENIN DYLAN": 120,
-        "DEFER OLIVIER": 119,
         "DERASSE PATRICK": 63,
         "BROUTIN ANTOINE": 62,
+        "LECOLIER BENOIT": 31,
         "FONTAINE NICOLAS": 26,
-        "LECOLIER BENOIT": 21,
         "SCHULZ YANNICK": 10,
         "MOULIN FELIX": 0,
-        "ORBIER AXEL": 0
+        "ORBIER AXEL": 0,
+        "FONTAINE HECTOR": 0
     }
 }
