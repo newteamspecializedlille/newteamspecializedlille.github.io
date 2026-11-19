@@ -1,0 +1,30 @@
+{%- comment -%}
+  Lignes du tableau de palmarès d'un coureur pour une discipline.
+  Paramètres : results (liste de résultats), discipline (road, cx ou vtt), label (ROAD, CX ou VTT).
+  Chaque résultat : {date AAAA-MM-JJ, raceName, category, rank, status, participants} (voir _data/team.json).
+{%- endcomment -%}
+{%- for res in include.results -%}
+  {%- assign date_parts = res.date | split: "-" -%}
+  {%- assign _m_idx = date_parts[1] | plus: 0 | minus: 1 -%}
+  {%- assign _url_key = include.discipline | append: "|" | append: date_parts[0] | append: "/" | append: date_parts[1] | append: "/" | append: date_parts[2] | append: "|" | append: res.raceName -%}
+  {%- assign _post_url = site.data.race_urls[_url_key] -%}
+  {%- assign _champ_key = date_parts[0] | append: "/" | append: date_parts[1] | append: "/" | append: date_parts[2] | append: "|" | append: res.raceName -%}
+  {%- assign _champ_label = site.data.race_types[_champ_key] -%}
+  <tr class="velo-race-table__row">
+    <td class="velo-race-table__date">{{ date_parts[2] | plus: 0 }} {{ months_fr[_m_idx] }} {{ date_parts[0] }}</td>
+    <td class="velo-race-table__name">
+      {% if _post_url %}<a href="{{ _post_url }}">{{ res.raceName }}</a>{% else %}{{ res.raceName }}{% endif %}
+      {% if res.category != "" %}<span class="velo-race-table__cat">{{ res.category }}</span>{% endif %}
+      {% include championship-badge.html label=_champ_label %}
+    </td>
+    <td class="velo-race-table__disc"><span class="velo-chip">{{ include.label }}</span></td>
+    <td class="velo-race-table__result">
+      {% if res.rank == 1 %}<span class="velo-rank velo-rank--1">1<sup>er</sup></span>
+      {% elsif res.rank == 2 %}<span class="velo-rank velo-rank--2">2<sup>e</sup></span>
+      {% elsif res.rank == 3 %}<span class="velo-rank velo-rank--3">3<sup>e</sup></span>
+      {% elsif res.rank %}<span class="velo-rank">{{ res.rank }}<sup>e</sup></span>
+      {% else %}{{ res.status }}{% endif %}
+      {% if res.participants %}<span class="velo-race-table__of">/ {{ res.participants }}</span>{% endif %}
+    </td>
+  </tr>
+{%- endfor -%}

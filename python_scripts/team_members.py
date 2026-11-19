@@ -14,40 +14,71 @@ class ChallengePoints:
         self.point_top15 = point_top15
         self.point_participation = point_participation
 
-    def points_for_place(self, place):
-        """Points d'une course : barème de la place + participation (0 si abandon / pas de place numérique)."""
-        if not isinstance(place, int) or isinstance(place, bool):
+    def points_for_place(self, rank, status=None):
+        """Points d'une course : barème de la place + participation (0 si abandon ou sans place)."""
+        if status or not isinstance(rank, int) or isinstance(rank, bool):
             return 0
-        if place == 1:
+        if rank == 1:
             points = self.point_win
-        elif place <= 5:
+        elif rank <= 5:
             points = self.point_top5
-        elif place <= 10:
+        elif rank <= 10:
             points = self.point_top10
-        elif place <= 15:
+        elif rank <= 15:
             points = self.point_top15
         else:
             points = 0
         return points + self.point_participation
 
     def points_for_results(self, results):
-        """Total des points d'un dict {course: place}."""
-        return sum(self.points_for_place(place) for place in (results or {}).values())
+        """Total des points d'une liste de résultats (objets make_result)."""
+        return sum(self.points_for_place(r.get("rank"), r.get("status")) for r in (results or []))
+
+
+DISCIPLINES = ("cx", "vtt", "road")
+
+
+def make_result(date, race_name, category, rank=None, status=None, participants=None):
+    """Un résultat d'équipier. date AAAA-MM-JJ ; rank entier (None si abandon) ; status None ou "AB" ;
+    participants = nombre de partants de la catégorie (None si inconnu)."""
+    return {"date": date, "raceName": race_name, "category": category, "rank": rank, "status": status,
+            "participants": participants}
+
+
+def result_identity(result):
+    """Un résultat est identifié par sa date, sa course et sa catégorie."""
+    return result["date"], result["raceName"], result["category"]
+
 
 class TeamMember:
     def __init__(self, name):
         self.name = name
-        self.course = 0
-        self.cx = {}
+        self.cx = {}    # saison -> [résultat]
         self.vtt = {}
         self.road = {}
 
+    def upsert_result(self, discipline, season, result):
+        """Ajoute un résultat, ou remplace celui de même date + course + catégorie (idempotent)."""
+        results = getattr(self, discipline).setdefault(season, [])
+        for index, existing in enumerate(results):
+            if result_identity(existing) == result_identity(result):
+                results[index] = result
+                return
+        results.append(result)
+
+    def remove_race_results(self, discipline, season, date, race_name):
+        """Retire tous les résultats d'une course (toutes catégories). Retourne le nombre retiré."""
+        results = getattr(self, discipline).get(season, [])
+        kept = [r for r in results if not (r["date"] == date and r["raceName"] == race_name)]
+        getattr(self, discipline)[season] = kept
+        return len(results) - len(kept)
+
     def to_dict(self):
-        res = {"name": self.name, "course": self.course,
-               "cx": dict(sorted(self.cx.items(), reverse=True)),
-               "vtt": dict(sorted(self.vtt.items(), reverse=True)),
-               "road": dict(sorted(self.road.items(), reverse=True))}
-        return res
+        def seasons(by_season):
+            return {year: sorted(sorted(results, key=lambda r: (r["raceName"], r["category"])),
+                                 key=lambda r: r["date"])  # ordre chronologique (comme l'affichage historique)
+                    for year, results in sorted(by_season.items(), reverse=True) if results}
+        return {"name": self.name, "cx": seasons(self.cx), "vtt": seasons(self.vtt), "road": seasons(self.road)}
 
     def challenge_calcul_point(self, year, points_challenge):
         """Challenge route : points des courses sur route de la saison."""
@@ -109,15 +140,8 @@ def update_road_statistics(team: dict[str, TeamMember], year):
     place_totals = [0] * 10
 
     for member in team.values():
-        races = member.road.get(year, {})
-        places = [
-            sum(
-                1
-                for result in races.values()
-                if isinstance(result, int) and not isinstance(result, bool) and result == place
-            )
-            for place in range(1, 11)
-        ]
+        races = member.road.get(year, [])
+        places = [sum(1 for result in races if result.get("rank") == place) for place in range(1, 11)]
         place_totals = [total + count for total, count in zip(place_totals, places)]
         riders.append({
             "name": member.name,
@@ -151,7 +175,6 @@ def load_team_from_file(team: dict[str, TeamMember]) -> dict[str, TeamMember]:
 
     for member in data['team_members']:
         team[member["name"]] = TeamMember(member["name"])
-        team[member["name"]].course = member["course"]
         team[member["name"]].cx = member["cx"]
         team[member["name"]].vtt = member["vtt"]
         team[member["name"]].road = member["road"]

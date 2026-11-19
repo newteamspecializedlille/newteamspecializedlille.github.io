@@ -81,8 +81,8 @@ def build_race_urls(team_members, posts=None):
     for member in team_members:
         for key in DISCIPLINES:
             for results in member.get(key, {}).values():
-                for race in results:
-                    date, name = race.split("|")[:2]
+                for result in results:
+                    date, name = result["date"].replace("-", "/"), result["raceName"]
                     candidates = posts.get((key, date), [])
                     wanted = jekyll_slug(name)
                     match = [u for slug, u in candidates if slug == wanted]

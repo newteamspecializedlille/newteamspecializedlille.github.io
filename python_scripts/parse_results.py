@@ -67,6 +67,16 @@ def return_result(sheet, line):
     return int(val)
 
 
+DISCIPLINE_BY_TYPE = {"Cyclo Cross": "cx", "VTT": "vtt", "Route": "road"}
+
+
+def to_rank_status(value):
+    """Place lue dans le PDF -> (rank, status) : (7, None) ; abandon ou place absente -> (None, "AB")."""
+    if isinstance(value, int) and not isinstance(value, bool):
+        return value, None
+    return None, "AB"
+
+
 def check_if_scratch_enable(sheet):
     try:
         r = str(sheet.row(1))
@@ -226,10 +236,6 @@ class ParseResults:
     def get_hash_race(self):
         return self.race_type + "/" + self.race_year + "/" + self.race_name
 
-    def get_hash_individual_race(self):
-        # year / race / cate /  => pos
-        return self.race_date + "|" + self.race_name + "|" + self.race_cat
-
     def is_participant_row(self, sheet, line):
         """Une ligne compte comme participant dès que le nom est renseigné (le club peut être absent du PDF)."""
         return line > 1 and str(sheet.cell(line, column_name).value) != ""
@@ -256,6 +262,7 @@ class ParseResults:
         scratch_enable = check_if_scratch_enable(sheet) and sheet.scratch_eligible
         if hash_race not in self.results:
             self.results[hash_race] = race_results.RaceResults(hash_race)
+        participants = sum(1 for line in range(sheet.nrows) if self.is_participant_row(sheet, line))
         for line in range(sheet.nrows):
             if self.is_participant_row(sheet, line):
                 if self.race_cat == "1ère":
@@ -289,24 +296,11 @@ class ParseResults:
                           + " » (club « TEAM SPECIALIZED LILLE » dans le PDF) : vérifier qu'il ne s'agit pas d'un "
                           + "membre existant mal orthographié")
                     self.team[member] = team_members.TeamMember(member)
-                hash_individual = self.get_hash_individual_race()
-                member_races = {"Cyclo Cross": self.team[member].cx, "VTT": self.team[member].vtt,
-                                "Route": self.team[member].road}.get(self.race_type, {})
-                # idempotent : une course déjà enregistrée n'est pas recomptée
-                if hash_individual not in member_races.get(season, {}):
-                    self.team[member].course += 1
-                if self.race_type == "Cyclo Cross":
-                    if self.team[member].cx.get(season) is None:
-                        self.team[member].cx[season] = {}
-                    self.team[member].cx[season][hash_individual] = return_result(sheet, line)
-                elif self.race_type == "VTT":
-                    if self.team[member].vtt.get(season) is None:
-                        self.team[member].vtt[season] = {}
-                    self.team[member].vtt[season][hash_individual] = return_result(sheet, line)
-                elif self.race_type == "Route":
-                    if self.team[member].road.get(season) is None:
-                        self.team[member].road[season] = {}
-                    self.team[member].road[season][hash_individual] = return_result(sheet, line)
+                discipline = DISCIPLINE_BY_TYPE.get(self.race_type)
+                if discipline:
+                    rank, status = to_rank_status(return_result(sheet, line))
+                    self.team[member].upsert_result(discipline, season, team_members.make_result(
+                        self.race_date.replace("/", "-"), self.race_name, self.race_cat, rank, status, participants))
                 if self.race_cat == "1ère":
                     self.results[hash_race].one[member] = return_result(sheet, line)
                 elif self.race_cat == "2ème":
@@ -593,13 +587,10 @@ class ParseResults:
 
     def purge_race_results(self, season):
         """Retire des membres les résultats de la course courante (avant de la relire)."""
-        attr = {"Cyclo Cross": "cx", "VTT": "vtt", "Route": "road"}[self.race_type]
-        prefix = self.race_date + "|" + self.race_name
+        discipline = DISCIPLINE_BY_TYPE[self.race_type]
+        date = self.race_date.replace("/", "-")
         for member in self.team.values():
-            results = getattr(member, attr).get(season, {})
-            for key in [k for k in results if k == prefix or k.startswith(prefix + "|")]:
-                del results[key]
-                member.course -= 1  # sera recompté à la relecture (compteur idempotent)
+            member.remove_race_results(discipline, season, date, self.race_name)
 
     def refresh_race(self, pdf_href, calendar_name, key, season):
         """Course récente déjà traitée : relit son PDF s'il a changé (classement corrigé par UFOLEP)."""

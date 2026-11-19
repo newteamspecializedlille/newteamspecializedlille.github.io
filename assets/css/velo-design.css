@@ -3734,3 +3734,12 @@ a.velo-home-partners__item {
 .velo-championship--national       { background: #fff; color: #1a1a1a !important; border-color: #1a1a1a; } /* blanc */
 .velo-championship--autre          { background: #e5e7eb; color: #1a1a1a !important; }
 .velo-post__header .velo-championship { margin: 0 0 1rem 0; display: block; width: fit-content; font-size: 11px !important; padding: 4px 10px; }
+
+/* Palmarès : nombre de partants de la catégorie (« 7e / 20 ») */
+.velo-race-table__of {
+  display: inline-block;
+  margin-left: 0.35rem;
+  font-size: 11px;
+  font-weight: 400;
+  color: var(--v-gray) !important;
+}

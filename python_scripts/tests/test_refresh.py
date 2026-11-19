@@ -26,8 +26,7 @@ class RefreshTest(unittest.TestCase):
             post.write("---\nlayout: post\ntitle: Cyclo Cross - LILLERS - 2027\ndate: 2026-10-18\ncategory: Cyclo Cross\n"
                        "tags: cyclo-cross\nimage: x.png\nimages:\n  - path: assets/a.jpg\n    photographer: P\n---\n\nancien\n")
         member = team_members.TeamMember("DERASSE DAVID")
-        member.cx = {"2027": {"2026/10/18|LILLERS|1ère": 99}}
-        member.course = 1
+        member.upsert_result("cx", "2027", team_members.make_result("2026-10-18", "LILLERS", "1ère", 99))
         self.team = {"DERASSE DAVID": member}
         self.parser = parse_results.ParseResults(self.team, {})
         self.parser.pdf_hashes = {}
@@ -50,25 +49,25 @@ class RefreshTest(unittest.TestCase):
         out = self.refresh()
         self.assertIn("[MAJ]", out)
         self.assertNotIn("[NEW POST]", out)
-        self.assertNotEqual(self.team["DERASSE DAVID"].cx["2027"]["2026/10/18|LILLERS|1ère"], 99)
-        self.assertEqual(self.team["DERASSE DAVID"].course, 1)  # relecture : compteur inchangé
+        results = self.team["DERASSE DAVID"].cx["2027"]
+        self.assertEqual(len(results), 1)  # relecture : pas de doublon
+        self.assertNotEqual(results[0]["rank"], 99)
+        self.assertIsNotNone(results[0]["participants"])
         content = open("../_posts/" + POST, encoding="utf8").read()
         self.assertIn("images:\n  - path: assets/a.jpg\n    photographer: P", content)
         self.assertNotIn("ancien", content)
 
     def test_same_pdf_is_not_reprocessed(self):
         self.refresh()
-        before = dict(self.team["DERASSE DAVID"].cx["2027"])
-        self.team["DERASSE DAVID"].cx["2027"]["2026/10/18|LILLERS|1ère"] = 99  # modifié à la main
+        self.team["DERASSE DAVID"].cx["2027"][0]["rank"] = 99  # modifié à la main
         self.assertEqual(self.refresh(), "")
-        self.assertEqual(self.team["DERASSE DAVID"].cx["2027"]["2026/10/18|LILLERS|1ère"], 99)
-        self.assertEqual(len(before), 1)
+        self.assertEqual(self.team["DERASSE DAVID"].cx["2027"][0]["rank"], 99)
 
     def test_failure_keeps_previous_results(self):
         self.parser.parse_results_race_pdf = lambda *a, **k: (_ for _ in ()).throw(RuntimeError("boom"))
         out = self.refresh()
         self.assertIn("[ERROR]", out)
-        self.assertEqual(self.team["DERASSE DAVID"].cx["2027"]["2026/10/18|LILLERS|1ère"], 99)
+        self.assertEqual(self.team["DERASSE DAVID"].cx["2027"][0]["rank"], 99)
 
 
 class SeasonsTest(unittest.TestCase):

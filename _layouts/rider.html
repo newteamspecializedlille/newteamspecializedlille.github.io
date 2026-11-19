@@ -209,75 +209,9 @@ layout: default
                     {% if team_people.vtt[year_string] %}{% assign cats = cats | push: "vtt" %}{% endif %}
 
                     {% for cat in cats %}
-                      {% if cat == "road" %}
-                        {% for res in team_people.road[year_string] %}
-                          {% assign split_race = res[0] | split: "|" %}
-                          {% assign date_parts = split_race[0] | split: "/" %}
-                          {% assign _m_idx = date_parts[1] | plus: 0 | minus: 1 %}
-                          {% assign _pos = res[1] | plus: 0 %}
-                          <tr class="velo-race-table__row">
-                            <td class="velo-race-table__date">{{ date_parts[2] | plus: 0 }} {{ months_fr[_m_idx] }} {{ date_parts[0] }}</td>
-                            <td class="velo-race-table__name">
-                              {% assign _url_key = "road|" | append: split_race[0] | append: "|" | append: split_race[1] %}{% assign _post_url = site.data.race_urls[_url_key] %}{% if _post_url %}<a href="{{ _post_url }}">{{ split_race[1] }}</a>{% else %}{{ split_race[1] }}{% endif %}
-                              {% if split_race[2] %}<span class="velo-race-table__cat">{{ split_race[2] }}</span>{% endif %}
-                              {% assign _champ_key = split_race[0] | append: "|" | append: split_race[1] %}{% assign _champ_label = site.data.race_types[_champ_key] %}{% include championship-badge.html label=_champ_label %}
-                            </td>
-                            <td class="velo-race-table__disc"><span class="velo-chip">ROAD</span></td>
-                            <td class="velo-race-table__result">
-                              {% if _pos == 1 %}<span class="velo-rank velo-rank--1">1<sup>er</sup></span>
-                              {% elsif _pos == 2 %}<span class="velo-rank velo-rank--2">2<sup>e</sup></span>
-                              {% elsif _pos == 3 %}<span class="velo-rank velo-rank--3">3<sup>e</sup></span>
-                              {% elsif _pos > 0 %}<span class="velo-rank">{{ _pos }}<sup>e</sup></span>
-                              {% else %}{{ res[1] }}{% endif %}
-                            </td>
-                          </tr>
-                        {% endfor %}
-                      {% elsif cat == "cx" %}
-                        {% for res in team_people.cx[year_string] %}
-                          {% assign split_race = res[0] | split: "|" %}
-                          {% assign date_parts = split_race[0] | split: "/" %}
-                          {% assign _m_idx = date_parts[1] | plus: 0 | minus: 1 %}
-                          {% assign _pos = res[1] | plus: 0 %}
-                          <tr class="velo-race-table__row">
-                            <td class="velo-race-table__date">{{ date_parts[2] | plus: 0 }} {{ months_fr[_m_idx] }} {{ date_parts[0] }}</td>
-                            <td class="velo-race-table__name">
-                              {% assign _url_key = "cx|" | append: split_race[0] | append: "|" | append: split_race[1] %}{% assign _post_url = site.data.race_urls[_url_key] %}{% if _post_url %}<a href="{{ _post_url }}">{{ split_race[1] }}</a>{% else %}{{ split_race[1] }}{% endif %}
-                              {% if split_race[2] %}<span class="velo-race-table__cat">{{ split_race[2] }}</span>{% endif %}
-                              {% assign _champ_key = split_race[0] | append: "|" | append: split_race[1] %}{% assign _champ_label = site.data.race_types[_champ_key] %}{% include championship-badge.html label=_champ_label %}
-                            </td>
-                            <td class="velo-race-table__disc"><span class="velo-chip">CX</span></td>
-                            <td class="velo-race-table__result">
-                              {% if _pos == 1 %}<span class="velo-rank velo-rank--1">1<sup>er</sup></span>
-                              {% elsif _pos == 2 %}<span class="velo-rank velo-rank--2">2<sup>e</sup></span>
-                              {% elsif _pos == 3 %}<span class="velo-rank velo-rank--3">3<sup>e</sup></span>
-                              {% elsif _pos > 0 %}<span class="velo-rank">{{ _pos }}<sup>e</sup></span>
-                              {% else %}{{ res[1] }}{% endif %}
-                            </td>
-                          </tr>
-                        {% endfor %}
-                      {% elsif cat == "vtt" %}
-                        {% for res in team_people.vtt[year_string] %}
-                          {% assign split_race = res[0] | split: "|" %}
-                          {% assign date_parts = split_race[0] | split: "/" %}
-                          {% assign _m_idx = date_parts[1] | plus: 0 | minus: 1 %}
-                          {% assign _pos = res[1] | plus: 0 %}
-                          <tr class="velo-race-table__row">
-                            <td class="velo-race-table__date">{{ date_parts[2] | plus: 0 }} {{ months_fr[_m_idx] }} {{ date_parts[0] }}</td>
-                            <td class="velo-race-table__name">
-                              {% assign _url_key = "vtt|" | append: split_race[0] | append: "|" | append: split_race[1] %}{% assign _post_url = site.data.race_urls[_url_key] %}{% if _post_url %}<a href="{{ _post_url }}">{{ split_race[1] }}</a>{% else %}{{ split_race[1] }}{% endif %}
-                              {% if split_race[2] %}<span class="velo-race-table__cat">{{ split_race[2] }}</span>{% endif %}
-                              {% assign _champ_key = split_race[0] | append: "|" | append: split_race[1] %}{% assign _champ_label = site.data.race_types[_champ_key] %}{% include championship-badge.html label=_champ_label %}
-                            </td>
-                            <td class="velo-race-table__disc"><span class="velo-chip">VTT</span></td>
-                            <td class="velo-race-table__result">
-                              {% if _pos == 1 %}<span class="velo-rank velo-rank--1">1<sup>er</sup></span>
-                              {% elsif _pos == 2 %}<span class="velo-rank velo-rank--2">2<sup>e</sup></span>
-                              {% elsif _pos == 3 %}<span class="velo-rank velo-rank--3">3<sup>e</sup></span>
-                              {% elsif _pos > 0 %}<span class="velo-rank">{{ _pos }}<sup>e</sup></span>
-                              {% else %}{{ res[1] }}{% endif %}
-                            </td>
-                          </tr>
-                        {% endfor %}
+                      {% if cat == "road" %}{% assign _rows = team_people.road[year_string] %}{% include rider-result-rows.html results=_rows discipline="road" label="ROAD" %}
+                      {% elsif cat == "cx" %}{% assign _rows = team_people.cx[year_string] %}{% include rider-result-rows.html results=_rows discipline="cx" label="CX" %}
+                      {% elsif cat == "vtt" %}{% assign _rows = team_people.vtt[year_string] %}{% include rider-result-rows.html results=_rows discipline="vtt" label="VTT" %}
                       {% endif %}
                     {% endfor %}
                   </tbody>
