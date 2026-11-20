@@ -55,13 +55,13 @@
     <div class="velo-podium-card{% if slot == '1' %} velo-podium-card--first{% elsif slot == '2' %} velo-podium-card--second{% elsif slot == '3' %} velo-podium-card--third{% endif %}">
       <span class="velo-podium-card__num">0{{ pi }}</span>
 
-      <div class="velo-podium-card__img-wrap{% unless pc.image %} velo-podium-card__img-placeholder{% endunless %}">
-        {% if pc.image %}
-          <img class="velo-podium-card__img"
-               src="{{ pc.image | relative_url }}"
-               alt="{{ pp[0] }}"
-               loading="lazy">
-        {% endif %}
+      {%- comment -%} Sans photo (ex. ancien membre) : image générique {%- endcomment -%}
+      {% assign podium_img = pc.image | default: "assets/images/specialized.webp" %}
+      <div class="velo-podium-card__img-wrap">
+        <img class="velo-podium-card__img"
+             src="{{ podium_img | relative_url }}"
+             alt="{{ pp[0] }}"
+             loading="lazy">
         {% if slot == "1" %}
           <span class="velo-podium-card__leader-tag">{{ t.challenge.leader_tag }}</span>
         {% endif %}
@@ -110,15 +110,13 @@
                 <td class="velo-challenge-table__pos {% if rank == 4 %}velo-rank-4{% endif %}">{{ rank | prepend: "00" | slice: -2, 2 }}</td>
                 <td class="velo-challenge-table__rider">
                   <div class="velo-challenge-rider">
-                    {% assign avatar_src = rc.head | default: rc.image %}
-                    {% if avatar_src %}
-                      <div class="velo-challenge-rider__avatar-wrap">
-                        <img class="velo-challenge-rider__avatar"
-                             src="{{ avatar_src | relative_url }}"
-                             alt="{{ people[0] }}"
-                             loading="lazy">
-                      </div>
-                    {% endif %}
+                    {% assign avatar_src = rc.head | default: rc.image | default: "assets/images/specialized.webp" %}
+                    <div class="velo-challenge-rider__avatar-wrap">
+                      <img class="velo-challenge-rider__avatar"
+                           src="{{ avatar_src | relative_url }}"
+                           alt="{{ people[0] }}"
+                           loading="lazy">
+                    </div>
                     <span class="velo-challenge-rider__name">{{ people[0] }}</span>
                   </div>
                 </td>
