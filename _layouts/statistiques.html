@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+{%- comment -%}
+  Page unique des statistiques : sélecteur de type (Route / Boue = cyclo-cross + VTT) et de saison.
+  Les données viennent de site.data.stats_routeAAAA / stats_boueAAAA, calculées au build par _plugins/challenges.rb.
+  URL : /statistiques/?type=route&year=2026  (sans paramètre : saison mise à jour le plus récemment).
+{%- endcomment -%}
+
+{%- assign entries = "" | split: "" -%}
+{%- for item in site.data -%}
+  {%- if item[1].kind and item[1].place_labels and item[1].summary.races > 0 -%}
+    {%- assign entry_str = item[1].year | append: "|" | append: item[1].kind | append: "|" | append: item[0] | append: "|" | append: item[1].update_iso -%}
+    {%- assign entries = entries | push: entry_str -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- assign entries = entries | sort | reverse -%}
+
+{%- assign default_key = "" -%}
+{%- assign best_date = "" -%}
+{%- for entry in entries -%}
+  {%- assign parts = entry | split: "|" -%}
+  {%- if parts[3] > best_date -%}{%- assign best_date = parts[3] -%}{%- assign default_key = parts[2] -%}{%- endif -%}
+{%- endfor -%}
+{%- if default_key == "" -%}{%- assign first_parts = entries[0] | split: "|" -%}{%- assign default_key = first_parts[2] -%}{%- endif -%}
+
+{%- include kind-year-picker.html views=".velo-stats-view" route_label="Route" boue_label="Boue (CX / VTT)" -%}
+
+{%- for entry in entries -%}
+  {%- assign parts = entry | split: "|" -%}
+  {%- assign data_key = parts[2] -%}
+  {%- assign view_data = site.data[data_key] -%}
+  {%- assign view_title = "Statistiques Route " -%}
+  {%- if parts[1] == "boue" -%}{%- assign view_title = "Statistiques Boue " -%}{%- endif -%}
+  {%- assign view_title = view_title | append: parts[0] -%}
+  <div class="velo-stats-view" id="stats-{{ parts[1] }}-{{ parts[0] }}" data-kind="{{ parts[1] }}" data-year="{{ parts[0] }}" data-title="{{ view_title }}"{% if parts[2] != default_key %} hidden{% endif %}>
+    {% include stats-view.html stats=view_data heading=view_title %}
+  </div>
+{%- endfor -%}
+
+<script src="{{ '/assets/js/road-stats.js' | relative_url }}" defer></script>
+
+{%- include sponsors.html -%}
+{%- include recent-races.html limit=5 -%}

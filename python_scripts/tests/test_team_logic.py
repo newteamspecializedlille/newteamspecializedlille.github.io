@@ -83,28 +83,14 @@ class ResultsTest(unittest.TestCase):
 
 
 class ActiveMembersTest(unittest.TestCase):
-    def test_active_flag_round_trip_and_stats(self):
+    def test_active_flag_round_trip(self):
         former = team_members.TeamMember("BOONE NICOLAS", active=False)
         current = team_members.TeamMember("DUFOUR JULIEN")
         self.assertFalse(former.to_dict()["active"])
         self.assertTrue(current.to_dict()["active"])
         current.upsert_result("road", "2026", team_members.make_result("2026-03-07", "HASPRES", "2ème", 8))
         former.upsert_result("road", "2026", team_members.make_result("2026-03-07", "HASPRES", "2ème", 1))
-        with tempfile.TemporaryDirectory() as tmp:
-            os.makedirs(os.path.join(tmp, "python_scripts"))
-            old = os.getcwd()
-            os.chdir(os.path.join(tmp, "python_scripts"))
-            try:
-                os.makedirs("../_data")
-                import shutil
-                shutil.copy(team_members.rules_path_file.replace("../_data", os.path.join(old, "..", "_data")),
-                            "../_data/challenge_rules.json")
-                team_members.update_road_statistics({"B": former, "D": current}, "2026")
-                stats = __import__("json").load(open("../_data/road2026_stats.json", encoding="utf8"))
-            finally:
-                os.chdir(old)
-        self.assertEqual([r["name"] for r in stats["riders"]], ["DUFOUR JULIEN"])  # ancien membre absent des stats
-        self.assertEqual(stats["riders"][0]["challenge_points"], 12)
+        self.assertEqual(current.to_dict()["road"]["2026"][0]["rank"], 8)
 
 
 class CategoryTest(unittest.TestCase):

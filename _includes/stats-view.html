@@ -1,42 +1,36 @@
----
-layout: default
-title: Statistiques Route 2026
----
-
-{% assign stats = site.data.road2026_stats %}
-
+{%- comment -%} Statistiques d'une saison. Paramètres : stats (site.data.stats_routeAAAA / stats_boueAAAA), heading. {%- endcomment -%}
 <section class="velo-challenge-hero">
   <div class="velo-challenge-hero__left">
-    <h1 class="velo-challenge-hero__title">{{ page.title }}</h1>
+    <h1 class="velo-challenge-hero__title">{{ include.heading }}</h1>
   </div>
   <div class="velo-challenge-hero__right">
-    <p class="velo-challenge-hero__label">Saison {{ stats.year }}</p>
-    <p class="velo-challenge-hero__sub">Résultats et points du challenge</p>
+    <p class="velo-challenge-hero__label">Saison {{ include.stats.year }}</p>
+    <p class="velo-challenge-hero__sub">{% if include.stats.kind == "boue" %}Cyclo-cross et VTT{% else %}Route{% endif %} · résultats et points du challenge</p>
   </div>
 </section>
 
-<section class="velo-road-stats" aria-label="Statistiques de la saison {{ stats.year }}">
+<section class="velo-road-stats" aria-label="Statistiques de la saison {{ include.stats.year }}">
   <div class="velo-road-stats__summary">
     <article class="velo-road-stats__card">
       <span class="velo-road-stats__label">Coureurs</span>
-      <strong class="velo-road-stats__value">{{ stats.summary.riders }}</strong>
+      <strong class="velo-road-stats__value">{{ include.stats.summary.riders }}</strong>
     </article>
     <article class="velo-road-stats__card">
       <span class="velo-road-stats__label">Courses enregistrées</span>
-      <strong class="velo-road-stats__value">{{ stats.summary.races }}</strong>
+      <strong class="velo-road-stats__value">{{ include.stats.summary.races }}</strong>
     </article>
     <article class="velo-road-stats__card">
       <span class="velo-road-stats__label">Places dans le top 10</span>
-      <strong class="velo-road-stats__value">{{ stats.summary.top_10_finishes }}</strong>
+      <strong class="velo-road-stats__value">{{ include.stats.summary.top_10_finishes }}</strong>
     </article>
     <article class="velo-road-stats__card">
       <span class="velo-road-stats__label">Points challenge</span>
-      <strong class="velo-road-stats__value">{{ stats.summary.challenge_points }}</strong>
+      <strong class="velo-road-stats__value">{{ include.stats.summary.challenge_points }}</strong>
     </article>
   </div>
 
   <p class="velo-road-stats__note">
-    Le nombre de courses inclut toutes les places enregistrées et les abandons. Les points correspondent au total du challenge 2026, toutes disciplines confondues.
+    Le nombre de courses inclut toutes les places enregistrées et les abandons. Les points correspondent au total du challenge de la saison, avec le barème en vigueur.
   </p>
 
   <div class="velo-road-stats__table-wrap" role="region" aria-label="Tableau des statistiques par coureur" tabindex="0">
@@ -46,14 +40,14 @@ title: Statistiques Route 2026
         <tr>
           <th scope="col" class="velo-road-stats__name" data-sort="text">Coureur</th>
           <th scope="col" data-sort="number">Courses</th>
-          {% for place in stats.place_labels %}
+          {% for place in include.stats.place_labels %}
             <th scope="col" data-sort="number">{% if place == 1 %}1re place{% else %}{{ place }}e place{% endif %}</th>
           {% endfor %}
           <th scope="col" data-sort="number">Points challenge</th>
         </tr>
       </thead>
       <tbody>
-        {% for rider in stats.riders %}
+        {% for rider in include.stats.riders %}
           <tr>
             <th scope="row" class="velo-road-stats__name">{{ rider.name }}</th>
             <td>{{ rider.races }}</td>
@@ -67,18 +61,13 @@ title: Statistiques Route 2026
       <tfoot>
         <tr>
           <th scope="row" class="velo-road-stats__name">Total</th>
-          <td>{{ stats.summary.races }}</td>
-          {% for count in stats.summary.place_counts %}
+          <td>{{ include.stats.summary.races }}</td>
+          {% for count in include.stats.summary.place_counts %}
             <td>{{ count }}</td>
           {% endfor %}
-          <td class="velo-road-stats__points">{{ stats.summary.challenge_points }}</td>
+          <td class="velo-road-stats__points">{{ include.stats.summary.challenge_points }}</td>
         </tr>
       </tfoot>
     </table>
   </div>
 </section>
-
-<script src="{{ '/assets/js/road-stats.js' | relative_url }}" defer></script>
-
-{%- include sponsors.html -%}
-{%- include recent-races.html limit=5 -%}

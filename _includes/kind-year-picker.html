@@ -1,0 +1,69 @@
+{%- comment -%}
+  Sélecteur type (Route / Boue) + saison, et script qui affiche la vue correspondante.
+  Les vues sont des éléments `data-kind="route|boue" data-year="AAAA" data-title="…"` (masqués avec `hidden`).
+  Paramètres : views (sélecteur CSS des vues), route_label, boue_label. URL : ?type=route|boue&year=AAAA
+{%- endcomment -%}
+<section class="velo-challenge-picker" id="challenge-picker" aria-label="Choix du challenge">
+  <div class="velo-challenge-picker__group" role="group" aria-label="Type de challenge">
+    <button type="button" class="velo-challenge-picker__btn" data-kind="route">{{ include.route_label }}</button>
+    <button type="button" class="velo-challenge-picker__btn" data-kind="boue">{{ include.boue_label }}</button>
+  </div>
+  <label class="velo-challenge-picker__year">
+    <span>Saison</span>
+    <select id="challenge-year" aria-label="Saison"></select>
+  </label>
+</section>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var views = Array.prototype.slice.call(document.querySelectorAll({{ include.views | jsonify }}));
+  if (!views.length) return;
+  var buttons = Array.prototype.slice.call(document.querySelectorAll('.velo-challenge-picker__btn'));
+  var select = document.getElementById('challenge-year');
+  var params = new URLSearchParams(window.location.search);
+  var current = views.filter(function (v) { return !v.hidden; })[0] || views[0];
+  var kind = current.dataset.kind, year = current.dataset.year;
+
+  function yearsFor(k) {
+    return views.filter(function (v) { return v.dataset.kind === k; })
+                .map(function (v) { return v.dataset.year; })
+                .sort(function (a, b) { return b - a; });
+  }
+  function find(k, y) {
+    return views.filter(function (v) { return v.dataset.kind === k && v.dataset.year === y; })[0];
+  }
+  function show(k, y, push) {
+    if (!yearsFor(k).length) return;
+    if (!find(k, y)) y = yearsFor(k)[0];
+    kind = k; year = y;
+    views.forEach(function (v) { v.hidden = !(v.dataset.kind === k && v.dataset.year === y); });
+    buttons.forEach(function (b) {
+      var active = b.dataset.kind === k;
+      b.classList.toggle('is-active', active);
+      b.setAttribute('aria-pressed', active ? 'true' : 'false');
+      b.disabled = !yearsFor(b.dataset.kind).length;
+    });
+    select.innerHTML = '';
+    yearsFor(k).forEach(function (yy) {
+      var o = document.createElement('option');
+      o.value = yy; o.textContent = yy; o.selected = (yy === y);
+      select.appendChild(o);
+    });
+    var title = find(k, y).dataset.title;
+    document.title = title + ' | Team Specialized Lille';
+    var url = window.location.pathname + '?type=' + k + '&year=' + y;
+    if (push) { try { history.replaceState(null, '', url); } catch (e) {} }
+  }
+  buttons.forEach(function (b) {
+    b.addEventListener('click', function () { show(b.dataset.kind, year, true); });
+  });
+  select.addEventListener('change', function () { show(kind, select.value, true); });
+
+  var wantedKind = params.get('type'), wantedYear = params.get('year');
+  if (wantedKind === 'route' || wantedKind === 'boue') {
+    show(wantedKind, wantedYear || yearsFor(wantedKind)[0], false);
+  } else {
+    show(kind, year, false);
+  }
+});
+</script>

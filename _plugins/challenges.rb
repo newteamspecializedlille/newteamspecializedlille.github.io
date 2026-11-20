@@ -8,6 +8,7 @@
 #
 # - challenge route  = résultats `road` de la saison (année civile)
 # - challenge boue   = résultats `cx` + `vtt` de la saison (année + 1 dès août)
+# - statistiques route : site.data["stats_route<année>"] / ["stats_boue<année>"] (places 1 à 10 par coureur actif)
 # - barèmes et règle « un abandon compte-t-il comme participation ? » : _data/challenge_rules.json
 module Challenges
   FRENCH_MONTHS = %w[janvier février mars avril mai juin juillet août septembre octobre novembre décembre].freeze
@@ -71,6 +72,37 @@ module Challenges
     )
   end
 
+  # Statistiques d'une saison (courses, places 1 à 10, points du challenge) pour le type "challenge" (route) ou "boue" (cx + vtt).
+  # Seuls les membres actifs sont comptés.
+  def season_stats(kind, season, members, scale, abandon_counts)
+    disciplines = DISCIPLINES.fetch(kind)
+    riders = members.select { |m| m["active"] != false }.map do |m|
+      races = disciplines.flat_map { |d| (m[d] || {})[season] || [] }
+      {
+        "name" => m["name"],
+        "races" => races.size,
+        "places" => (1..10).map { |place| races.count { |r| r["rank"] == place } },
+        "challenge_points" => races.sum { |r| points_for(r, scale, abandon_counts) }
+      }
+    end
+    riders.sort_by! { |r| [-r["places"].sum, r["name"]] }
+    place_counts = (0..9).map { |i| riders.sum { |r| r["places"][i] } }
+    {
+      "year" => season.to_i,
+      "kind" => kind == "boue" ? "boue" : "route",
+      "update_iso" => last_result_date(members, disciplines, season).to_s,
+      "place_labels" => (1..10).to_a,
+      "summary" => {
+        "riders" => riders.size,
+        "races" => riders.sum { |r| r["races"] },
+        "top_10_finishes" => place_counts.sum,
+        "place_counts" => place_counts,
+        "challenge_points" => riders.sum { |r| r["challenge_points"] }
+      },
+      "riders" => riders
+    }
+  end
+
   def generate(site)
     team = site.data["team"]
     rules = site.data["challenge_rules"]
@@ -85,6 +117,8 @@ module Challenges
         next unless scale
 
         site.data["#{kind}#{season}"] = build(kind, season, members, scale, abandon_counts)
+        stats_kind = kind == "boue" ? "boue" : "route"
+        site.data["stats_#{stats_kind}#{season}"] = season_stats(kind, season, members, scale, abandon_counts)
       end
     end
     # clés triées comme le chargement de _data/ (la page coureur parcourt site.data : boue avant challenge)

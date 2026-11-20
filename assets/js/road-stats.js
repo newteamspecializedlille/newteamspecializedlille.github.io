@@ -1,9 +1,9 @@
 (function () {
   "use strict";
 
-  var table = document.querySelector(".velo-road-stats__table");
-  if (!table) return;
+  Array.from(document.querySelectorAll(".velo-road-stats__table")).forEach(makeSortable);
 
+  function makeSortable(table) {
   var body = table.tBodies[0];
   var headers = Array.from(table.querySelectorAll("thead th[data-sort]"));
   var collator = new Intl.Collator("fr");
@@ -51,4 +51,5 @@
       });
     });
   });
+  }
 })();

@@ -43,8 +43,6 @@ def main():
     team = parser.add_race_from_pdf(os.path.abspath(os.path.join(START_DIR, args.pdf)), args.type, args.name, args.date.replace("-", "/"),
                                     year, args.championship)
     team_members.update_team_file(team)
-    if args.type == "Route":
-        team_members.update_road_statistics(team, year)
     site_links.update_race_urls()
     print("course ajoutée : vérifier `git diff --stat`, le post dans _posts/ et les alertes [ALERTE] ci-dessus")
 
