@@ -3,8 +3,8 @@ layout: post
 title: Route - HASPRES2 - 2026
 date: 2026-06-14
 category: Route
-permalink: /resultats/route/2026-06-14-haspres2/
 championship: Championnat Département
+permalink: /resultats/route/2026-06-14-haspres2/
 tags: Route
 image: assets/img/blog/road.png
 images:

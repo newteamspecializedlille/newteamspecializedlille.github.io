@@ -3,8 +3,8 @@ layout: post
 title: Route - MARQUETTE EN OSTREVENT - 2026
 date: 2026-05-10
 category: Route
-permalink: /resultats/route/2026-05-10-marquette-en-ostrevent/
 championship: Championnat Nord
+permalink: /resultats/route/2026-05-10-marquette-en-ostrevent/
 tags: Route
 image: assets/img/blog/road.png
 ---
