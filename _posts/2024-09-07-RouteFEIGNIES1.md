@@ -3,14 +3,15 @@ layout: post
 title: Route - FEIGNIES1 - 2024
 date: 2024-09-07
 category: Route
+permalink: /resultats/route/2024-09-07-feignies1/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 3ème Catégorie
 57 participants
-- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 5
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 53
+- [WALTER BENOIT](/coureurs/walterbenoit) : 5
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 53
 
 ### Scratch
 144 participants
@@ -76,7 +77,7 @@ image: assets/img/blog/road.png
 | 57 | LEVAS LAURENT | UNION SPORTIVE VALENCIENNES CRESPIN | 22 | 3ème | 1:32:38 | 
 | 58 | VANHALWYN DIMITRI | VELO CLUB UNION HALLUIN | 22 | 3ème | 1:32:39 | 
 | 59 | FRANCOIS GERALD | SAULZOIR MONTRECOURT CYCLING CLUB | 22 | 3ème | 1:32:39 | 
-| **60** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **22** | **3ème** | **1:32:39** | 
+| **60** | **[WALTER BENOIT](/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **22** | **3ème** | **1:32:39** | 
 | 61 | DALLE CLEMENT | VELO CLUB SOLESMES | 22 | 3ème | 1:32:39 | 
 | 62 | SERE BENJAMIN | CYCLO CLUB WAVRIN | 22 | 3ème | 1:32:39 | 
 | 63 | LIENAUX YVES | ASSOCIATION SPORTIVE VELOCIPEDIQUE LA LONGUEVILLE | 22 | 3ème | 1:32:39 | 
@@ -147,7 +148,7 @@ image: assets/img/blog/road.png
 | 128 | BOUVELLE PHILIPPE | LA ROUE D'OR GUISARDE | 19 | 4ème | 1:31:26 | 
 | 129 | DENEQUE DANIEL | AMICALE LAIQUE SPORTIVE  ROEULX | 19 | 4ème | 1:32:28 | 
 | 130 | GREUSE GUILLAUME | ETOILE CYCLISTE FEIGNIES | 19 | 3ème | 1:32:41 | 
-| **131** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **19** | **3ème** | **1:32:54** | 
+| **131** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **19** | **3ème** | **1:32:54** | 
 | 132 | BERNIER STEPHANE | VTT  CLUB PONT SUR SAMBRE | 16 | 4ème | 1:31:48 | 
 | 133 | MONTOIS ARNAUD | UNION SPORTIVE VALENCIENNES CRESPIN | 16 | 3ème | 1:33:26 | 
 | 134 | ALEXANDRE MAGGY | VELO CLUB SOLESMES | 15 | Féminines | 1:11:0 | 

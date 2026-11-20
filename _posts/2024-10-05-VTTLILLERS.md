@@ -3,13 +3,14 @@ layout: post
 title: VTT - LILLERS - 2025
 date: 2024-10-05
 category: VTT
+permalink: /resultats/vtt/2024-10-05-lillers/
 tags: VTT
 image: assets/img/blog/vtt.png
 ---
 
 ### VTT Vétérans A
 10 participants
-- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 9
+- [WALTER BENOIT](/coureurs/walterbenoit) : 9
 
 ### Scratch
 27 participants
@@ -40,6 +41,6 @@ image: assets/img/blog/vtt.png
 | 22 | FASQUEL THOMAS | OUTREAU CLUB SPORTIF OUTRELOIS (C.S.O) | 6 | Vétérans A | 0:44:37 | 
 | 23 | VERBEKE HUGO | BEUVRY CLUB LEO LAGRANGE | 6 | Seniors A | 0:45:4 | 
 | 24 | BENOIT KEVIN | MANQUEVILLE LILLERS CLUB CYCLISTE | 6 | Seniors B | 0:45:10 | 
-| **25** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **6** | **Vétérans A** | **0:45:13** | 
+| **25** | **[WALTER BENOIT](/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **6** | **Vétérans A** | **0:45:13** | 
 | 26 | CARON JULIEN | BEUVRY CYCLO CLUB | 5 | Seniors B | 0:41:9 | 
 | 27 | HAVET STEPHANE | BEUVRY CYCLO CLUB | 5 | Vétérans B | 0:46:52 | 

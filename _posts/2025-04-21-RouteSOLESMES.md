@@ -3,17 +3,18 @@ layout: post
 title: Route - SOLESMES - 2025
 date: 2025-04-21
 category: Route
+permalink: /resultats/route/2025-04-21-solesmes/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
 57 participants
-- [BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine) : 32
+- [BROUTIN ANTOINE](/coureurs/broutinantoine) : 32
 
 ### 3ème Catégorie
 74 participants
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 13
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 13
 
 ### Scratch
 225 participants
@@ -89,7 +90,7 @@ image: assets/img/blog/road.png
 | 67 | DOOM HERVE | NEW ORANGE TEAM BOUSBECQUE | 22 | 2ème | 1:33:16 | 
 | 68 | BEAUSSART CEDRIC | LA CHERIZIENNE - VILLE DE CHAUNY | 22 | 2ème | 1:33:17 | 
 | 69 | BELKEIR SLIMAN | NEW ORANGE TEAM BOUSBECQUE | 22 | 2ème | 1:33:17 | 
-| **70** | **[BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine)** | **TEAM SPECIALIZED LILLE** | **22** | **2ème** | **1:33:18** | 
+| **70** | **[BROUTIN ANTOINE](/coureurs/broutinantoine)** | **TEAM SPECIALIZED LILLE** | **22** | **2ème** | **1:33:18** | 
 | 71 | STIEVENART FREDERIC | ETOILE CYCLISTE LIEU ST AMAND | 22 | 2ème | 1:33:19 | 
 | 72 | HELLOT FRANCOIS | HAVELUY CYCLO CLUB | 22 | 2ème | 1:33:20 | 
 | 73 | RIVART THIERRY | VTT  CLUB PONT SUR SAMBRE | 22 | 2ème | 1:33:20 | 
@@ -121,7 +122,7 @@ image: assets/img/blog/road.png
 | 99 | GROSSEMY MICKAEL | ETOILE CYCLISTE FEIGNIES | 19 | 3ème | 1:21:24 | 
 | 100 | RICHET CHRISTOPHE | ASSOCIATION CYCLISTE D'ETROEUNGT | 19 | 3ème | 1:21:24 | 
 | 101 | PLUCHARD MATHIS | VELO CLUB ROUBAIX | 19 | 3ème | 1:21:25 | 
-| **102** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **19** | **3ème** | **1:21:25** | 
+| **102** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **19** | **3ème** | **1:21:25** | 
 | 103 | SEMOULIN JACQUES | TEAM B.B.L. HERGNIES | 19 | 3ème | 1:21:25 | 
 | 104 | KONOPKA GABRIEL | CERCLE OLYMPIQUE MARCOING | 19 | 3ème | 1:21:25 | 
 | 105 | CESAR BENOIT | NEW ORANGE TEAM BOUSBECQUE | 19 | 3ème | 1:21:25 | 

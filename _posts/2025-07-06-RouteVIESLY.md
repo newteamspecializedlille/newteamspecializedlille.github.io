@@ -3,13 +3,14 @@ layout: post
 title: Route - VIESLY - 2025
 date: 2025-07-06
 category: Route
+permalink: /resultats/route/2025-07-06-viesly/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 3ème Catégorie
 30 participants
-- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 12
+- [WALTER BENOIT](/coureurs/walterbenoit) : 12
 
 ### Scratch
 82 participants
@@ -54,7 +55,7 @@ image: assets/img/blog/road.png
 | 36 | FURNE JEAN CHRISTOPHE | VELO SPRINT DE L'OSTREVENT - ANICHE | 17 | 3ème | 1:21:38 | 
 | 37 | DALLE FREDERIC | VELO CLUB SOLESMES | 17 | 3ème | 1:21:38 | 
 | 38 | LANOY CHRISTOPHER | UNION SPORTIVE VALENCIENNES CRESPIN | 17 | 3ème | 1:21:38 | 
-| **39** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **17** | **3ème** | **1:21:38** | 
+| **39** | **[WALTER BENOIT](/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **17** | **3ème** | **1:21:38** | 
 | 40 | CONTESSE FREDERIC | ASSOCIATION CYCLISTE D'ETROEUNGT | 17 | 3ème | 1:21:39 | 
 | 41 | CICHOWSKI DAVID | VELO SPRINT DE L'OSTREVENT - ANICHE | 17 | 3ème | 1:21:39 | 
 | 42 | DAVAINE HUGUES | LA PEDALE MADELEINOISE | 17 | 3ème | 1:21:40 | 

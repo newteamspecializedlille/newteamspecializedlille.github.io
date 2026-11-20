@@ -3,17 +3,18 @@ layout: post
 title: Route - MAULDE 3 - 2021
 date: 2021-09-26
 category: Route
+permalink: /resultats/route/2021-09-26-maulde-3/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 30 participants
-- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 5
+- [LECOLIER STEPHANE](/coureurs/lecolierstephane) : 5
 
 ### 3ème Catégorie
 66 participants
-- [VERHULST ERIC](https://teamspecializedlille.cc/coureurs/verhulsteric) : 54
+- [VERHULST ERIC](/coureurs/verhulsteric) : 54
 
 ### Scratch
 172 participants

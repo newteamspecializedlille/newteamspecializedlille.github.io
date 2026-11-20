@@ -3,13 +3,14 @@ layout: post
 title: Route - FLINES LES MORTAGNE - 2025
 date: 2025-08-31
 category: Route
+permalink: /resultats/route/2025-08-31-flines-les-mortagne/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 3ème Catégorie
 64 participants
-- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 6
+- [WALTER BENOIT](/coureurs/walterbenoit) : 6
 
 ### Scratch
 203 participants
@@ -48,7 +49,7 @@ image: assets/img/blog/road.png
 | 30 | CICHOWSKI DAVID | VELO SPRINT DE L'OSTREVENT - ANICHE | 10 | 3ème | 1:27:49 | 
 | 31 | CODDEVILLE RUDY | VELO CLUB UNION HALLUIN | 10 | 3ème | 1:27:50 | 
 | 32 | HEDBAUT ALEXIS | TEAM BLECOURTOISE | 10 | 3ème | 1:27:50 | 
-| **33** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **10** | **3ème** | **1:27:50** | 
+| **33** | **[WALTER BENOIT](/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **10** | **3ème** | **1:27:50** | 
 | 34 | LARGEAU FREDERIC | SAULZOIR MONTRECOURT CYCLING CLUB | 10 | 3ème | 1:27:50 | 
 | 35 | DELOT GREGORY | TEAM BIKE PRESEAU | 10 | 3ème | 1:27:50 | 
 | 36 | FRANCOIS GERALD | SAULZOIR MONTRECOURT CYCLING CLUB | 10 | 3ème | 1:27:51 | 

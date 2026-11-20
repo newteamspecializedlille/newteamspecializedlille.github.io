@@ -3,6 +3,7 @@ layout: post
 title: Route - ETROEUNGT - 2026
 date: 2026-04-12
 category: Route
+permalink: /resultats/route/2026-04-12-etroeungt/
 tags: Route
 image: assets/img/blog/road.png
 images:
@@ -12,7 +13,7 @@ images:
 
 ### 2ème Catégorie
 26 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 11
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 11
 
 ### Scratch
 97 participants
@@ -44,7 +45,7 @@ images:
 | 23 | LECERF JEROME | ASSOCIATION SPORTIVE VELOCIPEDIQUE LA LONGUEVILLE | 9 | 2ème | 1:41:40 | 
 | 24 | BLONDEL FREDERIC | ESEG DOUAI | 9 | 2ème | 1:41:40 | 
 | 25 | BOUZIN BENJAMIN | ASSOCIATION CYCLISTE D'ETROEUNGT | 9 | 2ème | 1:41:40 | 
-| **26** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **9** | **2ème** | **1:41:40** | 
+| **26** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **9** | **2ème** | **1:41:40** | 
 | 27 | GUERVILLE YANN | CYCLO CLUB WAVRIN | 9 | 2ème | 1:41:41 | 
 | 28 | RICHET CHRISTOPHE | ASSOCIATION CYCLISTE D'ETROEUNGT | 9 | 2ème | 1:41:42 | 
 | 29 | MILLET FABRICE | VTT  CLUB PONT SUR SAMBRE | 9 | 2ème | 1:41:42 | 

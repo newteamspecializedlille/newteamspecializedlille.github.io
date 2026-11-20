@@ -3,17 +3,18 @@ layout: post
 title: Route - MARQUETTE EN OSTREVENT - 2023
 date: 2023-05-27
 category: Route
+permalink: /resultats/route/2023-05-27-marquette-en-ostrevent/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 42 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 16
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 16
 
 ### 2ème Catégorie
 51 participants
-- [HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe) : 20
+- [HUBAUT CHRISTOPHE](/coureurs/hubautchristophe) : 20
 
 ### Scratch
 197 participants
@@ -35,7 +36,7 @@ image: assets/img/blog/road.png
 | 13 | LENGLET GUILLAUME | NOUVELLE ETOILE SPORTIVE BOUE ETREUX | 8 | 1ère | 1:29:13 | 
 | 14 | LUSTRE DAMIEN | AGNY ARTEAM | 8 | 1ère | 1:29:13 | 
 | 15 | LEFEVRE SEBASTIEN | UNION VELOCIPEDIQUE FOURMISIENNE | 8 | 1ère | 1:29:14 | 
-| **16** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **8** | **1ère** | **1:29:14** | 
+| **16** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **8** | **1ère** | **1:29:14** | 
 | 17 | LACROIX FREDERIC | VELO CLUB ROUBAIX | 8 | 1ère | 1:29:14 | 
 | 18 | BERTHIER THIBAUT | ETOILE CYCLISTE LIEU ST AMAND | 8 | 1ère | 1:29:18 | 
 | 19 | MASSON ARNAUD | ESEG DOUAI | 8 | 1ère | 1:29:30 | 
@@ -78,7 +79,7 @@ image: assets/img/blog/road.png
 | 56 | VANWYNSBERGHE SAMUEL | NEW ORANGE TEAM BOUSBECQUE | 8 | 2ème | 1:34:22 | 
 | 57 | DUFOUR MICHEL | SAULZOIR MONTRECOURT CYCLING CLUB | 8 | 2ème | 1:34:22 | 
 | 58 | CONTESSE THIBAUD | UNION SPORTIVE VALENCIENNES CRESPIN | 8 | 2ème | 1:34:23 | 
-| **59** | **[HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe)** | **TEAM SPECIALIZED LILLE** | **8** | **2ème** | **1:34:23** | 
+| **59** | **[HUBAUT CHRISTOPHE](/coureurs/hubautchristophe)** | **TEAM SPECIALIZED LILLE** | **8** | **2ème** | **1:34:23** | 
 | 60 | TIAGO SEBASTIAN | LINSELLES CYCLISME | 8 | 2ème | 1:34:23 | 
 | 61 | PLOMION JADE | GAZ ELEC CLUB DE DOUAI | 8 | 2ème | 1:34:23 | 
 | 62 | DERREVEAUX CHRISTOPHE | ETOILE CYCLISTE TOURCOING | 8 | 2ème | 1:34:23 | 

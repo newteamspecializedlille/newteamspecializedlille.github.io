@@ -3,14 +3,15 @@ layout: post
 title: Route - ASSEVENT - 2025
 date: 2025-05-17
 category: Route
+permalink: /resultats/route/2025-05-17-assevent/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 3ème Catégorie
 45 participants
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 5
-- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 26
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 5
+- [WALTER BENOIT](/coureurs/walterbenoit) : 26
 
 ### Scratch
 113 participants
@@ -38,7 +39,7 @@ image: assets/img/blog/road.png
 | 19 | DELANSAY JULIEN | TEAM CYCLISTE LA BORDURE - BETTRECHIES | 22 | 3ème | 1:40:15 | 
 | 20 | CARE CYRIL | UNION SPORTIVE VALENCIENNES CRESPIN | 22 | 2ème | 1:40:42 | 
 | 21 | GOUBERT NOE | TEAM CYCLISTE LA BORDURE - BETTRECHIES | 22 | 2ème | 1:41:3 | 
-| **22** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **22** | **3ème** | **1:41:3** | 
+| **22** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **22** | **3ème** | **1:41:3** | 
 | 23 | DIAS MARTIN BAPTISTE | CAMPHIN EN CAREMBAULT CYCLING TEAM | 22 | 3ème | 1:41:4 | 
 | 24 | SERE MARC | CYCLO CLUB WAVRIN | 22 | 3ème | 1:41:8 | 
 | 25 | DEJEAN MATHIS | TEAM CYCLISTE LA BORDURE - BETTRECHIES | 22 | 3ème | 1:41:9 | 
@@ -58,7 +59,7 @@ image: assets/img/blog/road.png
 | 39 | MARY KEVIN | VELO CLUB SOLESMES | 22 | 3ème | 1:41:14 | 
 | 40 | DUCARNE ANTOINE | VELO CLUB SOLESMES | 22 | 3ème | 1:41:14 | 
 | 41 | DEFOSSEZ RODRIGUE | CLUB CYCLISTE THUN ST MARTIN | 22 | 3ème | 1:41:15 | 
-| **42** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **22** | **3ème** | **1:41:15** | 
+| **42** | **[WALTER BENOIT](/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **22** | **3ème** | **1:41:15** | 
 | 43 | ROULY FRANCK | ETOILE CYCLISTE LIEU ST AMAND | 22 | 3ème | 1:41:15 | 
 | 44 | CONTESSE FREDERIC | ASSOCIATION CYCLISTE D'ETROEUNGT | 22 | 3ème | 1:41:17 | 
 | 45 | MOTTIER DAMIEN | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 22 | 3ème | 1:41:17 | 

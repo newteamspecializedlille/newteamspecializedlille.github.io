@@ -3,17 +3,18 @@ layout: post
 title: VTT - HENIN BEAUMONT - 2027
 date: 2026-11-01
 category: VTT
+permalink: /resultats/vtt/2026-11-01-henin-beaumont/
 tags: VTT
 image: assets/img/blog/vtt.png
 ---
 
 ### VTT Sénior B
 14 participants
-- [HUGUENIN DYLAN](https://teamspecializedlille.cc/coureurs/huguenindylan) : 10
+- [HUGUENIN DYLAN](/coureurs/huguenindylan) : 10
 
 ### VTT Vétérans A
 13 participants
-- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 9
+- [DEFER OLIVIER](/coureurs/deferolivier) : 9
 
 ### Scratch
 68 participants
@@ -37,7 +38,7 @@ image: assets/img/blog/vtt.png
 | 15 | EVIN Yvon | VERQUIGNEUL UNION CYCLISTE | 0 | Seniors B | 0:38:53 | 
 | 16 | LEPLAN Benjamin | ARTeam ARTOIS RACING TEAM | 0 | Seniors B | 0:38:53 | 
 | 17 | DUFFROY Antoine | TEAM SHARK VTT | 0 | Seniors B | 0:38:53 | 
-| **18** | **[HUGUENIN Dylan](https://teamspecializedlille.cc/coureurs/huguenindylan)** | **TEAM SPECIALIZED LILLE** | **0** | **Seniors B** | **0:38:53** | 
+| **18** | **[HUGUENIN Dylan](/coureurs/huguenindylan)** | **TEAM SPECIALIZED LILLE** | **0** | **Seniors B** | **0:38:53** | 
 | 19 | DESQUIRET Alain | HINGES LES BAUDETS | 0 | Seniors B | 0:38:53 | 
 | 20 | VAN DAMME Remi | TEAM FULL WATTS CAMBREIS | 0 | Seniors B | 0:38:53 | 
 | 21 | WECLAWIAK Tristan | HENIN ETOILE CYCLISTE HENINOISE | 0 | Seniors B | 0:38:53 | 
@@ -50,7 +51,7 @@ image: assets/img/blog/vtt.png
 | 28 | LANGLET Guillaume | VELO CLUB DE SOLESMES | 0 | Vétérans A | 0:38:53 | 
 | 29 | CATOUILLARD Damien | VELO VERT MAROEUILLOIS | 0 | Vétérans A | 0:38:53 | 
 | 30 | BUONO Jeremy | VELO VERT MAROEUILLOIS | 0 | Vétérans A | 0:38:53 | 
-| **31** | **[DEFER Olivier](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **0** | **Vétérans A** | **0:38:53** | 
+| **31** | **[DEFER Olivier](/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **0** | **Vétérans A** | **0:38:53** | 
 | 32 | BUISINE Fabrice | HENIN ETOILE CYCLISTE HENINOISE | 0 | Vétérans A | 0:38:53 | 
 | 33 | LECOMPERE Julien | HINGES LES BAUDETS | 0 | Vétérans A | 0:38:53 | 
 | 34 | DEMARCQ Marian | VELO SPRINT DE L'OSTREVENT ANICHE | 0 | Vétérans A | 0:38:53 | 

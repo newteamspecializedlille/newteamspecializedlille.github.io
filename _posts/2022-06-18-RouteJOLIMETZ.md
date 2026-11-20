@@ -3,10 +3,11 @@ layout: post
 title: Route - JOLIMETZ - 2022
 date: 2022-06-18
 category: Route
+permalink: /resultats/route/2022-06-18-jolimetz/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 40 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : Ab
+- [DEFOSSE HERVE](/coureurs/defosseherve) : Ab

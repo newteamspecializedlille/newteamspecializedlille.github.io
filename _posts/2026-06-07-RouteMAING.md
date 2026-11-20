@@ -3,22 +3,23 @@ layout: post
 title: Route - MAING - 2026
 date: 2026-06-07
 category: Route
+permalink: /resultats/route/2026-06-07-maing/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 48 participants
-- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 25
+- [DERASSE DAVID](/coureurs/derassedavid) : 25
 
 ### 2ème Catégorie
 62 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 2
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 28
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 2
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 28
 
 ### 3ème Catégorie
 69 participants
-- [LECOURT CHARLIE](https://teamspecializedlille.cc/coureurs/lecourtcharlie) : 18
+- [LECOURT CHARLIE](/coureurs/lecourtcharlie) : 18
 
 ### Scratch
 247 participants
@@ -49,7 +50,7 @@ image: assets/img/blog/road.png
 | 22 | MASSIN ALEXANDRE | ESEG DOUAI | 24 | 1ère | 1:45:55 | 
 | 23 | LOGIE MATTHIEU | VELO CLUB UNION HALLUIN | 24 | 1ère | 1:45:55 | 
 | 24 | DOYEN MATHIS | CYCLO CLUB ORCHIES | 24 | 1ère | 1:45:55 | 
-| **25** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **24** | **1ère** | **1:45:56** | 
+| **25** | **[DERASSE DAVID](/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **24** | **1ère** | **1:45:56** | 
 | 26 | MARECHAL GUILLAUME | VELO CLUB SOLESMES | 24 | 1ère | 1:45:57 | 
 | 27 | BARA VICTOR | UNION SPORTIVE SAINT ANDRE | 24 | 1ère | 1:45:58 | 
 | 28 | JABLONSKI SEBASTIEN | NEW TEAM MAULDE | 24 | 1ère | 1:45:58 | 
@@ -65,7 +66,7 @@ image: assets/img/blog/road.png
 | 38 | AINI ISSAM | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 24 | 1ère | 1:46:5 | 
 | 39 | PELLETIER THOMAS | TEAM CYCLISTE - RAMILLIES | 23 | 1ère | 1:42:11 | 
 | 40 | DUQUESNES BENJAMIN | UNION SPORTIVE VALENCIENNES CRESPIN | 23 | 2ème | 1:51:24 | 
-| **41** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **23** | **2ème** | **1:51:24** | 
+| **41** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **23** | **2ème** | **1:51:24** | 
 | 42 | FOURNIER AXEL | TEAM CYCLISTE LA BORDURE - BETTRECHIES | 23 | 2ème | 1:51:24 | 
 | 43 | HERBERT ALEXANDRE | LINSELLES CYCLISME | 23 | 2ème | 1:51:25 | 
 | 44 | ROSZKIEWICZ RAPHAEL | VELO CLUB DE L'ESCAUT ANZIN | 23 | 2ème | 1:51:25 | 
@@ -91,7 +92,7 @@ image: assets/img/blog/road.png
 | 64 | LEONARDI FLORIAN | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 23 | 2ème | 1:51:29 | 
 | 65 | DUHAMEL ARNAUD | ARTeam Artois Racing Team | 23 | 2ème | 1:51:29 | 
 | 66 | POULAIN CHRISTOPHE | VELO SPRINT DE L'OSTREVENT - ANICHE | 23 | 2ème | 1:51:30 | 
-| **67** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **23** | **2ème** | **1:51:30** | 
+| **67** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **23** | **2ème** | **1:51:30** | 
 | 68 | DIAS MARTIN BAPTISTE | CAMPHIN EN CAREMBAULT CYCLING TEAM | 23 | 2ème | 1:51:32 | 
 | 69 | PALAC SIMON | TEAM CROSS HASPRES | 23 | 2ème | 1:51:32 | 
 | 70 | DECOBECQ CLEMENT | TEAM BLECOURTOISE | 23 | 2ème | 1:51:32 | 
@@ -135,7 +136,7 @@ image: assets/img/blog/road.png
 | 108 | DAVAINE HUGUES | LA PEDALE MADELEINOISE | 21 | 3ème | 1:43:36 | 
 | 109 | LEGRAND MICHAEL | RESILIENCE CLUB | 21 | 3ème | 1:43:36 | 
 | 110 | LECLERCQ LOUIS | VELO CLUB SOLESMES | 21 | 3ème | 1:43:36 | 
-| **111** | **[LECOURT CHARLIE](https://teamspecializedlille.cc/coureurs/lecourtcharlie)** | **TEAM SPECIALIZED LILLE** | **21** | **3ème** | **1:43:36** | 
+| **111** | **[LECOURT CHARLIE](/coureurs/lecourtcharlie)** | **TEAM SPECIALIZED LILLE** | **21** | **3ème** | **1:43:36** | 
 | 112 | BOUTONNE FREDERIC | TEAM BOUSIES | 21 | 3ème | 1:43:37 | 
 | 113 | FRANCOIS GERALD | TEAM CYCLING LA SENTINELLE | 21 | 3ème | 1:43:37 | 
 | 114 | BERTHIER ANTOINE | NEW ORANGE TEAM BOUSBECQUE | 21 | 3ème | 1:43:37 | 
@@ -214,7 +215,7 @@ image: assets/img/blog/road.png
 | 187 | BOURLET ERIC | AMICALE LAIQUE SPORTIVE  ROEULX | 18 | 4ème | 1:39:6 | 
 | 188 | LABRE FRANCOIS | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 18 | 4ème | 1:39:6 | 
 | 189 | JABLONSKI EVA | UNION SPORTIVE SAINT ANDRE | 18 | 4ème | 1:39:7 | 
-| **190** | **[DERASSE PATRICK](https://teamspecializedlille.cc/coureurs/derassepatrick)** | **TEAM SPECIALIZED LILLE** | **18** | **4ème** | **1:39:7** | 
+| **190** | **[DERASSE PATRICK](/coureurs/derassepatrick)** | **TEAM SPECIALIZED LILLE** | **18** | **4ème** | **1:39:7** | 
 | 191 | BOUCLY ERIC | AMICALE LAIQUE SPORTIVE  ROEULX | 18 | 4ème | 1:39:7 | 
 | 192 | BRIXHE ALAIN | VTT  CLUB PONT SUR SAMBRE | 18 | 4ème | 1:39:9 | 
 | 193 | BLONDEAU BENOIT | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 18 | 4ème | 1:39:12 | 

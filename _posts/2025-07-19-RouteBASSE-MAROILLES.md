@@ -3,18 +3,19 @@ layout: post
 title: Route - BASSE MAROILLES - 2025
 date: 2025-07-19
 category: Route
+permalink: /resultats/route/2025-07-19-basse-maroilles/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
 41 participants
-- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 25
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 32
+- [DEFER OLIVIER](/coureurs/deferolivier) : 25
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 32
 
 ### 3ème Catégorie
 52 participants
-- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 5
+- [WALTER BENOIT](/coureurs/walterbenoit) : 5
 
 ### Scratch
 171 participants
@@ -71,21 +72,21 @@ image: assets/img/blog/road.png
 | 48 | DRUESNE DAMIEN | UNION VELOCIPEDIQUE FOURMISIENNE | 25 | 2ème | 1:41:42 | 
 | 49 | DELPIRE FREDERIC | VTT  CLUB PONT SUR SAMBRE | 25 | 2ème | 1:41:43 | 
 | 50 | RIVART THIERRY | VTT  CLUB PONT SUR SAMBRE | 25 | 2ème | 1:41:44 | 
-| **51** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **25** | **2ème** | **1:41:44** | 
+| **51** | **[DEFER OLIVIER](/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **25** | **2ème** | **1:41:44** | 
 | 52 | HELLOT FRANCOIS | HAVELUY CYCLO CLUB | 25 | 2ème | 1:41:45 | 
 | 53 | RICHET CHRISTOPHE | ASSOCIATION CYCLISTE D'ETROEUNGT | 25 | 2ème | 1:41:45 | 
 | 54 | CAILLARD ANTHONY | TEAM LINK AND RIDE HERIN | 25 | 2ème | 1:41:45 | 
 | 55 | BUREL THOMAS | ASSOCIATION SPORTIVE VELOCIPEDIQUE LA LONGUEVILLE | 25 | 2ème | 1:41:46 | 
 | 56 | DRUART JEROME | TEAM CYCLISTE LA BORDURE - BETTRECHIES | 25 | 2ème | 1:41:46 | 
 | 57 | LEVEILLE FLORIAN | TEAM ENFER WALLERS ARENBERG | 25 | 2ème | 1:41:48 | 
-| **58** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **25** | **2ème** | **1:41:51** | 
+| **58** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **25** | **2ème** | **1:41:51** | 
 | 59 | VANDAMME THOMAS | CERCLE OLYMPIQUE MARCOING | 24 | 2ème | 1:37:11 | 
 | 60 | CHOQUET PIERRE | UNION SPORTIVE SAINT ANDRE | 22 | 2ème | 1:44:0 | 
 | 61 | FURNE JEAN CHRISTOPHE | VELO SPRINT DE L'OSTREVENT - ANICHE | 21 | 3ème | 1:23:48 | 
 | 62 | ARGENTINO ANTHONY | UNION SPORTIVE SAINT ANDRE | 21 | 3ème | 1:23:53 | 
 | 63 | GEORGES BENOIT | VELO CLUB UNION HALLUIN | 21 | 3ème | 1:23:53 | 
 | 64 | VERWAERDE FABIEN | BAILLEUL VELO CLUB | 21 | 3ème | 1:23:53 | 
-| **65** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **21** | **3ème** | **1:23:54** | 
+| **65** | **[WALTER BENOIT](/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **21** | **3ème** | **1:23:54** | 
 | 66 | DEBRABANT ANTHONY | TEAM BOUSIES | 21 | 3ème | 1:23:54 | 
 | 67 | CHAUVEL BENJAMIN | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 21 | 3ème | 1:23:54 | 
 | 68 | FRANCOIS GERALD | SAULZOIR MONTRECOURT CYCLING CLUB | 21 | 3ème | 1:23:54 | 

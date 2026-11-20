@@ -3,25 +3,26 @@ layout: post
 title: Route - AUBERCHICOURT - 2025
 date: 2025-06-09
 category: Route
+permalink: /resultats/route/2025-06-09-auberchicourt/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 37 participants
-- [CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas) : 1
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 15
+- [CROMBEZ THOMAS](/coureurs/crombezthomas) : 1
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 15
 
 ### 2ème Catégorie
 72 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 58
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 58
 
 ### Scratch
 213 participants
 
 | Place | Nom | Team | Tours | Catégorie | Temps |
 |---|---|---|---|---|---|
-| **1** | **[CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **0** | **1ère** | **0:38:53** | 
+| **1** | **[CROMBEZ THOMAS](/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **0** | **1ère** | **0:38:53** | 
 | 2 | MORELLE YOHANN | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 0 | 1ère | 0:38:53 | 
 | 3 | DE VREESE ALEXIS | UNION SPORTIVE SAINT ANDRE | 0 | 1ère | 0:38:53 | 
 | 4 | MARLIER RONALD | VELO CLUB UNION HALLUIN | 0 | 1ère | 0:38:53 | 
@@ -111,7 +112,7 @@ image: assets/img/blog/road.png
 | 88 | LECLERCQ JEAN LOUIS | CYCLISME EN CAMBRESIS - NEUVILLE ST REMY | 0 | 2ème | 0:38:53 | 
 | 89 | VANDAMME THOMAS | CERCLE OLYMPIQUE MARCOING | 0 | 2ème | 0:38:53 | 
 | 90 | PETIT CHRISTOPHE | NEW ORANGE TEAM BOUSBECQUE | 0 | 2ème | 0:38:53 | 
-| **91** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **0** | **2ème** | **0:38:53** | 
+| **91** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **0** | **2ème** | **0:38:53** | 
 | 92 | TISON CEDRIC | TEAM ENFER WALLERS ARENBERG | 0 | 2ème | 0:38:53 | 
 | 93 | HIERNAUX TANGUY | ASSOCIATION CYCLISTE D'ETROEUNGT | 0 | 2ème | 0:38:53 | 
 | 94 | BOS FABRICE | ASSOCIATION CYCLISTE BELLAINGEOISE | 0 | 2ème | 0:38:53 | 

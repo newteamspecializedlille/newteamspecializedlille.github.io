@@ -3,13 +3,14 @@ layout: post
 title: VTT - SOLESMES - 2023
 date: 2023-02-19
 category: VTT
+permalink: /resultats/vtt/2023-02-19-solesmes/
 tags: VTT
 image: assets/img/blog/vtt.png
 ---
 
 ### VTT Vétérans B
 13 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 1
+- [MATTIOLI RONALD](/coureurs/mattiolironald) : 1
 
 ### Scratch
 41 participants
@@ -19,7 +20,7 @@ image: assets/img/blog/vtt.png
 | 1 | MICHEL KEVIN | ASSOCIATION CYCLISTE BELLAINGEOISE | 9 | Seniors A | 0:59:14 | 
 | 2 | BUGNICOURT CYRIL | UNION VELOCIPEDIQUE FOURMISIENNE | 9 | Vétérans A | 1:0:53 | 
 | 3 | DASSONVILLE SEBASTIEN | NOEUX VELO CLUB NOEUXOIS | 9 | Vétérans A | 1:1:40 | 
-| **4** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **9** | **Vétérans B** | **1:1:50** | 
+| **4** | **[MATTIOLI RONALD](/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **9** | **Vétérans B** | **1:1:50** | 
 | 5 | ALLART ERIC | THELUS TEAM UNIS-VERT VTT | 9 | Vétérans B | 1:1:52 | 
 | 6 | LEFRANCQ LUDOVIC | NOEUX VELO CLUB NOEUXOIS | 9 | Vétérans A | 1:2:18 | 
 | 7 | MINETTE LOIC | VELO CLUB SOLESMES | 9 | Seniors A | 1:2:39 | 

@@ -16,7 +16,6 @@ sys.path.insert(0, SCRIPTS)
 os.chdir(SCRIPTS)  # les modules de la CI utilisent des chemins relatifs (../_data, ../_posts)
 
 import parse_results  # noqa: E402
-import site_links  # noqa: E402
 import team_members  # noqa: E402
 
 
@@ -43,7 +42,6 @@ def main():
     team = parser.add_race_from_pdf(os.path.abspath(os.path.join(START_DIR, args.pdf)), args.type, args.name, args.date.replace("-", "/"),
                                     year, args.championship)
     team_members.update_team_file(team)
-    site_links.update_race_urls()
     print("course ajoutée : vérifier `git diff --stat`, le post dans _posts/ et les alertes [ALERTE] ci-dessus")
 
 

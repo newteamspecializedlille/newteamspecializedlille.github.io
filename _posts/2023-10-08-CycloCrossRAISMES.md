@@ -3,13 +3,14 @@ layout: post
 title: Cyclo Cross - RAISMES - 2024
 date: 2023-10-08
 category: Cyclo Cross
+permalink: /resultats/cyclo-cross/2023-10-08-raismes/
 tags: cyclo-cross
 image: assets/img/blog/cx.png
 ---
 
 ### 3ème Catégorie
 56 participants
-- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 26
+- [DERASSE DAVID](/coureurs/derassedavid) : 26
 
 ### Scratch
 102 participants
@@ -85,7 +86,7 @@ image: assets/img/blog/cx.png
 | 67 | THIERCELIN CYRIL | UNION SPORTIVE VALENCIENNES CRESPIN | 7 | 3ème | 0:54:40 | 
 | 68 | JUNG PHILIPPE | UNION SPORTIVE SAINT ANDRE | 7 | 3ème | 0:54:41 | 
 | 69 | DOOLAEGHE TERRY | VELO CLUB UNION HALLUIN | 7 | 3ème | 0:54:50 | 
-| **70** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **7** | **3ème** | **0:54:54** | 
+| **70** | **[DERASSE DAVID](/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **7** | **3ème** | **0:54:54** | 
 | 71 | HAUTEM GERY | UNION SPORTIVE SAINT ANDRE | 7 | 3ème | 0:55:22 | 
 | 72 | HUNNINCK PAUL | UNION SPORTIVE VALENCIENNES CRESPIN | 7 | 3ème | 0:55:53 | 
 | 73 | CSERNAK SYLVAIN | UNION SPORTIVE VALENCIENNES CRESPIN | 7 | 3ème | 0:56:0 | 

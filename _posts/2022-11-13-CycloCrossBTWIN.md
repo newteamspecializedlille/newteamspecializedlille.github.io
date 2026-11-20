@@ -3,13 +3,14 @@ layout: post
 title: Cyclo Cross - BTWIN - 2023
 date: 2022-11-13
 category: Cyclo Cross
+permalink: /resultats/cyclo-cross/2022-11-13-btwin/
 tags: cyclo-cross
 image: assets/img/blog/cx.png
 ---
 
 ### 3ème Catégorie
 66 participants
-- [MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix) : 37
+- [MOULIN FELIX](/coureurs/moulinfelix) : 37
 
 ### Scratch
 117 participants
@@ -89,7 +90,7 @@ image: assets/img/blog/cx.png
 | 71 | CSERNAK SYLVAIN | UNION SPORTIVE VALENCIENNES MARLY | 7 | 3ème | 1:5:4 | 
 | 72 | GEORGES OLIVIER | UNION SPORTIVE VALENCIENNES MARLY | 7 | 3ème | 1:5:20 | 
 | 73 | DOCHNIAK DAVID | HAVELUY CYCLO CLUB | 7 | 3ème | 1:5:41 | 
-| **74** | **[MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **7** | **3ème** | **1:5:56** | 
+| **74** | **[MOULIN FELIX](/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **7** | **3ème** | **1:5:56** | 
 | 75 | DANEL JEAN PIERRE | ARTOIS CYCLING TEAM | 7 | 3ème | 1:6:22 | 
 | 76 | TAHON SIMON | AGNY ARTEAM | 7 | 3ème | 1:6:45 | 
 | 77 | CANDAT FABIEN | TEAM LINK AND RIDE HERIN | 7 | 3ème | 1:7:11 | 

@@ -3,14 +3,15 @@ layout: post
 title: Route - FECHAIN - 2023
 date: 2023-08-21
 category: Route
+permalink: /resultats/route/2023-08-21-fechain/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 32 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 17
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 20
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 17
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 20
 
 ### Scratch
 158 participants
@@ -33,10 +34,10 @@ image: assets/img/blog/road.png
 | 14 | DE RIDDER SEBASTIEN | NOUVELLE ETOILE SPORTIVE BOUE ETREUX | 8 | 1ère | 1:51:39 | 
 | 15 | DASSONNEVILLE FRANCK | RESILIENCE CLUB | 8 | 1ère | 1:51:39 | 
 | 16 | DELPLANQUE DYLAN | VELO SPRINT DE L'OSTREVENT - AUBERCHICOURT | 8 | 1ère | 1:52:10 | 
-| **17** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **8** | **1ère** | **1:52:12** | 
+| **17** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **8** | **1ère** | **1:52:12** | 
 | 18 | DELEPLACE JULES | VELO CLUB ROUBAIX | 8 | 1ère | 1:52:14 | 
 | 19 | TANJON BRUNO | ECVA | 8 | 1ère | 1:52:14 | 
-| **20** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **8** | **1ère** | **1:52:20** | 
+| **20** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **8** | **1ère** | **1:52:20** | 
 | 21 | CINQUINA GUISEPPE | ETOILE CYCLISTE LIEU ST AMAND | 8 | 1ère | 1:52:21 | 
 | 22 | DUHAMEL ARNAUD | AGNY ARTEAM | 8 | 1ère | 1:52:21 | 
 | 23 | ALEXANDRE GREGORY | VELO CLUB SOLESMES | 8 | 1ère | 1:52:21 | 

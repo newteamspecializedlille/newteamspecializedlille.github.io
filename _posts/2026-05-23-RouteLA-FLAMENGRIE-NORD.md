@@ -3,18 +3,19 @@ layout: post
 title: Route - LA FLAMENGRIE NORD - 2026
 date: 2026-05-23
 category: Route
+permalink: /resultats/route/2026-05-23-la-flamengrie-nord/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
 33 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 8
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 8
 
 ### 3ème Catégorie
 49 participants
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 21
-- [LECOURT CHARLIE](https://teamspecializedlille.cc/coureurs/lecourtcharlie) : Ab
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 21
+- [LECOURT CHARLIE](/coureurs/lecourtcharlie) : Ab
 
 ### Scratch
 124 participants
@@ -36,7 +37,7 @@ image: assets/img/blog/road.png
 | 13 | FOURNIER AXEL | TEAM CYCLISTE LA BORDURE - BETTRECHIES | 16 | 2ème | 1:45:33 | 
 | 14 | HIERNAUX TANGUY | ASSOCIATION CYCLISTE D'ETROEUNGT | 16 | 2ème | 1:45:33 | 
 | 15 | DELADERIERE ROMAIN | VTT  CLUB PONT SUR SAMBRE | 16 | 2ème | 1:45:34 | 
-| **16** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **16** | **2ème** | **1:45:34** | 
+| **16** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **16** | **2ème** | **1:45:34** | 
 | 17 | DEVOS CYRIL | LINSELLES CYCLISME | 16 | 2ème | 1:45:34 | 
 | 18 | HERBERT ALEXANDRE | LINSELLES CYCLISME | 16 | 2ème | 1:45:34 | 
 | 19 | BROUILLARD LOIC | ETOILE CYCLISTE LIEU ST AMAND | 16 | 2ème | 1:45:35 | 
@@ -80,7 +81,7 @@ image: assets/img/blog/road.png
 | 57 | COULON SYLVAIN | GILLOT CYCLING CLUB FEIGNIES | 14 | 3ème | 1:34:33 | 
 | 58 | BARENNE LAURENT | VELO CLUB UNION HALLUIN | 14 | 3ème | 1:34:33 | 
 | 59 | LARGEAU FREDERIC | TEAM CYCLING LA SENTINELLE | 14 | 3ème | 1:34:35 | 
-| **60** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **14** | **3ème** | **1:34:35** | 
+| **60** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **14** | **3ème** | **1:34:35** | 
 | 61 | GROSSEMY MICKAEL | ETOILE CYCLISTE FEIGNIES | 14 | 3ème | 1:34:36 | 
 | 62 | BRUNIAUX RAPHAEL | LES VIKINGS | 14 | 3ème | 1:34:36 | 
 | 63 | DEFOSSEZ RODRIGUE | ETOILE CYCLISTE FEIGNIES | 14 | 3ème | 1:34:38 | 
@@ -142,6 +143,6 @@ image: assets/img/blog/road.png
 | 119 | BERNIER DIMITRI | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 2 | 1ère | 0:7:2 | 
 | 120 | DREMEAUX JOHAN | TEAM B.B.L. HERGNIES | 0 | 1ère | 0:38:53 | 
 | 121 | LEFEVRE TOM | TEAM CYCLISTE LA BORDURE | 0 | 1ère | 0:38:53 | 
-| **122** | **[LECOURT CHARLIE](https://teamspecializedlille.cc/coureurs/lecourtcharlie)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
+| **122** | **[LECOURT CHARLIE](/coureurs/lecourtcharlie)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
 | 123 | SYLLEHANQUE HERVE | CSC CLUB SPORTIF CYCLISTE | 0 | 4ème | 0:38:53 | 
 | 124 | DEBRABANT DIDIER | TEAM BOUSIES | 0 | 4ème | 0:38:53 | 

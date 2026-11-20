@@ -3,17 +3,18 @@ layout: post
 title: Route - LA GROISE - 2026
 date: 2026-05-30
 category: Route
+permalink: /resultats/route/2026-05-30-la-groise/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
 42 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 22
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 22
 
 ### 3ème Catégorie
 70 participants
-- [LECOURT CHARLIE](https://teamspecializedlille.cc/coureurs/lecourtcharlie) : 12
+- [LECOURT CHARLIE](/coureurs/lecourtcharlie) : 12
 
 ### Scratch
 197 participants
@@ -62,7 +63,7 @@ image: assets/img/blog/road.png
 | 40 | ROULY ALEXIS | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 15 | 2ème | 1:48:15 | 
 | 41 | ROSZKIEWICZ RAPHAEL | VELO CLUB DE L'ESCAUT ANZIN | 15 | 2ème | 1:48:19 | 
 | 42 | DUBOIS SAM | VELO CLUB SOLESMES | 15 | 2ème | 1:48:42 | 
-| **43** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **15** | **2ème** | **1:48:46** | 
+| **43** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **15** | **2ème** | **1:48:46** | 
 | 44 | CINQUINA GUISEPPE | ETOILE CYCLISTE LIEU ST AMAND | 15 | 2ème | 1:48:46 | 
 | 45 | BOS FABRICE | Entente cycliste Wallers Arenberg Bellaing | 15 | 2ème | 1:48:47 | 
 | 46 | VANAUBERG GAETAN | VELO CLUB ROUBAIX | 15 | 2ème | 1:48:55 | 
@@ -83,7 +84,7 @@ image: assets/img/blog/road.png
 | 61 | THEODORE NICOLAS | MAROEUIL VELO VERT MAROEUILLOIS V.V.M | 12 | 3ème | 1:19:18 | 
 | 62 | HENNEBIQUE CLEMENT | MAROEUIL VELO VERT MAROEUILLOIS V.V.M | 12 | 3ème | 1:19:21 | 
 | 63 | FLAMENT BENOIT | ETOILE CYCLISTE FEIGNIES | 12 | 3ème | 1:20:12 | 
-| **64** | **[LECOURT CHARLIE](https://teamspecializedlille.cc/coureurs/lecourtcharlie)** | **TEAM SPECIALIZED LILLE** | **12** | **3ème** | **1:20:13** | 
+| **64** | **[LECOURT CHARLIE](/coureurs/lecourtcharlie)** | **TEAM SPECIALIZED LILLE** | **12** | **3ème** | **1:20:13** | 
 | 65 | LARGEAU FREDERIC | TEAM CYCLING LA SENTINELLE | 12 | 3ème | 1:20:14 | 
 | 66 | WILMART MARIUS | LES VIKINGS | 12 | 3ème | 1:20:14 | 
 | 67 | PORQUET LUDOVIC | TEAM CYCLING LA SENTINELLE | 12 | 3ème | 1:20:14 | 

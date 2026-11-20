@@ -3,17 +3,18 @@ layout: post
 title: Route - ENGLEFONTAINE - 2023
 date: 2023-05-28
 category: Route
+permalink: /resultats/route/2023-05-28-englefontaine/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 16 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : Ab
+- [DEFOSSE HERVE](/coureurs/defosseherve) : Ab
 
 ### 3ème Catégorie
 39 participants
-- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 21
+- [DEFER OLIVIER](/coureurs/deferolivier) : 21
 
 ### Scratch
 93 participants
@@ -71,7 +72,7 @@ image: assets/img/blog/road.png
 | 49 | DALLE FREDERIC | VELO CLUB SOLESMES | 35 | 3ème | 1:1:46 | 
 | 50 | POT FREDERIC | ETOILE CYCLISTE FEIGNIES | 35 | 3ème | 1:1:46 | 
 | 51 | BOURGEAULT LOUIS | VELO CLUB SOLESMES | 35 | 3ème | 1:2:39 | 
-| **52** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **35** | **3ème** | **1:2:41** | 
+| **52** | **[DEFER OLIVIER](/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **35** | **3ème** | **1:2:41** | 
 | 53 | DOCHNIAK DAVID | HAVELUY CYCLO CLUB | 35 | 3ème | 1:2:55 | 
 | 54 | MAGY MATHEO | ETOILE CYCLISTE FEIGNIES | 35 | 3ème | 1:3:41 | 
 | 55 | DECRUCQ ROMUALD | UNION VELOCIPEDIQUE FOURMISIENNE | 34 | 3ème | 1:2:16 | 
@@ -107,7 +108,7 @@ image: assets/img/blog/road.png
 | 85 | GIRDARY-RAMSSAMY AXEL | ETOILE CYCLISTE FEIGNIES | 21 | 3ème | 0:34:42 | 
 | 86 | PRISSETTE LUDIVINE | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 14 | 3ème | 1:2:54 | 
 | 87 | MARECHAL GUILLAUME | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 4 | 1ère | 0:5:46 | 
-| **88** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **0** | **1ère** | **0:38:53** | 
+| **88** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **0** | **1ère** | **0:38:53** | 
 | 89 | LEFEVRE SEBASTIEN | UNION VELOCIPEDIQUE FOURM | 0 | 1ère | 0:38:53 | 
 | 90 | MONVOISIN FLAVIEN | TEAM BOUSIES | 0 | 1ère | 0:38:53 | 
 | 91 | MOREIRA ANTOINE | TEAM BOUSIES | 0 | 2ème | 0:38:53 | 

@@ -3,17 +3,18 @@ layout: post
 title: Route - LANDRECIES - 2024
 date: 2024-07-27
 category: Route
+permalink: /resultats/route/2024-07-27-landrecies/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
 26 participants
-- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 19
+- [DEFER OLIVIER](/coureurs/deferolivier) : 19
 
 ### 3ème Catégorie
 36 participants
-- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 21
+- [WALTER BENOIT](/coureurs/walterbenoit) : 21
 
 ### Scratch
 103 participants
@@ -52,7 +53,7 @@ image: assets/img/blog/road.png
 | 30 | BOUZIN BENJAMIN | ASSOCIATION CYCLISTE D'ETROEUNGT | 30 | 2ème | 1:11:50 | 
 | 31 | MAGY MATHEO | ETOILE CYCLISTE FEIGNIES | 30 | 2ème | 1:11:52 | 
 | 32 | DAMAGEUX REMI | U.C. CAPELLOISE FOURMIES | 30 | 2ème | 1:12:42 | 
-| **33** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **30** | **2ème** | **1:12:53** | 
+| **33** | **[DEFER OLIVIER](/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **30** | **2ème** | **1:12:53** | 
 | 34 | RIVART ADRIEN | ASSOCIATION CYCLISTE BELLAINGEOISE | 30 | 1ère | 1:12:58 | 
 | 35 | HARDY JEAN PHILIPPE | LA CHERIZIENNE - VILLE DE CHAUNY | 29 | 2ème | 1:11:7 | 
 | 36 | RICHET ELOISE | TEAM AVESNOIS - LEVAL | 29 | 2ème | 1:11:44 | 
@@ -76,7 +77,7 @@ image: assets/img/blog/road.png
 | 54 | BUREL THOMAS | ASSOCIATION SPORTIVE VELOCIPEDIQUE LA LONGUEVILLE | 28 | 3ème | 1:1:49 | 
 | 55 | FREHAUT NICOLAS | ASSOCIATION CYCLISTE D'ETROEUNGT | 28 | 3ème | 1:1:49 | 
 | 56 | DEKOSTER MICKAEL | AGNY ARTeam | 28 | 3ème | 1:1:49 | 
-| **57** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **28** | **3ème** | **1:1:49** | 
+| **57** | **[WALTER BENOIT](/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **28** | **3ème** | **1:1:49** | 
 | 58 | RUBANY SEBASTIEN | ANET VELO CLUB | 28 | 3ème | 1:1:50 | 
 | 59 | GEORGES DAVID | UNION SPORTIVE VALENCIENNES CRESPIN | 28 | 3ème | 1:1:50 | 
 | 60 | BARENNE LAURENT | VELO CLUB UNION HALLUIN | 28 | 3ème | 1:1:50 | 

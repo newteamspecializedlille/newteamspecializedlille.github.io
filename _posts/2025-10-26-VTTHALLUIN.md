@@ -3,13 +3,14 @@ layout: post
 title: VTT - HALLUIN - 2026
 date: 2025-10-26
 category: VTT
+permalink: /resultats/vtt/2025-10-26-halluin/
 tags: VTT
 image: assets/img/blog/vtt.png
 ---
 
 ### VTT Vétérans A
 11 participants
-- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 9
+- [DEFER OLIVIER](/coureurs/deferolivier) : 9
 
 ### Scratch
 35 participants
@@ -43,7 +44,7 @@ image: assets/img/blog/vtt.png
 | 25 | MINET JONATHAN | ASSOCIATION CYCLISTE D'ETROEUNGT | 7 | Vétérans A | 1:1:34 | 
 | 26 | GUYOT MICKAEL | BEUVRY CLUB LEO LAGRANGE | 7 | Vétérans B | 1:1:39 | 
 | 27 | HOEZ THEO | TEAM BOUSIES | 7 | Seniors A | 1:3:42 | 
-| **28** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **7** | **Vétérans A** | **1:5:12** | 
+| **28** | **[DEFER OLIVIER](/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **7** | **Vétérans A** | **1:5:12** | 
 | 29 | LADENT JEROME | TEAM SHARK VTT | 6 | Vétérans B | 0:57:6 | 
 | 30 | MALVACHE NICOLAS | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 6 | Vétérans A | 0:57:9 | 
 | 31 | VERHAEGHE THOMAS | Transpondeur ne fonctionne pas | 6 | Seniors A | 0:57:10 | 

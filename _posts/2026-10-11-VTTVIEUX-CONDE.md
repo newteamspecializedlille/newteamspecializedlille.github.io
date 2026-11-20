@@ -3,13 +3,14 @@ layout: post
 title: VTT - VIEUX CONDE - 2027
 date: 2026-10-11
 category: VTT
+permalink: /resultats/vtt/2026-10-11-vieux-conde/
 tags: VTT
 image: assets/img/blog/vtt.png
 ---
 
 ### VTT Sénior B
 2 participants
-- [CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas) : 1
+- [CROMBEZ THOMAS](/coureurs/crombezthomas) : 1
 
 ### Scratch
 37 participants
@@ -18,7 +19,7 @@ image: assets/img/blog/vtt.png
 |---|---|---|---|---|---|
 | 1 | BRADFER GERY | ETOILE CYCLISTE LIEU ST AMAND | 8 | Vétérans A | 0:52:43 | 
 | 2 | RICHARD MATTEO | VTT CLUB PONT SUR SAMBRE | 8 | Seniors A | 0:53:35 | 
-| **3** | **[CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **8** | **Seniors B** | **0:53:36** | 
+| **3** | **[CROMBEZ THOMAS](/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **8** | **Seniors B** | **0:53:36** | 
 | 4 | SAMIER GERMAIN | CAMPHIN EN CAREMBAULT CYCLING TEAM | 8 | Seniors A | 0:54:12 | 
 | 5 | LEDAIN JONATHAN | VTT SAINT AMAND LES EAUX | 8 | Seniors A | 0:55:32 | 
 | 6 | DESRUMAUX FRANCK | TEAM MELANTOIS - ANSTAING | 8 | Vétérans B | 0:55:46 | 

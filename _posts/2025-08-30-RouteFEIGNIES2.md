@@ -3,19 +3,20 @@ layout: post
 title: Route - FEIGNIES2 - 2025
 date: 2025-08-30
 category: Route
+permalink: /resultats/route/2025-08-30-feignies2/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
 50 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 14
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 19
-- [BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine) : 28
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 14
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 19
+- [BROUTIN ANTOINE](/coureurs/broutinantoine) : 28
 
 ### 3ème Catégorie
 57 participants
-- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 7
+- [WALTER BENOIT](/coureurs/walterbenoit) : 7
 
 ### Scratch
 177 participants
@@ -59,12 +60,12 @@ image: assets/img/blog/road.png
 | 35 | LECERF JEROME | ASSOCIATION SPORTIVE VELOCIPEDIQUE LA LONGUEVILLE | 11 | 2ème | 1:39:16 | 
 | 36 | DELPIRE FREDERIC | VTT  CLUB PONT SUR SAMBRE | 11 | 2ème | 1:39:16 | 
 | 37 | MILLET FABRICE | VTT  CLUB PONT SUR SAMBRE | 11 | 2ème | 1:39:17 | 
-| **38** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **11** | **2ème** | **1:39:17** | 
+| **38** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **11** | **2ème** | **1:39:17** | 
 | 39 | VINCENT ETIENNE | ETOILE CYCLISTE FEIGNIES | 11 | 2ème | 1:39:17 | 
 | 40 | BIENFAIT LIONEL | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 11 | 2ème | 1:39:17 | 
 | 41 | CASE ALBAN | NOEUX VELO CLUB NOEUXOIS | 11 | 2ème | 1:39:17 | 
 | 42 | KNOCKAERT JULIEN | TEAM CYCLISTE PROVINOIS - PROVIN | 11 | 2ème | 1:39:17 | 
-| **43** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **11** | **2ème** | **1:39:17** | 
+| **43** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **11** | **2ème** | **1:39:17** | 
 | 44 | RICHET CHRISTOPHE | ASSOCIATION CYCLISTE D'ETROEUNGT | 11 | 2ème | 1:39:17 | 
 | 45 | BARENNE LAURENT | VELO CLUB UNION HALLUIN | 11 | 2ème | 1:39:17 | 
 | 46 | TOURNEUX MICKAEL | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 11 | 2ème | 1:39:17 | 
@@ -73,7 +74,7 @@ image: assets/img/blog/road.png
 | 49 | DUFOUR KEVIN | VELO CLUB DE L'ESCAUT ANZIN | 11 | 2ème | 1:39:18 | 
 | 50 | BUREL THOMAS | ASSOCIATION SPORTIVE VELOCIPEDIQUE LA LONGUEVILLE | 11 | 2ème | 1:39:18 | 
 | 51 | HIERNAUX TANGUY | ASSOCIATION CYCLISTE D'ETROEUNGT | 11 | 2ème | 1:39:19 | 
-| **52** | **[BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine)** | **TEAM SPECIALIZED LILLE** | **11** | **2ème** | **1:39:19** | 
+| **52** | **[BROUTIN ANTOINE](/coureurs/broutinantoine)** | **TEAM SPECIALIZED LILLE** | **11** | **2ème** | **1:39:19** | 
 | 53 | HELLOT FRANCOIS | HAVELUY CYCLO CLUB | 11 | 2ème | 1:39:19 | 
 | 54 | LEVEILLE FLORIAN | TEAM ENFER WALLERS ARENBERG | 11 | 2ème | 1:39:19 | 
 | 55 | LECHAT RENAUD | UNION SPORTIVE VALENCIENNES CRESPIN | 11 | 2ème | 1:39:19 | 
@@ -100,7 +101,7 @@ image: assets/img/blog/road.png
 | 76 | MARY KEVIN | VELO CLUB SOLESMES | 10 | 3ème | 1:31:39 | 
 | 77 | BURIDON DAVID | CYCLO CLUB ORCHIES | 10 | 3ème | 1:31:40 | 
 | 78 | GREUSE GUILLAUME | ETOILE CYCLISTE FEIGNIES | 10 | 3ème | 1:31:40 | 
-| **79** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **10** | **3ème** | **1:31:40** | 
+| **79** | **[WALTER BENOIT](/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **10** | **3ème** | **1:31:40** | 
 | 80 | URBAIN RUDY | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 10 | 3ème | 1:31:40 | 
 | 81 | DECONINCK MAXIMILIEN | CYCLO CLUB ORCHIES | 10 | 3ème | 1:31:40 | 
 | 82 | FRANCOIS GERALD | SAULZOIR MONTRECOURT CYCLING CLUB | 10 | 3ème | 1:31:40 | 

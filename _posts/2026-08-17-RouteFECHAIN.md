@@ -3,18 +3,19 @@ layout: post
 title: Route - FECHAIN - 2026
 date: 2026-08-17
 category: Route
+permalink: /resultats/route/2026-08-17-fechain/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 25 participants
-- [CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas) : 2
+- [CROMBEZ THOMAS](/coureurs/crombezthomas) : 2
 
 ### 3ème Catégorie
 39 participants
-- [POULAIN NOAH](https://teamspecializedlille.cc/coureurs/poulainnoah) : 2
-- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 24
+- [POULAIN NOAH](/coureurs/poulainnoah) : 2
+- [DEFER OLIVIER](/coureurs/deferolivier) : 24
 
 ### Scratch
 107 participants
@@ -22,7 +23,7 @@ image: assets/img/blog/road.png
 | Place | Nom | Team | Tours | Catégorie | Temps |
 |---|---|---|---|---|---|
 | 1 | SEMOULIN JOAKIM | HERGNIES | 0 | 1ère | 0:38:53 | 
-| **2** | **[CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **0** | **1ère** | **0:38:53** | 
+| **2** | **[CROMBEZ THOMAS](/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **0** | **1ère** | **0:38:53** | 
 | 3 | LALEU THIMOTEE | ST ANDRE | 0 | 1ère | 0:38:53 | 
 | 4 | SAINT QUENTIN HUGO | DOUAI | 0 | 1ère | 0:38:53 | 
 | 5 | DELEPLACE HADRIEN | RAMILLIES | 0 | 1ère | 0:38:53 | 
@@ -82,7 +83,7 @@ image: assets/img/blog/road.png
 | 59 | ZANOLINO FABRICE | BRUAY LA BUISSIERE | 0 | 2ème | 0:38:53 | 
 | 60 | MASCRET FREDERIC | VAL CRESPIN | 0 | 2ème | 0:38:53 | 
 | 61 | BERTHIER ANTOINE | LIEU ST AMAND | 0 | 3ème | 0:38:53 | 
-| **62** | **[POULAIN NOAH](https://teamspecializedlille.cc/coureurs/poulainnoah)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
+| **62** | **[POULAIN NOAH](/coureurs/poulainnoah)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
 | 63 | DEJEAN MATHIS | BETTRECHIES | 0 | 3ème | 0:38:53 | 
 | 64 | FRANCOIS GERALD | LA SENTINELLE | 0 | 3ème | 0:38:53 | 
 | 65 | DEMOUILLER FREDERIC | VAL CRESPIN | 0 | 3ème | 0:38:53 | 
@@ -104,7 +105,7 @@ image: assets/img/blog/road.png
 | 81 | CODDEVILLE MARC | BRIE | 0 | 3ème | 0:38:53 | 
 | 82 | SOILE THIERRY | BOUSBECQUE | 0 | 3ème | 0:38:53 | 
 | 83 | TRIOLO FLORENT | BOUSIES | 0 | 3ème | 0:38:53 | 
-| **84** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
+| **84** | **[DEFER OLIVIER](/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
 | 85 | LEPLAN BENJAMIN | AGNY | 0 | 3ème | 0:38:53 | 
 | 86 | WELWAERT RICHARD | JONCOURT | 0 | 3ème | 0:38:53 | 
 | 87 | MISMAQUE JACQUES | FERRIERE | 0 | 3ème | 0:38:53 | 

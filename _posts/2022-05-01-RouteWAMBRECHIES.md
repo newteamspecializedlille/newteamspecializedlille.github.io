@@ -3,19 +3,20 @@ layout: post
 title: Route - WAMBRECHIES - 2022
 date: 2022-05-01
 category: Route
+permalink: /resultats/route/2022-05-01-wambrechies/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 44 participants
-- [DARQUE JEAN FRANCOIS](https://teamspecializedlille.cc/coureurs/darquejeanfrancois) : 23
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 33
+- [DARQUE JEAN FRANCOIS](/coureurs/darquejeanfrancois) : 23
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 33
 
 ### 2ème Catégorie
 52 participants
-- [BOONE NICOLAS](https://teamspecializedlille.cc/coureurs/boonenicolas) : 32
+- [BOONE NICOLAS](/coureurs/boonenicolas) : 32
 
 ### 3ème Catégorie
 82 participants
-- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 35
+- [DEFER OLIVIER](/coureurs/deferolivier) : 35

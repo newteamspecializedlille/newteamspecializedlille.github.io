@@ -121,9 +121,9 @@ class NotificationsTest(unittest.TestCase):
         finally:
             os.unlink(f.name)
 
-    def test_post_url_matches_jekyll(self):
+    def test_post_url_from_permalink(self):
         url = notifications.site_links.post_url("2026-05-10-RouteMARQUETTE-EN-OSTREVENT.md")
-        self.assertEqual(url, "/route/2026/05/10/RouteMARQUETTE-EN-OSTREVENT")
+        self.assertEqual(url, "/resultats/route/2026-05-10-marquette-en-ostrevent/")
 
 
 if __name__ == "__main__":

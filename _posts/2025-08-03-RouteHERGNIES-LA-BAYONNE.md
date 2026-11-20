@@ -3,22 +3,23 @@ layout: post
 title: Route - HERGNIES LA BAYONNE - 2025
 date: 2025-08-03
 category: Route
+permalink: /resultats/route/2025-08-03-hergnies-la-bayonne/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 32 participants
-- [CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas) : 7
+- [CROMBEZ THOMAS](/coureurs/crombezthomas) : 7
 
 ### 2ème Catégorie
 46 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 11
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 17
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 11
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 17
 
 ### 3ème Catégorie
 40 participants
-- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 16
+- [WALTER BENOIT](/coureurs/walterbenoit) : 16
 
 ### Scratch
 159 participants
@@ -31,7 +32,7 @@ image: assets/img/blog/road.png
 | 4 | DEBUISSON JULIAN | UNION SPORTIVE SAINT ANDRE | 0 | 1ère | 0:38:53 | 
 | 5 | AINI ISSAM | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 0 | 1ère | 0:38:53 | 
 | 6 | LORRIAUX JULIEN | VELO CLUB SOLESMES | 0 | 1ère | 0:38:53 | 
-| **7** | **[CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **0** | **1ère** | **0:38:53** | 
+| **7** | **[CROMBEZ THOMAS](/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **0** | **1ère** | **0:38:53** | 
 | 8 | MORELLE YOHANN | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 0 | 1ère | 0:38:53 | 
 | 9 | HURIAU BENOIT | ASSOCIATION CYCLISTE BELLAINGEOISE | 0 | 1ère | 0:38:53 | 
 | 10 | ANTON LUDOVIC | NEW TEAM MAULDE | 0 | 1ère | 0:38:53 | 
@@ -66,13 +67,13 @@ image: assets/img/blog/road.png
 | 39 | VANAUBERG GAETAN | NEW TEAM MAULDE | 0 | 2ème | 0:38:53 | 
 | 40 | LEVEILLE FLORIAN | TEAM ENFER WALLERS ARENBERG | 0 | 2ème | 0:38:53 | 
 | 41 | VANAUBERG EDDY | TEAM B.B.L. HERGNIES | 0 | 2ème | 0:38:53 | 
-| **42** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **0** | **2ème** | **0:38:53** | 
+| **42** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **0** | **2ème** | **0:38:53** | 
 | 43 | FAYT OLIVAN | UNION SPORTIVE SAINT ANDRE | 0 | 2ème | 0:38:53 | 
 | 44 | AMAND JEREMY | VELO CLUB DE L'ESCAUT ANZIN | 0 | 2ème | 0:38:53 | 
 | 45 | LECHAT RENAUD | UNION SPORTIVE VALENCIENNES CRESPIN | 0 | 2ème | 0:38:53 | 
 | 46 | BIENFAIT LIONEL | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 0 | 2ème | 0:38:53 | 
 | 47 | VAAST JEAN SEBASTIEN | TEAM ENFER WALLERS ARENBERG | 0 | 2ème | 0:38:53 | 
-| **48** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **0** | **2ème** | **0:38:53** | 
+| **48** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **0** | **2ème** | **0:38:53** | 
 | 49 | LESUR ANTHONY | SAULZOIR MONTRECOURT CYCLING CLUB | 0 | 2ème | 0:38:53 | 
 | 50 | FURNE JEAN CHRISTOPHE | VELO SPRINT DE L'OSTREVENT - ANICHE | 0 | 2ème | 0:38:53 | 
 | 51 | DUPONT DAMIEN | TEAM CROSS HASPRES | 0 | 2ème | 0:38:53 | 
@@ -116,7 +117,7 @@ image: assets/img/blog/road.png
 | 89 | LEMPEREUR JACOB | ASSOCIATION CYCLISTE D'ETROEUNGT | 0 | 3ème | 0:38:53 | 
 | 90 | BRUNIAUX STEPHANE | LES VIKINGS VTT MARCHE NORDIQUE OHAIN | 0 | 3ème | 0:38:53 | 
 | 91 | DUPONT REMI | RESILIENCE CLUB | 0 | 3ème | 0:38:53 | 
-| **92** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
+| **92** | **[WALTER BENOIT](/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
 | 93 | DUFOUR SYLVAIN | VELO CLUB UNION HALLUIN | 0 | 3ème | 0:38:53 | 
 | 94 | MAHE CEDRIC | SAULZOIR MONTRECOURT CYCLING CLUB | 0 | 3ème | 0:38:53 | 
 | 95 | DUPONT RAPHAEL | NEW TEAM MAULDE  | 0 | 3ème | 0:38:53 | 

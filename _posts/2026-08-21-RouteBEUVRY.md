@@ -3,19 +3,20 @@ layout: post
 title: Route - BEUVRY - 2026
 date: 2026-08-21
 category: Route
+permalink: /resultats/route/2026-08-21-beuvry/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 12 participants
-- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 4
+- [DERASSE DAVID](/coureurs/derassedavid) : 4
 
 ### 3ème Catégorie
 41 participants
-- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 4
-- [LECOURT CHARLIE](https://teamspecializedlille.cc/coureurs/lecourtcharlie) : 6
-- [HUGUENIN DYLAN](https://teamspecializedlille.cc/coureurs/huguenindylan) : Ab
+- [DEFER OLIVIER](/coureurs/deferolivier) : 4
+- [LECOURT CHARLIE](/coureurs/lecourtcharlie) : 6
+- [HUGUENIN DYLAN](/coureurs/huguenindylan) : Ab
 
 ### Scratch
 113 participants
@@ -25,7 +26,7 @@ image: assets/img/blog/road.png
 | 1 | BOURIGUE ALI  | ESEG DOUAI | 15 | 1ère | 1:29:23 | 
 | 2 | MINGOA LUCIANO | NEW ORANGE TEAM BOUSBECQUE | 15 | 1ère | 1:29:27 | 
 | 3 | CATILLON CYRIL | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 15 | 1ère | 1:29:34 | 
-| **4** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **15** | **1ère** | **1:29:35** | 
+| **4** | **[DERASSE DAVID](/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **15** | **1ère** | **1:29:35** | 
 | 5 | CAPELLE ANTOINE | ETOILE CYCLISTE TOURCOING | 15 | 1ère | 1:29:35 | 
 | 6 | DELANGUE THOMAS | NEW ORANGE TEAM BOUSBECQUE | 15 | 1ère | 1:29:35 | 
 | 7 | GWENAEL LEQUIEN | BARLIN CERCLE LAIQUE | 15 | 1ère | 1:29:36 | 
@@ -53,9 +54,9 @@ image: assets/img/blog/road.png
 | 29 | POULAIN NOAH | VELO SPRINT DE L'OSTREVENT - ANICHE | 13 | 3ème | 1:21:15 | 
 | 30 | TISON ALEXIS | ESEG DOUAI | 13 | 3ème | 1:21:16 | 
 | 31 | EMMERY VINCENT | NOEUX VELO CLUB NOEUXOIS | 13 | 3ème | 1:21:16 | 
-| **32** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **13** | **3ème** | **1:21:16** | 
+| **32** | **[DEFER OLIVIER](/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **13** | **3ème** | **1:21:16** | 
 | 33 | GEORGES ALEXANDRE | BEUVRY CYCLO CLUB | 13 | 3ème | 1:21:16 | 
-| **34** | **[LECOURT CHARLIE](https://teamspecializedlille.cc/coureurs/lecourtcharlie)** | **TEAM SPECIALIZED LILLE** | **13** | **3ème** | **1:21:16** | 
+| **34** | **[LECOURT CHARLIE](/coureurs/lecourtcharlie)** | **TEAM SPECIALIZED LILLE** | **13** | **3ème** | **1:21:16** | 
 | 35 | BECUWE ROMAIN | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 13 | 3ème | 1:21:16 | 
 | 36 | DEBERDT AURELIEN | VELO CLUB ROUBAIX | 13 | 3ème | 1:21:16 | 
 | 37 | WALTER BENOIT | VELO CLUB UNION HALLUIN | 13 | 3ème | 1:21:17 | 
@@ -110,7 +111,7 @@ image: assets/img/blog/road.png
 | 86 | CLAISSE PHILIPPE | UNION SPORTIVE VALENCIENNES CRESPIN | 9 | 4ème | 1:1:45 | 
 | 87 | BURIDON DAVID | CYCLO CLUB ORCHIES | 9 | 3ème | 1:2:10 | 
 | 88 | CODDEVILLE KENNY | VELO CLUB UNION HALLUIN | 9 | 3ème | 1:4:8 | 
-| **89** | **[DERASSE PATRICK](https://teamspecializedlille.cc/coureurs/derassepatrick)** | **TEAM SPECIALIZED LILLE** | **9** | **4ème** | **1:8:38** | 
+| **89** | **[DERASSE PATRICK](/coureurs/derassepatrick)** | **TEAM SPECIALIZED LILLE** | **9** | **4ème** | **1:8:38** | 
 | 90 | FONTAINE STEPHANE | ETOILE CYCLISTE FEIGNIES | 9 | 4ème | 1:9:5 | 
 | 91 | DUMONT LUCIE | CLUB CYCLISTE D'ISBERGUES MOLINGHEM | 9 | Féminines | 1:9:57 | 
 | 92 | TOURNEMAINE LAURENT | BEUVRY CYCLO CLUB | 9 | 4ème | 1:10:40 | 
@@ -119,7 +120,7 @@ image: assets/img/blog/road.png
 | 95 | ANANIE JESSY | AIRE VELO CLUB | 9 | 3ème | 1:13:7 | 
 | 96 | DUMORTIER TOM | CYCLO CLUB WAVRIN | 7 | 3ème | 0:43:31 | 
 | 97 | DELANZY Sylvain | VELO CLUB ROUBAIX | 7 | 3ème | 0:49:44 | 
-| **98** | **[HUGUENIN DYLAN](https://teamspecializedlille.cc/coureurs/huguenindylan)** | **TEAM SPECIALIZED LILLE** | **6** | **3ème** | **0:43:30** | 
+| **98** | **[HUGUENIN DYLAN](/coureurs/huguenindylan)** | **TEAM SPECIALIZED LILLE** | **6** | **3ème** | **0:43:30** | 
 | 99 | BRAL JAN | ETOILE CYCLISTE LIEU ST AMAND | 5 | 2ème | 0:30:9 | 
 | 100 | CARPELS GUILLAUME | VELO CLUB UNION HALLUIN | 5 | 2ème | 0:32:17 | 
 | 101 | DUCRON LAURENT | TEAM CYCLISTE PROVINOIS - PROVIN | 4 | 4ème | 0:27:41 | 

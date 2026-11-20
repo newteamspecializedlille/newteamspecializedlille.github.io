@@ -3,30 +3,31 @@ layout: post
 title: Route - LALLAING - 2025
 date: 2025-06-28
 category: Route
+permalink: /resultats/route/2025-06-28-lallaing/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 28 participants
-- [CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas) : 1
+- [CROMBEZ THOMAS](/coureurs/crombezthomas) : 1
 
 ### 2ème Catégorie
 53 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 22
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 40
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 22
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 40
 
 ### 3ème Catégorie
 72 participants
-- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 19
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 30
+- [WALTER BENOIT](/coureurs/walterbenoit) : 19
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 30
 
 ### Scratch
 201 participants
 
 | Place | Nom | Team | Tours | Catégorie | Temps |
 |---|---|---|---|---|---|
-| **1** | **[CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **15** | **1ère** | **1:35:22** | 
+| **1** | **[CROMBEZ THOMAS](/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **15** | **1ère** | **1:35:22** | 
 | 2 | BRASSART THEOPHILE | TEAM B.B.L. HERGNIES | 15 | 1ère | 1:35:22 | 
 | 3 | MARLIER RONALD | VELO CLUB UNION HALLUIN | 15 | 1ère | 1:35:45 | 
 | 4 | LALEU TIMOTHEE | UNION SPORTIVE SAINT ANDRE | 15 | 1ère | 1:35:57 | 
@@ -71,7 +72,7 @@ image: assets/img/blog/road.png
 | 43 | TECHEL GREGORY | VELO CLUB UNION HALLUIN | 15 | 2ème | 1:38:38 | 
 | 44 | DI CARLO DONATO | NEW ORANGE TEAM BOUSBECQUE | 15 | 2ème | 1:38:38 | 
 | 45 | DUHAMEL ARNAUD | ARTeam Artois Racing Team | 15 | 2ème | 1:38:38 | 
-| **46** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **15** | **2ème** | **1:38:39** | 
+| **46** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **15** | **2ème** | **1:38:39** | 
 | 47 | MAINGUEUX NICOLAS | ESEG DOUAI | 15 | 2ème | 1:38:39 | 
 | 48 | BRAL JAN | ETOILE CYCLISTE LIEU ST AMAND | 15 | 2ème | 1:38:39 | 
 | 49 | BLAZE LOIC | UNION CYCLISTE SOLRE LE CHATEAU | 15 | 2ème | 1:38:39 | 
@@ -89,7 +90,7 @@ image: assets/img/blog/road.png
 | 61 | POTIER FREDERIC | ETOILE CYCLISTE TOURCOING | 15 | 2ème | 1:38:42 | 
 | 62 | POLLET MAEL | TEAM MELANTOIS - PERONNE EN MELANTOIS | 15 | 2ème | 1:38:42 | 
 | 63 | ROY SEBASTIEN | TEAM CYCLISTE PROVINOIS - PROVIN | 15 | 2ème | 1:38:42 | 
-| **64** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **15** | **2ème** | **1:38:42** | 
+| **64** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **15** | **2ème** | **1:38:42** | 
 | 65 | VANWYNSBERGHE SAMUEL | NEW ORANGE TEAM BOUSBECQUE | 15 | 2ème | 1:38:42 | 
 | 66 | PETIT CHRISTOPHE | NEW ORANGE TEAM BOUSBECQUE | 15 | 2ème | 1:38:49 | 
 | 67 | IMBERT JOHNNY | ETOILE CYCLISTE LIEU ST AMAND | 15 | 2ème | 1:38:49 | 
@@ -117,7 +118,7 @@ image: assets/img/blog/road.png
 | 89 | OLIVIER FELIX | VELO CLUB SOLESMES | 13 | 3ème | 1:26:56 | 
 | 90 | BASTIN FABRICE | MERICOURT BIKES-MERICOURT | 13 | 3ème | 1:26:56 | 
 | 91 | DANNA MATTHIEU | CYCLO CLUB ORCHIES | 13 | 3ème | 1:26:56 | 
-| **92** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **13** | **3ème** | **1:26:57** | 
+| **92** | **[WALTER BENOIT](/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **13** | **3ème** | **1:26:57** | 
 | 93 | MARY KEVIN | VELO CLUB SOLESMES | 13 | 3ème | 1:26:57 | 
 | 94 | BIANCUCCI MARIO | VELO CLUB UNION HALLUIN | 13 | 3ème | 1:26:57 | 
 | 95 | EVRARD CLEMENT | RESILIENCE CLUB | 13 | 3ème | 1:26:58 | 
@@ -128,7 +129,7 @@ image: assets/img/blog/road.png
 | 100 | BERTHIER ANTOINE | ETOILE CYCLISTE LIEU ST AMAND | 13 | 3ème | 1:26:59 | 
 | 101 | GEMELINE MATTHIEU | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 13 | 3ème | 1:26:59 | 
 | 102 | DEBRABANT ANTHONY | TEAM BOUSIES | 13 | 3ème | 1:27:0 | 
-| **103** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **13** | **3ème** | **1:27:0** | 
+| **103** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **13** | **3ème** | **1:27:0** | 
 | 104 | ODENT STEPHANE | UNION SPORTIVE VALENCIENNES CRESPIN | 13 | 3ème | 1:27:0 | 
 | 105 | DOOLAEGHE TERRY | VELO CLUB UNION HALLUIN | 13 | 3ème | 1:27:2 | 
 | 106 | DEFOSSEZ RODRIGUE | CLUB CYCLISTE THUN ST MARTIN | 13 | 3ème | 1:27:2 | 

@@ -3,13 +3,14 @@ layout: post
 title: VTT - RAISMES - 2025
 date: 2024-11-17
 category: VTT
+permalink: /resultats/vtt/2024-11-17-raismes/
 tags: VTT
 image: assets/img/blog/vtt.png
 ---
 
 ### VTT Vétérans B
 14 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 1
+- [MATTIOLI RONALD](/coureurs/mattiolironald) : 1
 
 ### Scratch
 36 participants
@@ -21,7 +22,7 @@ image: assets/img/blog/vtt.png
 | 3 | POUBEL-DIENG YANNICK | TEAM SHARK VTT | 6 | Seniors A | 0:51:20 | 
 | 4 | JABLONSKI SEBASTIEN | NEW TEAM MAULDE | 6 | Vétérans A | 0:52:23 | 
 | 5 | MARECHAL GUILLAUME | VELO CLUB SOLESMES | 6 | Seniors B | 0:52:38 | 
-| **6** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **6** | **Vétérans B** | **0:52:52** | 
+| **6** | **[MATTIOLI RONALD](/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **6** | **Vétérans B** | **0:52:52** | 
 | 7 | LONCKE SEBASTIEN | CAMPHIN EN CAREMBAULT CYCLING TEAM | 6 | Seniors B | 0:53:0 | 
 | 8 | MARTINEZ JEROME | NEW TEAM MAULDE | 6 | Vétérans B | 0:53:1 | 
 | 9 | MEESMAECKER WILLIAM | UNION SPORTIVE SAINT ANDRE | 6 | Seniors A | 0:53:31 | 

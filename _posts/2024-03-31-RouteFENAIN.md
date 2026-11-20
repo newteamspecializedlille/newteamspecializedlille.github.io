@@ -3,13 +3,14 @@ layout: post
 title: Route - FENAIN - 2024
 date: 2024-03-31
 category: Route
+permalink: /resultats/route/2024-03-31-fenain/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
 75 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 51
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 51
 
 ### Scratch
 244 participants
@@ -96,7 +97,7 @@ image: assets/img/blog/road.png
 | 78 | MEDO NICOLAS | TEAM MELANTOIS - PERONNE EN MELANTOIS | 14 | 1ère | 1:41:0 | 
 | 79 | GWENAEL LEQUIEN | BARLIN CERCLE LAIQUE | 14 | 2ème | 1:41:26 | 
 | 80 | MAZURE DAVID | VELO SPRINT DE L'OSTREVENT - AUBERCHICOURT | 14 | 2ème | 1:41:43 | 
-| **81** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **14** | **2ème** | **1:41:43** | 
+| **81** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **14** | **2ème** | **1:41:43** | 
 | 82 | BOUZIN BENJAMIN | ASSOCIATION CYCLISTE D'ETROEUNGT | 14 | 2ème | 1:42:1 | 
 | 83 | DOCHNIAK LEO | HAVELUY CYCLO CLUB | 14 | 2ème | 1:45:3 | 
 | 84 | VAN DAMME THOMAS | CYCLO CLUB CAMBRESIEN | 13 | 3ème | 1:32:14 | 

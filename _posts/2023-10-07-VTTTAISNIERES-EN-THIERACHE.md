@@ -3,13 +3,14 @@ layout: post
 title: VTT - TAISNIERES EN THIERACHE - 2024
 date: 2023-10-07
 category: VTT
+permalink: /resultats/vtt/2023-10-07-taisnieres-en-thierache/
 tags: VTT
 image: assets/img/blog/vtt.png
 ---
 
 ### VTT Vétérans B
 17 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 3
+- [MATTIOLI RONALD](/coureurs/mattiolironald) : 3
 
 ### Scratch
 38 participants
@@ -27,7 +28,7 @@ image: assets/img/blog/vtt.png
 | 9 | DUHAMEL ARNAUD | AGNY ARTeam | 9 | Vétérans B | 0:52:54 | 
 | 10 | RIVART THIERRY | VTT  CLUB PONT SUR SAMBRE | 9 | Seniors B | 0:53:4 | 
 | 11 | SORET PASCAL | CAMPHIN EN CAREMBAULT CYCLING TEAM | 9 | Vétérans B | 0:53:43 | 
-| **12** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **9** | **Vétérans B** | **0:54:12** | 
+| **12** | **[MATTIOLI RONALD](/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **9** | **Vétérans B** | **0:54:12** | 
 | 13 | QUENTIN LAURENT | LA ROUE D'OR GUISARDE | 9 | Vétérans A | 0:54:25 | 
 | 14 | BAUDOIN ETIENNE | LES VIKINGS VTT MARCHE NORDIQUE OHAIN | 9 | Seniors B | 0:54:28 | 
 | 15 | HOEZ THEO | TEAM BOUSIES | 8 | Seniors A | 0:48:29 | 

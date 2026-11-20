@@ -3,13 +3,14 @@ layout: post
 title: VTT - LILLERS - 2027
 date: 2026-10-18
 category: VTT
+permalink: /resultats/vtt/2026-10-18-lillers/
 tags: VTT
 image: assets/img/blog/vtt.png
 ---
 
 ### VTT Sénior B
 8 participants
-- [HUGUENIN DYLAN](https://teamspecializedlille.cc/coureurs/huguenindylan) : AB
+- [HUGUENIN DYLAN](/coureurs/huguenindylan) : AB
 
 ### Scratch
 47 participants
@@ -62,4 +63,4 @@ image: assets/img/blog/vtt.png
 | 44 | LEGRAND Jean Louis |  | 3 | Vétérans B | 0:25:48 | 
 | 45 | BARTKOWIAK Julien |  | 2 | Vétérans A | 0:19:30 | 
 | 46 | EROUART Charles |  | 2 | Vétérans C | 0:51:03 | 
-| **47** | **[HUGUENIN Dylan](https://teamspecializedlille.cc/coureurs/huguenindylan)** | **TEAM SPECIALIZED LILLE** | **0** | **Seniors B** | **0:01:15** | 
+| **47** | **[HUGUENIN Dylan](/coureurs/huguenindylan)** | **TEAM SPECIALIZED LILLE** | **0** | **Seniors B** | **0:01:15** | 

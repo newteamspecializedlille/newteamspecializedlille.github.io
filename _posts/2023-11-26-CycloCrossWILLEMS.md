@@ -3,6 +3,7 @@ layout: post
 title: Cyclo Cross - WILLEMS - 2024
 date: 2023-11-26
 category: Cyclo Cross
+permalink: /resultats/cyclo-cross/2023-11-26-willems/
 tags: cyclo-cross
 image: assets/resultats/2023/cyclo-cross/11-26-willems/1.jpg
 images:
@@ -15,13 +16,13 @@ images:
 
 ### 2ème Catégorie
 28 participants
-- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 3
+- [LECOLIER STEPHANE](/coureurs/lecolierstephane) : 3
 
 ### 3ème Catégorie
 41 participants
-- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 6
-- [MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix) : 14
-- [LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis) : Ab
+- [DERASSE DAVID](/coureurs/derassedavid) : 6
+- [MOULIN FELIX](/coureurs/moulinfelix) : 14
+- [LECOLIER LOUIS](/coureurs/lecolierlouis) : Ab
 
 ### Scratch
 87 participants
@@ -36,7 +37,7 @@ images:
 | 6 | BECQUET JORDAN | VELO CLUB UNION HALLUIN | 10 | 2ème | 0:55:49 | 
 | 7 | HUART GUILLAUME | CYCLO CLUB ORCHIES | 10 | 1ère | 0:56:0 | 
 | 8 | REUTER SEBASTIEN | ESEG DOUAI | 10 | 1ère | 0:56:38 | 
-| **9** | **[LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **10** | **2ème** | **0:56:38** | 
+| **9** | **[LECOLIER STEPHANE](/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **10** | **2ème** | **0:56:38** | 
 | 10 | KNOCKAERT JULIEN | TEAM CYCLISTE PROVINOIS - PROVIN | 10 | 1ère | 0:57:17 | 
 | 11 | ALEXANDRE GREGORY | VELO CLUB SOLESMES | 10 | 1ère | 0:57:35 | 
 | 12 | ROULY ALEXIS | ETOILE CYCLISTE LIEU ST AMAND | 10 | 2ème | 0:57:52 | 
@@ -56,7 +57,7 @@ images:
 | 26 | RICHARD NICOLAS | ESEG DOUAI | 9 | 2ème | 0:55:38 | 
 | 27 | CROMMELINCK PATRICK | CYCLOS RANDONNEURS LA BASSEE | 9 | 3ème | 0:55:52 | 
 | 28 | CHOQUET PIERRE | UNION SPORTIVE SAINT ANDRE | 9 | 2ème | 0:55:57 | 
-| **29** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **9** | **3ème** | **0:55:59** | 
+| **29** | **[DERASSE DAVID](/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **9** | **3ème** | **0:55:59** | 
 | 30 | LEVEILLE FLORIAN | TEAM ENFER DU NORD WALLERS ARENBERG | 9 | 2ème | 0:56:22 | 
 | 31 | SCHOUB LUDOVIC | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 9 | 2ème | 0:56:23 | 
 | 32 | TOURLAND AUBIN | VELO CLUB DE L'ESCAUT ANZIN | 9 | 3ème | 0:56:43 | 
@@ -70,7 +71,7 @@ images:
 | 40 | HAVET SEBASTIEN | GAZ ELEC CLUB DE DOUAI | 9 | 2ème | 0:59:29 | 
 | 41 | DAGHELET THOMAS | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 8 | 3ème | 0:51:47 | 
 | 42 | VERHAEGHE THOMAS | LINSELLES CYCLISME | 8 | 2ème | 0:51:52 | 
-| **43** | **[MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **8** | **3ème** | **0:52:1** | 
+| **43** | **[MOULIN FELIX](/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **8** | **3ème** | **0:52:1** | 
 | 44 | REUTER BENOIT | VELO CLUB UNION HALLUIN | 8 | 3ème | 0:52:5 | 
 | 45 | ALBERTINI LUDOVIC | NEW ORANGE TEAM BOUSBECQUE | 8 | 2ème | 0:52:20 | 
 | 46 | LEONARDI FLORIAN | RESILIENCE CLUB | 8 | 3ème | 0:52:40 | 
@@ -113,7 +114,7 @@ images:
 | 83 | CARDINAL NATHAN | HAVELUY CYCLO CLUB | 0 | 2ème | 0:38:53 | 
 | 84 | HENNO FABRICE | CYCLO CLUB ORCHIES | 0 | 2ème | 0:38:53 | 
 | 85 | PONCET ALEXIS | TEAM ENFER DU NORD WALLER | 0 | 2ème | 0:38:53 | 
-| **86** | **[LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
+| **86** | **[LECOLIER LOUIS](/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
 | 87 | CAPELLE FRANCKY | ETOILE CYCLISTE TOURCOING | 0 | 3ème | 0:38:53 | 
 
 ![1](http://teamspecializedlille.github.io/assets/resultats/2023/cyclo-cross/11-26-willems/1.jpg)

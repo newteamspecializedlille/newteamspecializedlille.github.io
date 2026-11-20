@@ -3,13 +3,14 @@ layout: post
 title: Cyclo Cross - LILLERS - 2027
 date: 2026-10-18
 category: Cyclo Cross
+permalink: /resultats/cyclo-cross/2026-10-18-lillers/
 tags: cyclo-cross
 image: assets/img/blog/cx.png
 ---
 
 ### 1ère Catégorie
 7 participants
-- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 7
+- [DERASSE DAVID](/coureurs/derassedavid) : 7
 
 ### Scratch
 51 participants
@@ -29,7 +30,7 @@ image: assets/img/blog/cx.png
 | 11 | LOGIE Matthieu |  | 7 | 1ère | 0:50:41 | 
 | 12 | DECONINCK Maximilien |  | 7 | 2ème | 0:50:44 | 
 | 13 | DAGHELET Thomas |  | 7 | 2ème | 0:51:13 | 
-| **14** | **[DERASSE David](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **7** | **1ère** | **0:51:14** | 
+| **14** | **[DERASSE David](/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **7** | **1ère** | **0:51:14** | 
 | 15 | REUTER Benoit |  | 7 | 3ème | 0:51:19 | 
 | 16 | DETAVERNIER Florian |  | 7 | 3ème | 0:51:20 | 
 | 17 | TORCHY Gaëtan |  | 7 | 2ème | 0:51:37 | 

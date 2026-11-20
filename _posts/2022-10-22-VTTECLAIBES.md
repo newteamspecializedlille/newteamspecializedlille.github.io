@@ -3,17 +3,18 @@ layout: post
 title: VTT - ECLAIBES - 2023
 date: 2022-10-22
 category: VTT
+permalink: /resultats/vtt/2022-10-22-eclaibes/
 tags: VTT
 image: assets/img/blog/vtt.png
 ---
 
 ### VTT Sénior B
 13 participants
-- [DUFOUR JONATHAN](https://teamspecializedlille.cc/coureurs/dufourjonathan) : 3
+- [DUFOUR JONATHAN](/coureurs/dufourjonathan) : 3
 
 ### VTT Vétérans B
 16 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 1
+- [MATTIOLI RONALD](/coureurs/mattiolironald) : 1
 
 ### Scratch
 47 participants
@@ -24,8 +25,8 @@ image: assets/img/blog/vtt.png
 | 2 | TAMBOUR EDOUARD | CAMPHIN EN CAREMBAULT CYCLING TEAM | 12 | Seniors B | 1:6:2 | 
 | 3 | QUINZIN YOURI | TEAM BOUSIES | 12 | Seniors B | 1:6:9 | 
 | 4 | HOUDART PHILIPPE | CAMPHIN EN CAREMBAULT CYCLING TEAM | 12 | Vétérans A | 1:6:16 | 
-| **5** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **12** | **Vétérans B** | **1:6:17** | 
-| **6** | **[DUFOUR JONATHAN](https://teamspecializedlille.cc/coureurs/dufourjonathan)** | **TEAM SPECIALIZED LILLE** | **12** | **Seniors B** | **1:6:29** | 
+| **5** | **[MATTIOLI RONALD](/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **12** | **Vétérans B** | **1:6:17** | 
+| **6** | **[DUFOUR JONATHAN](/coureurs/dufourjonathan)** | **TEAM SPECIALIZED LILLE** | **12** | **Seniors B** | **1:6:29** | 
 | 7 | MAERTENS DAVID | U. S. HAM | 12 | Vétérans B | 1:6:49 | 
 | 8 | JABLONSKI SEBASTIEN | TEAM B.B.L. HERGNIES | 12 | Vétérans A | 1:6:52 | 
 | 9 | HANNOT CHRISTOPHE | VELO CLUB UNION HALLUIN | 12 | Vétérans A | 1:6:59 | 

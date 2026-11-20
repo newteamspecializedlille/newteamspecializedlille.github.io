@@ -3,18 +3,19 @@ layout: post
 title: Route - SARS POTERIES - 2024
 date: 2024-08-03
 category: Route
+permalink: /resultats/route/2024-08-03-sars-poteries/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
 33 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 9
-- [BOONE NICOLAS](https://teamspecializedlille.cc/coureurs/boonenicolas) : 15
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 9
+- [BOONE NICOLAS](/coureurs/boonenicolas) : 15
 
 ### 3ème Catégorie
 52 participants
-- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 21
+- [WALTER BENOIT](/coureurs/walterbenoit) : 21
 
 ### Scratch
 141 participants
@@ -47,13 +48,13 @@ image: assets/img/blog/road.png
 | 24 | FONTAINE THOMAS | ETOILE CYCLISTE FEIGNIES | 12 | 2ème | 1:50:31 | 
 | 25 | MICHALLET THEO | LINSELLES CYCLISME | 12 | 2ème | 1:50:31 | 
 | 26 | LECCI PIERRE | HAVELUY CYCLO CLUB | 12 | 2ème | 1:50:32 | 
-| **27** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **12** | **2ème** | **1:50:32** | 
+| **27** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **12** | **2ème** | **1:50:32** | 
 | 28 | DI CARLO DONATO | NEW ORANGE TEAM BOUSBECQUE | 12 | 2ème | 1:50:32 | 
 | 29 | VINCENT ETIENNE | ETOILE CYCLISTE FEIGNIES | 12 | 2ème | 1:50:32 | 
 | 30 | LEFEBVRE JEAN-DANIEL | U.C. CAPELLOISE FOURMIES | 12 | 2ème | 1:50:32 | 
 | 31 | PRIAT AURELIEN | ESEG DOUAI | 12 | 2ème | 1:50:32 | 
 | 32 | LAPOTRE FRANCOIS | UNION SPORTIVE VALENCIENNES CRESPIN | 12 | 2ème | 1:50:32 | 
-| **33** | **[BOONE NICOLAS](https://teamspecializedlille.cc/coureurs/boonenicolas)** | **TEAM SPECIALIZED LILLE** | **12** | **2ème** | **1:50:32** | 
+| **33** | **[BOONE NICOLAS](/coureurs/boonenicolas)** | **TEAM SPECIALIZED LILLE** | **12** | **2ème** | **1:50:32** | 
 | 34 | WAN MEENEN JULIEN | VTT  CLUB PONT SUR SAMBRE | 12 | 2ème | 1:50:32 | 
 | 35 | HAVET SEBASTIEN | GAZ ELEC CLUB DE DOUAI | 12 | 2ème | 1:50:33 | 
 | 36 | MATHIEU BERTRAND | TEAM CYCLISTE LA BORDURE - BETTRECHIES | 12 | 2ème | 1:50:33 | 
@@ -90,7 +91,7 @@ image: assets/img/blog/road.png
 | 67 | CAUDERLIER SEBASTIEN | ETOILE CYCLISTE LIEU ST AMAND | 11 | 3ème | 1:41:56 | 
 | 68 | DAVAINE HUGUES | LA PEDALE MADELEINOISE | 11 | 3ème | 1:41:56 | 
 | 69 | POT FREDERIC | ETOILE CYCLISTE FEIGNIES | 11 | 3ème | 1:41:56 | 
-| **70** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **11** | **3ème** | **1:41:56** | 
+| **70** | **[WALTER BENOIT](/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **11** | **3ème** | **1:41:56** | 
 | 71 | SARNELLI MICKAEL | VELO CLUB DE L'ESCAUT ANZIN | 11 | 3ème | 1:41:57 | 
 | 72 | FREROT FRANCK | U.C. CAPELLOISE FOURMIES | 11 | 3ème | 1:41:57 | 
 | 73 | BINOT JULIEN | VTT  CLUB PONT SUR SAMBRE | 11 | 3ème | 1:41:57 | 

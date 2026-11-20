@@ -3,13 +3,14 @@ layout: post
 title: Cyclo Cross - LILLE BTWIN VILLAGE - 2026
 date: 2025-11-23
 category: Cyclo Cross
+permalink: /resultats/cyclo-cross/2025-11-23-lille-btwin-village/
 tags: cyclo-cross
 image: assets/img/blog/cx.png
 ---
 
 ### 1ère Catégorie
 19 participants
-- [ORBIER AXEL](https://teamspecializedlille.cc/coureurs/orbieraxel) : 9
+- [ORBIER AXEL](/coureurs/orbieraxel) : 9
 
 ### Scratch
 79 participants
@@ -24,7 +25,7 @@ image: assets/img/blog/cx.png
 | 6 | FAYT OLIVAN | UNION SPORTIVE SAINT ANDRE | 6 | 1ère | 0:59:4 | 
 | 7 | DUVAL TEDDY | CAMPAGNE LES WARDRECQUES CLUB CYCLISTE CCCW | 6 | 1ère | 0:59:39 | 
 | 8 | LEGUEUX LAURENT | UNION VELOCIPEDIQUE FOURMISIENNE | 6 | 1ère | 0:59:43 | 
-| **9** | **[ORBIER AXEL](https://teamspecializedlille.cc/coureurs/orbieraxel)** | **TEAM SPECIALIZED LILLE** | **6** | **1ère** | **0:59:50** | 
+| **9** | **[ORBIER AXEL](/coureurs/orbieraxel)** | **TEAM SPECIALIZED LILLE** | **6** | **1ère** | **0:59:50** | 
 | 10 | CHALAS JEAN PIERRE | NOEUX VELO CLUB NOEUXOIS | 6 | 2ème | 1:1:14 | 
 | 11 | CODDEVILLE KENNY | VELO CLUB UNION HALLUIN | 6 | 2ème | 1:1:17 | 
 | 12 | HOEZ THEO | TEAM BOUSIES | 6 | 2ème | 1:2:14 | 

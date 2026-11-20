@@ -3,22 +3,23 @@ layout: post
 title: Route - BOUSIES - 2025
 date: 2025-03-15
 category: Route
+permalink: /resultats/route/2025-03-15-bousies/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 30 participants
-- [MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio) : 24
+- [MINNECI ELIO](/coureurs/minnecielio) : 24
 
 ### 2ème Catégorie
 43 participants
-- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 5
+- [DEFER OLIVIER](/coureurs/deferolivier) : 5
 
 ### 3ème Catégorie
 59 participants
-- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 9
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 15
+- [WALTER BENOIT](/coureurs/walterbenoit) : 9
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 15
 
 ### Scratch
 174 participants
@@ -46,7 +47,7 @@ image: assets/img/blog/road.png
 | 19 | PAILLARD CORENTIN | CERCLE OLYMPIQUE MARCOING | 24 | 2ème | 1:59:45 | 
 | 20 | WAN MEENEN JULIEN | VTT  CLUB PONT SUR SAMBRE | 24 | 2ème | 2:0:8 | 
 | 21 | MORDACQ JEAN MICHEL | RESILIENCE CLUB | 24 | 2ème | 2:0:10 | 
-| **22** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **24** | **2ème** | **2:0:11** | 
+| **22** | **[DEFER OLIVIER](/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **24** | **2ème** | **2:0:11** | 
 | 23 | TOURNEUX MICKAEL | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 24 | 2ème | 2:0:16 | 
 | 24 | DUHAMEL ARNAUD | ARTeam Artois Racing Team | 24 | 2ème | 2:1:33 | 
 | 25 | LALEU DAVID | UNION SPORTIVE SAINT ANDRE | 24 | 2ème | 2:2:20 | 
@@ -79,7 +80,7 @@ image: assets/img/blog/road.png
 | 52 | MULAS YANN | VELO SPRINT DE L'OSTREVENT - ANICHE | 24 | 1ère | 2:4:20 | 
 | 53 | LEFEVRE SEBASTIEN | UNION VELOCIPEDIQUE FOURMISIENNE | 24 | 1ère | 2:4:43 | 
 | 54 | DALLE CLEMENT | VELO CLUB SOLESMES | 24 | 1ère | 2:4:47 | 
-| **55** | **[MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **24** | **1ère** | **2:4:47** | 
+| **55** | **[MINNECI ELIO](/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **24** | **1ère** | **2:4:47** | 
 | 56 | HERFEUIL ANTHONY | NOEUX VELO CLUB NOEUXOIS | 23 | 2ème | 1:56:50 | 
 | 57 | FREHAUT NICOLAS | ASSOCIATION CYCLISTE D'ETROEUNGT | 23 | 2ème | 2:0:8 | 
 | 58 | LEFEBVRE JEAN-DANIEL | U.C. CAPELLOISE FOURMIES | 23 | 2ème | 2:0:19 | 
@@ -95,13 +96,13 @@ image: assets/img/blog/road.png
 | 68 | URBAIN RUDY | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 18 | 3ème | 1:37:15 | 
 | 69 | HELLEBOIS ALAIN | CLUB CYCLISTE D'ISBERGUES MOLINGHEM | 18 | 3ème | 1:37:15 | 
 | 70 | DAVAINE HUGUES | LA PEDALE MADELEINOISE | 18 | 3ème | 1:37:15 | 
-| **71** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **18** | **3ème** | **1:37:15** | 
+| **71** | **[WALTER BENOIT](/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **18** | **3ème** | **1:37:15** | 
 | 72 | TRIOLO FLORENT | UNION SPORTIVE VALENCIENNES CRESPIN | 18 | 3ème | 1:37:15 | 
 | 73 | BOUTONNE FREDERIC | TEAM BOUSIES | 18 | 3ème | 1:37:16 | 
 | 74 | VANAUBERG GAETAN | NEW TEAM MAULDE | 18 | 3ème | 1:37:16 | 
 | 75 | MONNIER SEBASTIEN | VELO SPRINT DE L'OSTREVENT - ANICHE | 18 | 3ème | 1:37:16 | 
 | 76 | MATTON STEPHANE | 52X11 HIRSON THIERACHE | 18 | 3ème | 1:37:16 | 
-| **77** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **18** | **3ème** | **1:37:16** | 
+| **77** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **18** | **3ème** | **1:37:16** | 
 | 78 | POULAIN CHRISTOPHE | VELO SPRINT DE L'OSTREVENT - ANICHE | 18 | 3ème | 1:37:16 | 
 | 79 | PLUCHARD MATHIS | VELO CLUB ROUBAIX | 18 | 3ème | 1:37:16 | 
 | 80 | FREROT FRANCK | U.C. CAPELLOISE FOURMIES | 18 | 3ème | 1:37:16 | 

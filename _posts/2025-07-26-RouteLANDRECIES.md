@@ -3,19 +3,20 @@ layout: post
 title: Route - LANDRECIES - 2025
 date: 2025-07-26
 category: Route
+permalink: /resultats/route/2025-07-26-landrecies/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
 29 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 10
-- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 18
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 10
+- [DEFER OLIVIER](/coureurs/deferolivier) : 18
 
 ### 3ème Catégorie
 41 participants
-- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 7
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 20
+- [WALTER BENOIT](/coureurs/walterbenoit) : 7
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 20
 
 ### Scratch
 131 participants
@@ -48,7 +49,7 @@ image: assets/img/blog/road.png
 | 24 | LECERF JEROME | ASSOCIATION SPORTIVE VELOCIPEDIQUE LA LONGUEVILLE | 29 | 2ème | 1:0:15 | 
 | 25 | RICHET CHRISTOPHE | ASSOCIATION CYCLISTE D'ETROEUNGT | 29 | 2ème | 1:0:15 | 
 | 26 | MARTINEZ JEROME | NEW TEAM MAULDE | 29 | 2ème | 1:0:15 | 
-| **27** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **29** | **2ème** | **1:0:16** | 
+| **27** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **29** | **2ème** | **1:0:16** | 
 | 28 | POULAIN CHRISTOPHE | VELO SPRINT DE L'OSTREVENT - ANICHE | 29 | 2ème | 1:0:16 | 
 | 29 | MILLET FABRICE | VTT  CLUB PONT SUR SAMBRE | 29 | 2ème | 1:0:16 | 
 | 30 | DRUART JEROME | TEAM CYCLISTE LA BORDURE - BETTRECHIES | 29 | 2ème | 1:0:17 | 
@@ -56,7 +57,7 @@ image: assets/img/blog/road.png
 | 32 | DRUESNE DAMIEN | UNION VELOCIPEDIQUE FOURMISIENNE | 29 | 2ème | 1:0:19 | 
 | 33 | CHOTEAU PASCAL | VELO CLUB DE L'ESCAUT ANZIN | 29 | 2ème | 1:0:20 | 
 | 34 | RIGAUD JUSTIN | CAMPHIN EN CAREMBAULT CYCLING TEAM | 29 | 2ème | 1:0:25 | 
-| **35** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **29** | **2ème** | **1:1:10** | 
+| **35** | **[DEFER OLIVIER](/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **29** | **2ème** | **1:1:10** | 
 | 36 | RIVART ADRIEN | TEAM BOUSIES | 29 | 1ère | 1:2:39 | 
 | 37 | CARPELS GUILLAUME | VELO CLUB UNION HALLUIN | 29 | 2ème | 1:2:42 | 
 | 38 | MEULEMANS LAURENT | VELO CLUB RETHELOIS | 28 | 3ème | 0:59:55 | 
@@ -65,7 +66,7 @@ image: assets/img/blog/road.png
 | 41 | FURNE JEAN CHRISTOPHE | VELO SPRINT DE L'OSTREVENT - ANICHE | 28 | 3ème | 1:0:0 | 
 | 42 | AUVRAY LOIC | RESILIENCE CLUB | 28 | 3ème | 1:0:0 | 
 | 43 | BURIDON DAVID | CYCLO CLUB ORCHIES | 28 | 3ème | 1:0:0 | 
-| **44** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **28** | **3ème** | **1:0:1** | 
+| **44** | **[WALTER BENOIT](/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **28** | **3ème** | **1:0:1** | 
 | 45 | DEKOSTER MICKAEL | ARTeam Artois Racing Team | 28 | 3ème | 1:0:1 | 
 | 46 | FRANCOIS GERALD | SAULZOIR MONTRECOURT CYCLING CLUB | 28 | 3ème | 1:0:1 | 
 | 47 | CHEVAL EDDY | SAULZOIR MONTRECOURT CYCLING CLUB | 28 | 3ème | 1:0:1 | 
@@ -78,7 +79,7 @@ image: assets/img/blog/road.png
 | 54 | LEFEVRE DONIPHAN | 52X11 HIRSON THIERACHE | 28 | 3ème | 1:0:3 | 
 | 55 | GOUBEL BENJAMIN | GAZ ELEC CLUB DE DOUAI | 28 | 3ème | 1:0:4 | 
 | 56 | BRUNIAUX STEPHANE | LES VIKINGS VTT MARCHE NORDIQUE OHAIN | 28 | 3ème | 1:0:4 | 
-| **57** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **28** | **3ème** | **1:0:5** | 
+| **57** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **28** | **3ème** | **1:0:5** | 
 | 58 | ARGENTINO ANTHONY | UNION SPORTIVE SAINT ANDRE | 28 | 3ème | 1:0:9 | 
 | 59 | LEFEBVRE FRANCK | UNION SPORTIVE VALENCIENNES CRESPIN | 28 | 3ème | 1:0:11 | 
 | 60 | POULAIN NOAH | VELO SPRINT DE L'OSTREVENT - ANICHE | 28 | 3ème | 1:0:11 | 

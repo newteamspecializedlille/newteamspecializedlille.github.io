@@ -3,20 +3,21 @@ layout: post
 title: Route - HAVELUY - 2021
 date: 2021-07-04
 category: Route
+permalink: /resultats/route/2021-07-04-haveluy/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 50 participants
-- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 7
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 19
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 20
+- [LECOLIER STEPHANE](/coureurs/lecolierstephane) : 7
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 19
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 20
 
 ### 3ème Catégorie
 111 participants
-- [BOONE ERIC](https://teamspecializedlille.cc/coureurs/booneeric) : 
-- [VERHULST ERIC](https://teamspecializedlille.cc/coureurs/verhulsteric) : 
+- [BOONE ERIC](/coureurs/booneeric) : 
+- [VERHULST ERIC](/coureurs/verhulsteric) : 
 
 ### Scratch
 305 participants

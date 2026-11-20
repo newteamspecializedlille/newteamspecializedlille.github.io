@@ -3,13 +3,14 @@ layout: post
 title: Route - BOUVIGNIES - 2026
 date: 2026-04-11
 category: Route
+permalink: /resultats/route/2026-04-11-bouvignies/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
 39 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 15
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 15
 
 ### Scratch
 166 participants
@@ -46,7 +47,7 @@ image: assets/img/blog/road.png
 | 28 | MOLINA DAMIEN | ASSOCIATION CYCLISTE ESTREES ST DENIS | 19 | 2ème | 1:33:36 | 
 | 29 | DI CARLO DONATO | NEW ORANGE TEAM BOUSBECQUE | 19 | 2ème | 1:33:36 | 
 | 30 | VANAUBERG GAETAN | VELO CLUB ROUBAIX | 19 | 2ème | 1:33:37 | 
-| **31** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **19** | **2ème** | **1:33:37** | 
+| **31** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **19** | **2ème** | **1:33:37** | 
 | 32 | FOURNIER AXEL | TEAM CYCLISTE LA BORDURE - BETTRECHIES | 19 | 2ème | 1:33:37 | 
 | 33 | ROBIN THIBAUT | CYCLO CLUB ORCHIES | 19 | 2ème | 1:33:37 | 
 | 34 | CINQUINA GUISEPPE | ETOILE CYCLISTE LIEU ST AMAND | 19 | 2ème | 1:33:37 | 

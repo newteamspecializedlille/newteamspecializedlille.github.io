@@ -3,24 +3,25 @@ layout: post
 title: Route - CRESPIN - 2023
 date: 2023-05-29
 category: Route
+permalink: /resultats/route/2023-05-29-crespin/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 13 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 4
+- [MATTIOLI RONALD](/coureurs/mattiolironald) : 4
 
 ### 2ème Catégorie
 35 participants
-- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 1
+- [LECOLIER STEPHANE](/coureurs/lecolierstephane) : 1
 
 ### Scratch
 123 participants
 
 | Place | Nom | Team | Tours | Catégorie | Temps |
 |---|---|---|---|---|---|
-| **1** | **[LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **19** | **2ème** | **1:39:17** | 
+| **1** | **[LECOLIER STEPHANE](/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **19** | **2ème** | **1:39:17** | 
 | 2 | MARTHE ROMUALD | ETOILE CYCLISTE LIEU ST AMAND | 19 | 2ème | 1:39:19 | 
 | 3 | BRAL JAN | ETOILE CYCLISTE LIEU ST AMAND | 19 | 2ème | 1:40:50 | 
 | 4 | SOTTIAUX SEBASTIEN | UNION SPORTIVE SAINT ANDRE | 19 | 2ème | 1:40:51 | 
@@ -51,7 +52,7 @@ image: assets/img/blog/road.png
 | 29 | SEMOULIN JOAKIM | TEAM B.B.L. HERGNIES | 19 | 1ère | 1:44:30 | 
 | 30 | DELANGUE THOMAS | NEW ORANGE TEAM BOUSBECQUE | 19 | 1ère | 1:44:30 | 
 | 31 | DELANGUE THEO | NEW ORANGE TEAM BOUSBECQUE | 19 | 1ère | 1:44:38 | 
-| **32** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **19** | **1ère** | **1:47:2** | 
+| **32** | **[MATTIOLI RONALD](/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **19** | **1ère** | **1:47:2** | 
 | 33 | LACROIX FREDERIC | VELO CLUB ROUBAIX | 19 | 1ère | 1:47:3 | 
 | 34 | CHOTEAU PASCAL | VELO CLUB DE L'ESCAUT ANZIN | 19 | 1ère | 1:47:3 | 
 | 35 | JABLONSKI SEBASTIEN | TEAM B.B.L. HERGNIES | 19 | 1ère | 1:47:5 | 

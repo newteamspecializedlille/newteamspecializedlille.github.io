@@ -3,13 +3,14 @@ layout: post
 title: Cyclo Cross - CARVIN - 2025
 date: 2025-02-23
 category: Cyclo Cross
+permalink: /resultats/cyclo-cross/2025-02-23-carvin/
 tags: cyclo-cross
 image: assets/img/blog/cx.png
 ---
 
 ### 3ème Catégorie
 29 participants
-- [MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix) : 14
+- [MOULIN FELIX](/coureurs/moulinfelix) : 14
 
 ### Scratch
 63 participants
@@ -55,7 +56,7 @@ image: assets/img/blog/cx.png
 | 37 | CROMMELINCK PATRICK | CYCLOS RANDONNEURS LA BASSEE | 9 | 3ème | 0:54:26 | 
 | 38 | DOOLAEGHE TERRY | VELO CLUB UNION HALLUIN | 9 | 3ème | 0:54:42 | 
 | 39 | BECUWE DENIS | UADEL BAILLEUL | 9 | 2ème | 0:55:2 | 
-| **40** | **[MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **9** | **3ème** | **0:56:9** | 
+| **40** | **[MOULIN FELIX](/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **9** | **3ème** | **0:56:9** | 
 | 41 | CARPELS GUILLAUME | VELO CLUB UNION HALLUIN | 8 | 2ème | 0:48:39 | 
 | 42 | CARDON . DAVID | CYCLO CLUB ORCHIES | 8 | 3ème | 0:48:47 | 
 | 43 | DERODE BAPTISTE | HAVELUY CYCLO CLUB | 8 | 1ère | 0:49:17 | 

@@ -3,13 +3,14 @@ layout: post
 title: Cyclo Cross - ESTEVELLES2 - 2026
 date: 2025-12-28
 category: Cyclo Cross
+permalink: /resultats/cyclo-cross/2025-12-28-estevelles2/
 tags: cyclo-cross
 image: assets/img/blog/cx.png
 ---
 
 ### 1ère Catégorie
 16 participants
-- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 11
+- [DERASSE DAVID](/coureurs/derassedavid) : 11
 
 ### Scratch
 83 participants
@@ -27,7 +28,7 @@ image: assets/img/blog/cx.png
 | 9 | FLAHAUT FRANCK | AMICALE CYCLISTE SAINT MICHEL | 6 | 1ère | 0:56:22 | 
 | 10 | LOGEZ GUILLAUME | TEAM PEVELE CAREMBAULT CYCLISME | 6 | 2ème | 0:56:22 | 
 | 11 | GALLIEZ ANTHONY | TEAM FULL WATTS CAMBRESIS | 6 | 1ère | 0:56:45 | 
-| **12** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **6** | **1ère** | **0:59:5** | 
+| **12** | **[DERASSE DAVID](/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **6** | **1ère** | **0:59:5** | 
 | 13 | VANWAELSCAPPEL GUILLAUME | CYCLO CLUB WAVRIN | 6 | 2ème | 0:59:11 | 
 | 14 | DEWAILLY VINCENT | UNION SPORTIVE SAINT ANDRE | 6 | 2ème | 0:59:21 | 
 | 15 | VANWAELSCAPPEL JEROME | CYCLO CLUB WAVRIN | 6 | 1ère | 0:59:22 | 

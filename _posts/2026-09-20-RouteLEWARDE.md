@@ -3,27 +3,28 @@ layout: post
 title: Route - LEWARDE - 2026
 date: 2026-09-20
 category: Route
+permalink: /resultats/route/2026-09-20-lewarde/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 37 participants
-- [CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas) : 8
-- [LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis) : 21
-- [MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio) : 25
-- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : Ab
+- [CROMBEZ THOMAS](/coureurs/crombezthomas) : 8
+- [LECOLIER LOUIS](/coureurs/lecolierlouis) : 21
+- [MINNECI ELIO](/coureurs/minnecielio) : 25
+- [LECOLIER STEPHANE](/coureurs/lecolierstephane) : Ab
 
 ### 2ème Catégorie
 59 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 6
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 50
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 6
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 50
 
 ### 3ème Catégorie
 74 participants
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 38
-- [HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe) : 44
-- [HUGUENIN DYLAN](https://teamspecializedlille.cc/coureurs/huguenindylan) : 52
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 38
+- [HUBAUT CHRISTOPHE](/coureurs/hubautchristophe) : 44
+- [HUGUENIN DYLAN](/coureurs/huguenindylan) : 52
 
 ### Scratch
 234 participants
@@ -37,7 +38,7 @@ image: assets/img/blog/road.png
 | 5 | DELEPLACE HADRIEN | TEAM CYCLISTE - RAMILLIES | 12 | 1ère | 1:42:10 | 
 | 6 | MAGY MATHEO | ETOILE CYCLISTE FEIGNIES | 12 | 1ère | 1:42:12 | 
 | 7 | WINS STEPHANE | HAVELUY CYCLO CLUB | 12 | 1ère | 1:42:13 | 
-| **8** | **[CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **12** | **1ère** | **1:42:17** | 
+| **8** | **[CROMBEZ THOMAS](/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **12** | **1ère** | **1:42:17** | 
 | 9 | MORELLE YOHANN | TEAM CYCLISTE - RAMILLIES | 12 | 1ère | 1:43:44 | 
 | 10 | BRASSART THEOPHILE | TEAM B.B.L. HERGNIES | 12 | 1ère | 1:43:45 | 
 | 11 | JABLONSKI SEBASTIEN | NEW TEAM MAULDE | 12 | 1ère | 1:43:45 | 
@@ -50,11 +51,11 @@ image: assets/img/blog/road.png
 | 18 | BOURIGUE ALI | ESEG DOUAI | 12 | 1ère | 1:43:54 | 
 | 19 | DERENZIS RYAN | Entente cycliste Wallers Arenberg Bellaing | 12 | 1ère | 1:43:54 | 
 | 20 | WAN-MEENEN JULIEN | UNION VELOCIPEDIQUE FOURMISIENNE | 12 | 1ère | 1:43:54 | 
-| **21** | **[LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **12** | **1ère** | **1:43:54** | 
+| **21** | **[LECOLIER LOUIS](/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **12** | **1ère** | **1:43:54** | 
 | 22 | MATTON GABIN | ASSOCIATION CYCLISTE D'ETROEUNGT | 12 | 1ère | 1:43:55 | 
 | 23 | MARECHAL GUILLAUME | VELO CLUB SOLESMES | 12 | 1ère | 1:43:56 | 
 | 24 | MARTHE ROMUALD | ETOILE CYCLISTE LIEU ST AMAND | 12 | 1ère | 1:43:56 | 
-| **25** | **[MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **12** | **1ère** | **1:43:57** | 
+| **25** | **[MINNECI ELIO](/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **12** | **1ère** | **1:43:57** | 
 | 26 | PELLETIER THOMAS | TEAM CYCLISTE - RAMILLIES | 12 | 1ère | 1:43:58 | 
 | 27 | VASSEUR HUGO | UNION SPORTIVE SAINT ANDRE | 12 | 1ère | 1:44:0 | 
 | 28 | MURRUZZU AURELIEN | UNION SPORTIVE SAINT ANDRE | 12 | 1ère | 1:44:5 | 
@@ -66,7 +67,7 @@ image: assets/img/blog/road.png
 | 34 | LECERF JEROME | ASSOCIATION SPORTIVE VELOCIPEDIQUE LA LONGUEVILLE | 11 | 2ème | 1:40:18 | 
 | 35 | ROSZKIEWICZ RAPHAEL | VELO CLUB DE L'ESCAUT ANZIN | 11 | 2ème | 1:40:18 | 
 | 36 | CHALAS JEAN PIERRE | NOEUX VELO CLUB NOEUXOIS | 11 | 2ème | 1:40:19 | 
-| **37** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **11** | **2ème** | **1:40:20** | 
+| **37** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **11** | **2ème** | **1:40:20** | 
 | 38 | ROBIN THIBAUT | CYCLO CLUB ORCHIES | 11 | 2ème | 1:40:20 | 
 | 39 | VANAUBERG GAETAN | VELO CLUB ROUBAIX | 11 | 2ème | 1:40:20 | 
 | 40 | DEBRIL BENJAMIN | TEAM B.B.L. HERGNIES | 11 | 2ème | 1:40:20 | 
@@ -111,7 +112,7 @@ image: assets/img/blog/road.png
 | 79 | LE VOURCH DAMIEN | ARTeam Artois Racing Team | 11 | 2ème | 1:40:41 | 
 | 80 | CRESPEL ENGUERRAND | LA PEDALE MADELEINOISE | 11 | 2ème | 1:40:43 | 
 | 81 | ROULY ALEXIS | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 11 | 2ème | 1:40:48 | 
-| **82** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **11** | **2ème** | **1:41:3** | 
+| **82** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **11** | **2ème** | **1:41:3** | 
 | 83 | BERTHIER ANTOINE | NEW ORANGE TEAM BOUSBECQUE | 11 | 2ème | 1:41:13 | 
 | 84 | BIENFAIT LIONEL | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 11 | 2ème | 1:41:19 | 
 | 85 | BOS FABRICE | Entente cycliste Wallers Arenberg Bellaing | 11 | 2ème | 1:41:19 | 
@@ -154,13 +155,13 @@ image: assets/img/blog/road.png
 | 122 | LABOUREUR MATTHIEU | VTT  CLUB PONT SUR SAMBRE | 10 | 3ème | 1:35:37 | 
 | 123 | CESAR BENOIT | NEW ORANGE TEAM BOUSBECQUE | 10 | 3ème | 1:35:37 | 
 | 124 | MARTIN GREGORY | ARTeam Artois Racing Team | 10 | 3ème | 1:35:37 | 
-| **125** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **10** | **3ème** | **1:35:39** | 
+| **125** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **10** | **3ème** | **1:35:39** | 
 | 126 | SAINTRAIN GERARD | ETOILE CYCLISTE LIEU ST AMAND | 10 | 3ème | 1:35:39 | 
 | 127 | BRZEZINSKI SACHA | MAULDE | 10 | 3ème | 1:35:39 | 
 | 128 | DUCATILLON CLARISSE | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 10 | 3ème | 1:35:39 | 
 | 129 | LAMBERT JEROME | HANDI'COLOR | 10 | 3ème | 1:35:39 | 
 | 130 | DUPONT RAPHAEL | NEW TEAM MAULDE | 10 | 3ème | 1:35:39 | 
-| **131** | **[HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe)** | **TEAM SPECIALIZED LILLE** | **10** | **3ème** | **1:35:40** | 
+| **131** | **[HUBAUT CHRISTOPHE](/coureurs/hubautchristophe)** | **TEAM SPECIALIZED LILLE** | **10** | **3ème** | **1:35:40** | 
 | 132 | DEFOSSEZ RODRIGUE | ETOILE CYCLISTE FEIGNIES | 10 | 3ème | 1:35:40 | 
 | 133 | FLAMENT ETHAN | TEAM BOUSIES | 10 | 3ème | 1:35:40 | 
 | 134 | VANWAELSCAPPEL GUILLAUME | CYCLO CLUB WAVRIN | 10 | 3ème | 1:35:40 | 
@@ -168,7 +169,7 @@ image: assets/img/blog/road.png
 | 136 | WALTER BENOIT | VELO CLUB UNION HALLUIN | 10 | 3ème | 1:35:41 | 
 | 137 | KONOPKA YOANN | CERCLE OLYMPIQUE MARCOING | 10 | 3ème | 1:35:41 | 
 | 138 | DEVIENNE LOUIS | ENTENTE CYCLISTE FACHES-THUMESNIL RONCHIN | 10 | 3ème | 1:35:47 | 
-| **139** | **[HUGUENIN DYLAN](https://teamspecializedlille.cc/coureurs/huguenindylan)** | **TEAM SPECIALIZED LILLE** | **10** | **3ème** | **1:35:49** | 
+| **139** | **[HUGUENIN DYLAN](/coureurs/huguenindylan)** | **TEAM SPECIALIZED LILLE** | **10** | **3ème** | **1:35:49** | 
 | 140 | VANDESOMPEL PASCAL | LA PEDALE MADELEINOISE | 10 | 3ème | 1:35:50 | 
 | 141 | SOILE THIERRY | NEW ORANGE TEAM BOUSBECQUE | 10 | 3ème | 1:35:50 | 
 | 142 | COULON JULIEN | GILLOT CYCLING CLUB FEIGNIES | 10 | 3ème | 1:35:56 | 
@@ -234,7 +235,7 @@ image: assets/img/blog/road.png
 | 202 | GABEZ ANDRE | NEW TEAM MAULDE | 8 | 4ème | 1:27:58 | 
 | 203 | TOMASINA CHRISTOPHE | NEW ORANGE TEAM BOUSBECQUE | 8 | 3ème | 1:29:34 | 
 | 204 | VILLETTE CEDRIC | NEW TEAM MAULDE | 8 | 3ème | 1:35:52 | 
-| **205** | **[LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **7** | **1ère** | **1:6:7** | 
+| **205** | **[LECOLIER STEPHANE](/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **7** | **1ère** | **1:6:7** | 
 | 206 | ZWIERSCHIEWSKI ZDZISLAW | TEAM CYCLISTE PROVINOIS - PROVIN | 7 | 4ème | 1:7:40 | 
 | 207 | DELORGE FREDERIC | TEAM B.B.L. HERGNIES | 7 | 4ème | 1:8:26 | 
 | 208 | DOREZ AMELIE | ENTENTE CYCLISTE FACHES-THUMESNIL RONCHIN | 7 | Féminines | 1:10:12 | 

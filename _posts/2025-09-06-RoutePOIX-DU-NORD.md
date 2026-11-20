@@ -3,20 +3,21 @@ layout: post
 title: Route - POIX DU NORD - 2025
 date: 2025-09-06
 category: Route
+permalink: /resultats/route/2025-09-06-poix-du-nord/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
 51 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 3
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 7
-- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 39
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 3
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 7
+- [DEFER OLIVIER](/coureurs/deferolivier) : 39
 
 ### 3ème Catégorie
 51 participants
-- [HUGUENIN DYLAN](https://teamspecializedlille.cc/coureurs/huguenindylan) : 26
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 37
+- [HUGUENIN DYLAN](/coureurs/huguenindylan) : 26
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 37
 
 ### Scratch
 173 participants
@@ -44,11 +45,11 @@ image: assets/img/blog/road.png
 | 19 | LELUBRE THIBAULT | UNION CYCLISTE SOLRE LE CHATEAU | 12 | 1ère | 2:7:3 | 
 | 20 | LENGLET GUILLAUME | NOUVELLE ETOILE SPORTIVE BOUE ETREUX | 11 | 2ème | 1:56:51 | 
 | 21 | VANAUBERG GAETAN | NEW TEAM MAULDE | 11 | 2ème | 1:56:52 | 
-| **22** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **11** | **2ème** | **1:56:52** | 
+| **22** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **11** | **2ème** | **1:56:52** | 
 | 23 | LEVEILLE FLORIAN | TEAM ENFER WALLERS ARENBERG | 11 | 2ème | 1:56:53 | 
 | 24 | LEFEBVRE JEAN-DANIEL | U.C. CAPELLOISE FOURMIES | 11 | 2ème | 1:56:53 | 
 | 25 | CAULIER NICOLAS | CYCLO CLUB BERGUES | 11 | 2ème | 1:56:54 | 
-| **26** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **11** | **2ème** | **1:56:54** | 
+| **26** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **11** | **2ème** | **1:56:54** | 
 | 27 | TOURNEUX MICKAEL | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 11 | 2ème | 1:56:56 | 
 | 28 | LECERF JEROME | ASSOCIATION SPORTIVE VELOCIPEDIQUE LA LONGUEVILLE | 11 | 2ème | 1:56:57 | 
 | 29 | BUREL THOMAS | ASSOCIATION SPORTIVE VELOCIPEDIQUE LA LONGUEVILLE | 11 | 2ème | 1:56:57 | 
@@ -81,7 +82,7 @@ image: assets/img/blog/road.png
 | 56 | SAINT QUENTIN HUGO | GAZ ELEC CLUB DE DOUAI | 10 | 1ère | 1:42:21 | 
 | 57 | VERMEULEN VALERIAN | TEAM ENFER WALLERS ARENBERG | 10 | 2ème | 1:45:0 | 
 | 58 | DIMANCHE DAVID | CERCLE OLYMPIQUE MARCOING | 10 | 2ème | 1:45:20 | 
-| **59** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **10** | **2ème** | **1:49:41** | 
+| **59** | **[DEFER OLIVIER](/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **10** | **2ème** | **1:49:41** | 
 | 60 | BRUNIAUX STEPHANE | LES VIKINGS VTT MARCHE NORDIQUE OHAIN | 10 | 3ème | 1:50:28 | 
 | 61 | DEVILLEZ RUDY | TEAM CYCLING LA SENTINELLE | 10 | 3ème | 1:50:33 | 
 | 62 | CARUNTA ANTOINE | VELO CLUB SOLESMES | 10 | 3ème | 1:51:3 | 
@@ -107,7 +108,7 @@ image: assets/img/blog/road.png
 | 82 | NAVETEUR ADAM | VELO CLUB SOLESMES | 10 | 3ème | 1:51:33 | 
 | 83 | BAUDOIN ETIENNE | LES VIKINGS VTT MARCHE NORDIQUE OHAIN | 10 | 3ème | 1:51:34 | 
 | 84 | DEFOSSEZ RODRIGUE | CLUB CYCLISTE THUN ST MARTIN | 10 | 3ème | 1:51:34 | 
-| **85** | **[HUGUENIN DYLAN](https://teamspecializedlille.cc/coureurs/huguenindylan)** | **TEAM SPECIALIZED LILLE** | **10** | **3ème** | **1:51:34** | 
+| **85** | **[HUGUENIN DYLAN](/coureurs/huguenindylan)** | **TEAM SPECIALIZED LILLE** | **10** | **3ème** | **1:51:34** | 
 | 86 | MORENVAL BERTRAND | UNION SPORTIVE SAINT ANDRE | 10 | 3ème | 1:51:34 | 
 | 87 | MATTON STEPHANE | 52X11 HIRSON THIERACHE | 10 | 3ème | 1:51:34 | 
 | 88 | MARTIN GREGORY | ARTeam Artois Racing Team | 10 | 3ème | 1:51:36 | 
@@ -122,7 +123,7 @@ image: assets/img/blog/road.png
 | 97 | VAN SNICK FLORIAN | NOUVELLE ETOILE SPORTIVE BOUE ETREUX | 9 | 1ère | 1:29:25 | 
 | 98 | CHOTEAU PASCAL | VELO CLUB DE L'ESCAUT ANZIN | 9 | 2ème | 1:33:42 | 
 | 99 | RIVART ADRIEN | TEAM BOUSIES | 9 | 2ème | 1:38:52 | 
-| **100** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **9** | **3ème** | **1:39:3** | 
+| **100** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **9** | **3ème** | **1:39:3** | 
 | 101 | LEROI JEAN CLAUDE | VTT  CLUB PONT SUR SAMBRE | 9 | 4ème | 1:49:24 | 
 | 102 | ANCEAU JEAN BERNARD | ASSOCIATION CYCLISTE D'ETROEUNGT | 9 | 4ème | 1:49:26 | 
 | 103 | LOISEAU ARNAUD | VELO CLUB BAVAISIEN | 9 | 4ème | 1:49:26 | 

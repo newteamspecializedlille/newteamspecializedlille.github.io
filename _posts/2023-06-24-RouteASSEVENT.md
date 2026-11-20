@@ -3,13 +3,14 @@ layout: post
 title: Route - ASSEVENT - 2023
 date: 2023-06-24
 category: Route
+permalink: /resultats/route/2023-06-24-assevent/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 37 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 9
+- [MATTIOLI RONALD](/coureurs/mattiolironald) : 9
 
 ### Scratch
 136 participants
@@ -24,7 +25,7 @@ image: assets/img/blog/road.png
 | 6 | VANDERHAEGEN REGIS | ASSOCIATION CYCLISTE D'ETROEUNGT | 25 | 1ère | 1:46:34 | 
 | 7 | SEMOULIN JOAKIM | TEAM B.B.L. HERGNIES | 25 | 1ère | 1:46:35 | 
 | 8 | LEFEVRE EDDY | UNION VELOCIPEDIQUE FOURMISIENNE | 25 | 1ère | 1:46:35 | 
-| **9** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **25** | **1ère** | **1:46:35** | 
+| **9** | **[MATTIOLI RONALD](/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **25** | **1ère** | **1:46:35** | 
 | 10 | MARECHAL GUILLAUME | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 25 | 1ère | 1:46:36 | 
 | 11 | HURIAU BENOIT | ASSOCIATION CYCLISTE BELLAINGEOISE | 25 | 1ère | 1:46:36 | 
 | 12 | VANWISSEN ANAICK | UNION VELOCIPEDIQUE FOURMISIENNE | 25 | 1ère | 1:46:47 | 

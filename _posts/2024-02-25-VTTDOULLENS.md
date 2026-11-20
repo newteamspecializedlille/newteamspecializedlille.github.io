@@ -3,6 +3,7 @@ layout: post
 title: VTT - DOULLENS - 2024
 date: 2024-02-25
 category: VTT
+permalink: /resultats/vtt/2024-02-25-doullens/
 tags: VTT
 image: assets/resultats/2024/vtt/02-25-doullens/1.jpg
 images:
@@ -15,7 +16,7 @@ images:
 
 ### VTT Vétérans B
 15 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 1
+- [MATTIOLI RONALD](/coureurs/mattiolironald) : 1
 
 ### Scratch
 37 participants
@@ -24,7 +25,7 @@ images:
 |---|---|---|---|---|---|
 | 1 | ASPEELE CEDRIC | TORCY TEAM PINK AND BLUE | 7 | Seniors B | 0:48:31 | 
 | 2 | FORRIERE MAXENCE | VELO CLUB SOLESMES | 7 | Seniors A | 0:48:48 | 
-| **3** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **7** | **Vétérans B** | **0:49:11** | 
+| **3** | **[MATTIOLI RONALD](/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **7** | **Vétérans B** | **0:49:11** | 
 | 4 | DARTUS MIKAEL | VELO CLUB SOLESMES | 7 | Vétérans A | 0:50:43 | 
 | 5 | DUHAMEL ARNAUD | AGNY ARTeam | 7 | Vétérans B | 0:52:8 | 
 | 6 | JOSSE MICKAEL | ESCL CYCLISME (BIKE) | 7 | Vétérans A | 0:52:20 | 

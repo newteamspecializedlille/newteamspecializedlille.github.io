@@ -3,13 +3,14 @@ layout: post
 title: VTT - MAULDE - 2026
 date: 2025-12-06
 category: VTT
+permalink: /resultats/vtt/2025-12-06-maulde/
 tags: VTT
 image: assets/img/blog/vtt.png
 ---
 
 ### VTT Vétérans A
 11 participants
-- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : Ab
+- [DEFER OLIVIER](/coureurs/deferolivier) : Ab
 
 ### Scratch
 30 participants
@@ -45,4 +46,4 @@ image: assets/img/blog/vtt.png
 | 27 | DUBRAY YVES | LES VIKINGS | 5 | Vétérans B | 0:54:54 | 
 | 28 | LIEVIN FRANCK | VTT SAINT AMAND LES EAUX | 3 | Vétérans B | 0:56:12 | 
 | 29 | LINDAUER FLORIAN | TEAM CYCLING LA SENTINELL | 0 | Seniors B | 0:38:53 | 
-| **30** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **0** | **Vétérans A** | **0:38:53** | 
+| **30** | **[DEFER OLIVIER](/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **0** | **Vétérans A** | **0:38:53** | 

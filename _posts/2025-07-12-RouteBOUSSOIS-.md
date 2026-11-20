@@ -3,13 +3,14 @@ layout: post
 title: Route - BOUSSOIS  - 2025
 date: 2025-07-12
 category: Route
+permalink: /resultats/route/2025-07-12-boussois/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 3ème Catégorie
 49 participants
-- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 24
+- [WALTER BENOIT](/coureurs/walterbenoit) : 24
 
 ### Scratch
 124 participants
@@ -78,7 +79,7 @@ image: assets/img/blog/road.png
 | 60 | THORLET YANNICK | VELO CLUB DE L'ESCAUT ANZIN | 16 | 3ème | 1:36:51 | 
 | 61 | CONTESSE FREDERIC | ASSOCIATION CYCLISTE D'ETROEUNGT | 16 | 3ème | 1:36:51 | 
 | 62 | KWIATKOWSKI SYLVAIN | ASSOCIATION SPORTIVE VELOCIPEDIQUE LA LONGUEVILLE | 16 | 3ème | 1:36:51 | 
-| **63** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **16** | **3ème** | **1:36:51** | 
+| **63** | **[WALTER BENOIT](/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **16** | **3ème** | **1:36:51** | 
 | 64 | GEORGES OLIVIER | UNION SPORTIVE VALENCIENNES CRESPIN | 16 | 3ème | 1:36:52 | 
 | 65 | LANOY CHRISTOPHER | UNION SPORTIVE VALENCIENNES CRESPIN | 16 | 3ème | 1:36:52 | 
 | 66 | PRZESZLO YANNICK | UNION CYCLISTE SOLRE LE CHATEAU | 16 | 3ème | 1:36:52 | 

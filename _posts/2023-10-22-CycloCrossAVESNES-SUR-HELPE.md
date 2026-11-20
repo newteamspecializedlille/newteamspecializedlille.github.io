@@ -3,13 +3,14 @@ layout: post
 title: Cyclo Cross - AVESNES SUR HELPE - 2024
 date: 2023-10-22
 category: Cyclo Cross
+permalink: /resultats/cyclo-cross/2023-10-22-avesnes-sur-helpe/
 tags: cyclo-cross
 image: assets/img/blog/cx.png
 ---
 
 ### 2ème Catégorie
 16 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 6
+- [MATTIOLI RONALD](/coureurs/mattiolironald) : 6
 
 ### Scratch
 48 participants
@@ -33,7 +34,7 @@ image: assets/img/blog/cx.png
 | 15 | ROULY ALEXIS | ETOILE CYCLISTE LIEU ST AMAND | 8 | 2ème | 0:58:12 | 
 | 16 | LEFEVRE ROBIN | 52X11 HIRSON THIÉRACHE | 7 | 3ème | 0:50:17 | 
 | 17 | DIMANCHE DAVID | VELO CLUB SANTERRE ET VERMANDOIS | 7 | 3ème | 0:50:20 | 
-| **18** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **7** | **2ème** | **0:50:22** | 
+| **18** | **[MATTIOLI RONALD](/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **7** | **2ème** | **0:50:22** | 
 | 19 | BEAUSSART CEDRIC | E2CJ - Energy Cycling Club Joncourt | 7 | 3ème | 0:50:27 | 
 | 20 | FREROT FRANCK | U.C. CAPELLOISE FOURMIES | 7 | 2ème | 0:50:28 | 
 | 21 | BOUZERE ADRIEN | ASSOCIATION CYCLISTE D'ETROEUNGT | 7 | 3ème | 0:50:30 | 

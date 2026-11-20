@@ -3,13 +3,14 @@ layout: post
 title: Cyclo Cross - BETTRECHIES - 2026
 date: 2025-10-19
 category: Cyclo Cross
+permalink: /resultats/cyclo-cross/2025-10-19-bettrechies/
 tags: cyclo-cross
 image: assets/img/blog/cx.png
 ---
 
 ### 1ère Catégorie
 12 participants
-- [ORBIER AXEL](https://teamspecializedlille.cc/coureurs/orbieraxel) : 6
+- [ORBIER AXEL](/coureurs/orbieraxel) : 6
 
 ### Scratch
 78 participants
@@ -21,7 +22,7 @@ image: assets/img/blog/cx.png
 | 3 | WINS STEPHANE | HAVELUY CYCLO CLUB | 9 | 1ère | 0:52:32 | 
 | 4 | COLART PIERRE | Transpondeur ne fonctionne pas | 9 | 1ère | 0:52:47 | 
 | 5 | GREVIN JEROME | ETOILE CYCLISTE FEIGNIES | 9 | 1ère | 0:53:25 | 
-| **6** | **[ORBIER AXEL](https://teamspecializedlille.cc/coureurs/orbieraxel)** | **TEAM SPECIALIZED LILLE** | **9** | **1ère** | **0:53:33** | 
+| **6** | **[ORBIER AXEL](/coureurs/orbieraxel)** | **TEAM SPECIALIZED LILLE** | **9** | **1ère** | **0:53:33** | 
 | 7 | LEGUEUX LAURENT | UNION VELOCIPEDIQUE FOURMISIENNE | 9 | 1ère | 0:54:17 | 
 | 8 | FOURNIER AXEL | TEAM CYCLISTE LA BORDURE - BETTRECHIES | 9 | 3ème | 0:54:33 | 
 | 9 | HORCHOLLE REMI | VTT  CLUB PONT SUR SAMBRE | 9 | 2ème | 0:55:4 | 

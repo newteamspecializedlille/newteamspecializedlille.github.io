@@ -14,6 +14,7 @@ import urllib3
 import json
 import urllib.parse
 import sync_drive
+import site_links
 
 base = "https://www.cyclismeufolep5962.fr/"
 HTTP_TIMEOUT = 30
@@ -36,7 +37,7 @@ PDF_HASHES_FILE = "../_data/pdf_hashes.json"
 # une course est revérifiée (PDF re-téléchargé) pendant ce nombre de jours après sa date
 RECHECK_DAYS = int(os.getenv("RECHECK_DAYS", "21"))
 # clés du front matter gérées par le script (les autres, ex. `images:` ajoutées par upload_photos, sont conservées)
-POST_FRONT_MATTER_KEYS = {"layout", "title", "date", "category", "championship", "tags", "image"}
+POST_FRONT_MATTER_KEYS = {"layout", "title", "date", "category", "permalink", "championship", "tags", "image"}
 column_result = 0
 column_name = 1
 column_team = 2
@@ -65,7 +66,7 @@ def display_result_line_with_link(outfile, team_member, position):
 
 
 def get_member_with_link(team_member):
-    link = "https://teamspecializedlille.cc/coureurs/"
+    link = "/coureurs/"
     return "[" + team_member + "](" + link + team_member.replace(" ", "").lower() + ")"
 
 
@@ -392,6 +393,7 @@ class ParseResults:
             outfile.write("title: " + self.race_type + " - " + self.race_name + " - " + self.race_year + "\n")
             outfile.write("date: " + self.race_date.replace("/", "-") + "\n")
             outfile.write("category: " + self.race_type + "\n")
+            outfile.write("permalink: " + site_links.post_permalink(self.race_type, self.race_date, self.race_name) + "\n")
             if self.race_championship:
                 outfile.write("championship: " + self.race_championship + "\n")
             tag = self.race_type

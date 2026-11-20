@@ -3,6 +3,7 @@ layout: post
 title: Route - CRITéRIUM DE BEAUMONT - 2026
 date: 2026-05-15
 category: Route
+permalink: /resultats/route/2026-05-15-criterium-de-beaumont/
 tags: Route
 image: assets/img/blog/road.png
 images:
@@ -24,16 +25,16 @@ images:
 
 ### 1ère Catégorie
 18 participants
-- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 10
+- [DERASSE DAVID](/coureurs/derassedavid) : 10
 
 ### 2ème Catégorie
 33 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 9
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 25
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 9
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 25
 
 ### 3ème Catégorie
 43 participants
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 22
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 22
 
 ### Scratch
 131 participants
@@ -54,8 +55,8 @@ images:
 | 12 | GOUBERT NOE | TEAM CYCLISTE LA BORDURE - BETTRECHIES | 29 | 1ère | 1:6:18 | 
 | 13 | DEBRUYNE Florent | VELO CLUB ROUBAIX | 29 | 2ème | 1:6:18 | 
 | 14 | TONDELIER LUDOVIC | CYCLO CLUB WAVRIN | 29 | 2ème | 1:6:18 | 
-| **15** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **29** | **2ème** | **1:6:18** | 
-| **16** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **29** | **1ère** | **1:6:20** | 
+| **15** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **29** | **2ème** | **1:6:18** | 
+| **16** | **[DERASSE DAVID](/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **29** | **1ère** | **1:6:20** | 
 | 17 | PELLETIER Thomas | TEAM CYCLISTE - RAMILLIES | 29 | 1ère | 1:6:21 | 
 | 18 | COLLET LEO | HENIN ETOILE CYCLISTE HENINOISE | 29 | 1ère | 1:6:21 | 
 | 19 | VASSEUR HUGO | UNION SPORTIVE SAINT ANDRE | 29 | 1ère | 1:6:22 | 
@@ -77,7 +78,7 @@ images:
 | 35 | OLIVIER FELIX | VELO CLUB SOLESMES | 27 | 2ème | 1:7:26 | 
 | 36 | LARTIGAU GABRIEL | CYCLO CLUB CAMBRESIEN | 27 | 1ère | 1:7:53 | 
 | 37 | VANDEN TORREN MAXIME | HENIN ETOILE CYCLISTE HENINOISE | 26 | 2ème | 1:7:54 | 
-| **38** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **26** | **2ème** | **1:8:1** | 
+| **38** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **26** | **2ème** | **1:8:1** | 
 | 39 | HENNEBIQUE Clement | MAROEUIL VELO VERT MAROEUILLOIS V.V.M | 25 | 3ème | 0:58:57 | 
 | 40 | DRUART LAURENT | VELO CLUB DE L'ESCAUT ANZIN | 25 | 3ème | 0:59:46 | 
 | 41 | GEORGES NOE | MAROEUIL VELO VERT MAROEUILLOIS V.V.M | 25 | 3ème | 0:59:46 | 
@@ -99,7 +100,7 @@ images:
 | 57 | PORQUET LUDOVIC | TEAM CYCLING LA SENTINELLE | 25 | 3ème | 0:59:50 | 
 | 58 | DUCATILLON CLARISSE | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 25 | 3ème | 0:59:50 | 
 | 59 | HELLEBOIS ALAIN | CLUB CYCLISTE D'ISBERGUES MOLINGHEM | 25 | 3ème | 0:59:50 | 
-| **60** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **25** | **3ème** | **0:59:51** | 
+| **60** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **25** | **3ème** | **0:59:51** | 
 | 61 | THEODORE Nicolas | MAROEUIL VELO VERT MAROEUILLOIS V.V.M | 25 | 3ème | 0:59:51 | 
 | 62 | DEKOSTER MICKAEL | ARTeam Artois Racing Team | 25 | 3ème | 0:59:51 | 
 | 63 | KONOPKA YOANN | CERCLE OLYMPIQUE MARCOING | 25 | 3ème | 0:59:51 | 

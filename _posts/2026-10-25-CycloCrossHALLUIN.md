@@ -3,13 +3,14 @@ layout: post
 title: Cyclo Cross - HALLUIN - 2027
 date: 2026-10-25
 category: Cyclo Cross
+permalink: /resultats/cyclo-cross/2026-10-25-halluin/
 tags: cyclo-cross
 image: assets/img/blog/cx.png
 ---
 
 ### 1ère Catégorie
 9 participants
-- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 8
+- [DERASSE DAVID](/coureurs/derassedavid) : 8
 
 ### Scratch
 60 participants
@@ -59,7 +60,7 @@ image: assets/img/blog/cx.png
 | 41 | CARPELS GUILLAUME | VELO CLUB UNION HALLUIN | 7 | 2ème | 0:56:02 | 
 | 42 | BECUWE DENIS | UADEL BAILLEUL | 7 | 3ème | 0:56:11 | 
 | 43 | FLAMENT ETHAN | TEAM BOUSIES | 7 | 3ème | 0:56:30 | 
-| **44** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **7** | **1ère** | **0:56:36** | 
+| **44** | **[DERASSE DAVID](/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **7** | **1ère** | **0:56:36** | 
 | 45 | VANWYNSBERGHE SAMUEL | NEW ORANGE TEAM BOUSBECQUE | 7 | 3ème | 0:57:04 | 
 | 46 | VANDEN TORREN MAXIME | HENIN ETOILE CYCLISTE HENINOISE | 7 | 3ème | 0:57:43 | 
 | 47 | KHOUALED DAVID | VELO CLUB UNION HALLUIN | 7 | 3ème | 0:57:48 | 

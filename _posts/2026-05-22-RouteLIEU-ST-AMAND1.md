@@ -3,18 +3,19 @@ layout: post
 title: Route - LIEU ST AMAND1 - 2026
 date: 2026-05-22
 category: Route
+permalink: /resultats/route/2026-05-22-lieu-st-amand1/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
 31 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 19
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 21
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 19
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 21
 
 ### 3ème Catégorie
 44 participants
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 10
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 10
 
 ### Scratch
 116 participants
@@ -52,9 +53,9 @@ image: assets/img/blog/road.png
 | 29 | AVISSE CORENTIN | VELO CLUB SOLESMES | 24 | 2ème | 1:5:19 | 
 | 30 | CASE ALBAN | NOEUX VELO CLUB NOEUXOIS | 24 | 2ème | 1:5:24 | 
 | 31 | VISAGE SEBASTIEN | UNION SPORTIVE VALENCIENNES CRESPIN | 24 | 2ème | 1:5:59 | 
-| **32** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **24** | **2ème** | **1:6:0** | 
+| **32** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **24** | **2ème** | **1:6:0** | 
 | 33 | HUART GUILLAUME | CYCLO CLUB ORCHIES | 24 | 2ème | 1:6:3 | 
-| **34** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **24** | **2ème** | **1:6:49** | 
+| **34** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **24** | **2ème** | **1:6:49** | 
 | 35 | DEBRIL BENJAMIN | TEAM B.B.L. HERGNIES | 24 | 2ème | 1:6:50 | 
 | 36 | CHALAS CYRIAQUE | NOEUX VELO CLUB NOEUXOIS | 24 | 2ème | 1:7:55 | 
 | 37 | ROY SEBASTIEN | TEAM CYCLISTE PROVINOIS - PROVIN | 24 | 2ème | 1:8:23 | 
@@ -67,7 +68,7 @@ image: assets/img/blog/road.png
 | 44 | CAPELLE TOM | VELO CLUB AMANDINOIS | 23 | 3ème | 1:2:38 | 
 | 45 | MEULEMANS LAURENT | VELO CLUB RETHELOIS | 23 | 3ème | 1:2:38 | 
 | 46 | DELOT GREGORY | TEAM BIKE PRESEAU | 23 | 3ème | 1:2:39 | 
-| **47** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **23** | **3ème** | **1:2:39** | 
+| **47** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **23** | **3ème** | **1:2:39** | 
 | 48 | LAMBERT JEROME | HANDI'COLOR | 23 | 3ème | 1:2:39 | 
 | 49 | COULON SYLVAIN | GILLOT CYCLING CLUB FEIGNIES | 23 | 3ème | 1:2:43 | 
 | 50 | DANNA MATTHIEU | CYCLO CLUB ORCHIES | 23 | 3ème | 1:2:46 | 

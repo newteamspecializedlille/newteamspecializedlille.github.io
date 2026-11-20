@@ -3,13 +3,14 @@ layout: post
 title: Cyclo Cross - RAISMES - 2027
 date: 2026-11-15
 category: Cyclo Cross
+permalink: /resultats/cyclo-cross/2026-11-15-raismes/
 tags: cyclo-cross
 image: assets/img/blog/cx.png
 ---
 
 ### 3ème Catégorie
 34 participants
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 29
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 29
 
 ### Scratch
 80 participants
@@ -86,7 +87,7 @@ image: assets/img/blog/cx.png
 | 68 | KHOUALED DAVID | VELO CLUB UNION HALLUIN | 5 | 3ème | 0:56:30 | 
 | 69 | PERICHON NICOLAS | TEAM FLAHAUT DENAIN | 5 | 3ème | 0:57:09 | 
 | 70 | MARION KARIM | UNION SPORTIVE VALENCIENNES CRESPIN | 5 | 3ème | 0:57:09 | 
-| **71** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **5** | **3ème** | **0:58:49** | 
+| **71** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **5** | **3ème** | **0:58:49** | 
 | 72 | BERNIER STEPHANE | VTT CLUB PONT SUR SAMBRE | 5 | 3ème | 1:01:19 | 
 | 73 | ZIMMERMANN MARIE | ESEG DOUAI | 5 | 3ème | 1:04:16 | 
 | 74 | TOURNEUX ALICE | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 4 | Cadets | 0:39:24 | 

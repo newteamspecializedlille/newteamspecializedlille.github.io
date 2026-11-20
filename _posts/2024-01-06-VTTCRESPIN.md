@@ -3,6 +3,7 @@ layout: post
 title: VTT - CRESPIN - 2024
 date: 2024-01-06
 category: VTT
+permalink: /resultats/vtt/2024-01-06-crespin/
 tags: VTT
 image: assets/resultats/2024/vtt/01-06-crespin/1.jpg
 images:
@@ -11,7 +12,7 @@ images:
 
 ### VTT Vétérans B
 14 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 2
+- [MATTIOLI RONALD](/coureurs/mattiolironald) : 2
 
 ### Scratch
 30 participants
@@ -22,7 +23,7 @@ images:
 | 2 | DARTUS MIKAEL | VELO CLUB SOLESMES | 8 | Vétérans A | 0:54:39 | 
 | 3 | MAERTENS DAVID | U. S. HAM | 8 | Vétérans B | 0:55:0 | 
 | 4 | FORRIERE MAXENCE | VELO CLUB SOLESMES | 8 | Seniors A | 0:55:18 | 
-| **5** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans B** | **0:56:27** | 
+| **5** | **[MATTIOLI RONALD](/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans B** | **0:56:27** | 
 | 6 | ORTEGA JULIEN | TEAM VTT JEUMONT | 8 | Vétérans A | 0:56:37 | 
 | 7 | HANNOT CHRISTOPHE | UNION SPORTIVE VALENCIENNES CRESPIN | 8 | Vétérans A | 0:57:10 | 
 | 8 | ALEXANDRE JIMMY | VELO CLUB SOLESMES | 8 | Vétérans B | 0:57:15 | 

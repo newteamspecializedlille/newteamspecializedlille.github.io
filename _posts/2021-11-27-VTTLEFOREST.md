@@ -3,20 +3,21 @@ layout: post
 title: VTT - LEFOREST - 2022
 date: 2021-11-27
 category: VTT
+permalink: /resultats/vtt/2021-11-27-leforest/
 tags: VTT
 image: assets/img/blog/vtt.png
 ---
 
 ### VTT Vétérans A
 11 participants
-- [BRADEFER GERY](https://teamspecializedlille.cc/coureurs/bradefergery) : 1
+- [BRADEFER GERY](/coureurs/bradefergery) : 1
 
 ### Scratch
 30 participants
 
 | Place | Nom | Team | Tours | Catégorie | Temps |
 |---|---|---|---|---|---|
-| **1** | **[BRADEFER GERY](https://teamspecializedlille.cc/coureurs/bradefergery)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans A** | **0:50:3** | 
+| **1** | **[BRADEFER GERY](/coureurs/bradefergery)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans A** | **0:50:3** | 
 | 2 | DEMEESTER KEVIN | WINGLES PYRAMIDES PASSION | 8 | Seniors B | 0:51:0 | 
 | 3 | ALLART ERIC | THELUS TEAM UNIS-VERT VTT | 8 | Vétérans A | 0:53:22 | 
 | 4 | FARDOUX DANY | FLEURBAIX TEAM SHARK VTT | 8 | Vétérans A | 0:53:40 | 

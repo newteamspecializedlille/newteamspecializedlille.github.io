@@ -3,16 +3,17 @@ layout: post
 title: Route - LIEU SAINT AMAND - 2025
 date: 2025-05-25
 category: Route
+permalink: /resultats/route/2025-05-25-lieu-saint-amand/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 48 participants
-- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 16
-- [MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio) : 19
-- [LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis) : 24
-- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 35
+- [LECOLIER STEPHANE](/coureurs/lecolierstephane) : 16
+- [MINNECI ELIO](/coureurs/minnecielio) : 19
+- [LECOLIER LOUIS](/coureurs/lecolierlouis) : 24
+- [DERASSE DAVID](/coureurs/derassedavid) : 35
 
 ### Scratch
 202 participants
@@ -34,15 +35,15 @@ image: assets/img/blog/road.png
 | 13 | MICHEL ANTHONY | ETOILE CYCLISTE FEIGNIES | 21 | 1ère | 2:4:3 | 
 | 14 | POTIER CHARLES HUGO | ETOILE CYCLISTE TOURCOING | 21 | 1ère | 2:4:4 | 
 | 15 | RAQUET ADRIEN | TEAM BOUSIES | 21 | 1ère | 2:4:4 | 
-| **16** | **[LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **21** | **1ère** | **2:4:5** | 
+| **16** | **[LECOLIER STEPHANE](/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **21** | **1ère** | **2:4:5** | 
 | 17 | BERTHIER THIBAUT | NEW ORANGE TEAM BOUSBECQUE | 21 | 1ère | 2:4:7 | 
 | 18 | HEBERT PIERRICK | NEW ORANGE TEAM BOUSBECQUE | 21 | 1ère | 2:4:10 | 
-| **19** | **[MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **21** | **1ère** | **2:4:12** | 
+| **19** | **[MINNECI ELIO](/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **21** | **1ère** | **2:4:12** | 
 | 20 | MAES LOUIS | CYCLO CLUB WAVRIN | 21 | 1ère | 2:4:21 | 
 | 21 | VANDERHAEGEN MAEL | ASSOCIATION CYCLISTE D'ETROEUNGT | 21 | 1ère | 2:4:23 | 
 | 22 | DE PARMENTIER MAXENCE | VELO CLUB SOLESMES | 21 | 1ère | 2:4:23 | 
 | 23 | BERNIER DIMITRI | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 21 | 1ère | 2:4:24 | 
-| **24** | **[LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **21** | **1ère** | **2:4:25** | 
+| **24** | **[LECOLIER LOUIS](/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **21** | **1ère** | **2:4:25** | 
 | 25 | DELPLANQUE DYLAN | VELO SPRINT DE L'OSTREVENT - ANICHE | 21 | 1ère | 2:4:25 | 
 | 26 | DOYEN MATHIS | CYCLO CLUB ORCHIES | 21 | 1ère | 2:4:26 | 
 | 27 | VANDERHAEGEN REGIS | ASSOCIATION CYCLISTE D'ETROEUNGT | 21 | 1ère | 2:4:28 | 
@@ -95,7 +96,7 @@ image: assets/img/blog/road.png
 | 74 | VERHAEGHE THOMAS | LINSELLES CYCLISME | 19 | 2ème | 1:46:48 | 
 | 75 | VANWYNSBERGHE SAMUEL | NEW ORANGE TEAM BOUSBECQUE | 19 | 2ème | 1:46:57 | 
 | 76 | HAIDON PASCAL | ASSOCIATION CYCLISTE BELLAINGEOISE | 19 | 2ème | 1:47:2 | 
-| **77** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **19** | **1ère** | **2:3:56** | 
+| **77** | **[DERASSE DAVID](/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **19** | **1ère** | **2:3:56** | 
 | 78 | VAN DURMEN PHILIPPE | UNION SPORTIVE SAINT ANDRE | 18 | 2ème | 1:46:22 | 
 | 79 | IMBERT JOHNNY | ETOILE CYCLISTE LIEU ST AMAND | 18 | 2ème | 1:46:28 | 
 | 80 | DEBOCQ JULIE | HAVELUY CYCLO CLUB | 18 | 2ème | 1:46:41 | 
@@ -170,7 +171,7 @@ image: assets/img/blog/road.png
 | 149 | CHOQUET JULIEN | UNION SPORTIVE SAINT ANDRE | 16 | 3ème | 2:1:34 | 
 | 150 | POULAIN NOAH | VELO SPRINT DE L'OSTREVENT - ANICHE | 15 | 3ème | 1:38:7 | 
 | 151 | CARTON PATRICK | MANQUEVILLE LILLERS CLUB CYCLISTE | 15 | 4ème | 1:41:12 | 
-| **152** | **[DERASSE PATRICK](https://teamspecializedlille.cc/coureurs/derassepatrick)** | **TEAM SPECIALIZED LILLE** | **15** | **4ème** | **1:41:14** | 
+| **152** | **[DERASSE PATRICK](/coureurs/derassepatrick)** | **TEAM SPECIALIZED LILLE** | **15** | **4ème** | **1:41:14** | 
 | 153 | LECOUSTRE ANDRE | OUTREAU CLUB SPORTIF OUTRELOIS (C.S.O) | 15 | 4ème | 1:41:23 | 
 | 154 | CROMMELINCK PATRICK | CYCLOS RANDONNEURS LA BASSEE | 15 | 4ème | 1:41:28 | 
 | 155 | DUPONT JEAN FRANCOIS | TEAM MELANTOIS - PERONNE EN MELANTOIS | 15 | 4ème | 1:44:51 | 

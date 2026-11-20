@@ -3,18 +3,19 @@ layout: post
 title: Cyclo Cross - PORTE DU HAINAUT - AREMBERG - 2025
 date: 2024-11-11
 category: Cyclo Cross
+permalink: /resultats/cyclo-cross/2024-11-11-porte-du-hainaut-aremberg/
 tags: cyclo-cross
 image: assets/img/blog/cx.png
 ---
 
 ### 2ème Catégorie
 59 participants
-- [ORBIER AXEL](https://teamspecializedlille.cc/coureurs/orbieraxel) : 1
-- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 44
+- [ORBIER AXEL](/coureurs/orbieraxel) : 1
+- [DERASSE DAVID](/coureurs/derassedavid) : 44
 
 ### 3ème Catégorie
 92 participants
-- [MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix) : 40
+- [MOULIN FELIX](/coureurs/moulinfelix) : 40
 
 ### Scratch
 220 participants
@@ -59,7 +60,7 @@ image: assets/img/blog/cx.png
 | 36 | DEMOL LEO | UNION SPORTIVE SAINT ANDRE | 9 | 1ère | 1:2:6 | 
 | 37 | DUVAL TEDDY | OHM CYCLISME HESDIN | 9 | 1ère | 1:2:14 | 
 | 38 | DOCHNIAK LEO | HAVELUY CYCLO CLUB | 9 | 1ère | 1:2:16 | 
-| **39** | **[ORBIER AXEL](https://teamspecializedlille.cc/coureurs/orbieraxel)** | **TEAM SPECIALIZED LILLE** | **9** | **2ème** | **1:2:36** | 
+| **39** | **[ORBIER AXEL](/coureurs/orbieraxel)** | **TEAM SPECIALIZED LILLE** | **9** | **2ème** | **1:2:36** | 
 | 40 | FERREIRA LUIS | COMPIEGNE SPORTS CYCLISTES | 9 | 2ème | 1:2:36 | 
 | 41 | SCHOUB LUDOVIC | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 9 | 2ème | 1:2:39 | 
 | 42 | TELLIER TEDDY | AMIENS CYCLING TEAM | 9 | 1ère | 1:2:44 | 
@@ -108,7 +109,7 @@ image: assets/img/blog/cx.png
 | 85 | VANDEN TORREN MAXIME | MANQUEVILLE LILLERS CLUB CYCLISTE | 8 | 3ème | 0:54:35 | 
 | 86 | DOCHNIAK DAVID | HAVELUY CYCLO CLUB | 8 | 3ème | 0:54:47 | 
 | 87 | LAOUT YANIS | TEAM BRAY ST CHRISTOPHE | 8 | 3ème | 0:54:58 | 
-| **88** | **[MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **8** | **3ème** | **0:55:0** | 
+| **88** | **[MOULIN FELIX](/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **8** | **3ème** | **0:55:0** | 
 | 89 | MARTIN GREGORY | ARTOIS RACING TEAM | 8 | 3ème | 0:55:2 | 
 | 90 | DOOLAEGHE TERRY | VELO CLUB UNION HALLUIN | 8 | 3ème | 0:55:2 | 
 | 91 | CHARRAUD MICKAEL | ESPOIR CYCLISTE DE MOREUIL | 8 | 3ème | 0:55:6 | 
@@ -175,7 +176,7 @@ image: assets/img/blog/cx.png
 | 152 | FREROT FRANCK | U.C. CAPELLOISE FOURMIES | 8 | 2ème | 1:1:23 | 
 | 153 | GRARD RODRIGUE | CYCLO CLUB ORCHIES | 8 | 2ème | 1:1:27 | 
 | 154 | GREVIN JEROME | VELO CLUB SOLESMES | 8 | 1ère | 1:1:43 | 
-| **155** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **8** | **2ème** | **1:1:49** | 
+| **155** | **[DERASSE DAVID](/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **8** | **2ème** | **1:1:49** | 
 | 156 | ROULY ALEXIS | ETOILE CYCLISTE LIEU ST AMAND | 8 | 2ème | 1:2:9 | 
 | 157 | GAILLEZ VINCENT | CERCLE OLYMPIQUE MARCOING | 8 | 2ème | 1:2:16 | 
 | 158 | DEVILLE ANDY | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 8 | 2ème | 1:2:30 | 

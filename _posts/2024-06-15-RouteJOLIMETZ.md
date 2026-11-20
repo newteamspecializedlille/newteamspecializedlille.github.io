@@ -3,13 +3,14 @@ layout: post
 title: Route - JOLIMETZ - 2024
 date: 2024-06-15
 category: Route
+permalink: /resultats/route/2024-06-15-jolimetz/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
 42 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 20
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 20
 
 ### Scratch
 152 participants
@@ -48,7 +49,7 @@ image: assets/img/blog/road.png
 | 30 | PRIAT AURELIEN | ESEG DOUAI | 20 | 2ème | 1:39:16 | 
 | 31 | HARDY JEAN PHILIPPE | LA CHERIZIENNE - VILLE DE CHAUNY | 20 | 2ème | 1:39:16 | 
 | 32 | WAERNIER ROMUALD | UNION SPORTIVE SAINT ANDRE | 20 | 2ème | 1:39:17 | 
-| **33** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **20** | **2ème** | **1:39:17** | 
+| **33** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **20** | **2ème** | **1:39:17** | 
 | 34 | TOURNEUX MICKAEL | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 20 | 2ème | 1:39:17 | 
 | 35 | MATHIEU BERTRAND | TEAM CYCLISTE LA BORDURE - BETTRECHIES | 20 | 2ème | 1:39:17 | 
 | 36 | FONTAINE THOMAS | ETOILE CYCLISTE FEIGNIES | 20 | 2ème | 1:39:17 | 

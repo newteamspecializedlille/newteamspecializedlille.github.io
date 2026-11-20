@@ -3,22 +3,23 @@ layout: post
 title: Route - CRESPIN2 - 2025
 date: 2025-03-09
 category: Route
+permalink: /resultats/route/2025-03-09-crespin2/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 25 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 21
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 21
 
 ### 2ème Catégorie
 34 participants
-- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 10
+- [DEFER OLIVIER](/coureurs/deferolivier) : 10
 
 ### 3ème Catégorie
 45 participants
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 22
-- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 23
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 22
+- [WALTER BENOIT](/coureurs/walterbenoit) : 23
 
 ### Scratch
 138 participants
@@ -55,7 +56,7 @@ image: assets/img/blog/road.png
 | 28 | WINS ALEXIS | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 40 | 1ère | 1:3:1 | 
 | 29 | LEFEBVRE JUSTIN | GAZ ELEC CLUB DE DOUAI | 40 | 1ère | 1:3:2 | 
 | 30 | COLOMBO LUCAS | LA PEDALE MADELEINOISE | 40 | 1ère | 1:3:2 | 
-| **31** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **40** | **2ème** | **1:3:2** | 
+| **31** | **[DEFER OLIVIER](/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **40** | **2ème** | **1:3:2** | 
 | 32 | CODDEVILLE KENNY | VELO CLUB UNION HALLUIN | 39 | 3ème | 1:2:6 | 
 | 33 | DUFOSSE BAPTISTE | ESEG DOUAI | 39 | 3ème | 1:2:7 | 
 | 34 | LE CARDIEC VALENTIN | CYCLO CLUB WAVRIN | 39 | 3ème | 1:2:8 | 
@@ -88,7 +89,7 @@ image: assets/img/blog/road.png
 | 61 | LEURENT MAXIME | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 38 | 3ème | 1:2:2 | 
 | 62 | DESCAMPS THEO | VELO CLUB DE L'ESCAUT ANZIN | 38 | 3ème | 1:2:5 | 
 | 63 | FREHAUT NICOLAS | ASSOCIATION CYCLISTE D'ETROEUNGT | 38 | 2ème | 1:2:29 | 
-| **64** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **38** | **1ère** | **1:3:1** | 
+| **64** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **38** | **1ère** | **1:3:1** | 
 | 65 | MEDO NICOLAS | TEAM MELANTOIS - PERONNE EN MELANTOIS | 38 | 2ème | 1:3:2 | 
 | 66 | CONTESSE THIBAUD | SAULZOIR MONTRECOURT CYCLING CLUB | 38 | 2ème | 1:3:3 | 
 | 67 | GELLE MAXIME | CYCLO CLUB WAVRIN | 38 | 1ère | 1:3:4 | 
@@ -97,8 +98,8 @@ image: assets/img/blog/road.png
 | 70 | BRUNEBARBE SEBASTIEN | UNION SPORTIVE VALENCIENNES CRESPIN | 38 | 2ème | 1:3:7 | 
 | 71 | VANDAMME THOMAS | CERCLE OLYMPIQUE MARCOING | 38 | 2ème | 1:3:8 | 
 | 72 | DEKOSTER MICKAEL | ARTeam Artois Racing Team | 38 | 3ème | 1:3:21 | 
-| **73** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **38** | **3ème** | **1:3:21** | 
-| **74** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **38** | **3ème** | **1:3:21** | 
+| **73** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **38** | **3ème** | **1:3:21** | 
+| **74** | **[WALTER BENOIT](/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **38** | **3ème** | **1:3:21** | 
 | 75 | VERDIN FLAVIEN | UNION SPORTIVE SAINT ANDRE | 37 | 3ème | 1:1:57 | 
 | 76 | MARGARON CRETEUR JULES | TEAM MELANTOIS - PERONNE EN MELANTOIS | 37 | 3ème | 1:2:4 | 
 | 77 | DHAINE VINCENT | VELO CLUB DE L'ESCAUT ANZIN | 37 | 3ème | 1:2:5 | 

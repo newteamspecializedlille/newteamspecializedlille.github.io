@@ -3,13 +3,14 @@ layout: post
 title: Cyclo Cross - ROUVROY - 2026
 date: 2025-12-21
 category: Cyclo Cross
+permalink: /resultats/cyclo-cross/2025-12-21-rouvroy/
 tags: cyclo-cross
 image: assets/img/blog/cx.png
 ---
 
 ### 1ère Catégorie
 13 participants
-- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 11
+- [DERASSE DAVID](/coureurs/derassedavid) : 11
 
 ### Scratch
 50 participants
@@ -27,7 +28,7 @@ image: assets/img/blog/cx.png
 | 9 | THOMASSEY SEBASTIEN | CAMPHIN EN CAREMBAULT CYCLING TEAM | 9 | 1ère | 0:52:24 | 
 | 10 | KNOCKAERT JULIEN | TEAM CYCLISTE PROVINOIS - PROVIN | 9 | 1ère | 0:54:0 | 
 | 11 | SAINTRAIN GERARD | ETOILE CYCLISTE LIEU ST AMAND | 9 | 2ème | 0:54:11 | 
-| **12** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **9** | **1ère** | **0:54:14** | 
+| **12** | **[DERASSE DAVID](/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **9** | **1ère** | **0:54:14** | 
 | 13 | FLAHAUT FRANCK |  | 9 | 2ème | 0:54:23 | 
 | 14 | VANWAELSCAPPEL JEROME | CYCLO CLUB WAVRIN | 9 | 2ème | 0:54:23 | 
 | 15 | VANWAELSCAPPEL GUILLAUME | CYCLO CLUB WAVRIN | 9 | 2ème | 0:55:0 | 

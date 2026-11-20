@@ -3,13 +3,14 @@ layout: post
 title: Route - ORCHIES - 2020
 date: 2020-03-01
 category: Route
+permalink: /resultats/route/2020-03-01-orchies/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 38 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 18
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 18
 
 ### Scratch
 160 participants

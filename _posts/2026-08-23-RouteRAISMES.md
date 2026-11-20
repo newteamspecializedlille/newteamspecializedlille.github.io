@@ -3,25 +3,26 @@ layout: post
 title: Route - RAISMES - 2026
 date: 2026-08-23
 category: Route
+permalink: /resultats/route/2026-08-23-raismes/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 32 participants
-- [CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas) : 3
+- [CROMBEZ THOMAS](/coureurs/crombezthomas) : 3
 
 ### 2ème Catégorie
 55 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 8
-- [LECOLIER BENOIT](https://teamspecializedlille.cc/coureurs/lecolierbenoit) : 16
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : Ab
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 8
+- [LECOLIER BENOIT](/coureurs/lecolierbenoit) : 16
+- [DEFOSSE HERVE](/coureurs/defosseherve) : Ab
 
 ### 3ème Catégorie
 53 participants
-- [LECOURT CHARLIE](https://teamspecializedlille.cc/coureurs/lecourtcharlie) : 3
-- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 15
-- [HUGUENIN DYLAN](https://teamspecializedlille.cc/coureurs/huguenindylan) : 20
+- [LECOURT CHARLIE](/coureurs/lecourtcharlie) : 3
+- [DEFER OLIVIER](/coureurs/deferolivier) : 15
+- [HUGUENIN DYLAN](/coureurs/huguenindylan) : 20
 
 ### Scratch
 180 participants
@@ -30,7 +31,7 @@ image: assets/img/blog/road.png
 |---|---|---|---|---|---|
 | 1 | SEMOULIN JOAKIM | TEAM B.B.L. HERGNIES | 28 | 1ère | 1:27:7 | 
 | 2 | AINI ISSAM | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 28 | 1ère | 1:27:15 | 
-| **3** | **[CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **28** | **1ère** | **1:27:31** | 
+| **3** | **[CROMBEZ THOMAS](/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **28** | **1ère** | **1:27:31** | 
 | 4 | VANDERHAEGEN MAEL | ASSOCIATION CYCLISTE D'ETROEUNGT | 28 | 1ère | 1:27:31 | 
 | 5 | LALEU TIMOTHEE | UNION SPORTIVE SAINT ANDRE | 28 | 1ère | 1:27:31 | 
 | 6 | MORELLE YOHANN | TEAM CYCLISTE - RAMILLIES | 28 | 1ère | 1:28:28 | 
@@ -50,7 +51,7 @@ image: assets/img/blog/road.png
 | 20 | CORNETTE STEPHANE | TEAM BIKE PRESEAU | 27 | 2ème | 1:26:10 | 
 | 21 | MEYS DAVID | VELO CLUB ROUBAIX | 27 | 2ème | 1:26:11 | 
 | 22 | DI CARLO DONATO | NEW ORANGE TEAM BOUSBECQUE | 27 | 2ème | 1:26:11 | 
-| **23** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **27** | **2ème** | **1:26:11** | 
+| **23** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **27** | **2ème** | **1:26:11** | 
 | 24 | LECERF JEROME | ASSOCIATION SPORTIVE VELOCIPEDIQUE LA LONGUEVILLE | 27 | 2ème | 1:26:12 | 
 | 25 | VANAUBERG GAETAN | VELO CLUB ROUBAIX | 27 | 2ème | 1:26:12 | 
 | 26 | DUHAMEL ARNAUD | ARTeam Artois Racing Team | 27 | 2ème | 1:26:13 | 
@@ -58,7 +59,7 @@ image: assets/img/blog/road.png
 | 28 | HAIDON PASCAL | Entente cycliste Wallers Arenberg Bellaing | 27 | 2ème | 1:26:13 | 
 | 29 | DECOBECQ CLEMENT | TEAM BLECOURTOISE | 27 | 2ème | 1:26:13 | 
 | 30 | FLAHAUT JEAN-BAPTISTE | TEAM CYCLING LA SENTINELLE | 27 | 2ème | 1:26:13 | 
-| **31** | **[LECOLIER BENOIT](https://teamspecializedlille.cc/coureurs/lecolierbenoit)** | **TEAM SPECIALIZED LILLE** | **27** | **2ème** | **1:26:13** | 
+| **31** | **[LECOLIER BENOIT](/coureurs/lecolierbenoit)** | **TEAM SPECIALIZED LILLE** | **27** | **2ème** | **1:26:13** | 
 | 32 | BAUW EDOUARD | BAILLEUL VELO CLUB | 27 | 2ème | 1:26:15 | 
 | 33 | PLUCHARD MATHIS | HAVELUY CYCLO CLUB | 27 | 2ème | 1:26:17 | 
 | 34 | BOURGEOIS SYLVAIN | VELO CLUB DE L'ESCAUT ANZIN | 27 | 2ème | 1:26:17 | 
@@ -95,7 +96,7 @@ image: assets/img/blog/road.png
 | 65 | MARGARON CRETEUR JULES | ESEG DOUAI | 23 | 2ème | 1:13:0 | 
 | 66 | EMMERY VINCENT | NOEUX VELO CLUB NOEUXOIS | 23 | 3ème | 1:16:2 | 
 | 67 | BECUWE ROMAIN | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 23 | 3ème | 1:16:2 | 
-| **68** | **[LECOURT CHARLIE](https://teamspecializedlille.cc/coureurs/lecourtcharlie)** | **TEAM SPECIALIZED LILLE** | **23** | **3ème** | **1:16:2** | 
+| **68** | **[LECOURT CHARLIE](/coureurs/lecourtcharlie)** | **TEAM SPECIALIZED LILLE** | **23** | **3ème** | **1:16:2** | 
 | 69 | CARETTE MICKAEL | VELO CLUB UNION HALLUIN | 23 | 3ème | 1:17:12 | 
 | 70 | CODDEVILLE KENNY | VELO CLUB UNION HALLUIN | 23 | 3ème | 1:17:13 | 
 | 71 | VERDIN FLAVIEN | UNION SPORTIVE SAINT ANDRE | 23 | 3ème | 1:17:13 | 
@@ -107,7 +108,7 @@ image: assets/img/blog/road.png
 | 77 | WALTER BENOIT | VELO CLUB UNION HALLUIN | 23 | 3ème | 1:17:15 | 
 | 78 | FLAMENT ETHAN | TEAM BOUSIES | 23 | 3ème | 1:17:16 | 
 | 79 | DUPONT REMI | RESILIENCE CLUB | 23 | 3ème | 1:17:18 | 
-| **80** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **23** | **3ème** | **1:17:19** | 
+| **80** | **[DEFER OLIVIER](/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **23** | **3ème** | **1:17:19** | 
 | 81 | COTTON FABIEN | VELO CLUB UNION HALLUIN | 23 | 3ème | 1:17:19 | 
 | 82 | BOUTONNE FREDERIC | TEAM BOUSIES | 23 | 3ème | 1:18:23 | 
 | 83 | DEVYNCK MATTHIEU | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 23 | 2ème | 1:22:13 | 
@@ -118,7 +119,7 @@ image: assets/img/blog/road.png
 | 88 | RIVART THIERRY | VTT  CLUB PONT SUR SAMBRE | 23 | 2ème | 1:26:5 | 
 | 89 | SEMOULIN JACQUES | TEAM B.B.L. HERGNIES | 22 | 3ème | 1:17:7 | 
 | 90 | BARENNE LAURENT | VELO CLUB UNION HALLUIN | 22 | 3ème | 1:17:7 | 
-| **91** | **[HUGUENIN DYLAN](https://teamspecializedlille.cc/coureurs/huguenindylan)** | **TEAM SPECIALIZED LILLE** | **22** | **3ème** | **1:17:7** | 
+| **91** | **[HUGUENIN DYLAN](/coureurs/huguenindylan)** | **TEAM SPECIALIZED LILLE** | **22** | **3ème** | **1:17:7** | 
 | 92 | FRANCOIS GERALD | TEAM CYCLING LA SENTINELLE | 22 | 3ème | 1:17:7 | 
 | 93 | CESAR BENOIT | NEW ORANGE TEAM BOUSBECQUE | 22 | 3ème | 1:17:8 | 
 | 94 | LEFEBVRE JEAN-DANIEL | U.C. CAPELLOISE FOURMIES | 22 | 3ème | 1:17:20 | 
@@ -198,7 +199,7 @@ image: assets/img/blog/road.png
 | 168 | PAVIE MAXIME | UNION SPORTIVE SAINT ANDR | 0 | 2ème | 0:38:53 | 
 | 169 | LIMBOURG NICOLAS | ETOILE CYCLISTE FEIGNIES | 0 | 2ème | 0:38:53 | 
 | 170 | BARATIER JULIEN | LA PEDALE MADELEINOISE | 0 | 2ème | 0:38:53 | 
-| **171** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **0** | **2ème** | **0:38:53** | 
+| **171** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **0** | **2ème** | **0:38:53** | 
 | 172 | BRUNIAUX RAPHAEL | LES VIKINGS | 0 | 3ème | 0:38:53 | 
 | 173 | DELOT GREGORY | TEAM BIKE PRESEAU | 0 | 3ème | 0:38:53 | 
 | 174 | CODDEVILLE RUDY | VELO CLUB UNION HALLUIN | 0 | 3ème | 0:38:53 | 

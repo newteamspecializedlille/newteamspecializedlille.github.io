@@ -3,17 +3,18 @@ layout: post
 title: Route - RIEULAY - 2020
 date: 2020-03-08
 category: Route
+permalink: /resultats/route/2020-03-08-rieulay/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 53 participants
-- [LECLERCQ FRANCK](https://teamspecializedlille.cc/coureurs/leclercqfranck) : 11
-- [DARQUE JEAN FRANCOIS](https://teamspecializedlille.cc/coureurs/darquejeanfrancois) : 21
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 23
-- [SCHERNU CHRISTOPHE](https://teamspecializedlille.cc/coureurs/schernuchristophe) : 27
-- [RAMBEAU CHRISTOPHER](https://teamspecializedlille.cc/coureurs/rambeauchistopher) : 42
+- [LECLERCQ FRANCK](/coureurs/leclercqfranck) : 11
+- [DARQUE JEAN FRANCOIS](/coureurs/darquejeanfrancois) : 21
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 23
+- [SCHERNU CHRISTOPHE](/coureurs/schernuchristophe) : 27
+- [RAMBEAU CHRISTOPHER](/coureurs/rambeauchistopher) : 42
 
 ### Scratch
 302 participants

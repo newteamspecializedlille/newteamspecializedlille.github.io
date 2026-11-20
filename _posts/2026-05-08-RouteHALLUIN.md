@@ -3,6 +3,7 @@ layout: post
 title: Route - HALLUIN - 2026
 date: 2026-05-08
 category: Route
+permalink: /resultats/route/2026-05-08-halluin/
 tags: Route
 image: assets/img/blog/road.png
 images:
@@ -25,15 +26,15 @@ images:
 
 ### 2ème Catégorie
 46 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 8
-- [BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine) : 20
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 8
+- [BROUTIN ANTOINE](/coureurs/broutinantoine) : 20
 
 ### 3ème Catégorie
 60 participants
-- [HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe) : 11
-- [LECOURT CHARLIE](https://teamspecializedlille.cc/coureurs/lecourtcharlie) : 16
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 24
-- [HUGUENIN DYLAN](https://teamspecializedlille.cc/coureurs/huguenindylan) : 36
+- [HUBAUT CHRISTOPHE](/coureurs/hubautchristophe) : 11
+- [LECOURT CHARLIE](/coureurs/lecourtcharlie) : 16
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 24
+- [HUGUENIN DYLAN](/coureurs/huguenindylan) : 36
 
 ### Résultats
 
@@ -79,7 +80,7 @@ images:
 | 5 | DRUON STEPHANE | TEAM POLICE HDFN | 20 | 01:32:55 |
 | 6 | DI CARLO DONATO | NEW ORANGE TEAM BOUSBECQUE | 20 | 01:32:56 |
 | 7 | HERBERT ALEXANDRE | LINSELLES CYCLISME | 20 | 01:32:56 |
-| **8** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **20** | **01:32:56** |
+| **8** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **20** | **01:32:56** |
 | 9 | BOURIGUE ALI | ESEG DOUAI | 20 | 01:32:57 |
 | 10 | POLLET MAEL | TEAM MELANTOIS - ANSTAING | 20 | 01:32:57 |
 | 11 | BATAILLE ARNAUD | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 20 | 01:32:57 |
@@ -91,7 +92,7 @@ images:
 | 17 | DEVOS CYRIL | LINSELLES CYCLISME | 20 | 01:32:59 |
 | 18 | DUCROCQ MAXENCE | ENTENTE CYCLISTE FACHES-THUMESNIL RONCHIN | 20 | 01:32:59 |
 | 19 | DEBRABANT ANTHONY | TEAM CYCLING LA SENTINELLE | 20 | 01:33:00 |
-| **20** | **[BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine)** | **TEAM SPECIALIZED LILLE** | **20** | **01:33:00** |
+| **20** | **[BROUTIN ANTOINE](/coureurs/broutinantoine)** | **TEAM SPECIALIZED LILLE** | **20** | **01:33:00** |
 | 21 | LEONARDI FLORIAN | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 20 | 01:33:00 |
 | 22 | STIEVENART FREDERIC | ETOILE CYCLISTE LIEU ST AMAND | 20 | 01:33:01 |
 | 23 | DEVYNCK MATTHIEU | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 20 | 01:33:01 |
@@ -133,12 +134,12 @@ images:
 | 8 | AUVRAY LOIC | RESILIENCE CLUB | 18 | 01:27:40 |
 | 9 | DEBERDT AURELIEN | VELO CLUB ROUBAIX | 18 | 01:27:40 |
 | 10 | DEFRANCE SIMON | | | |
-| **11** | **[HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe)** | **TEAM SPECIALIZED LILLE** | **18** | **01:27:41** |
+| **11** | **[HUBAUT CHRISTOPHE](/coureurs/hubautchristophe)** | **TEAM SPECIALIZED LILLE** | **18** | **01:27:41** |
 | 12 | SAUVAGE CORENTIN | TEAM CYCLISTE PROVINOIS - PROVIN | 18 | 01:27:41 |
 | 13 | FRIBOURG BLANC BASTIEN | UNION SPORTIVE VALENCIENNES CRESPIN | 18 | 01:27:41 |
 | 14 | DUFOUR SYLVAIN | VELO CLUB UNION HALLUIN | 18 | 01:27:41 |
 | 15 | LAMMERANT CLEMENT | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 18 | 01:27:41 |
-| **16** | **[LECOURT CHARLIE](https://teamspecializedlille.cc/coureurs/lecourtcharlie)** | **TEAM SPECIALIZED LILLE** | **18** | **01:27:42** |
+| **16** | **[LECOURT CHARLIE](/coureurs/lecourtcharlie)** | **TEAM SPECIALIZED LILLE** | **18** | **01:27:42** |
 | 17 | TRIOLO FLORENT | TEAM BOUSIES | 18 | 01:27:42 |
 | 18 | LEVAS LAURENT | MANQUEVILLE LILLERS CLUB CYCLISTE | 18 | 01:27:42 |
 | 19 | DECONINCK MAXIMILIEN | CYCLO CLUB ORCHIES | 18 | 01:27:43 |
@@ -146,7 +147,7 @@ images:
 | 21 | LECLERCQ LOUIS | VELO CLUB SOLESMES | 18 | 01:27:44 |
 | 22 | FLAHAUT JEAN-BAPTISTE | TEAM CYCLING LA SENTINELLE | 18 | 01:27:44 |
 | 23 | BOUTONNE FREDERIC | TEAM BOUSIES | 18 | 01:27:45 |
-| **24** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **18** | **01:27:45** |
+| **24** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **18** | **01:27:45** |
 | 25 | PANCZAK MAXIME | ROUE D'OR COMINOISE | 18 | 01:27:46 |
 | 26 | DOOLAEGHE TERRY | VELO CLUB UNION HALLUIN | 18 | 01:27:46 |
 | 27 | DAVAINE HUGUES | LA PEDALE MADELEINOISE | 18 | 01:27:49 |
@@ -158,7 +159,7 @@ images:
 | 33 | TRACKOEN MATHIEU | TEAM CYCLISTE PROVINOIS - PROVIN | 18 | 01:30:28 |
 | 34 | MEULEMANS LAURENT | VELO CLUB RETHELOIS | 17 | 01:24:27 |
 | 35 | KHOUALED DAVID | VELO CLUB UNION HALLUIN | 17 | 01:27:50 |
-| **36** | **[HUGUENIN DYLAN](https://teamspecializedlille.cc/coureurs/huguenindylan)** | **TEAM SPECIALIZED LILLE** | **17** | **01:27:52** |
+| **36** | **[HUGUENIN DYLAN](/coureurs/huguenindylan)** | **TEAM SPECIALIZED LILLE** | **17** | **01:27:52** |
 | 37 | CHEVAL EDDY | TEAM CYCLING LA SENTINELLE | 17 | 01:27:52 |
 | 38 | FLAMENT ETHAN | TEAM BOUSIES | 17 | 01:27:53 |
 | 39 | GEORGES ALEXANDRE | BEUVRY CYCLO CLUB | 17 | 01:27:57 |

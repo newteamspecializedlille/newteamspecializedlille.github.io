@@ -3,13 +3,14 @@ layout: post
 title: Route - FERRIERE LA GRANDE - 2020
 date: 2020-08-23
 category: Route
+permalink: /resultats/route/2020-08-23-ferriere-la-grande/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 34 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : AB
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : AB
 
 ### Scratch
 199 participants

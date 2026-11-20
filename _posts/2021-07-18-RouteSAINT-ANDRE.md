@@ -3,13 +3,14 @@ layout: post
 title: Route - SAINT ANDRE - 2021
 date: 2021-07-18
 category: Route
+permalink: /resultats/route/2021-07-18-saint-andre/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 29 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 18
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 18
 
 ### Scratch
 9 participants

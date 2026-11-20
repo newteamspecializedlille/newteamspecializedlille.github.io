@@ -3,22 +3,23 @@ layout: post
 title: Route - MAULDE (CHORETTE) - 2025
 date: 2025-04-27
 category: Route
+permalink: /resultats/route/2025-04-27-maulde-chorette/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 51 participants
-- [CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas) : 3
-- [LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis) : 13
-- [MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio) : 18
-- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 23
-- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 32
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 35
+- [CROMBEZ THOMAS](/coureurs/crombezthomas) : 3
+- [LECOLIER LOUIS](/coureurs/lecolierlouis) : 13
+- [MINNECI ELIO](/coureurs/minnecielio) : 18
+- [DERASSE DAVID](/coureurs/derassedavid) : 23
+- [LECOLIER STEPHANE](/coureurs/lecolierstephane) : 32
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 35
 
 ### 2ème Catégorie
 60 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 16
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 16
 
 ### Scratch
 230 participants
@@ -27,7 +28,7 @@ image: assets/img/blog/road.png
 |---|---|---|---|---|---|
 | 1 | BAUDUIN ANTOINE | UNION SPORTIVE SAINT ANDRE | 10 | 1ère | 0:38:53 | 
 | 2 | LALEU TIMOTHEE | UNION SPORTIVE SAINT ANDRE | 10 | 1ère | 0:38:53 | 
-| **3** | **[CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **10** | **1ère** | **0:38:53** | 
+| **3** | **[CROMBEZ THOMAS](/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **10** | **1ère** | **0:38:53** | 
 | 4 | MORELLE YOHANN | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 10 | 1ère | 0:38:53 | 
 | 5 | DREMEAUX JOHAN | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 10 | 1ère | 0:38:53 | 
 | 6 | LORRIAUX JULIEN | VELO CLUB SOLESMES | 10 | 1ère | 0:38:53 | 
@@ -37,17 +38,17 @@ image: assets/img/blog/road.png
 | 10 | MARTHE ROMUALD | ETOILE CYCLISTE LIEU ST AMAND | 10 | 1ère | 0:38:53 | 
 | 11 | CINQUINA GUISEPPE | ETOILE CYCLISTE LIEU ST AMAND | 10 | 1ère | 0:38:53 | 
 | 12 | GROSSEMY GREGORY | CERCLE OLYMPIQUE MARCOING | 10 | 1ère | 0:38:53 | 
-| **13** | **[LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **10** | **1ère** | **0:38:53** | 
+| **13** | **[LECOLIER LOUIS](/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **10** | **1ère** | **0:38:53** | 
 | 14 | VEAUX CORENTIN | TEAM LINK AND RIDE HERIN | 10 | 1ère | 0:38:53 | 
 | 15 | WINS ALEXIS | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 10 | 1ère | 0:38:53 | 
 | 16 | BERNIER DIMITRI | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 10 | 1ère | 0:38:53 | 
 | 17 | DEWILDE LUDOVIC | VELO CLUB UNION HALLUIN | 10 | 1ère | 0:38:53 | 
-| **18** | **[MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **10** | **1ère** | **0:38:53** | 
+| **18** | **[MINNECI ELIO](/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **10** | **1ère** | **0:38:53** | 
 | 19 | NUYTTENS SEBASTIEN | BRUAY LA BUISSIERE U.S.O. CYCLISME | 10 | 1ère | 0:38:53 | 
 | 20 | DOYEN MATHIS | CYCLO CLUB ORCHIES | 10 | 1ère | 0:38:53 | 
 | 21 | BLARY GILLES | HAVELUY CYCLO CLUB | 10 | 1ère | 0:38:53 | 
 | 22 | DELOBELLE OLIVIER | UNION SPORTIVE SAINT ANDRE | 10 | 1ère | 0:38:53 | 
-| **23** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **10** | **1ère** | **0:38:53** | 
+| **23** | **[DERASSE DAVID](/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **10** | **1ère** | **0:38:53** | 
 | 24 | BEAUVISAGE PAUL | ESEG DOUAI | 10 | 1ère | 0:38:53 | 
 | 25 | VANDERHAEGEN REGIS | ASSOCIATION CYCLISTE D'ETROEUNGT | 10 | 1ère | 0:38:53 | 
 | 26 | DALLE CLEMENT | VELO CLUB SOLESMES | 10 | 1ère | 0:38:53 | 
@@ -56,10 +57,10 @@ image: assets/img/blog/road.png
 | 29 | VASSEUR HUGO | UNION SPORTIVE SAINT ANDRE | 10 | 1ère | 0:38:53 | 
 | 30 | LEFEVRE EDDY | UNION VELOCIPEDIQUE FOURMISIENNE | 10 | 1ère | 0:38:53 | 
 | 31 | HEBERT PIERRICK | NEW ORANGE TEAM BOUSBECQUE | 10 | 1ère | 0:38:53 | 
-| **32** | **[LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **10** | **1ère** | **0:38:53** | 
+| **32** | **[LECOLIER STEPHANE](/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **10** | **1ère** | **0:38:53** | 
 | 33 | DE VREESE ALEXIS | UNION SPORTIVE SAINT ANDRE | 10 | 1ère | 0:38:53 | 
 | 34 | MAGY MATHEO | ETOILE CYCLISTE FEIGNIES | 10 | 1ère | 0:38:53 | 
-| **35** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **10** | **1ère** | **0:38:53** | 
+| **35** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **10** | **1ère** | **0:38:53** | 
 | 36 | LESAGE ANTHONY | ASSOCIATION CYCLISTE BELLAINGEOISE | 10 | 1ère | 0:38:53 | 
 | 37 | HURIAU BENOIT | ASSOCIATION CYCLISTE BELLAINGEOISE | 10 | 1ère | 0:38:53 | 
 | 38 | NAMANE STEVE | NEW ORANGE TEAM BOUSBECQUE | 10 | 1ère | 0:38:53 | 
@@ -82,7 +83,7 @@ image: assets/img/blog/road.png
 | 55 | HUART GUILLAUME | CYCLO CLUB ORCHIES | 10 | 2ème | 0:38:53 | 
 | 56 | VAN DURMEN PHILIPPE | UNION SPORTIVE SAINT ANDRE | 10 | 2ème | 0:38:53 | 
 | 57 | CHALAS JEAN PIERRE | NOEUX VELO CLUB NOEUXOIS | 10 | 2ème | 0:38:53 | 
-| **58** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **10** | **2ème** | **0:38:53** | 
+| **58** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **10** | **2ème** | **0:38:53** | 
 | 59 | POLLET MAEL | TEAM MELANTOIS - PERONNE EN MELANTOIS | 10 | 2ème | 0:38:53 | 
 | 60 | GOCHON VALENTIN | TEAM MELANTOIS - PERONNE EN MELANTOIS | 10 | 2ème | 0:38:53 | 
 | 61 | SAINTRAIN CORENTIN | ETOILE CYCLISTE LIEU ST AMAND | 10 | 2ème | 0:38:53 | 

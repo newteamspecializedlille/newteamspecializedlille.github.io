@@ -3,18 +3,19 @@ layout: post
 title: Route - MAULDE 1 - 2026
 date: 2026-06-21
 category: Route
+permalink: /resultats/route/2026-06-21-maulde-1/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
 43 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 11
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 14
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 11
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 14
 
 ### 3ème Catégorie
 47 participants
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 7
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 7
 
 ### Scratch
 140 participants
@@ -41,10 +42,10 @@ image: assets/img/blog/road.png
 | 18 | BOURGEOIS SYLVAIN | VELO CLUB DE L'ESCAUT ANZIN | 14 | 2ème | 1:33:9 | 
 | 19 | DI CARLO DONATO | NEW ORANGE TEAM BOUSBECQUE | 14 | 2ème | 1:33:9 | 
 | 20 | DELHAYE FLORENT | CLUB CYCLISTE THUN ST MARTIN | 14 | 2ème | 1:33:12 | 
-| **21** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **14** | **2ème** | **1:33:34** | 
+| **21** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **14** | **2ème** | **1:33:34** | 
 | 22 | BOS FABRICE | Entente cycliste Wallers Arenberg Bellaing | 14 | 2ème | 1:33:34 | 
 | 23 | MARTINEZ JEROME | NEW TEAM MAULDE | 14 | 2ème | 1:33:34 | 
-| **24** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **14** | **2ème** | **1:33:35** | 
+| **24** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **14** | **2ème** | **1:33:35** | 
 | 25 | VANAUBERG GAETAN | VELO CLUB ROUBAIX | 14 | 2ème | 1:33:35 | 
 | 26 | ALBERTINI LUDOVIC | NEW ORANGE TEAM BOUSBECQUE | 14 | 2ème | 1:33:35 | 
 | 27 | CLIQUET CLEMENT | NEW TEAM MAULDE | 14 | 2ème | 1:33:35 | 
@@ -71,7 +72,7 @@ image: assets/img/blog/road.png
 | 48 | DELEPLANQUE LOIC | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 14 | 3ème | 1:44:10 | 
 | 49 | BONTE CLEMENT | VELO CLUB UNION HALLUIN | 14 | 3ème | 1:46:25 | 
 | 50 | FLAMENT BENOIT | ETOILE CYCLISTE FEIGNIES | 14 | 3ème | 1:46:26 | 
-| **51** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **14** | **3ème** | **1:47:30** | 
+| **51** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **14** | **3ème** | **1:47:30** | 
 | 52 | GEORGES BENOIT | VELO CLUB UNION HALLUIN | 14 | 3ème | 1:47:35 | 
 | 53 | LARGEAU FREDERIC | TEAM CYCLING LA SENTINELLE | 14 | 3ème | 1:47:35 | 
 | 54 | TOMASINA CHRISTOPHE | NEW ORANGE TEAM BOUSBECQUE | 14 | 3ème | 1:47:35 | 

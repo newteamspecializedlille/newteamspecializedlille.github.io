@@ -3,20 +3,21 @@ layout: post
 title: Route - FEIGNIES - 2026
 date: 2026-08-29
 category: Route
+permalink: /resultats/route/2026-08-29-feignies/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
 32 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 5
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 5
 
 ### 3ème Catégorie
 62 participants
-- [LECOURT CHARLIE](https://teamspecializedlille.cc/coureurs/lecourtcharlie) : 20
-- [HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe) : 26
-- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 27
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 28
+- [LECOURT CHARLIE](/coureurs/lecourtcharlie) : 20
+- [HUBAUT CHRISTOPHE](/coureurs/hubautchristophe) : 26
+- [DEFER OLIVIER](/coureurs/deferolivier) : 27
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 28
 
 ### Scratch
 160 participants
@@ -40,7 +41,7 @@ image: assets/img/blog/road.png
 | 15 | VANDRIESSCHE NICOLAS | ETOILE CYCLISTE LIEU ST AMAND | 11 | 2ème | 1:43:21 | 
 | 16 | CODER MOUCHART AXEL | ETOILE CYCLISTE FEIGNIES | 11 | 2ème | 1:43:44 | 
 | 17 | LECERF JEROME | ASSOCIATION SPORTIVE VELOCIPEDIQUE LA LONGUEVILLE | 11 | 2ème | 1:43:45 | 
-| **18** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **11** | **2ème** | **1:43:45** | 
+| **18** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **11** | **2ème** | **1:43:45** | 
 | 19 | DELPIRE FREDERIC | VTT  CLUB PONT SUR SAMBRE | 11 | 2ème | 1:43:45 | 
 | 20 | DUBOIS SAM | VELO CLUB SOLESMES | 11 | 2ème | 1:43:45 | 
 | 21 | DRUART LAURENT | VELO CLUB DE L'ESCAUT ANZIN | 11 | 2ème | 1:43:45 | 
@@ -82,15 +83,15 @@ image: assets/img/blog/road.png
 | 57 | DUPONT REMI | RESILIENCE CLUB | 9 | 3ème | 1:30:46 | 
 | 58 | BRUNIAUX STEPHANE | LES VIKINGS | 9 | 3ème | 1:30:46 | 
 | 59 | DALLE FREDERIC | VELO CLUB SOLESMES | 9 | 3ème | 1:30:46 | 
-| **60** | **[LECOURT CHARLIE](https://teamspecializedlille.cc/coureurs/lecourtcharlie)** | **TEAM SPECIALIZED LILLE** | **9** | **3ème** | **1:30:46** | 
+| **60** | **[LECOURT CHARLIE](/coureurs/lecourtcharlie)** | **TEAM SPECIALIZED LILLE** | **9** | **3ème** | **1:30:46** | 
 | 61 | AUVRAY LOIC | RESILIENCE CLUB | 9 | 3ème | 1:30:46 | 
 | 62 | FRANCOIS GERALD | TEAM CYCLING LA SENTINELLE | 9 | 3ème | 1:30:46 | 
 | 63 | HARDY JEAN PHILIPPE | LA CHERIZIENNE - VILLE DE CHAUNY | 9 | 3ème | 1:30:47 | 
 | 64 | CESAR BENOIT | NEW ORANGE TEAM BOUSBECQUE | 9 | 3ème | 1:30:47 | 
 | 65 | DEJEAN MATHIS | TEAM CYCLISTE LA BORDURE - BETTRECHIES | 9 | 3ème | 1:30:47 | 
-| **66** | **[HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe)** | **TEAM SPECIALIZED LILLE** | **9** | **3ème** | **1:30:48** | 
-| **67** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **9** | **3ème** | **1:30:48** | 
-| **68** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **9** | **3ème** | **1:30:48** | 
+| **66** | **[HUBAUT CHRISTOPHE](/coureurs/hubautchristophe)** | **TEAM SPECIALIZED LILLE** | **9** | **3ème** | **1:30:48** | 
+| **67** | **[DEFER OLIVIER](/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **9** | **3ème** | **1:30:48** | 
+| **68** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **9** | **3ème** | **1:30:48** | 
 | 69 | GROSSEMY MICKAEL | ETOILE CYCLISTE FEIGNIES | 9 | 3ème | 1:30:49 | 
 | 70 | MALVACHE NICOLAS | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 9 | 3ème | 1:30:51 | 
 | 71 | BRUNIAUX RAPHAEL | LES VIKINGS | 9 | 3ème | 1:30:51 | 

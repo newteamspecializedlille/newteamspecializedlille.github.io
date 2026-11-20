@@ -3,18 +3,19 @@ layout: post
 title: Route - ECLAIBES - 2025
 date: 2025-05-03
 category: Route
+permalink: /resultats/route/2025-05-03-eclaibes/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
 33 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 21
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 21
 
 ### 3ème Catégorie
 40 participants
-- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 8
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 13
+- [WALTER BENOIT](/coureurs/walterbenoit) : 8
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 13
 
 ### Scratch
 122 participants
@@ -61,7 +62,7 @@ image: assets/img/blog/road.png
 | 38 | MILLET FABRICE | VTT  CLUB PONT SUR SAMBRE | 16 | 2ème | 1:38:26 | 
 | 39 | BLONDEAU BENOIT | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 16 | 2ème | 1:38:57 | 
 | 40 | HAVET SEBASTIEN | GAZ ELEC CLUB DE DOUAI | 16 | 2ème | 1:39:52 | 
-| **41** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **16** | **2ème** | **1:39:52** | 
+| **41** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **16** | **2ème** | **1:39:52** | 
 | 42 | COMBLIN JUSTIN | ASSOCIATION CYCLISTE BELLAINGEOISE | 16 | 2ème | 1:41:43 | 
 | 43 | BRUNEBARBE SEBASTIEN | UNION SPORTIVE VALENCIENNES CRESPIN | 16 | 2ème | 1:41:46 | 
 | 44 | GOOSSENS DAVID | TEAM BRAY ST CHRISTOPHE | 15 | 3ème | 1:25:31 | 
@@ -71,12 +72,12 @@ image: assets/img/blog/road.png
 | 48 | DEJEAN MATHIS | TEAM CYCLISTE LA BORDURE - BETTRECHIES | 15 | 3ème | 1:26:34 | 
 | 49 | POIDEVIN LUDOVIC | TEAM BIKE PRESEAU | 15 | 3ème | 1:26:34 | 
 | 50 | COMBLIN DAVID | ASSOCIATION CYCLISTE BELLAINGEOISE | 15 | 3ème | 1:26:34 | 
-| **51** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **15** | **3ème** | **1:26:35** | 
+| **51** | **[WALTER BENOIT](/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **15** | **3ème** | **1:26:35** | 
 | 52 | CONTESSE FREDERIC | ASSOCIATION CYCLISTE D'ETROEUNGT | 15 | 3ème | 1:26:36 | 
 | 53 | KONOPKA GABRIEL | CERCLE OLYMPIQUE MARCOING | 15 | 3ème | 1:26:36 | 
 | 54 | SEMOULIN JACQUES | TEAM B.B.L. HERGNIES | 15 | 3ème | 1:26:37 | 
 | 55 | MORENVAL BERTRAND | UNION SPORTIVE SAINT ANDRE | 15 | 3ème | 1:26:40 | 
-| **56** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **15** | **3ème** | **1:27:7** | 
+| **56** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **15** | **3ème** | **1:27:7** | 
 | 57 | MATTON STEPHANE | 52X11 HIRSON THIERACHE | 15 | 3ème | 1:27:15 | 
 | 58 | FIEVEZ BENOIT | TEAM VTT JEUMONT | 15 | 3ème | 1:27:23 | 
 | 59 | FREHAUT THIBAULT | ASSOCIATION CYCLISTE D'ETROEUNGT | 15 | 3ème | 1:27:40 | 

@@ -3,14 +3,15 @@ layout: post
 title: Route - LA GROISE - 2025
 date: 2025-05-31
 category: Route
+permalink: /resultats/route/2025-05-31-la-groise/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
 39 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 26
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : Ab
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 26
+- [DEFOSSE HERVE](/coureurs/defosseherve) : Ab
 
 ### Scratch
 151 participants
@@ -64,7 +65,7 @@ image: assets/img/blog/road.png
 | 45 | RICHET ELOISE | ASSOCIATION CYCLISTE D'ETROEUNGT | 16 | 2ème | 1:42:11 | 
 | 46 | VINCENT ETIENNE | ETOILE CYCLISTE FEIGNIES | 16 | 2ème | 1:42:13 | 
 | 47 | BELKEIR SLIMAN | NEW ORANGE TEAM BOUSBECQUE | 16 | 2ème | 1:42:14 | 
-| **48** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **16** | **2ème** | **1:42:14** | 
+| **48** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **16** | **2ème** | **1:42:14** | 
 | 49 | COPPEE THOMAS | 52X11 HIRSON THIERACHE | 16 | 2ème | 1:42:15 | 
 | 50 | DRUESNE DAMIEN | UNION VELOCIPEDIQUE FOURMISIENNE | 16 | 2ème | 1:42:16 | 
 | 51 | AMAND JEREMY | VELO CLUB DE L'ESCAUT ANZIN | 16 | 2ème | 1:42:17 | 
@@ -159,7 +160,7 @@ image: assets/img/blog/road.png
 | 140 | DENOYELLE ZELIE | ASSOCIATION CYCLISTE D'ETROEUNGT | 10 | Féminines | 1:34:48 | 
 | 141 | VANAUBERG GAETAN | NEW TEAM MAULDE | 10 | 3ème | 1:38:30 | 
 | 142 | BASTIN FABRICE | MERICOURT BIKES-MERICOURT | 10 | 3ème | 1:40:15 | 
-| **143** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **9** | **2ème** | **0:53:22** | 
+| **143** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **9** | **2ème** | **0:53:22** | 
 | 144 | GUISLAIN NICOLAS | AMICALE LAIQUE SPORTIVE  ROEULX | 9 | 4ème | 1:2:1 | 
 | 145 | ANTON MILA | TEAM B.B.L. HERGNIES | 9 | Féminines | 1:28:8 | 
 | 146 | CLAISSE PHILIPPE | UNION SPORTIVE VALENCIENNES CRESPIN | 8 | 3ème | 0:55:30 | 

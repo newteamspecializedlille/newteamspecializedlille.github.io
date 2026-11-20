@@ -3,17 +3,18 @@ layout: post
 title: Route - CRITERIUM LIEU ST AMAND - 2025
 date: 2025-05-23
 category: Route
+permalink: /resultats/route/2025-05-23-criterium-lieu-st-amand/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
 37 participants
-- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 25
+- [DEFER OLIVIER](/coureurs/deferolivier) : 25
 
 ### 3ème Catégorie
 30 participants
-- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 11
+- [WALTER BENOIT](/coureurs/walterbenoit) : 11
 
 ### Scratch
 116 participants
@@ -64,7 +65,7 @@ image: assets/img/blog/road.png
 | 42 | CAUDERLIER SEBASTIEN | ETOILE CYCLISTE LIEU ST AMAND | 27 | 2ème | 1:11:12 | 
 | 43 | HAVET SEBASTIEN | GAZ ELEC CLUB DE DOUAI | 27 | 2ème | 1:11:13 | 
 | 44 | MOUFTIER LOUKA | TEAM VTT JEUMONT | 27 | 2ème | 1:11:59 | 
-| **45** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **27** | **2ème** | **1:12:11** | 
+| **45** | **[DEFER OLIVIER](/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **27** | **2ème** | **1:12:11** | 
 | 46 | FLAMENT LOICK | ETOILE CYCLISTE FEIGNIES | 27 | 2ème | 1:12:26 | 
 | 47 | DARTUS MIKAEL | VELO CLUB SOLESMES | 26 | 2ème | 1:12:17 | 
 | 48 | BOUZIN BENJAMIN | ASSOCIATION CYCLISTE D'ETROEUNGT | 26 | 2ème | 1:12:33 | 
@@ -79,7 +80,7 @@ image: assets/img/blog/road.png
 | 57 | DEKOSTER MICKAEL | ARTeam Artois Racing Team | 23 | 3ème | 1:2:57 | 
 | 58 | MEULEMANS LAURENT | VELO CLUB RETHELOIS | 23 | 3ème | 1:2:57 | 
 | 59 | LEVAS LAURENT | MANQUEVILLE LILLERS CLUB CYCLISTE | 23 | 3ème | 1:2:57 | 
-| **60** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **23** | **3ème** | **1:2:58** | 
+| **60** | **[WALTER BENOIT](/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **23** | **3ème** | **1:2:58** | 
 | 61 | ROULY FRANCK | ETOILE CYCLISTE LIEU ST AMAND | 23 | 3ème | 1:2:59 | 
 | 62 | ARGENTINO ANTHONY | UNION SPORTIVE SAINT ANDRE | 23 | 3ème | 1:2:59 | 
 | 63 | GROSSEMY MICKAEL | ETOILE CYCLISTE FEIGNIES | 23 | 3ème | 1:2:59 | 

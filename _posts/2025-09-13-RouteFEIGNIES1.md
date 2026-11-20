@@ -3,13 +3,14 @@ layout: post
 title: Route - FEIGNIES1 - 2025
 date: 2025-09-13
 category: Route
+permalink: /resultats/route/2025-09-13-feignies1/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 3ème Catégorie
 35 participants
-- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 26
+- [WALTER BENOIT](/coureurs/walterbenoit) : 26
 
 ### Scratch
 94 participants
@@ -73,7 +74,7 @@ image: assets/img/blog/road.png
 | 55 | GEORGES DAVID | UNION SPORTIVE VALENCIENNES CRESPIN | 22 | 3ème | 1:31:57 | 
 | 56 | POT FREDERIC | ETOILE CYCLISTE FEIGNIES | 22 | 3ème | 1:31:57 | 
 | 57 | GEORGES OLIVIER | UNION SPORTIVE VALENCIENNES CRESPIN | 22 | 3ème | 1:31:57 | 
-| **58** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **22** | **3ème** | **1:31:58** | 
+| **58** | **[WALTER BENOIT](/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **22** | **3ème** | **1:31:58** | 
 | 59 | DEFOSSEZ RODRIGUE | CLUB CYCLISTE THUN ST MARTIN | 22 | 3ème | 1:31:59 | 
 | 60 | PRZESZLO YANNICK | UNION CYCLISTE SOLRE LE CHATEAU | 22 | 3ème | 1:31:59 | 
 | 61 | BRUNIAUX STEPHANE | LES VIKINGS VTT MARCHE NORDIQUE OHAIN | 22 | 3ème | 1:32:1 | 

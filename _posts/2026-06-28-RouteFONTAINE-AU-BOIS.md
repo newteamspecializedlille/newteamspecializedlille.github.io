@@ -3,25 +3,26 @@ layout: post
 title: Route - FONTAINE AU BOIS - 2026
 date: 2026-06-28
 category: Route
+permalink: /resultats/route/2026-06-28-fontaine-au-bois/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 57 participants
-- [LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis) : 15
-- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 29
-- [MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio) : 44
-- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 47
+- [LECOLIER LOUIS](/coureurs/lecolierlouis) : 15
+- [LECOLIER STEPHANE](/coureurs/lecolierstephane) : 29
+- [MINNECI ELIO](/coureurs/minnecielio) : 44
+- [DERASSE DAVID](/coureurs/derassedavid) : 47
 
 ### 2ème Catégorie
 62 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 17
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : Ab
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 17
+- [DEFOSSE HERVE](/coureurs/defosseherve) : Ab
 
 ### 3ème Catégorie
 71 participants
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 33
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 33
 
 ### Scratch
 242 participants
@@ -42,7 +43,7 @@ image: assets/img/blog/road.png
 | 12 | UZON AURELIEN | Association Sportive et Culturel OUZOUER SUR LOIRE | 22 | 1ère | 1:54:45 | 
 | 13 | SAINT QUENTIN HUGO | GAZ ELEC CLUB DE DOUAI | 22 | 1ère | 1:54:45 | 
 | 14 | COMBLIN JUSTIN | Entente cycliste Wallers Arenberg Bellaing | 22 | 1ère | 1:54:45 | 
-| **15** | **[LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **22** | **1ère** | **1:54:46** | 
+| **15** | **[LECOLIER LOUIS](/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **22** | **1ère** | **1:54:46** | 
 | 16 | DELEPLACE HADRIEN | TEAM CYCLISTE - RAMILLIES | 22 | 1ère | 1:54:46 | 
 | 17 | BERTHIER THIBAUT | NEW ORANGE TEAM BOUSBECQUE | 22 | 1ère | 1:54:46 | 
 | 18 | DREMEAUX JOHAN | TEAM B.B.L. HERGNIES | 22 | 1ère | 1:54:46 | 
@@ -56,7 +57,7 @@ image: assets/img/blog/road.png
 | 26 | PLOMION GASPARD | GAZ ELEC CLUB DE DOUAI | 22 | 1ère | 1:54:47 | 
 | 27 | DALLE CL?MENT | VELO CLUB SOLESMES | 22 | 1ère | 1:54:47 | 
 | 28 | DEWILDE LUDOVIC | VELO CLUB UNION HALLUIN | 22 | 1ère | 1:54:47 | 
-| **29** | **[LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **22** | **1ère** | **1:54:48** | 
+| **29** | **[LECOLIER STEPHANE](/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **22** | **1ère** | **1:54:48** | 
 | 30 | MAGY MATHEO | ETOILE CYCLISTE FEIGNIES | 22 | 1ère | 1:54:48 | 
 | 31 | HURIAU BENOIT | Entente cycliste Wallers Arenberg Bellaing | 22 | 1ère | 1:54:49 | 
 | 32 | DESAILLY CLEMENT | ESPOIR CYCLISTE DE MOREUIL | 22 | 1ère | 1:54:50 | 
@@ -71,10 +72,10 @@ image: assets/img/blog/road.png
 | 41 | BOUZIN BENJAMIN | ASSOCIATION CYCLISTE D'ETROEUNGT | 22 | 1ère | 1:55:1 | 
 | 42 | LEFEVRE TOM | TEAM CYCLISTE LA BORDURE - BETTRECHIES | 22 | 1ère | 1:55:3 | 
 | 43 | CATILLON CYRIL | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 22 | 1ère | 1:55:4 | 
-| **44** | **[MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **22** | **1ère** | **1:55:4** | 
+| **44** | **[MINNECI ELIO](/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **22** | **1ère** | **1:55:4** | 
 | 45 | MORELLE YOHANN | TEAM CYCLISTE - RAMILLIES | 22 | 1ère | 1:55:8 | 
 | 46 | LAMARCHE FRANCK | TEAM DECOPUB PROVILLE | 21 | 1ère | 1:54:42 | 
-| **47** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **21** | **1ère** | **1:54:46** | 
+| **47** | **[DERASSE DAVID](/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **21** | **1ère** | **1:54:46** | 
 | 48 | COLLAINTIER LOUIS | ESEG DOUAI | 21 | 1ère | 1:55:35 | 
 | 49 | HENNEBIQUE CLEMENT | MAROEUIL VELO VERT MAROEUILLOIS V.V.M | 21 | 2ème | 1:55:53 | 
 | 50 | HAIDON PASCAL | Entente cycliste Wallers Arenberg Bellaing | 21 | 2ème | 1:55:53 | 
@@ -92,7 +93,7 @@ image: assets/img/blog/road.png
 | 62 | LESUR ANTHONY | Entente cycliste Wallers Arenberg Bellaing | 21 | 2ème | 1:56:31 | 
 | 63 | MARY KEVIN | VELO CLUB SOLESMES | 21 | 2ème | 1:56:31 | 
 | 64 | PASSARD MATEO | ESEG DOUAI | 21 | 2ème | 1:56:32 | 
-| **65** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **21** | **2ème** | **1:56:32** | 
+| **65** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **21** | **2ème** | **1:56:32** | 
 | 66 | PAVIE MAXIME | UNION SPORTIVE SAINT ANDRE | 21 | 2ème | 1:56:32 | 
 | 67 | COMBLIN DAVID | Entente cycliste Wallers Arenberg Bellaing | 21 | 2ème | 1:56:32 | 
 | 68 | GOUTEAU FREDERIC | U.C. CAPELLOISE FOURMIES | 21 | 2ème | 1:56:32 | 
@@ -161,7 +162,7 @@ image: assets/img/blog/road.png
 | 131 | LARGEAU FREDERIC | TEAM CYCLING LA SENTINELLE | 18 | 3ème | 1:41:31 | 
 | 132 | MONCLERCQ THOMAS | LA CHERIZIENNE - VILLE DE CHAUNY | 18 | 3ème | 1:41:31 | 
 | 133 | FREROT FRANCK | U.C. CAPELLOISE FOURMIES | 18 | 3ème | 1:41:32 | 
-| **134** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **18** | **3ème** | **1:41:35** | 
+| **134** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **18** | **3ème** | **1:41:35** | 
 | 135 | DEFOSSEZ RODRIGUE | ETOILE CYCLISTE FEIGNIES | 18 | 3ème | 1:41:42 | 
 | 136 | FINET ALEXIS | NEW TEAM MAULDE | 18 | 3ème | 1:41:54 | 
 | 137 | GOSSET JULIEN | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 18 | 3ème | 1:41:54 | 
@@ -245,7 +246,7 @@ image: assets/img/blog/road.png
 | 215 | LIENARD ROMAIN | Transpondeur ne fonctionne pas | 0 | 1ère | 0:38:53 | 
 | 216 | LELUBRE THIBAULT | Transpondeur ne fonctionne pas | 0 | 1ère | 0:38:53 | 
 | 217 | DEGROOTE ULYSSE | Transpondeur ne fonctionne pas | 0 | 1ère | 0:38:53 | 
-| **218** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **0** | **2ème** | **0:38:53** | 
+| **218** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **0** | **2ème** | **0:38:53** | 
 | 219 | BOS FABRICE | Entente cycliste Wallers | 0 | 2ème | 0:38:53 | 
 | 220 | CORNU ANDREAS | NEW TEAM MAULDE | 0 | 2ème | 0:38:53 | 
 | 221 | COPPEE THOMAS | Transpondeur ne fonctionne pas | 0 | 2ème | 0:38:53 | 

@@ -3,13 +3,14 @@ layout: post
 title: VTT - HASPRES - 2026
 date: 2025-11-15
 category: VTT
+permalink: /resultats/vtt/2025-11-15-haspres/
 tags: VTT
 image: assets/img/blog/vtt.png
 ---
 
 ### VTT Vétérans A
 18 participants
-- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 13
+- [DEFER OLIVIER](/coureurs/deferolivier) : 13
 
 ### Scratch
 36 participants
@@ -42,7 +43,7 @@ image: assets/img/blog/vtt.png
 | 24 | MICHEL STEPHANE | ETOILE CYCLISTE FEIGNIES | 7 | Vétérans B | 0:58:17 | 
 | 25 | GUYOT MICKAEL | BEUVRY CLUB LEO LAGRANGE | 7 | Vétérans B | 0:58:18 | 
 | 26 | LINDAUER FLORIAN | TEAM CYCLING LA SENTINELLE | 7 | Seniors B | 0:58:34 | 
-| **27** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **7** | **Vétérans A** | **0:59:58** | 
+| **27** | **[DEFER OLIVIER](/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **7** | **Vétérans A** | **0:59:58** | 
 | 28 | DEKOSTER MICKAEL | ARTeam Artois Racing Team | 7 | Vétérans B | 1:1:54 | 
 | 29 | FOULON FRANCK | TEAM DECOPUB PROVILLE | 7 | Vétérans B | 1:2:6 | 
 | 30 | PRZEMYSKI GUILLAUME | EMBRY TEAM PINK AND BLUE | 7 | Vétérans A | 1:2:41 | 

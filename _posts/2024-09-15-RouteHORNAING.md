@@ -3,17 +3,18 @@ layout: post
 title: Route - HORNAING - 2024
 date: 2024-09-15
 category: Route
+permalink: /resultats/route/2024-09-15-hornaing/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
 56 participants
-- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 25
+- [DERASSE DAVID](/coureurs/derassedavid) : 25
 
 ### 3ème Catégorie
 71 participants
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 15
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 15
 
 ### Scratch
 213 participants
@@ -72,7 +73,7 @@ image: assets/img/blog/road.png
 | 50 | LEFEBVRE JEAN-DANIEL | U.C. CAPELLOISE FOURMIES | 17 | 2ème | 1:26:35 | 
 | 51 | TIAGO SEBASTIAN | NEW ORANGE TEAM BOUSBECQUE | 17 | 2ème | 1:26:35 | 
 | 52 | ROUSSEAU DIDIER | ETOILE CYCLISTE FEIGNIES | 17 | 2ème | 1:26:36 | 
-| **53** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **17** | **2ème** | **1:26:36** | 
+| **53** | **[DERASSE DAVID](/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **17** | **2ème** | **1:26:36** | 
 | 54 | BLONDEL FREDERIC | ESEG DOUAI | 17 | 2ème | 1:26:36 | 
 | 55 | DEVOS CYRIL | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 17 | 2ème | 1:26:36 | 
 | 56 | GOCHON VALENTIN | TEAM MELANTOIS - PERONNE EN MELANTOIS | 17 | 2ème | 1:26:37 | 
@@ -108,7 +109,7 @@ image: assets/img/blog/road.png
 | 86 | DUPONT REMI | RESILIENCE CLUB | 16 | 3ème | 1:21:42 | 
 | 87 | DROLET PHILIPPE | UNION SPORTIVE SAINT ANDRE | 16 | 3ème | 1:21:43 | 
 | 88 | CHOQUET DAVID | UNION SPORTIVE SAINT ANDRE | 16 | 3ème | 1:21:44 | 
-| **89** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **16** | **3ème** | **1:21:45** | 
+| **89** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **16** | **3ème** | **1:21:45** | 
 | 90 | MORENVAL BERTRAND | UNION SPORTIVE SAINT ANDRE | 16 | 3ème | 1:21:45 | 
 | 91 | VARLET VINCENT | VELO CLUB UNION HALLUIN | 16 | 3ème | 1:21:45 | 
 | 92 | THORLET YANNICK | VELO CLUB DE L'ESCAUT ANZIN | 16 | 3ème | 1:21:45 | 

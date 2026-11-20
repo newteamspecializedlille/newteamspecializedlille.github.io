@@ -3,13 +3,14 @@ layout: post
 title: VTT - VERMELLES - 2023
 date: 2022-10-29
 category: VTT
+permalink: /resultats/vtt/2022-10-29-vermelles/
 tags: VTT
 image: assets/img/blog/vtt.png
 ---
 
 ### VTT Vétérans B
 25 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 4
+- [MATTIOLI RONALD](/coureurs/mattiolironald) : 4
 
 ### Scratch
 69 participants
@@ -31,7 +32,7 @@ image: assets/img/blog/vtt.png
 | 13 | LONCKE SEBASTIEN | VTT SAINT AMAND LES EAUX | 9 | Seniors B | 0:56:5 | 
 | 14 | LIEVIN FRANCK | VTT SAINT AMAND LES EAUX | 9 | Vétérans B | 0:56:17 | 
 | 15 | LEBRUN XAVIER | ENTENTE CYCLISTE QUEVILLAISE | 9 | Vétérans A | 0:56:32 | 
-| **16** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **9** | **Vétérans B** | **0:56:47** | 
+| **16** | **[MATTIOLI RONALD](/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **9** | **Vétérans B** | **0:56:47** | 
 | 17 | JABLONSKI SEBASTIEN | TEAM B.B.L. HERGNIES | 9 | Vétérans A | 0:56:52 | 
 | 18 | DUHAMEL ARNAUD | AGNY ARTEAM | 9 | Vétérans B | 0:57:15 | 
 | 19 | CAZE ALBAN | UNION SPORTIVE SAINT ANDRE | 9 | Vétérans A | 0:57:18 | 

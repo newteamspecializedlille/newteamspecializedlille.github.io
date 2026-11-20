@@ -3,15 +3,16 @@ layout: post
 title: Cyclo Cross - VERLINGHEM - 2027
 date: 2026-11-07
 category: Cyclo Cross
+permalink: /resultats/cyclo-cross/2026-11-07-verlinghem/
 tags: cyclo-cross
 image: assets/img/blog/cx.png
 ---
 
 ### 3ème Catégorie
 40 participants
-- [MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix) : 10
-- [SCHULZ YANNICK](https://teamspecializedlille.cc/coureurs/schulzyannick) : 27
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 34
+- [MOULIN FELIX](/coureurs/moulinfelix) : 10
+- [SCHULZ YANNICK](/coureurs/schulzyannick) : 27
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 34
 
 ### Scratch
 86 participants
@@ -57,7 +58,7 @@ image: assets/img/blog/cx.png
 | 37 | WITTEK DASSONVILLE CELINE | NOEUX VELO CLUB NOEUXOIS | 6 | 3ème | 0:52:18 | 
 | 38 | CROMMELINCK PATRICK | CYCLOS RANDONNEURS LA BASSEE | 6 | 3ème | 0:52:30 | 
 | 39 | MARY KEVIN | PANACHE SACOCHE CLUB | 6 | 3ème | 0:52:48 | 
-| **40** | **[MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **6** | **3ème** | **0:53:07** | 
+| **40** | **[MOULIN FELIX](/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **6** | **3ème** | **0:53:07** | 
 | 41 | GELLE MAXIME | BAILLEUL VELO CLUB | 6 | 2ème | 0:53:28 | 
 | 42 | HEVIN SACHA | BARLIN CERCLE LAIQUE | 6 | 2ème | 0:53:30 | 
 | 43 | FLAMENT ETHAN | TEAM BOUSIES | 6 | 3ème | 0:54:32 | 
@@ -80,14 +81,14 @@ image: assets/img/blog/cx.png
 | 60 | DOMITILE Grégory | ROUE D'OR COMINOISE | 6 | 3ème | 0:59:20 | 
 | 61 | VANDEN TORREN MAXIME | HENIN ETOILE CYCLISTE HENINOISE | 6 | 3ème | 0:59:37 | 
 | 62 | SAMYN GEOFFREY | CYCLO CLUB ARMENTIEROIS | 6 | 2ème | 1:00:19 | 
-| **63** | **[SCHULZ YANNICK](https://teamspecializedlille.cc/coureurs/schulzyannick)** | **TEAM SPECIALIZED LILLE** | **5** | **3ème** | **0:49:51** | 
+| **63** | **[SCHULZ YANNICK](/coureurs/schulzyannick)** | **TEAM SPECIALIZED LILLE** | **5** | **3ème** | **0:49:51** | 
 | 64 | LETOMBE CHRISTOPHE | BEUVRY CLUB LEO LAGRANGE | 5 | 3ème | 0:50:13 | 
 | 65 | CAUWET FRANCK | OUTREAU CLUB SPORTIF OUTRELOIS (C.S.O) | 5 | 3ème | 0:50:59 | 
 | 66 | RICHARD AMANDINE | ESEG DOUAI | 5 | 3ème | 0:51:10 | 
 | 67 | WITTEK ELODIE | NOEUX VELO CLUB NOEUXOIS | 5 | 3ème | 0:51:25 | 
 | 68 | LANDAS PRIMEROSE | TEAM BOUSIES | 5 | 3ème | 0:51:46 | 
 | 69 | WACH ERIC | BEUVRY CLUB LEO LAGRANGE | 5 | 3ème | 0:53:08 | 
-| **70** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **5** | **3ème** | **0:53:51** | 
+| **70** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **5** | **3ème** | **0:53:51** | 
 | 71 | DANEL JEAN-PIERRE | ARTOIS CYCLING TEAM | 5 | 3ème | 0:54:51 | 
 | 72 | MENUS Sébastien | TEAM PEVELE CAREMBAULT CYCLISME | 5 | 3ème | 0:55:32 | 
 | 73 | QUILLIOT JEREMY | HENIN ETOILE CYCLISTE HENINOISE | 5 | 3ème | 0:56:00 | 

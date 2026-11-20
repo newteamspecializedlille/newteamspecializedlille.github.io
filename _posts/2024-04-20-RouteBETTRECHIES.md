@@ -3,13 +3,14 @@ layout: post
 title: Route - BETTRECHIES - 2024
 date: 2024-04-20
 category: Route
+permalink: /resultats/route/2024-04-20-bettrechies/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 3ème Catégorie
 46 participants
-- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 15
+- [DEFER OLIVIER](/coureurs/deferolivier) : 15
 
 ### Scratch
 122 participants
@@ -73,7 +74,7 @@ image: assets/img/blog/road.png
 | 55 | MATHIEU ELIAN | TEAM CYCLISTE LA BORDURE - BETTRECHIES | 16 | 3ème | 1:39:58 | 
 | 56 | POIDEVIN LUDOVIC | TEAM BIKE PRESEAU | 16 | 3ème | 1:40:56 | 
 | 57 | BOITEL SYLVAIN | VELO CLUB SOLESMES | 16 | 3ème | 1:40:56 | 
-| **58** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **16** | **3ème** | **1:40:57** | 
+| **58** | **[DEFER OLIVIER](/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **16** | **3ème** | **1:40:57** | 
 | 59 | DEBRIL BENJAMIN | CYCLO CLUB ORCHIES | 16 | 3ème | 1:41:2 | 
 | 60 | CORETTE DOMINIQUE | UNION SPORTIVE SAINT ANDRE | 15 | 3ème | 1:35:21 | 
 | 61 | ALDEBERT ARNAUD | GAZ ELEC CLUB DE DOUAI | 15 | 3ème | 1:35:58 | 

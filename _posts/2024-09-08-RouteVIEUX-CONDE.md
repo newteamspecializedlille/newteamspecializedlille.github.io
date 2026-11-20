@@ -3,13 +3,14 @@ layout: post
 title: Route - VIEUX CONDE - 2024
 date: 2024-09-08
 category: Route
+permalink: /resultats/route/2024-09-08-vieux-conde/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
 41 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 10
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 10
 
 ### Scratch
 146 participants
@@ -37,7 +38,7 @@ image: assets/img/blog/road.png
 | 19 | MARTINEZ JEROME | NEW TEAM MAULDE | 24 | 2ème | 1:33:55 | 
 | 20 | VERHAEGHE THOMAS | LINSELLES CYCLISME | 24 | 2ème | 1:33:55 | 
 | 21 | COASNE CLEMENT | ESEG DOUAI | 24 | 2ème | 1:33:55 | 
-| **22** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **24** | **2ème** | **1:33:55** | 
+| **22** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **24** | **2ème** | **1:33:55** | 
 | 23 | CLIQUET CLEMENT | NEW TEAM MAULDE | 24 | 2ème | 1:33:55 | 
 | 24 | HAJAER EDGARD | NEW ORANGE TEAM BOUSBECQUE | 24 | 1ère | 1:33:56 | 
 | 25 | MAES LOUIS | CYCLO CLUB WAVRIN | 24 | 1ère | 1:33:56 | 

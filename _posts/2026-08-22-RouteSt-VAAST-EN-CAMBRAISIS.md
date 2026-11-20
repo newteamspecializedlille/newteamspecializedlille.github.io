@@ -3,13 +3,14 @@ layout: post
 title: Route - St VAAST EN CAMBRAISIS - 2026
 date: 2026-08-22
 category: Route
+permalink: /resultats/route/2026-08-22-st-vaast-en-cambraisis/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 3ème Catégorie
 33 participants
-- [HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe) : 3
+- [HUBAUT CHRISTOPHE](/coureurs/hubautchristophe) : 3
 
 ### Scratch
 80 participants
@@ -61,7 +62,7 @@ image: assets/img/blog/road.png
 | 43 | GARD DENIS | VELO CLUB SOLESMES | 23 | 4ème | 1:2:24 | 
 | 44 | AUVRAY LOIC | RESILIENCE CLUB | 23 | 3ème | 1:19:35 | 
 | 45 | MINET JONATHAN | ASSOCIATION CYCLISTE D'ETROEUNGT | 23 | 3ème | 1:19:35 | 
-| **46** | **[HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe)** | **TEAM SPECIALIZED LILLE** | **23** | **3ème** | **1:19:35** | 
+| **46** | **[HUBAUT CHRISTOPHE](/coureurs/hubautchristophe)** | **TEAM SPECIALIZED LILLE** | **23** | **3ème** | **1:19:35** | 
 | 47 | DEVILLEZ KEVIN | VELO CLUB DE L'ESCAUT ANZIN | 23 | 3ème | 1:19:35 | 
 | 48 | LECLERCQ LOUIS | VELO CLUB SOLESMES | 23 | 3ème | 1:19:35 | 
 | 49 | LOISELEUX JEAN SEBASTIEN | ASSOCIATION CYCLISTE D'ETROEUNGT | 23 | 3ème | 1:19:35 | 

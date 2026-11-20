@@ -3,25 +3,26 @@ layout: post
 title: Route - MAULDE - CHORETTE - 2026
 date: 2026-04-26
 category: Route
+permalink: /resultats/route/2026-04-26-maulde-chorette/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 57 participants
-- [CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas) : 4
-- [LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis) : 14
-- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 46
-- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 48
+- [CROMBEZ THOMAS](/coureurs/crombezthomas) : 4
+- [LECOLIER LOUIS](/coureurs/lecolierlouis) : 14
+- [DERASSE DAVID](/coureurs/derassedavid) : 46
+- [LECOLIER STEPHANE](/coureurs/lecolierstephane) : 48
 
 ### 2ème Catégorie
 72 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 19
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 47
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 19
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 47
 
 ### 3ème Catégorie
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 47
-- [HUGUENIN DYLAN](https://teamspecializedlille.cc/coureurs/huguenindylan) : 49
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 47
+- [HUGUENIN DYLAN](/coureurs/huguenindylan) : 49
 
 ### Scratch
 208 participants
@@ -31,7 +32,7 @@ image: assets/img/blog/road.png
 | 1 | BEDOU ANTONIN | 52X11 HIRSON THIERACHE | 20 | 1ère | 1:30:59 | 
 | 2 | HAJAER EDGARD | NEW ORANGE TEAM BOUSBECQUE | 20 | 1ère | 1:32:3 | 
 | 3 | LALEU TIMOTHEE | UNION SPORTIVE SAINT ANDRE | 20 | 1ère | 1:32:5 | 
-| **4** | **[CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **20** | **1ère** | **1:32:5** | 
+| **4** | **[CROMBEZ THOMAS](/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **20** | **1ère** | **1:32:5** | 
 | 5 | VANDERHAEGEN MAEL | ASSOCIATION CYCLISTE D'ETROEUNGT | 20 | 1ère | 1:32:5 | 
 | 6 | AINI ISSAM | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 20 | 1ère | 1:32:6 | 
 | 7 | COLLAINTIER LOUIS | ESEG DOUAI | 20 | 1ère | 1:32:6 | 
@@ -41,7 +42,7 @@ image: assets/img/blog/road.png
 | 11 | LEVEILLE STEPHANE | TEAM CYCLING LA SENTINELLE | 20 | 1ère | 1:32:20 | 
 | 12 | MORELLE YOHANN | TEAM CYCLISTE - RAMILLIES | 20 | 1ère | 1:32:20 | 
 | 13 | LEVEILLE FLORIAN | TEAM CYCLING LA SENTINELLE | 20 | 1ère | 1:32:20 | 
-| **14** | **[LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **20** | **1ère** | **1:32:20** | 
+| **14** | **[LECOLIER LOUIS](/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **20** | **1ère** | **1:32:20** | 
 | 15 | GALLIEZ ANTHONY | TEAM FULL WATTS CAMBRESIS - PROVILLE | 20 | 1ère | 1:32:21 | 
 | 16 | JABLONSKI SEBASTIEN | NEW TEAM MAULDE | 20 | 1ère | 1:32:21 | 
 | 17 | MAGY MATHEO | ETOILE CYCLISTE FEIGNIES | 20 | 1ère | 1:32:21 | 
@@ -73,9 +74,9 @@ image: assets/img/blog/road.png
 | 43 | HURIAU BENOIT | Entente cycliste Wallers Arenberg Bellaing | 20 | 1ère | 1:32:34 | 
 | 44 | GREVIN JEROME | ETOILE CYCLISTE FEIGNIES | 20 | 1ère | 1:32:43 | 
 | 45 | MURRUZZU AURELIEN | UNION SPORTIVE SAINT ANDRE | 19 | 1ère | 1:32:18 | 
-| **46** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **19** | **1ère** | **1:32:21** | 
+| **46** | **[DERASSE DAVID](/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **19** | **1ère** | **1:32:21** | 
 | 47 | WAN-MEENEN JULIEN | UNION VELOCIPEDIQUE FOURMISIENNE | 19 | 1ère | 1:32:21 | 
-| **48** | **[LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **19** | **1ère** | **1:32:22** | 
+| **48** | **[LECOLIER STEPHANE](/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **19** | **1ère** | **1:32:22** | 
 | 49 | BARA VICTOR | UNION SPORTIVE SAINT ANDRE | 19 | 1ère | 1:32:24 | 
 | 50 | MICHEL ANTHONY | ETOILE CYCLISTE FEIGNIES | 19 | 1ère | 1:32:43 | 
 | 51 | FAYT OLIVAN | UNION SPORTIVE SAINT ANDRE | 19 | 2ème | 1:35:55 | 
@@ -96,7 +97,7 @@ image: assets/img/blog/road.png
 | 66 | BOUZIN BENJAMIN | ASSOCIATION CYCLISTE D'ETROEUNGT | 19 | 2ème | 1:35:57 | 
 | 67 | VISSIO MATHIEU | ARTeam Artois Racing Team | 19 | 2ème | 1:35:57 | 
 | 68 | LESUR ANTHONY | Entente cycliste Wallers Arenberg Bellaing | 19 | 2ème | 1:35:57 | 
-| **69** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **19** | **2ème** | **1:35:57** | 
+| **69** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **19** | **2ème** | **1:35:57** | 
 | 70 | DERENZIS RYAN | Entente cycliste Wallers Arenberg Bellaing | 19 | 2ème | 1:35:58 | 
 | 71 | DELPIRE FREDERIC | VTT  CLUB PONT SUR SAMBRE | 19 | 2ème | 1:35:58 | 
 | 72 | HAIDON PASCAL | Entente cycliste Wallers Arenberg Bellaing | 19 | 2ème | 1:35:58 | 
@@ -124,7 +125,7 @@ image: assets/img/blog/road.png
 | 94 | HENOCQ FRANCOIS | UNION SPORTIVE SAINT ANDRE | 19 | 2ème | 1:36:5 | 
 | 95 | HENNO FABRICE | CYCLO CLUB ORCHIES | 19 | 2ème | 1:36:5 | 
 | 96 | ROULY ALEXIS | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 19 | 2ème | 1:36:6 | 
-| **97** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **19** | **2ème** | **1:36:6** | 
+| **97** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **19** | **2ème** | **1:36:6** | 
 | 98 | HAVET SEBASTIEN | GAZ ELEC CLUB DE DOUAI | 19 | 2ème | 1:36:6 | 
 | 99 | LECLERCQ JEAN LOUIS | TEAM FULL WATTS CAMBRESIS - PROVILLE | 19 | 2ème | 1:36:9 | 
 | 100 | RIVART THIERRY | VTT  CLUB PONT SUR SAMBRE | 19 | 2ème | 1:36:11 | 
@@ -176,7 +177,7 @@ image: assets/img/blog/road.png
 | 146 | LASSON VINCENT | CERCLE OLYMPIQUE MARCOING | 16 | 4ème | 1:31:34 | 
 | 147 | BOUCLY ERIC | AMICALE LAIQUE SPORTIVE  ROEULX | 16 | 4ème | 1:31:34 | 
 | 148 | FINEZ DIDIER | AMICALE LAIQUE SPORTIVE  ROEULX | 16 | 4ème | 1:31:34 | 
-| **149** | **[DERASSE PATRICK](https://teamspecializedlille.cc/coureurs/derassepatrick)** | **TEAM SPECIALIZED LILLE** | **16** | **4ème** | **1:31:34** | 
+| **149** | **[DERASSE PATRICK](/coureurs/derassepatrick)** | **TEAM SPECIALIZED LILLE** | **16** | **4ème** | **1:31:34** | 
 | 150 | FONTAINE STEPHANE | ETOILE CYCLISTE FEIGNIES | 16 | 4ème | 1:31:35 | 
 | 151 | SMETS SEBASTIEN | CYCLO CLUB WAVRIN | 16 | 4ème | 1:31:35 | 
 | 152 | PAGANO LAURA | NEW TEAM MAULDE | 16 | 4ème | 1:31:35 | 

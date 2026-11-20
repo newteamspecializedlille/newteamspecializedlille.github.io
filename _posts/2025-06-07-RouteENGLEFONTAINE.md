@@ -3,13 +3,14 @@ layout: post
 title: Route - ENGLEFONTAINE - 2025
 date: 2025-06-07
 category: Route
+permalink: /resultats/route/2025-06-07-englefontaine/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
 21 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 11
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 11
 
 ### Scratch
 94 participants
@@ -42,7 +43,7 @@ image: assets/img/blog/road.png
 | 24 | BRAL JAN | ETOILE CYCLISTE LIEU ST AMAND | 37 | 2ème | 1:1:15 | 
 | 25 | VAN DURMEN PHILIPPE | UNION SPORTIVE SAINT ANDRE | 37 | 2ème | 1:1:16 | 
 | 26 | ALBERTINI LUDOVIC | NEW ORANGE TEAM BOUSBECQUE | 37 | 2ème | 1:1:16 | 
-| **27** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **37** | **2ème** | **1:1:17** | 
+| **27** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **37** | **2ème** | **1:1:17** | 
 | 28 | FERNET PIERRE | LA ROUE D'OR GUISARDE | 37 | 2ème | 1:1:17 | 
 | 29 | FREHAUT NICOLAS | ASSOCIATION CYCLISTE D'ETROEUNGT | 37 | 2ème | 1:1:18 | 
 | 30 | BEAUSSART CEDRIC | LA CHERIZIENNE - VILLE DE CHAUNY | 37 | 2ème | 1:1:18 | 

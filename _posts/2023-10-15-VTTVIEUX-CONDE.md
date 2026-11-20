@@ -3,13 +3,14 @@ layout: post
 title: VTT - VIEUX CONDE - 2024
 date: 2023-10-15
 category: VTT
+permalink: /resultats/vtt/2023-10-15-vieux-conde/
 tags: VTT
 image: assets/img/blog/vtt.png
 ---
 
 ### VTT Vétérans A
 24 participants
-- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 18
+- [WALTER BENOIT](/coureurs/walterbenoit) : 18
 
 ### Scratch
 73 participants
@@ -73,7 +74,7 @@ image: assets/img/blog/vtt.png
 | 55 | BRUNIAUX STEPHANE | LES VIKINGS VTT MARCHE NORDIQUE OHAIN | 6 | Vétérans A | 1:0:10 | 
 | 56 | BOULANGER DAVID | UNION SPORTIVE VALENCIENNES CRESPIN | 6 | Vétérans B | 1:1:12 | 
 | 57 | MIXTE BENJAMIN | VTT SAINT AMAND LES EAUX | 5 | Vétérans A | 0:49:45 | 
-| **58** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **5** | **Vétérans A** | **0:49:47** | 
+| **58** | **[WALTER BENOIT](/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **5** | **Vétérans A** | **0:49:47** | 
 | 59 | LADENT JEROME | MERICOURT ULTRA VTT | 5 | Vétérans B | 0:49:48 | 
 | 60 | SANGNIER FREDERIC | CAMPHIN EN CAREMBAULT CYCLING TEAM | 5 | Vétérans A | 0:50:18 | 
 | 61 | BUISINE FABRICE | HENIN ETOILE CYCLISTE HENINOISE | 5 | Vétérans A | 0:50:54 | 

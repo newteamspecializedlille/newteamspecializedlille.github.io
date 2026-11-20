@@ -3,14 +3,15 @@ layout: post
 title: Route - FLOYON - 2020
 date: 2020-09-20
 category: Route
+permalink: /resultats/route/2020-09-20-floyon/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 23 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 11
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : Ab
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 11
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : Ab
 
 ### Scratch
 116 participants

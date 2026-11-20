@@ -3,21 +3,22 @@ layout: post
 title: Route - BRUILLE SAINT AMAND  - 2025
 date: 2025-05-04
 category: Route
+permalink: /resultats/route/2025-05-04-bruille-saint-amand/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 27 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 21
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 21
 
 ### 2ème Catégorie
 49 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 31
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 31
 
 ### 3ème Catégorie
 58 participants
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 41
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 41
 
 ### Scratch
 183 participants
@@ -44,7 +45,7 @@ image: assets/img/blog/road.png
 | 18 | CINQUINA GUISEPPE | ETOILE CYCLISTE LIEU ST AMAND | 13 | 1ère | 1:43:0 | 
 | 19 | BLARY GILLES | HAVELUY CYCLO CLUB | 13 | 1ère | 1:43:50 | 
 | 20 | BERNIER DIMITRI | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 13 | 1ère | 1:43:51 | 
-| **21** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **13** | **1ère** | **1:43:52** | 
+| **21** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **13** | **1ère** | **1:43:52** | 
 | 22 | DOYEN MATHIS | CYCLO CLUB ORCHIES | 13 | 1ère | 1:43:58 | 
 | 23 | LAMARCHE FRANCK | TEAM DECOPUB PROVILLE | 13 | 1ère | 1:43:58 | 
 | 24 | DRUMEZ CLEMENT | ESEG DOUAI | 12 | 2ème | 1:30:49 | 
@@ -77,7 +78,7 @@ image: assets/img/blog/road.png
 | 51 | DELPLANCQ VALENTIN | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 12 | 2ème | 1:33:11 | 
 | 52 | LECHAT RENAUD | UNION SPORTIVE VALENCIENNES CRESPIN | 12 | 2ème | 1:33:11 | 
 | 53 | ROULY ALEXIS | ETOILE CYCLISTE LIEU ST AMAND | 12 | 2ème | 1:33:11 | 
-| **54** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **12** | **2ème** | **1:33:12** | 
+| **54** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **12** | **2ème** | **1:33:12** | 
 | 55 | VANDEN TORREN MAXIME | MANQUEVILLE LILLERS CLUB CYCLISTE | 12 | 2ème | 1:33:12 | 
 | 56 | LESUR ANTHONY | SAULZOIR MONTRECOURT CYCLING CLUB | 12 | 2ème | 1:33:12 | 
 | 57 | LEFEBVRE JEAN-DANIEL | U.C. CAPELLOISE FOURMIES | 12 | 2ème | 1:33:12 | 
@@ -166,7 +167,7 @@ image: assets/img/blog/road.png
 | 140 | LECCI ITALO | HAVELUY CYCLO CLUB | 10 | 4ème | 1:23:9 | 
 | 141 | PAVARD JEAN MARC | VELO CLUB AMANDINOIS | 10 | 4ème | 1:23:12 | 
 | 142 | JUNG PHILIPPE | UNION SPORTIVE SAINT ANDRE | 10 | 3ème | 1:28:24 | 
-| **143** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **10** | **3ème** | **1:28:25** | 
+| **143** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **10** | **3ème** | **1:28:25** | 
 | 144 | SAINTRAIN GERARD | ETOILE CYCLISTE LIEU ST AMAND | 10 | 3ème | 1:28:28 | 
 | 145 | BRIXHE ALAIN | VTT  CLUB PONT SUR SAMBRE | 10 | 3ème | 1:28:28 | 
 | 146 | MORICONI LUDOVIC | NEW TEAM MAULDE | 10 | 3ème | 1:29:7 | 

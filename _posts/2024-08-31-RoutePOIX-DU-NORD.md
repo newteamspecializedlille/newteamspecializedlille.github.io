@@ -3,17 +3,18 @@ layout: post
 title: Route - POIX DU NORD - 2024
 date: 2024-08-31
 category: Route
+permalink: /resultats/route/2024-08-31-poix-du-nord/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 33 participants
-- [CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas) : 12
+- [CROMBEZ THOMAS](/coureurs/crombezthomas) : 12
 
 ### 2ème Catégorie
 42 participants
-- [MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio) : 3
+- [MINNECI ELIO](/coureurs/minnecielio) : 3
 
 ### Scratch
 163 participants
@@ -31,7 +32,7 @@ image: assets/img/blog/road.png
 | 9 | VAN SNICK NATHAN | NOUVELLE ETOILE SPORTIVE BOUE ETREUX | 13 | 1ère | 2:14:43 | 
 | 10 | QUERTANT CHRISTOPHE | CLUB CYCLISTE | 13 | 1ère | 2:14:46 | 
 | 11 | DELEPLACE HADRIEN | VELO CLUB ROUBAIX | 13 | 1ère | 2:14:55 | 
-| **12** | **[CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **13** | **1ère** | **2:15:7** | 
+| **12** | **[CROMBEZ THOMAS](/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **13** | **1ère** | **2:15:7** | 
 | 13 | DELOBELLE OLIVIER | UNION SPORTIVE SAINT ANDRE | 13 | 1ère | 2:15:7 | 
 | 14 | MARTHE ROMUALD | ETOILE CYCLISTE LIEU ST AMAND | 13 | 1ère | 2:15:7 | 
 | 15 | LEFEVRE EDDY | UNION VELOCIPEDIQUE FOURMISIENNE | 13 | 1ère | 2:15:8 | 
@@ -46,7 +47,7 @@ image: assets/img/blog/road.png
 | 24 | LIENARD KEVIN | LA CHERIZIENNE - VILLE DE CHAUNY | 11 | 1ère | 1:56:46 | 
 | 25 | RICHET JEREMY | GILLOT CYCLING CLUB FEIGNIES | 11 | 2ème | 1:57:1 | 
 | 26 | KRUHELSKI VIANNEY | SAULZOIR MONTRECOURT CYCLING CLUB | 11 | 2ème | 1:57:10 | 
-| **27** | **[MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **11** | **2ème** | **1:57:11** | 
+| **27** | **[MINNECI ELIO](/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **11** | **2ème** | **1:57:11** | 
 | 28 | LIONNE DORIAN | HAVELUY CYCLO CLUB | 11 | 2ème | 1:57:12 | 
 | 29 | DEPARIS TRISTAN | LINSELLES CYCLISME | 11 | 2ème | 1:57:12 | 
 | 30 | HAIDON PASCAL | ASSOCIATION CYCLISTE BELLAINGEOISE | 11 | 2ème | 1:57:13 | 

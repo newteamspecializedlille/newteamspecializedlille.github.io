@@ -3,13 +3,14 @@ layout: post
 title: VTT - RAISMES - 2027
 date: 2026-11-15
 category: VTT
+permalink: /resultats/vtt/2026-11-15-raismes/
 tags: VTT
 image: assets/img/blog/vtt.png
 ---
 
 ### VTT Sénior B
 6 participants
-- [HUGUENIN DYLAN](https://teamspecializedlille.cc/coureurs/huguenindylan) : AB
+- [HUGUENIN DYLAN](/coureurs/huguenindylan) : AB
 
 ### Scratch
 37 participants
@@ -49,7 +50,7 @@ image: assets/img/blog/vtt.png
 | 31 | EROUART CHARLES | ESTEVELLES VELO CLUB ESTEVELLOISE | 4 | Vétérans C | 0:54:33 | 
 | 32 | SALET CAROLINE | CYCLOS RANDONNEURS LA BASSEE | 4 | Féminines | 0:59:52 | 
 | 33 | MARY KEVIN | PANACHE SACOCHE CLUB | 4 | Vétérans A | 1:01:10 | 
-| **34** | **[HUGUENIN DYLAN](https://teamspecializedlille.cc/coureurs/huguenindylan)** | **TEAM SPECIALIZED LILLE** | **0** | **Seniors B** | **0:38:53** | 
+| **34** | **[HUGUENIN DYLAN](/coureurs/huguenindylan)** | **TEAM SPECIALIZED LILLE** | **0** | **Seniors B** | **0:38:53** | 
 | 35 | FOSSY YOHAN | VTT CLUB PONT SUR SAMBRE | 0 | Seniors B | 0:38:53 | 
 | 36 | BRUNIAUX STEPHANE | LES VIKINGS | 0 | Vétérans A | 0:38:53 | 
 | 37 | LEFEBVRE ALAIN | TEAM PROVILLE BIKE | 0 | Vétérans C | 0:38:53 | 

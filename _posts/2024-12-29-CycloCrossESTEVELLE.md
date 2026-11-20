@@ -3,13 +3,14 @@ layout: post
 title: Cyclo Cross - ESTEVELLE - 2025
 date: 2024-12-29
 category: Cyclo Cross
+permalink: /resultats/cyclo-cross/2024-12-29-estevelle/
 tags: cyclo-cross
 image: assets/img/blog/cx.png
 ---
 
 ### 2ème Catégorie
 17 participants
-- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 3
+- [DERASSE DAVID](/coureurs/derassedavid) : 3
 
 ### Scratch
 61 participants
@@ -31,7 +32,7 @@ image: assets/img/blog/cx.png
 | 13 | LEFEBVRE JEAN-DANIEL | U.C. CAPELLOISE FOURMIES | 6 | 1ère | 0:54:46 | 
 | 14 | DUVAL TEDDY | OHM CYCLISME HESDIN | 6 | 1ère | 0:55:20 | 
 | 15 | GOCHON VALENTIN | TEAM MELANTOIS - PERONNE EN MELANTOIS | 6 | 2ème | 0:55:23 | 
-| **16** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **6** | **2ème** | **0:55:25** | 
+| **16** | **[DERASSE DAVID](/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **6** | **2ème** | **0:55:25** | 
 | 17 | DERODE BAPTISTE | HAVELUY CYCLO CLUB | 6 | 1ère | 0:55:27 | 
 | 18 | VANWAELSCAPPEL JEROME | CYCLO CLUB WAVRIN | 6 | 2ème | 0:56:16 | 
 | 19 | LEONARDI FLORIAN | RESILIENCE CLUB | 6 | 2ème | 0:56:52 | 

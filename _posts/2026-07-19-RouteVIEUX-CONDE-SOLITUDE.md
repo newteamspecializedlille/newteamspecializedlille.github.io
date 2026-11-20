@@ -3,18 +3,19 @@ layout: post
 title: Route - VIEUX CONDE SOLITUDE - 2026
 date: 2026-07-19
 category: Route
+permalink: /resultats/route/2026-07-19-vieux-conde-solitude/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
 50 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 8
-- [LECOLIER BENOIT](https://teamspecializedlille.cc/coureurs/lecolierbenoit) : 50
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 8
+- [LECOLIER BENOIT](/coureurs/lecolierbenoit) : 50
 
 ### 3ème Catégorie
 64 participants
-- [LECOURT CHARLIE](https://teamspecializedlille.cc/coureurs/lecourtcharlie) : AB
+- [LECOURT CHARLIE](/coureurs/lecourtcharlie) : AB
 
 ### Scratch
 165 participants
@@ -38,7 +39,7 @@ image: assets/img/blog/road.png
 | 15 | HERBERT ALEXANDRE | LINSELLES CYCLISME | 12 | 2ème | 1:24:37 | 
 | 16 | DI CARLO DONATO | NEW ORANGE TEAM BOUSBECQUE | 12 | 2ème | 1:24:38 | 
 | 17 | DEURBROECK KRIS | UNION SPORTIVE SAINT ANDRE | 12 | 2ème | 1:24:38 | 
-| **18** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **12** | **2ème** | **1:24:38** | 
+| **18** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **12** | **2ème** | **1:24:38** | 
 | 19 | BOURGEOIS SYLVAIN | VELO CLUB DE L'ESCAUT ANZIN | 12 | 2ème | 1:24:39 | 
 | 20 | DI CARLO DAVID | NEW ORANGE TEAM BOUSBECQUE | 12 | 2ème | 1:24:39 | 
 | 21 | HEBERT PIERRICK | NEW ORANGE TEAM BOUSBECQUE | 12 | 2ème | 1:24:39 | 
@@ -146,7 +147,7 @@ image: assets/img/blog/road.png
 | 123 | MASSIN MAXENCE | ESEG DOUAI | 9 | Cadets | 1:07:41 | 
 | 124 | POTEAUX JULES | FENAIN CYCLO CLUB | 9 | Cadets | 1:09:22 | 
 | 125 | BAILLARD LOUIS | TEAM CYCLING LA SENTINELLE | 9 | Cadets | 1:09:28 | 
-| **126** | **[LECOURT CHARLIE](https://teamspecializedlille.cc/coureurs/lecourtcharlie)** | **TEAM SPECIALIZED LILLE** | **9** | **3ème** | **1:09:36** | 
+| **126** | **[LECOURT CHARLIE](/coureurs/lecourtcharlie)** | **TEAM SPECIALIZED LILLE** | **9** | **3ème** | **1:09:36** | 
 | 127 | FINET TIMEO | NEW TEAM MAULDE | 9 | Cadets | 1:13:44 | 
 | 128 | CHIEUX LOU-ANNE | CYCLO CLUB ARMENTIEROIS | 9 | Féminines | 1:17:01 | 
 | 129 | VANDERHAEGEN ADELE | ASSOCIATION CYCLISTE D'ETROEUNGT | 9 | Féminines | 1:17:02 | 
@@ -182,7 +183,7 @@ image: assets/img/blog/road.png
 | 159 | HENOCQ FRANCOIS | UNION SPORTIVE SAINT ANDR | 0 | 2ème | 0:38:53 | 
 | 160 | LESUR ANTHONY | Transpondeur ne fonctionne pas | 0 | 2ème | 0:38:53 | 
 | 161 | MASCRET FREDERIC | Transpondeur ne fonctionne pas | 0 | 2ème | 0:38:53 | 
-| **162** | **[LECOLIER BENOIT](https://teamspecializedlille.cc/coureurs/lecolierbenoit)** | **TEAM SPECIALIZED LILLE** | **0** | **2ème** | **0:38:53** | 
+| **162** | **[LECOLIER BENOIT](/coureurs/lecolierbenoit)** | **TEAM SPECIALIZED LILLE** | **0** | **2ème** | **0:38:53** | 
 | 163 | CROMMELINCK AXEL | VELO CLUB AMANDINOIS | 0 | 3ème | 0:38:53 | 
 | 164 | GOCHON AXEL | TEAM MELANTOIS - ANSTAING | 0 | Cadets | 0:38:53 | 
 | 165 | GUERLE CLEMENT | Transpondeur ne fonctionne pas | 0 | Cadets | 0:38:53 | 

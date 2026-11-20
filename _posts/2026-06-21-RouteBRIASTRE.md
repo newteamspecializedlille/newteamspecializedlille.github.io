@@ -3,17 +3,18 @@ layout: post
 title: Route - BRIASTRE - 2026
 date: 2026-06-21
 category: Route
+permalink: /resultats/route/2026-06-21-briastre/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 17 participants
-- [CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas) : 13
+- [CROMBEZ THOMAS](/coureurs/crombezthomas) : 13
 
 ### 3ème Catégorie
 29 participants
-- [LECOURT CHARLIE](https://teamspecializedlille.cc/coureurs/lecourtcharlie) : 9
+- [LECOURT CHARLIE](/coureurs/lecourtcharlie) : 9
 
 ### Scratch
 85 participants
@@ -48,7 +49,7 @@ image: assets/img/blog/road.png
 | 26 | CONTESSE THIBAUD | TEAM CYCLING LA SENTINELLE | 9 | 2ème | 2:16:27 | 
 | 27 | ROULY ALEXIS | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 9 | 2ème | 2:16:29 | 
 | 28 | VERMEULEN VALERIAN | Entente cycliste Wallers | 8 | 1ère | 1:48:7 | 
-| **29** | **[CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **8** | **1ère** | **1:52:19** | 
+| **29** | **[CROMBEZ THOMAS](/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **8** | **1ère** | **1:52:19** | 
 | 30 | LUCZAK SIMON | ESEG DOUAI | 8 | 3ème | 1:57:52 | 
 | 31 | KONOPKA GABRIEL | CERCLE OLYMPIQUE MARCOING | 8 | 3ème | 1:57:52 | 
 | 32 | FRIBOURG BLANC BASTIEN | UNION SPORTIVE VALENCIENNES CRESPIN | 8 | 3ème | 1:57:52 | 
@@ -57,7 +58,7 @@ image: assets/img/blog/road.png
 | 35 | FLAHAUT JEAN-BAPTISTE | TEAM CYCLING LA SENTINELLE | 8 | 3ème | 2:0:43 | 
 | 36 | HUVELLE SIMON | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 8 | 3ème | 2:1:57 | 
 | 37 | MICHEL STEPHANE | ETOILE CYCLISTE FEIGNIES | 8 | 3ème | 2:2:16 | 
-| **38** | **[LECOURT CHARLIE](https://teamspecializedlille.cc/coureurs/lecourtcharlie)** | **TEAM SPECIALIZED LILLE** | **8** | **3ème** | **2:2:16** | 
+| **38** | **[LECOURT CHARLIE](/coureurs/lecourtcharlie)** | **TEAM SPECIALIZED LILLE** | **8** | **3ème** | **2:2:16** | 
 | 39 | DALLE FREDERIC | VELO CLUB SOLESMES | 8 | 3ème | 2:2:17 | 
 | 40 | BOUTONNE FREDERIC | TEAM BOUSIES | 8 | 3ème | 2:2:17 | 
 | 41 | DEFOSSEZ RODRIGUE | ETOILE CYCLISTE FEIGNIES | 8 | 3ème | 2:2:18 | 

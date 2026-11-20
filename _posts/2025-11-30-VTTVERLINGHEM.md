@@ -3,16 +3,17 @@ layout: post
 title: VTT - VERLINGHEM - 2026
 date: 2025-11-30
 category: VTT
+permalink: /resultats/vtt/2025-11-30-verlinghem/
 tags: VTT
 image: assets/img/blog/vtt.png
 ---
 
 ### VTT Vétérans B
 9 participants
-- [DERASSE PATRICK](https://teamspecializedlille.cc/coureurs/derassepatrick) : Ab
+- [DERASSE PATRICK](/coureurs/derassepatrick) : Ab
 
 ### VTT Juniors
-- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 1
+- [DERASSE DAVID](/coureurs/derassedavid) : 1
 
 ### Scratch
 15 participants
@@ -33,4 +34,4 @@ image: assets/img/blog/vtt.png
 | 12 | DEKOSTER MICKAEL | ARTeam Artois Racing Team | 4 | Vétérans B | 1:16:35 | 
 | 13 | HAVET STEPHANE | BEUVRY CYCLO CLUB | 4 | Vétérans B | 1:22:38 | 
 | 14 | IDZIAK DIDIER | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 4 | Vétérans B | 1:24:7 | 
-| **15** | **[DERASSE PATRICK](https://teamspecializedlille.cc/coureurs/derassepatrick)** | **TEAM SPECIALIZED LILLE** | **0** | **Vétérans B** | **0:38:53** | 
+| **15** | **[DERASSE PATRICK](/coureurs/derassepatrick)** | **TEAM SPECIALIZED LILLE** | **0** | **Vétérans B** | **0:38:53** | 

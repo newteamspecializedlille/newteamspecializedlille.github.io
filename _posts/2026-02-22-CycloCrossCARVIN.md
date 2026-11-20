@@ -3,13 +3,14 @@ layout: post
 title: Cyclo Cross - CARVIN - 2026
 date: 2026-02-22
 category: Cyclo Cross
+permalink: /resultats/cyclo-cross/2026-02-22-carvin/
 tags: cyclo-cross
 image: assets/img/blog/cx.png
 ---
 
 ### 3ème Catégorie
 25 participants
-- [MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix) : 14
+- [MOULIN FELIX](/coureurs/moulinfelix) : 14
 
 ### Scratch
 45 participants
@@ -47,7 +48,7 @@ image: assets/img/blog/cx.png
 | 29 | DHOTE SAMUEL | VELO CLUB AMANDINOIS | 9 | 3ème | 0:59:30 | 
 | 30 | ALEXANDRE MAGGY | ETOILE CYCLISTE FEIGNIES | 9 | 3ème | 1:0:16 | 
 | 31 | CROMMELINCK PATRICK | CYCLOS RANDONNEURS LA BASSEE | 8 | 3ème | 0:53:28 | 
-| **32** | **[MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **8** | **3ème** | **0:53:50** | 
+| **32** | **[MOULIN FELIX](/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **8** | **3ème** | **0:53:50** | 
 | 33 | FLAMENT ETHAN | TEAM BOUSIES | 8 | 3ème | 0:54:11 | 
 | 34 | CARDON . DAVID | CYCLO CLUB ORCHIES | 8 | 3ème | 0:54:51 | 
 | 35 | BOYANNICK ARNAUD | OHM CYCLISME HESDIN | 8 | 3ème | 0:55:0 | 

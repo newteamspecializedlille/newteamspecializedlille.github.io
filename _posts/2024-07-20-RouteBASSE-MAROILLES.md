@@ -3,19 +3,20 @@ layout: post
 title: Route - BASSE MAROILLES - 2024
 date: 2024-07-20
 category: Route
+permalink: /resultats/route/2024-07-20-basse-maroilles/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
 30 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 3
-- [MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio) : 4
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 3
+- [MINNECI ELIO](/coureurs/minnecielio) : 4
 
 ### 3ème Catégorie
 47 participants
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 29
-- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : Ab
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 29
+- [WALTER BENOIT](/coureurs/walterbenoit) : Ab
 
 ### Scratch
 101 participants
@@ -35,8 +36,8 @@ image: assets/img/blog/road.png
 | 11 | RIVART ADRIEN | ASSOCIATION CYCLISTE BELLAINGEOISE | 23 | 1ère | 1:31:6 | 
 | 12 | DEMOL LEO | UNION SPORTIVE SAINT ANDRE | 22 | 2ème | 1:23:18 | 
 | 13 | MAES LOUIS | CYCLO CLUB WAVRIN | 22 | 2ème | 1:23:18 | 
-| **14** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **22** | **2ème** | **1:23:19** | 
-| **15** | **[MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **22** | **2ème** | **1:23:46** | 
+| **14** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **22** | **2ème** | **1:23:19** | 
+| **15** | **[MINNECI ELIO](/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **22** | **2ème** | **1:23:46** | 
 | 16 | ROUSSEAU DIDIER | ETOILE CYCLISTE FEIGNIES | 22 | 2ème | 1:23:46 | 
 | 17 | FONTAINE THOMAS | ETOILE CYCLISTE FEIGNIES | 22 | 2ème | 1:23:47 | 
 | 18 | IMBERT JOHNNY | ETOILE CYCLISTE LIEU ST AMAND | 22 | 2ème | 1:23:47 | 
@@ -91,7 +92,7 @@ image: assets/img/blog/road.png
 | 67 | LESUR ANTHONY | SAULZOIR MONTRECOURT CYCLING CLUB | 18 | 2ème | 1:21:53 | 
 | 68 | BOUZIN BENJAMIN | ASSOCIATION CYCLISTE D'ETROEUNGT | 18 | 2ème | 1:25:46 | 
 | 69 | BINOT JULIEN | VTT  CLUB PONT SUR SAMBRE | 17 | 3ème | 1:6:16 | 
-| **70** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **17** | **3ème** | **1:6:18** | 
+| **70** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **17** | **3ème** | **1:6:18** | 
 | 71 | SARNELLI MICKAEL | VELO CLUB DE L'ESCAUT ANZIN | 17 | 3ème | 1:6:18 | 
 | 72 | GRAVEZ SAMUEL | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 17 | 3ème | 1:10:53 | 
 | 73 | LECHAT RENAUD | UNION SPORTIVE VALENCIENNES CRESPIN | 16 | 2ème | 1:6:38 | 
@@ -117,7 +118,7 @@ image: assets/img/blog/road.png
 | 93 | DECRUCQ ROMUALD | UNION VELOCIPEDIQUE FOURM | 0 | 3ème | 0:38:53 | 
 | 94 | MATHIEU ELIAN | TEAM CYCLISTE LA BORDURE | 0 | 3ème | 0:38:53 | 
 | 95 | BURY RANDY | TEAM BOUSIES | 0 | 3ème | 0:38:53 | 
-| **96** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
+| **96** | **[WALTER BENOIT](/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
 | 97 | DALLE FREDERIC | VELO CLUB SOLESMES | 0 | 3ème | 0:38:53 | 
 | 98 | BUTEL LENNY | SAULZOIR MONTRECOURT CYCL | 0 | 3ème | 0:38:53 | 
 | 99 | BLONDEAU LUDIVINE | CLUB DES SUPPORTERS CYCLI | 0 | 3ème | 0:38:53 | 

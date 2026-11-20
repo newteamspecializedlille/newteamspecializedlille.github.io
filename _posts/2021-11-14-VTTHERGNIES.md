@@ -3,13 +3,14 @@ layout: post
 title: VTT - HERGNIES - 2022
 date: 2021-11-14
 category: VTT
+permalink: /resultats/vtt/2021-11-14-hergnies/
 tags: VTT
 image: assets/img/blog/vtt.png
 ---
 
 ### VTT Vétérans A
 17 participants
-- [BRADEFER GERY](https://teamspecializedlille.cc/coureurs/bradefergery) : 1
+- [BRADEFER GERY](/coureurs/bradefergery) : 1
 
 ### Scratch
 40 participants
@@ -18,7 +19,7 @@ image: assets/img/blog/vtt.png
 |---|---|---|---|---|---|
 | 1 | DEMEESTER KEVIN | WINGLES PYRAMIDES PASSION | 8 | Seniors B | 0:48:41 | 
 | 2 | CANONNE STEVEN | VELO SPRINT DE L'OSTREVEN | 8 | Seniors A | 0:48:45 | 
-| **3** | **[BRADEFER GERY](https://teamspecializedlille.cc/coureurs/bradefergery)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans A** | **0:48:45** | 
+| **3** | **[BRADEFER GERY](/coureurs/bradefergery)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans A** | **0:48:45** | 
 | 4 | GENIESSE REMI | ENTENTE SPORTIVE ENFANTS  | 8 | Seniors A | 0:50:18 | 
 | 5 | COASNE CLEMENT | ESEG DOUAI | 8 | Seniors A | 0:50:39 | 
 | 6 | JABLONSKI SEBASTIEN | TEAM B.B.L. HERGNIES | 8 | Vétérans A | 0:50:54 | 

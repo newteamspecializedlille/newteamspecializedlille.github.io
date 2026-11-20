@@ -3,14 +3,15 @@ layout: post
 title: Route - BOUSIES1 - 2021
 date: 2021-07-11
 category: Route
+permalink: /resultats/route/2021-07-11-bousies1/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 33 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : Ab
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : Ab
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : Ab
+- [DEFOSSE HERVE](/coureurs/defosseherve) : Ab
 
 ### Scratch
 188 participants

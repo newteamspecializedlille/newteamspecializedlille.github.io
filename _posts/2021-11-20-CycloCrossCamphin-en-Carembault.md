@@ -3,13 +3,14 @@ layout: post
 title: Cyclo Cross - Camphin en Carembault - 2022
 date: 2021-11-20
 category: Cyclo Cross
+permalink: /resultats/cyclo-cross/2021-11-20-camphin-en-carembault/
 tags: cyclo-cross
 image: assets/img/blog/cx.png
 ---
 
 ### 3ème Catégorie
 43 participants
-- [MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix) : Ab
+- [MOULIN FELIX](/coureurs/moulinfelix) : Ab
 
 ### Scratch
 69 participants
@@ -84,4 +85,4 @@ image: assets/img/blog/cx.png
 | 66 | LELEU GUILLAUME | CYCLO CLUB WAVRIN | 4 | 3ème | 0:52:11 | 
 | 67 | VANDEMEULEBROUCKE KEVIN | UNION SPORTIVE SAINT ANDR | 4 | 3ème | 0:52:14 | 
 | 68 | MALLET DAVID | UNION SPORTIVE SAINT ANDR | 4 | 3ème | 0:55:50 | 
-| **69** | **[MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
+| **69** | **[MOULIN FELIX](/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 

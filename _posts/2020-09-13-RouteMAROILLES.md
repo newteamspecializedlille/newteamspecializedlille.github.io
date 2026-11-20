@@ -3,13 +3,14 @@ layout: post
 title: Route - MAROILLES - 2020
 date: 2020-09-13
 category: Route
+permalink: /resultats/route/2020-09-13-maroilles/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 42 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 25
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 25
 
 ### Scratch
 270 participants

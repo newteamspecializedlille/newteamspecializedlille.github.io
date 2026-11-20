@@ -3,19 +3,20 @@ layout: post
 title: Route - THUN ST AMAND - 2026
 date: 2026-08-16
 category: Route
+permalink: /resultats/route/2026-08-16-thun-st-amand/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
 45 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 25
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 25
 
 ### 3ème Catégorie
 44 participants
-- [HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe) : 4
-- [LECOURT CHARLIE](https://teamspecializedlille.cc/coureurs/lecourtcharlie) : 12
-- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 29
+- [HUBAUT CHRISTOPHE](/coureurs/hubautchristophe) : 4
+- [LECOURT CHARLIE](/coureurs/lecourtcharlie) : 12
+- [DEFER OLIVIER](/coureurs/deferolivier) : 29
 
 ### Scratch
 164 participants
@@ -67,7 +68,7 @@ image: assets/img/blog/road.png
 | 43 | CUPERS ALEXIS | CYCLO CLUB ORCHIES | 16 | 2ème | 1:36:32 | 
 | 44 | JACOB HUGO | UNION SPORTIVE SAINT ANDRE | 16 | 2ème | 1:36:32 | 
 | 45 | LESUR ANTHONY | Entente cycliste Wallers Arenberg Bellaing | 16 | 2ème | 1:36:33 | 
-| **46** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **16** | **2ème** | **1:36:34** | 
+| **46** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **16** | **2ème** | **1:36:34** | 
 | 47 | VAILLANT LOUIS | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 16 | 2ème | 1:36:34 | 
 | 48 | KRYLOV STANISLAV | CYCLO CLUB ARMENTIEROIS | 16 | 2ème | 1:36:34 | 
 | 49 | TISON CEDRIC | NEW TEAM MAULDE | 16 | 2ème | 1:36:34 | 
@@ -79,7 +80,7 @@ image: assets/img/blog/road.png
 | 55 | TISON ALEXIS | ESEG DOUAI | 15 | 3ème | 1:33:5 | 
 | 56 | CREPEL FLORIAN | UNION SPORTIVE VALENCIENNES CRESPIN | 15 | 3ème | 1:33:5 | 
 | 57 | WILLOT ANTOINE | ARTEAM ARTOIS RACING TEAM | 15 | 3ème | 1:33:5 | 
-| **58** | **[HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe)** | **TEAM SPECIALIZED LILLE** | **15** | **3ème** | **1:33:6** | 
+| **58** | **[HUBAUT CHRISTOPHE](/coureurs/hubautchristophe)** | **TEAM SPECIALIZED LILLE** | **15** | **3ème** | **1:33:6** | 
 | 59 | DEJEAN MATHIS | TEAM CYCLISTE LA BORDURE - BETTRECHIES | 15 | 3ème | 1:33:6 | 
 | 60 | BECUWE ROMAIN | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 15 | 3ème | 1:33:6 | 
 | 61 | FINET ALEXIS | NEW TEAM MAULDE | 15 | 3ème | 1:33:6 | 
@@ -87,7 +88,7 @@ image: assets/img/blog/road.png
 | 63 | GEORGES BENOIT | VELO CLUB UNION HALLUIN | 15 | 3ème | 1:33:6 | 
 | 64 | LANOY CHRISTOPHER | UNION SPORTIVE VALENCIENNES CRESPIN | 15 | 3ème | 1:33:6 | 
 | 65 | CICHOWSKI DAVID | VELO SPRINT DE L'OSTREVENT - ANICHE | 15 | 3ème | 1:33:6 | 
-| **66** | **[LECOURT CHARLIE](https://teamspecializedlille.cc/coureurs/lecourtcharlie)** | **TEAM SPECIALIZED LILLE** | **15** | **3ème** | **1:33:7** | 
+| **66** | **[LECOURT CHARLIE](/coureurs/lecourtcharlie)** | **TEAM SPECIALIZED LILLE** | **15** | **3ème** | **1:33:7** | 
 | 67 | TRIOLO FLORENT | TEAM BOUSIES | 15 | 3ème | 1:33:7 | 
 | 68 | EMMERY VINCENT | NOEUX VELO CLUB NOEUXOIS | 15 | 3ème | 1:33:7 | 
 | 69 | DEVILLEZ KEVIN | VELO CLUB DE L'ESCAUT ANZIN | 15 | 3ème | 1:33:7 | 
@@ -104,7 +105,7 @@ image: assets/img/blog/road.png
 | 80 | WINS JEAN FRANCOIS | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 15 | 3ème | 1:33:8 | 
 | 81 | DOOLAEGHE TERRY | VELO CLUB UNION HALLUIN | 15 | 3ème | 1:33:15 | 
 | 82 | CLAISSE ANAIS | UNION SPORTIVE VALENCIENNES CRESPIN | 15 | 3ème | 1:33:17 | 
-| **83** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **15** | **3ème** | **1:33:23** | 
+| **83** | **[DEFER OLIVIER](/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **15** | **3ème** | **1:33:23** | 
 | 84 | CLIQUET CLEMENT | NEW TEAM MAULDE | 15 | 2ème | 1:35:57 | 
 | 85 | VANDEN TORREN MAXIME | HENIN ETOILE CYCLISTE HENINOISE | 15 | 2ème | 1:35:58 | 
 | 86 | TIAGO SEBASTIAN | NEW ORANGE TEAM BOUSBECQUE | 15 | 2ème | 1:36:29 | 

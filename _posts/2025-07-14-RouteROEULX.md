@@ -3,14 +3,15 @@ layout: post
 title: Route - ROEULX - 2025
 date: 2025-07-14
 category: Route
+permalink: /resultats/route/2025-07-14-roeulx/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 3ème Catégorie
 49 participants
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 2
-- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 15
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 2
+- [WALTER BENOIT](/coureurs/walterbenoit) : 15
 
 ### Scratch
 134 participants
@@ -62,7 +63,7 @@ image: assets/img/blog/road.png
 | 43 | DEVEYER CLEMENT | CERCLE OLYMPIQUE MARCOING | 0 | 2ème | 0:38:53 | 
 | 44 | MEUNIER ROSALIE | TEAM AVESNOIS - LEVAL | 0 | 2ème | 0:38:53 | 
 | 45 | HENOCQ FRANCOIS | UNION SPORTIVE SAINT ANDRE | 0 | 3ème | 0:38:53 | 
-| **46** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
+| **46** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
 | 47 | BURY RANDY | TEAM BOUSIES | 0 | 3ème | 0:38:53 | 
 | 48 | GALVAIRE CHRISTOPHE | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 0 | 3ème | 0:38:53 | 
 | 49 | GEORGES BENOIT | VELO CLUB UNION HALLUIN | 0 | 3ème | 0:38:53 | 
@@ -75,7 +76,7 @@ image: assets/img/blog/road.png
 | 56 | FLAMENT JAMES | HARNES VELO CLUB HARNESIEN | 0 | 3ème | 0:38:53 | 
 | 57 | GEORGES ALEXANDRE | BEUVRY CYCLO CLUB | 0 | 3ème | 0:38:53 | 
 | 58 | DEVILLEZ KEVIN  | ANZIN | 0 | 3ème | 0:38:53 | 
-| **59** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
+| **59** | **[WALTER BENOIT](/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
 | 60 | JACOBS GUILLAUME | VTT  CLUB PONT SUR SAMBRE | 0 | 3ème | 0:38:53 | 
 | 61 | MARY KEVIN | VELO CLUB SOLESMES | 0 | 3ème | 0:38:53 | 
 | 62 | RENAUT VINCENT | SAULZOIR MONTRECOURT CYCLING CLUB | 0 | 3ème | 0:38:53 | 

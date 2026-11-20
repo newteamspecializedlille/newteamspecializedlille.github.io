@@ -3,19 +3,20 @@ layout: post
 title: Route - COLLERET - 2025
 date: 2025-08-15
 category: Route
+permalink: /resultats/route/2025-08-15-colleret/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
 31 participants
-- [BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine) : 7
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 14
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 16
+- [BROUTIN ANTOINE](/coureurs/broutinantoine) : 7
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 14
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 16
 
 ### 3ème Catégorie
 18 participants
-- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 4
+- [WALTER BENOIT](/coureurs/walterbenoit) : 4
 
 ### Scratch
 75 participants
@@ -34,16 +35,16 @@ image: assets/img/blog/road.png
 | 10 | RICHET JEREMY | GILLOT CYCLING CLUB FEIGNIES | 23 | 2ème | 1:44:0 | 
 | 11 | HELLOT FRANCOIS | HAVELUY CYCLO CLUB | 23 | 2ème | 1:44:10 | 
 | 12 | TOURNEUX MICKAEL | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 23 | 2ème | 1:44:15 | 
-| **13** | **[BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine)** | **TEAM SPECIALIZED LILLE** | **23** | **2ème** | **1:45:37** | 
+| **13** | **[BROUTIN ANTOINE](/coureurs/broutinantoine)** | **TEAM SPECIALIZED LILLE** | **23** | **2ème** | **1:45:37** | 
 | 14 | HAVET SEBASTIEN | GAZ ELEC CLUB DE DOUAI | 23 | 2ème | 1:45:41 | 
 | 15 | BLAZE LOIC | UNION CYCLISTE SOLRE LE CHATEAU | 23 | 2ème | 1:45:57 | 
 | 16 | DRUART JEROME | TEAM CYCLISTE LA BORDURE - BETTRECHIES | 23 | 2ème | 1:45:59 | 
 | 17 | ROSZKIEWICZ RAPHAEL | VELO CLUB DE L'ESCAUT ANZIN | 23 | 2ème | 1:46:2 | 
 | 18 | KRYLOV STANISLAV | CYCLO CLUB ARMENTIEROIS | 23 | 2ème | 1:46:2 | 
 | 19 | HAMMANUKA YEVHENII | ASSOCIATION CYCLISTE D'ETROEUNGT | 23 | 2ème | 1:46:2 | 
-| **20** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **23** | **2ème** | **1:46:3** | 
+| **20** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **23** | **2ème** | **1:46:3** | 
 | 21 | HOUDART PHILIPPE | CAMPHIN EN CAREMBAULT CYCLING TEAM | 23 | 2ème | 1:46:3 | 
-| **22** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **23** | **2ème** | **1:46:4** | 
+| **22** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **23** | **2ème** | **1:46:4** | 
 | 23 | MOUFTIER LOUKA | TEAM VTT JEUMONT | 23 | 2ème | 1:46:9 | 
 | 24 | BLONDEL FREDERIC | ESEG DOUAI | 23 | 2ème | 1:46:11 | 
 | 25 | DELPIRE FREDERIC | VTT  CLUB PONT SUR SAMBRE | 23 | 2ème | 1:46:13 | 
@@ -56,7 +57,7 @@ image: assets/img/blog/road.png
 | 32 | DRUART THIBAUT | TEAM CYCLISTE LA BORDURE - BETTRECHIES | 19 | 3ème | 1:32:35 | 
 | 33 | DEFOSSEZ RODRIGUE | CLUB CYCLISTE THUN ST MARTIN | 19 | 3ème | 1:32:35 | 
 | 34 | GRAVEZ SAMUEL | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 19 | 3ème | 1:32:35 | 
-| **35** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **19** | **3ème** | **1:32:35** | 
+| **35** | **[WALTER BENOIT](/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **19** | **3ème** | **1:32:35** | 
 | 36 | CHEVAL EDDY | SAULZOIR MONTRECOURT CYCLING CLUB | 19 | 3ème | 1:32:44 | 
 | 37 | CESAR BENOIT | NEW ORANGE TEAM BOUSBECQUE | 19 | 3ème | 1:36:36 | 
 | 38 | HELLE FABRICE | VELO SPRINT BOUCHAIN | 19 | 3ème | 1:36:37 | 

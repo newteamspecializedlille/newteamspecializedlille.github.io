@@ -3,15 +3,16 @@ layout: post
 title: Route - LIEU SAINT AMAND2 - 2025
 date: 2025-09-07
 category: Route
+permalink: /resultats/route/2025-09-07-lieu-saint-amand2/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
 54 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 14
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 32
-- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 39
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 14
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 32
+- [DEFER OLIVIER](/coureurs/deferolivier) : 39
 
 ### Scratch
 168 participants
@@ -33,7 +34,7 @@ image: assets/img/blog/road.png
 | 13 | HAIDON PASCAL | ASSOCIATION CYCLISTE BELLAINGEOISE | 19 | 2ème | 1:48:28 | 
 | 14 | VERMEULEN VALERIAN | TEAM ENFER WALLERS ARENBERG | 19 | 2ème | 1:48:28 | 
 | 15 | DORGE AURELIEN | VELO SPRINT BOUCHAIN | 19 | 1ère | 1:48:32 | 
-| **16** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **19** | **2ème** | **1:48:42** | 
+| **16** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **19** | **2ème** | **1:48:42** | 
 | 17 | HENOCQ FRANCOIS | UNION SPORTIVE SAINT ANDRE | 19 | 2ème | 1:48:53 | 
 | 18 | VERWAERDE FABIEN | BAILLEUL VELO CLUB | 19 | 2ème | 1:48:57 | 
 | 19 | VANDERHAEGEN MAEL | ASSOCIATION CYCLISTE D'ETROEUNGT | 19 | 1ère | 1:49:15 | 
@@ -62,14 +63,14 @@ image: assets/img/blog/road.png
 | 42 | ARGENTINO ANTHONY | UNION SPORTIVE SAINT ANDRE | 19 | 2ème | 1:50:59 | 
 | 43 | TISON CEDRIC | TEAM ENFER WALLERS ARENBERG | 19 | 2ème | 1:51:1 | 
 | 44 | IMBERT JOHNNY | ETOILE CYCLISTE LIEU ST AMAND | 19 | 2ème | 1:51:1 | 
-| **45** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **19** | **2ème** | **1:51:6** | 
+| **45** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **19** | **2ème** | **1:51:6** | 
 | 46 | VAILLANT LOUIS | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 19 | 2ème | 1:51:6 | 
 | 47 | BLONDEAU BENOIT | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 19 | 2ème | 1:51:6 | 
 | 48 | COMBLIN DAVID | ASSOCIATION CYCLISTE BELLAINGEOISE | 19 | 2ème | 1:51:7 | 
 | 49 | LESUR ANTHONY | SAULZOIR MONTRECOURT CYCLING CLUB | 18 | 2ème | 1:45:3 | 
 | 50 | RIVART THIERRY | VTT  CLUB PONT SUR SAMBRE | 18 | 2ème | 1:46:3 | 
 | 51 | LECCI PIERRE | HAVELUY CYCLO CLUB | 18 | 2ème | 1:47:13 | 
-| **52** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **18** | **2ème** | **1:47:24** | 
+| **52** | **[DEFER OLIVIER](/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **18** | **2ème** | **1:47:24** | 
 | 53 | LAMARCHE FRANCK | TEAM DECOPUB PROVILLE | 18 | 1ère | 1:49:15 | 
 | 54 | VAN FRIEL MAXIME | TEAM AVESNOIS - LEVAL | 18 | 1ère | 1:49:35 | 
 | 55 | COMBLIN JUSTIN | ASSOCIATION CYCLISTE BELLAINGEOISE | 18 | 1ère | 1:49:47 | 

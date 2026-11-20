@@ -3,6 +3,7 @@ layout: post
 title: Cyclo Cross - ESTEVELLES2 - 2024
 date: 2023-12-31
 category: Cyclo Cross
+permalink: /resultats/cyclo-cross/2023-12-31-estevelles2/
 tags: cyclo-cross
 image: assets/resultats/2023/cyclo-cross/12-31-estevelles2/1.jpg
 images:
@@ -15,8 +16,8 @@ images:
 
 ### 3ème Catégorie
 21 participants
-- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 3
-- [MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix) : 6
+- [DERASSE DAVID](/coureurs/derassedavid) : 3
+- [MOULIN FELIX](/coureurs/moulinfelix) : 6
 
 ### Scratch
 49 participants
@@ -47,11 +48,11 @@ images:
 | 22 | DEGEUSE TIM | BARLIN CERCLE LAIQUE | 6 | 1ère | 0:54:1 | 
 | 23 | RICHARD NICOLAS | ESEG DOUAI | 6 | 2ème | 0:54:9 | 
 | 24 | TOURLAND AUBIN | VELO CLUB DE L'ESCAUT ANZIN | 6 | 3ème | 0:54:46 | 
-| **25** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **6** | **3ème** | **0:55:15** | 
+| **25** | **[DERASSE DAVID](/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **6** | **3ème** | **0:55:15** | 
 | 26 | CAPILLIEZ PIERRE -ALAIN | MANQUEVILLE LILLERS CLUB CYCLISTE | 6 | 3ème | 0:56:1 | 
 | 27 | DUFOUR SYLVAIN | VELO CLUB UNION HALLUIN | 6 | 3ème | 0:56:5 | 
 | 28 | HENNO FABRICE | CYCLO CLUB ORCHIES | 6 | 2ème | 0:56:53 | 
-| **29** | **[MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **6** | **3ème** | **0:56:57** | 
+| **29** | **[MOULIN FELIX](/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **6** | **3ème** | **0:56:57** | 
 | 30 | DHAUSSY MELVIN | AGNY ARTeam | 6 | 3ème | 0:57:40 | 
 | 31 | BECAERT LOIC | TEAM LABIERE BAILLEUL | 6 | 3ème | 0:57:51 | 
 | 32 | LUCAS LAURENT | ARTOIS CYCLING TEAM | 6 | 3ème | 0:58:29 | 

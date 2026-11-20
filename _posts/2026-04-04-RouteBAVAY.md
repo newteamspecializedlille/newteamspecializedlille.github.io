@@ -3,6 +3,7 @@ layout: post
 title: Route - BAVAY - 2026
 date: 2026-04-04
 category: Route
+permalink: /resultats/route/2026-04-04-bavay/
 tags: Route
 images:
   - photographer: felix toto
@@ -11,8 +12,8 @@ images:
 
 ### 3ème Catégorie
 76 participants
-- [HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe) : 27
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 29
+- [HUBAUT CHRISTOPHE](/coureurs/hubautchristophe) : 27
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 29
 
 ### Scratch
 206 participants
@@ -104,9 +105,9 @@ images:
 | 83 | SCREVE THIBAUT | 52X11 HIRSON THIERACHE | 14 | 3ème | 1:39:41 | 
 | 84 | BECUWE ROMAIN | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 14 | 3ème | 1:40:12 | 
 | 85 | DELSAUT RICHARD | ASSOCIATION CYCLISTE D'ETROEUNGT | 14 | 3ème | 1:40:13 | 
-| **86** | **[HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe)** | **TEAM SPECIALIZED LILLE** | **14** | **3ème** | **1:40:15** | 
+| **86** | **[HUBAUT CHRISTOPHE](/coureurs/hubautchristophe)** | **TEAM SPECIALIZED LILLE** | **14** | **3ème** | **1:40:15** | 
 | 87 | AUVRAY LOIC | RESILIENCE CLUB | 14 | 3ème | 1:40:15 | 
-| **88** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **14** | **3ème** | **1:40:19** | 
+| **88** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **14** | **3ème** | **1:40:19** | 
 | 89 | FRANCOIS GERALD | TEAM CYCLING LA SENTINELLE | 14 | 3ème | 1:40:19 | 
 | 90 | DEMORY ERIC | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 14 | 3ème | 1:40:30 | 
 | 91 | DEJEAN MATHIS | TEAM CYCLISTE LA BORDURE - BETTRECHIES | 14 | 3ème | 1:40:37 | 

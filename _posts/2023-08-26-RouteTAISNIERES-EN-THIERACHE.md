@@ -3,13 +3,14 @@ layout: post
 title: Route - TAISNIERES EN THIERACHE - 2023
 date: 2023-08-26
 category: Route
+permalink: /resultats/route/2023-08-26-taisnieres-en-thierache/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 23 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 12
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 12
 
 ### Scratch
 131 participants
@@ -27,7 +28,7 @@ image: assets/img/blog/road.png
 | 9 | WINS ALEXIS | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 12 | 1ère | 1:55:55 | 
 | 10 | DE RIDDER SEBASTIEN | NOUVELLE ETOILE SPORTIVE BOUE ETREUX | 12 | 1ère | 1:59:11 | 
 | 11 | RIVART ADRIEN | ASSOCIATION CYCLISTE BELLAINGEOISE | 12 | 1ère | 1:59:11 | 
-| **12** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **12** | **1ère** | **1:59:11** | 
+| **12** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **12** | **1ère** | **1:59:11** | 
 | 13 | VAILLANT LOUIS | UNION SPORTIVE VALENCIENNES CRESPIN | 12 | 1ère | 1:59:14 | 
 | 14 | LEFEVRE EDDY | UNION VELOCIPEDIQUE FOURMISIENNE | 12 | 1ère | 1:59:19 | 
 | 15 | MICHEL ANTHONY | ASSOCIATION CYCLISTE BELLAINGEOISE | 12 | 1ère | 1:59:25 | 

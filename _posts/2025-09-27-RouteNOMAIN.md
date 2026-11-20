@@ -3,18 +3,19 @@ layout: post
 title: Route - NOMAIN - 2025
 date: 2025-09-27
 category: Route
+permalink: /resultats/route/2025-09-27-nomain/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
 42 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 10
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 15
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 10
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 15
 
 ### 3ème Catégorie
 58 participants
-- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 7
+- [WALTER BENOIT](/coureurs/walterbenoit) : 7
 
 ### Scratch
 154 participants
@@ -52,12 +53,12 @@ image: assets/img/blog/road.png
 | 29 | HIERNAUX TANGUY | ASSOCIATION CYCLISTE D'ETROEUNGT | 21 | 2ème | 1:44:25 | 
 | 30 | BURY RANDY | TEAM BOUSIES | 21 | 2ème | 1:44:25 | 
 | 31 | DEWAILLY VINCENT | UNION SPORTIVE SAINT ANDRE | 21 | 2ème | 1:44:25 | 
-| **32** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **21** | **2ème** | **1:44:25** | 
+| **32** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **21** | **2ème** | **1:44:25** | 
 | 33 | VANWYNSBERGHE SAMUEL | NEW ORANGE TEAM BOUSBECQUE | 21 | 2ème | 1:44:26 | 
 | 34 | BIENFAIT LIONEL | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 21 | 2ème | 1:44:26 | 
 | 35 | DERENZIS RYAN | Entente cycliste Wallers Arenberg Bellaing | 21 | 2ème | 1:44:26 | 
 | 36 | KNOCKAERT JULIEN | TEAM CYCLISTE PROVINOIS - PROVIN | 21 | 2ème | 1:44:26 | 
-| **37** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **21** | **2ème** | **1:44:26** | 
+| **37** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **21** | **2ème** | **1:44:26** | 
 | 38 | WAERNIER ROMUALD | ETOILE CYCLISTE LIEU ST AMAND | 21 | 2ème | 1:44:27 | 
 | 39 | DRUMEZ CLEMENT | ESEG DOUAI | 21 | 1ère | 1:44:28 | 
 | 40 | ARGENTINO ANTHONY | UNION SPORTIVE SAINT ANDRE | 21 | 2ème | 1:44:28 | 
@@ -87,7 +88,7 @@ image: assets/img/blog/road.png
 | 64 | BRUNIAUX STEPHANE | LES VIKINGS VTT MARCHE NORDIQUE OHAIN | 17 | 3ème | 1:23:30 | 
 | 65 | CAPELLE FRANCKY | ETOILE CYCLISTE TOURCOING | 17 | 3ème | 1:23:31 | 
 | 66 | DECONINCK MAXIMILIEN | CYCLO CLUB ORCHIES | 17 | 3ème | 1:23:31 | 
-| **67** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **17** | **3ème** | **1:23:31** | 
+| **67** | **[WALTER BENOIT](/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **17** | **3ème** | **1:23:31** | 
 | 68 | TOLI HYACINTHE | ROUE D'OR COMINOISE | 17 | 3ème | 1:23:31 | 
 | 69 | LARGEAU FREDERIC | SAULZOIR MONTRECOURT CYCLING CLUB | 17 | 3ème | 1:23:32 | 
 | 70 | CICHOWSKI DAVID | VELO SPRINT DE L'OSTREVENT - ANICHE | 17 | 3ème | 1:23:32 | 

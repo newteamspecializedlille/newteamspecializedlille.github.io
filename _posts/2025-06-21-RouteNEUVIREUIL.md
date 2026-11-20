@@ -3,14 +3,15 @@ layout: post
 title: Route - NEUVIREUIL - 2025
 date: 2025-06-21
 category: Route
+permalink: /resultats/route/2025-06-21-neuvireuil/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
 37 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 2
-- [BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine) : AB
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 2
+- [BROUTIN ANTOINE](/coureurs/broutinantoine) : AB
 
 ### Scratch
 115 participants
@@ -23,7 +24,7 @@ image: assets/img/blog/road.png
 | 4 | LOGIE MATHIEU | NEW ORANGE TEAM BOUSBECQUE | 10 | 1ère | 0:38:53 | 
 | 5 | VASSEUR HUGO | UNION SPORTIVE SAINT ANDRE | 10 | 1ère | 0:38:53 | 
 | 6 | DIEUDONNE GUILLAUME | GAZ ELEC CLUB DE DOUAI | 10 | 2ème | 1:45:39 | 
-| **7** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **10** | **2ème** | **1:45:46** | 
+| **7** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **10** | **2ème** | **1:45:46** | 
 | 8 | DEURBROECK KRIS | UNION SPORTIVE SAINT ANDRE | 10 | 2ème | 1:45:47 | 
 | 9 | CHUTSCH ALBAN | GAZ ELEC CLUB DE DOUAI | 10 | 2ème | 1:45:51 | 
 | 10 | FONTAINE EMMANUEL | TEAM POLICE HDF | 10 | 2ème | 1:45:52 | 
@@ -92,7 +93,7 @@ image: assets/img/blog/road.png
 | 73 | DHIERS EDGAR | ARTeam Artois Racing Team | 8 | 3ème | 9:30:55 | 
 | 74 | POULAIN NOAH | VELO SPRINT DE L'OSTREVENT - ANICHE | 8 | 3ème | 9:30:59 | 
 | 75 | TOURNON DAMIEN | VELO CLUB DE LEWARDE (VCL) | 8 | 3ème | 9:31:40 | 
-| **76** | **[BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine)** | **TEAM SPECIALIZED LILLE** | **7** | **2ème** | **1:14:31** | 
+| **76** | **[BROUTIN ANTOINE](/coureurs/broutinantoine)** | **TEAM SPECIALIZED LILLE** | **7** | **2ème** | **1:14:31** | 
 | 77 | SAUVAGE FRANCOIS | VELO CLUB DE L'ESCAUT ANZIN | 7 | 2ème | 1:14:52 | 
 | 78 | LECLERCQ JULIEN | ARTeam Artois Racing Team | 7 | 2ème | 1:15:57 | 
 | 79 | PAUCHET KEVIN | GAZ ELEC CLUB DE DOUAI | 7 | 1ère | 1:17:31 | 

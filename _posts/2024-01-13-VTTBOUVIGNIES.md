@@ -3,6 +3,7 @@ layout: post
 title: VTT - BOUVIGNIES - 2024
 date: 2024-01-13
 category: VTT
+permalink: /resultats/vtt/2024-01-13-bouvignies/
 tags: VTT
 image: assets/resultats/2024/vtt/01-13-bouvignies/1.jpg
 images:
@@ -11,7 +12,7 @@ images:
 
 ### VTT Vétérans B
 14 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 1
+- [MATTIOLI RONALD](/coureurs/mattiolironald) : 1
 
 ### Scratch
 31 participants
@@ -24,7 +25,7 @@ images:
 | 4 | DARTUS MIKAEL | VELO CLUB SOLESMES | 8 | Vétérans A | 0:57:12 | 
 | 5 | LEPLAN BENJAMIN | AGNY ARTeam | 8 | Seniors B | 0:58:6 | 
 | 6 | JABLONSKI SEBASTIEN | TEAM B.B.L. HERGNIES | 8 | Vétérans A | 0:58:53 | 
-| **7** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans B** | **0:58:57** | 
+| **7** | **[MATTIOLI RONALD](/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans B** | **0:58:57** | 
 | 8 | COLLET LEO | ESEG DOUAI | 8 | Seniors A | 0:59:0 | 
 | 9 | CAZE ALBAN | UNION SPORTIVE SAINT ANDRE | 8 | Vétérans A | 0:59:28 | 
 | 10 | HANNOT CHRISTOPHE | UNION SPORTIVE VALENCIENNES CRESPIN | 8 | Vétérans A | 1:0:0 | 

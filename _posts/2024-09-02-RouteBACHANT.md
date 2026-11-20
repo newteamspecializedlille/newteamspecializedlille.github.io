@@ -3,13 +3,14 @@ layout: post
 title: Route - BACHANT - 2024
 date: 2024-09-02
 category: Route
+permalink: /resultats/route/2024-09-02-bachant/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
 12 participants
-- [BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine) : Ab
+- [BROUTIN ANTOINE](/coureurs/broutinantoine) : Ab
 
 ### Scratch
 77 participants
@@ -82,7 +83,7 @@ image: assets/img/blog/road.png
 | 64 | JEANNES PATRICK | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 21 | 4ème | 1:17:2 | 
 | 65 | SORLIN FABIEN | VELO CLUB BAVAISIEN | 21 | 4ème | 1:17:5 | 
 | 66 | BOUVELLE PHILIPPE | LA ROUE D'OR GUISARDE | 20 | 4ème | 1:20:14 | 
-| **67** | **[BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine)** | **TEAM SPECIALIZED LILLE** | **11** | **2ème** | **0:38:31** | 
+| **67** | **[BROUTIN ANTOINE](/coureurs/broutinantoine)** | **TEAM SPECIALIZED LILLE** | **11** | **2ème** | **0:38:31** | 
 | 68 | DOYEN MATHIS | CYCLO CLUB ORCHIES | 0 | 1ère | 0:38:53 | 
 | 69 | BERNIER DIMITRI | CLUB DES SUPPORTERS CYCLI | 0 | 1ère | 0:38:53 | 
 | 70 | PENSERINI FABIEN | ETOILE CYCLISTE LIEU ST AMAND | 0 | 3ème | 0:38:53 | 

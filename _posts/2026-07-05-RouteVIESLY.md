@@ -3,19 +3,20 @@ layout: post
 title: Route - VIESLY - 2026
 date: 2026-07-05
 category: Route
+permalink: /resultats/route/2026-07-05-viesly/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
 36 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 13
-- [BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine) : 16
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 24
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 13
+- [BROUTIN ANTOINE](/coureurs/broutinantoine) : 16
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 24
 
 ### 3ème Catégorie
 58 participants
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 29
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 29
 
 ### Scratch
 176 participants
@@ -56,10 +57,10 @@ image: assets/img/blog/road.png
 | 32 | HEBERT PIERRICK | NEW ORANGE TEAM BOUSBECQUE | 22 | 2ème | 1:39:39 | 
 | 33 | DI CARLO DONATO | NEW ORANGE TEAM BOUSBECQUE | 22 | 2ème | 1:39:39 | 
 | 34 | HAIDON PASCAL | Entente cycliste Wallers Arenberg Bellaing | 22 | 2ème | 1:39:47 | 
-| **35** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **22** | **2ème** | **1:39:47** | 
+| **35** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **22** | **2ème** | **1:39:47** | 
 | 36 | MAERTE ARNAUD |  | 22 | 2ème | 1:39:48 | 
 | 37 | DELHAYE FLORENT | CLUB CYCLISTE THUN ST MARTIN | 22 | 2ème | 1:39:48 | 
-| **38** | **[BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine)** | **TEAM SPECIALIZED LILLE** | **22** | **2ème** | **1:39:53** | 
+| **38** | **[BROUTIN ANTOINE](/coureurs/broutinantoine)** | **TEAM SPECIALIZED LILLE** | **22** | **2ème** | **1:39:53** | 
 | 39 | LECCI PIERRE | HAVELUY CYCLO CLUB | 22 | 2ème | 1:40:8 | 
 | 40 | ANCELOT SEBASTIEN | NOUVELLE ETOILE SPORTIVE BOUE ETREUX | 21 | 1ère | 1:36:58 | 
 | 41 | VANAUBERG GAETAN | VELO CLUB ROUBAIX | 21 | 2ème | 1:37:41 | 
@@ -68,7 +69,7 @@ image: assets/img/blog/road.png
 | 44 | ROULY ALEXIS | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 21 | 2ème | 1:37:47 | 
 | 45 | PASSARD MATEO | ESEG DOUAI | 21 | 2ème | 1:37:48 | 
 | 46 | LECERF JEROME | ASSOCIATION SPORTIVE VELOCIPEDIQUE LA LONGUEVILLE | 21 | 2ème | 1:37:49 | 
-| **47** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **21** | **2ème** | **1:37:51** | 
+| **47** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **21** | **2ème** | **1:37:51** | 
 | 48 | VAAST JEAN SEBASTIEN | TEAM CYCLING LA SENTINELLE | 21 | 2ème | 1:37:51 | 
 | 49 | MARY KEVIN | VELO CLUB SOLESMES | 21 | 2ème | 1:37:51 | 
 | 50 | DUCARNE ANTOINE | VELO CLUB SOLESMES | 21 | 2ème | 1:37:52 | 
@@ -109,7 +110,7 @@ image: assets/img/blog/road.png
 | 85 | LARGEAU FREDERIC | TEAM CYCLING LA SENTINELLE | 19 | 3ème | 1:39:0 | 
 | 86 | MONCLERCQ THOMAS | LA CHERIZIENNE - VILLE DE CHAUNY | 19 | 3ème | 1:39:1 | 
 | 87 | FREROT FRANCK | U.C. CAPELLOISE FOURMIES | 19 | 3ème | 1:39:2 | 
-| **88** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **19** | **3ème** | **1:39:2** | 
+| **88** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **19** | **3ème** | **1:39:2** | 
 | 89 | DEFOSSEZ RODRIGUE | ETOILE CYCLISTE FEIGNIES | 19 | 3ème | 1:39:3 | 
 | 90 | CHEVAL EDDY | TEAM CYCLING LA SENTINELLE | 19 | 3ème | 1:39:3 | 
 | 91 | BURIDON DAVID | CYCLO CLUB ORCHIES | 19 | 3ème | 1:39:5 | 

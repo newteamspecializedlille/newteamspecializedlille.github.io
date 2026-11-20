@@ -3,13 +3,14 @@ layout: post
 title: VTT - JEUMONT2 - 2023
 date: 2023-04-23
 category: VTT
+permalink: /resultats/vtt/2023-04-23-jeumont2/
 tags: VTT
 image: assets/img/blog/vtt.png
 ---
 
 ### VTT Vétérans B
 21 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : Ab
+- [MATTIOLI RONALD](/coureurs/mattiolironald) : Ab
 
 ### Scratch
 72 participants
@@ -87,4 +88,4 @@ image: assets/img/blog/vtt.png
 | 69 | CAMBRAI CLEMENT | NOEUX VELO CLUB NOEUXOIS | 0 | Vétérans A | 0:38:53 | 
 | 70 | PRZEMYSKI GUILLAUME | TORCY TEAM PINK AND BLUE | 0 | Vétérans A | 0:38:53 | 
 | 71 | BERNIER STEPHANE | U.C. CAPELLOISE FOURMIES | 0 | Vétérans B | 0:38:53 | 
-| **72** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **0** | **Vétérans B** | **0:38:53** | 
+| **72** | **[MATTIOLI RONALD](/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **0** | **Vétérans B** | **0:38:53** | 

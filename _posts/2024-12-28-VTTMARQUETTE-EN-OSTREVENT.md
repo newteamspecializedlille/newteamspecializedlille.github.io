@@ -3,13 +3,14 @@ layout: post
 title: VTT - MARQUETTE EN OSTREVENT - 2025
 date: 2024-12-28
 category: VTT
+permalink: /resultats/vtt/2024-12-28-marquette-en-ostrevent/
 tags: VTT
 image: assets/img/blog/vtt.png
 ---
 
 ### VTT Vétérans B
 11 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : Ab
+- [MATTIOLI RONALD](/coureurs/mattiolironald) : Ab
 
 ### Scratch
 28 participants
@@ -42,5 +43,5 @@ image: assets/img/blog/vtt.png
 | 24 | LUDE AURELIEN | TEAM VTT JEUMONT | 6 | Seniors B | 0:47:34 | 
 | 25 | LADENT JEROME | MERICOURT ULTRA VTT | 6 | Vétérans B | 0:48:49 | 
 | 26 | PALAC SIMON | TEAM B.B.L. HERGNIES | 6 | Vétérans B | 0:51:12 | 
-| **27** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **0** | **Vétérans B** | **0:38:53** | 
+| **27** | **[MATTIOLI RONALD](/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **0** | **Vétérans B** | **0:38:53** | 
 | 28 | RESELLE FRANCK | CLUB CYCLISTE DE CHAVIGNO | 0 | Vétérans B | 0:38:53 | 

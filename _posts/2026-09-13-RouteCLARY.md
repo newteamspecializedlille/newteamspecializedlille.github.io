@@ -3,18 +3,19 @@ layout: post
 title: Route - CLARY - 2026
 date: 2026-09-13
 category: Route
+permalink: /resultats/route/2026-09-13-clary/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
 26 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 12
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 12
 
 ### 3ème Catégorie
 24 participants
-- [LECOURT CHARLIE](https://teamspecializedlille.cc/coureurs/lecourtcharlie) : 1
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 7
+- [LECOURT CHARLIE](/coureurs/lecourtcharlie) : 1
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 7
 
 ### Scratch
 75 participants
@@ -41,13 +42,13 @@ image: assets/img/blog/road.png
 | 18 | IMBERT JOHNNY | ETOILE CYCLISTE LIEU ST AMAND | 13 | 2ème | 1:52:10 | 
 | 19 | GWENAEL LEQUIEN | BARLIN CERCLE LAIQUE | 13 | 1ère | 1:52:47 | 
 | 20 | LAMARCHE FRANCK | TEAM DECOPUB PROVILLE | 13 | 1ère | 1:53:22 | 
-| **21** | **[LECOURT CHARLIE](https://teamspecializedlille.cc/coureurs/lecourtcharlie)** | **TEAM SPECIALIZED LILLE** | **12** | **3ème** | **1:43:26** | 
+| **21** | **[LECOURT CHARLIE](/coureurs/lecourtcharlie)** | **TEAM SPECIALIZED LILLE** | **12** | **3ème** | **1:43:26** | 
 | 22 | LECLERCQ LOUIS | VELO CLUB SOLESMES | 12 | 3ème | 1:43:26 | 
 | 23 | CAULIER PAUL | CYCLO CLUB ORCHIES | 12 | 3ème | 1:43:26 | 
 | 24 | BRUNIAUX RAPHAEL | LES VIKINGS | 12 | 3ème | 1:43:26 | 
 | 25 | NOWINSKI JEROME | UNION SPORTIVE SAINT ANDRE | 12 | 3ème | 1:43:27 | 
 | 26 | CESAR BENOIT | NEW ORANGE TEAM BOUSBECQUE | 12 | 3ème | 1:43:27 | 
-| **27** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **12** | **3ème** | **1:43:31** | 
+| **27** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **12** | **3ème** | **1:43:31** | 
 | 28 | HARDY JEAN PHILIPPE | LA CHERIZIENNE - VILLE DE CHAUNY | 12 | 3ème | 1:44:18 | 
 | 29 | WELVAERT RICHARD | E2CJ - Energy Cycling Club Joncourt | 12 | 3ème | 1:44:18 | 
 | 30 | FRANCOIS GERALD | TEAM CYCLING LA SENTINELLE | 12 | 3ème | 1:44:19 | 
@@ -57,7 +58,7 @@ image: assets/img/blog/road.png
 | 34 | RENAUT VINCENT | TEAM CYCLING LA SENTINELLE | 12 | 3ème | 1:44:25 | 
 | 35 | LEHEMBRE FRANCK | NOUVELLE ETOILE SPORTIVE BOUE ETREUX | 12 | 3ème | 1:44:45 | 
 | 36 | LOMBART SULLIVAN | CAMBRAI | 12 | 3ème | 1:44:46 | 
-| **37** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **12** | **2ème** | **1:45:23** | 
+| **37** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **12** | **2ème** | **1:45:23** | 
 | 38 | DEMETS EMMANUEL | ETOILE CYCLISTE LIEU ST AMAND | 12 | 2ème | 1:45:23 | 
 | 39 | PORQUET LUDOVIC | TEAM CYCLING LA SENTINELLE | 12 | 3ème | 1:46:25 | 
 | 40 | WAERNIER ROMUALD | ETOILE CYCLISTE LIEU ST AMAND | 12 | 2ème | 1:48:40 | 

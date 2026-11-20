@@ -3,13 +3,14 @@ layout: post
 title: VTT - SOLESMES - 2025
 date: 2025-02-15
 category: VTT
+permalink: /resultats/vtt/2025-02-15-solesmes/
 tags: VTT
 image: assets/img/blog/vtt.png
 ---
 
 ### VTT Vétérans A
 12 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 3
+- [MATTIOLI RONALD](/coureurs/mattiolironald) : 3
 
 ### Scratch
 36 participants
@@ -26,7 +27,7 @@ image: assets/img/blog/vtt.png
 | 8 | HEDBAUT ANTONY | TEAM BLECOURTOISE | 7 | Seniors A | 1:3:16 | 
 | 9 | JABLONSKI SEBASTIEN | NEW TEAM MAULDE | 7 | Vétérans A | 1:3:19 | 
 | 10 | CASE ALBAN | NOEUX VELO CLUB NOEUXOIS | 7 | Vétérans A | 1:3:41 | 
-| **11** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **7** | **Vétérans A** | **1:3:48** | 
+| **11** | **[MATTIOLI RONALD](/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **7** | **Vétérans A** | **1:3:48** | 
 | 12 | MARTINEZ JEROME | NEW TEAM MAULDE | 7 | Vétérans B | 1:4:15 | 
 | 13 | MEESMAECKER WILLIAM | UNION SPORTIVE SAINT ANDRE | 7 | Seniors A | 1:4:18 | 
 | 14 | BRUNIAUX STEPHANE | LES VIKINGS VTT MARCHE NORDIQUE OHAIN | 7 | Vétérans A | 1:4:29 | 

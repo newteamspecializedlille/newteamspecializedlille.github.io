@@ -3,13 +3,14 @@ layout: post
 title: Cyclo Cross - ROUVROY - 2025
 date: 2024-12-22
 category: Cyclo Cross
+permalink: /resultats/cyclo-cross/2024-12-22-rouvroy/
 tags: cyclo-cross
 image: assets/img/blog/cx.png
 ---
 
 ### 2ème Catégorie
 20 participants
-- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 8
+- [DERASSE DAVID](/coureurs/derassedavid) : 8
 
 ### Scratch
 62 participants
@@ -32,7 +33,7 @@ image: assets/img/blog/cx.png
 | 14 | PRIAT AURELIEN | ESEG DOUAI | 8 | 2ème | 1:24:43 | 
 | 15 | RIVART THIERRY | VTT  CLUB PONT SUR SAMBRE | 8 | 2ème | 1:25:14 | 
 | 16 | DRUESNE DAMIEN | UNION VELOCIPEDIQUE FOURMISIENNE | 8 | 2ème | 1:25:15 | 
-| **17** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **7** | **2ème** | **1:17:47** | 
+| **17** | **[DERASSE DAVID](/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **7** | **2ème** | **1:17:47** | 
 | 18 | DECLERCK SAMUEL | CLUB CYCLISTE D'ISBERGUES MOLINGHEM | 7 | 2ème | 1:17:50 | 
 | 19 | EVRARD CLEMENT | RESILIENCE CLUB | 7 | 3ème | 1:17:59 | 
 | 20 | DIAS MARTIN BAPTISTE | CAMPHIN EN CAREMBAULT CYCLING TEAM | 7 | 2ème | 1:18:6 | 

@@ -3,13 +3,14 @@ layout: post
 title: VTT - HALLUIN - 2025
 date: 2024-10-27
 category: VTT
+permalink: /resultats/vtt/2024-10-27-halluin/
 tags: VTT
 image: assets/img/blog/vtt.png
 ---
 
 ### VTT Vétérans A
 8 participants
-- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : Ab
+- [WALTER BENOIT](/coureurs/walterbenoit) : Ab
 
 ### Scratch
 24 participants
@@ -38,5 +39,5 @@ image: assets/img/blog/vtt.png
 | 20 | HAVET STEPHANE | BEUVRY CYCLO CLUB | 7 | Vétérans B | 0:50:51 | 
 | 21 | COCART RUDY | BETHUNE ROBECQ TEAM TBR | 7 | Seniors B | 0:52:3 | 
 | 22 | VAN LIERDE FRANCK | VELO CLUB UNION HALLUIN | 7 | Vétérans B | 0:56:51 | 
-| **23** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **0** | **Vétérans A** | **0:38:53** | 
+| **23** | **[WALTER BENOIT](/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **0** | **Vétérans A** | **0:38:53** | 
 | 24 | CORMAN SEBASTIEN | CAMPHIN EN CAREMBAULT CYC | 0 | Vétérans A | 0:38:53 | 

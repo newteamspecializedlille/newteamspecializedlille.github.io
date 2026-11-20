@@ -3,13 +3,14 @@ layout: post
 title: Cyclo Cross - TAISNIERES EN THIERACHE - 2024
 date: 2023-10-07
 category: Cyclo Cross
+permalink: /resultats/cyclo-cross/2023-10-07-taisnieres-en-thierache/
 tags: cyclo-cross
 image: assets/img/blog/cx.png
 ---
 
 ### 2ème Catégorie
 24 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 1
+- [MATTIOLI RONALD](/coureurs/mattiolironald) : 1
 
 ### Scratch
 71 participants
@@ -21,7 +22,7 @@ image: assets/img/blog/cx.png
 | 3 | ALEXANDRE GREGORY | VELO CLUB SOLESMES | 9 | 1ère | 0:49:43 | 
 | 4 | LINDAUER FLORIAN | ETOILE CYCLISTE LIEU ST AMAND | 9 | 1ère | 0:50:26 | 
 | 5 | LEGUEUX LAURENT | UNION VELOCIPEDIQUE FOURMISIENNE | 9 | 1ère | 0:51:30 | 
-| **6** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **9** | **2ème** | **0:51:53** | 
+| **6** | **[MATTIOLI RONALD](/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **9** | **2ème** | **0:51:53** | 
 | 7 | VANDERHAEGEN REGIS | ASSOCIATION CYCLISTE D'ETROEUNGT | 9 | 2ème | 0:51:53 | 
 | 8 | DOCHNIAK LEO | HAVELUY CYCLO CLUB | 9 | 2ème | 0:52:16 | 
 | 9 | MOURAIN DORIAN | UNION VELOCIPEDIQUE FOURMISIENNE | 9 | 1ère | 0:53:30 | 

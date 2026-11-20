@@ -3,13 +3,14 @@ layout: post
 title: Route - NOMAIN - 2020
 date: 2020-09-26
 category: Route
+permalink: /resultats/route/2020-09-26-nomain/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 28 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : Ab
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : Ab
 
 ### Scratch
 149 participants

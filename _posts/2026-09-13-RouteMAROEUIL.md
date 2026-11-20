@@ -3,13 +3,14 @@ layout: post
 title: Route - MAROEUIL - 2026
 date: 2026-09-13
 category: Route
+permalink: /resultats/route/2026-09-13-maroeuil/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 3ème Catégorie
 16 participants
-- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 4
+- [DEFER OLIVIER](/coureurs/deferolivier) : 4
 
 ### Scratch
 50 participants
@@ -35,7 +36,7 @@ image: assets/img/blog/road.png
 | 17 | EMMERY VINCENT | NOEUX VELO CLUB NOEUXOIS | 14 | 3ème | 1:32:43 | 
 | 18 | GEORGES NOE | MAROEUIL VELO VERT MAROEUILLOIS V.V.M | 14 | 3ème | 1:33:58 | 
 | 19 | GRAVE BENJAMIN | BRUAY LA BUISSIERE U.S.O. CYCLISME | 14 | 3ème | 1:34:0 | 
-| **20** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **14** | **3ème** | **1:34:1** | 
+| **20** | **[DEFER OLIVIER](/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **14** | **3ème** | **1:34:1** | 
 | 21 | THEODORE Nicolas | MAROEUIL VELO VERT MAROEUILLOIS V.V.M | 14 | 3ème | 1:34:3 | 
 | 22 | PECOURT MAXIME | VELO VERT MAROEUIL | 14 | 3ème | 1:35:37 | 
 | 23 | DEMORY ERIC | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 14 | 3ème | 1:35:37 | 

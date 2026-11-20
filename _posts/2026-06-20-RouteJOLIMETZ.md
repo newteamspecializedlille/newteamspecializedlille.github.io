@@ -3,13 +3,14 @@ layout: post
 title: Route - JOLIMETZ - 2026
 date: 2026-06-20
 category: Route
+permalink: /resultats/route/2026-06-20-jolimetz/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 3ème Catégorie
 40 participants
-- [LECOURT CHARLIE](https://teamspecializedlille.cc/coureurs/lecourtcharlie) : 8
+- [LECOURT CHARLIE](/coureurs/lecourtcharlie) : 8
 
 ### Scratch
 141 participants
@@ -113,7 +114,7 @@ image: assets/img/blog/road.png
 | 95 | AMIOT YOANN | TEAM CYCLING LA SENTINELLE | 12 | 3ème | 2:10:7 | 
 | 96 | DEJEAN MATHIS | TEAM CYCLISTE LA BORDURE - BETTRECHIES | 12 | 3ème | 2:10:7 | 
 | 97 | TRIOLO FLORENT | TEAM BOUSIES | 12 | 3ème | 2:10:7 | 
-| **98** | **[LECOURT CHARLIE](https://teamspecializedlille.cc/coureurs/lecourtcharlie)** | **TEAM SPECIALIZED LILLE** | **12** | **3ème** | **2:10:7** | 
+| **98** | **[LECOURT CHARLIE](/coureurs/lecourtcharlie)** | **TEAM SPECIALIZED LILLE** | **12** | **3ème** | **2:10:7** | 
 | 99 | LEFEBVRE RICHARD | U.C. CAPELLOISE FOURMIES | 12 | 3ème | 2:10:7 | 
 | 100 | GEORGES DAVID | UNION SPORTIVE VALENCIENNES CRESPIN | 12 | 3ème | 2:10:7 | 
 | 101 | BURIDON DAVID | CYCLO CLUB ORCHIES | 12 | 3ème | 2:10:7 | 

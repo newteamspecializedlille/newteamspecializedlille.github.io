@@ -3,39 +3,40 @@ layout: post
 title: Route - HERGNIES CENTRE - 2025
 date: 2025-07-27
 category: Route
+permalink: /resultats/route/2025-07-27-hergnies-centre/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 44 participants
-- [CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas) : 1
-- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 7
-- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 15
-- [LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis) : 24
+- [CROMBEZ THOMAS](/coureurs/crombezthomas) : 1
+- [LECOLIER STEPHANE](/coureurs/lecolierstephane) : 7
+- [DERASSE DAVID](/coureurs/derassedavid) : 15
+- [LECOLIER LOUIS](/coureurs/lecolierlouis) : 24
 
 ### 2ème Catégorie
 58 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 7
-- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 26
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 7
+- [DEFER OLIVIER](/coureurs/deferolivier) : 26
 
 ### 3ème Catégorie
 47 participants
-- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 9
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 20
+- [WALTER BENOIT](/coureurs/walterbenoit) : 9
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 20
 
 ### Scratch
 202 participants
 
 | Place | Nom | Team | Tours | Catégorie | Temps |
 |---|---|---|---|---|---|
-| **1** | **[CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **11** | **1ère** | **1:53:21** | 
+| **1** | **[CROMBEZ THOMAS](/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **11** | **1ère** | **1:53:21** | 
 | 2 | MONNIER FAGYAL MATEO | GAZ ELEC CLUB DE DOUAI | 11 | 1ère | 1:53:21 | 
 | 3 | SEMOULIN JOAKIM | TEAM B.B.L. HERGNIES | 11 | 1ère | 1:53:21 | 
 | 4 | WINS STEPHANE | HAVELUY CYCLO CLUB | 11 | 1ère | 1:53:21 | 
 | 5 | AINI ISSAM | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 11 | 1ère | 1:53:22 | 
 | 6 | MARLIER RONALD | VELO CLUB UNION HALLUIN | 11 | 1ère | 1:53:26 | 
-| **7** | **[LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **11** | **1ère** | **1:53:30** | 
+| **7** | **[LECOLIER STEPHANE](/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **11** | **1ère** | **1:53:30** | 
 | 8 | JOLIS CLEMENT | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 11 | 1ère | 1:54:12 | 
 | 9 | MORDACQ ENZO | ESEG DOUAI | 11 | 1ère | 1:54:12 | 
 | 10 | DE VREESE ALEXIS | UNION SPORTIVE SAINT ANDRE | 11 | 1ère | 1:54:18 | 
@@ -43,7 +44,7 @@ image: assets/img/blog/road.png
 | 12 | MORELLE YOHANN | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 11 | 1ère | 1:54:21 | 
 | 13 | VEAUX CORENTIN | TEAM LINK AND RIDE HERIN | 11 | 1ère | 1:54:23 | 
 | 14 | DEMOL LEO | UNION SPORTIVE SAINT ANDRE | 11 | 1ère | 1:54:23 | 
-| **15** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **11** | **1ère** | **1:54:23** | 
+| **15** | **[DERASSE DAVID](/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **11** | **1ère** | **1:54:23** | 
 | 16 | ANTON LUDOVIC | NEW TEAM MAULDE | 11 | 1ère | 1:54:23 | 
 | 17 | LIENARD ROMAIN | LA CHERIZIENNE - VILLE DE CHAUNY | 11 | 1ère | 1:54:23 | 
 | 18 | DELEPLACE HADRIEN | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 11 | 1ère | 1:54:23 | 
@@ -52,7 +53,7 @@ image: assets/img/blog/road.png
 | 21 | HEBERT PIERRICK | NEW ORANGE TEAM BOUSBECQUE | 11 | 1ère | 1:54:24 | 
 | 22 | DOYEN MATHIS | CYCLO CLUB ORCHIES | 11 | 1ère | 1:54:25 | 
 | 23 | DELANGUE THOMAS | NEW ORANGE TEAM BOUSBECQUE | 11 | 1ère | 1:54:26 | 
-| **24** | **[LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **11** | **1ère** | **1:54:26** | 
+| **24** | **[LECOLIER LOUIS](/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **11** | **1ère** | **1:54:26** | 
 | 25 | PAUCHET KEVIN | GAZ ELEC CLUB DE DOUAI | 11 | 1ère | 1:54:26 | 
 | 26 | LALEU TIMOTHEE | UNION SPORTIVE SAINT ANDRE | 11 | 1ère | 1:54:26 | 
 | 27 | DELOBELLE OLIVIER | UNION SPORTIVE SAINT ANDRE | 11 | 1ère | 1:54:26 | 
@@ -74,7 +75,7 @@ image: assets/img/blog/road.png
 | 43 | HAIDON PASCAL | ASSOCIATION CYCLISTE BELLAINGEOISE | 10 | 2ème | 1:48:4 | 
 | 44 | LECLERCQ JEAN LOUIS | CYCLISME EN CAMBRESIS - NEUVILLE ST REMY | 10 | 2ème | 1:48:4 | 
 | 45 | TOURNEUX MICKAEL | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 10 | 2ème | 1:48:18 | 
-| **46** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **10** | **2ème** | **1:48:40** | 
+| **46** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **10** | **2ème** | **1:48:40** | 
 | 47 | ROSZKIEWICZ RAPHAEL | VELO CLUB DE L'ESCAUT ANZIN | 10 | 2ème | 1:48:45 | 
 | 48 | BALLEUX ANTOINE | ETOILE CYCLISTE FEIGNIES | 10 | 2ème | 1:48:46 | 
 | 49 | FREHAUT NICOLAS | ASSOCIATION CYCLISTE D'ETROEUNGT | 10 | 2ème | 1:48:46 | 
@@ -93,7 +94,7 @@ image: assets/img/blog/road.png
 | 62 | HAVET SEBASTIEN | GAZ ELEC CLUB DE DOUAI | 10 | 2ème | 1:48:47 | 
 | 63 | BATAILLE ARNAUD | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 10 | 2ème | 1:48:47 | 
 | 64 | ROBERT FOFANA BENJAMIN | ETOILE CYCLISTE FEIGNIES | 10 | 2ème | 1:48:47 | 
-| **65** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **10** | **2ème** | **1:48:48** | 
+| **65** | **[DEFER OLIVIER](/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **10** | **2ème** | **1:48:48** | 
 | 66 | ROUSSEAU DIDIER | ETOILE CYCLISTE FEIGNIES | 10 | 2ème | 1:48:48 | 
 | 67 | DEBOCQ JULIE | HAVELUY CYCLO CLUB | 10 | 2ème | 1:48:49 | 
 | 68 | CARE CYRIL | UNION SPORTIVE VALENCIENNES CRESPIN | 10 | 2ème | 1:48:49 | 
@@ -122,7 +123,7 @@ image: assets/img/blog/road.png
 | 91 | FRANCOIS GERALD | SAULZOIR MONTRECOURT CYCLING CLUB | 9 | 3ème | 1:35:27 | 
 | 92 | DEBRABANT ANTHONY | TEAM BOUSIES | 9 | 3ème | 1:35:28 | 
 | 93 | BOUTONNE FREDERIC | TEAM BOUSIES | 9 | 3ème | 1:35:28 | 
-| **94** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **9** | **3ème** | **1:35:28** | 
+| **94** | **[WALTER BENOIT](/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **9** | **3ème** | **1:35:28** | 
 | 95 | DEMORY ERIC | UNION SPORTIVE VALENCIENNES CRESPIN | 9 | 3ème | 1:35:28 | 
 | 96 | QUESTE DAVID | TEAM B.B.L. HERGNIES | 9 | 3ème | 1:35:28 | 
 | 97 | ODENT STEPHANE | UNION SPORTIVE VALENCIENNES CRESPIN | 9 | 3ème | 1:35:28 | 
@@ -133,7 +134,7 @@ image: assets/img/blog/road.png
 | 102 | DOOLAEGHE TERRY | VELO CLUB UNION HALLUIN | 9 | 3ème | 1:35:31 | 
 | 103 | DEFOSSEZ RODRIGUE | CLUB CYCLISTE THUN ST MARTIN | 9 | 3ème | 1:35:35 | 
 | 104 | VERDIN FLAVIEN | UNION SPORTIVE SAINT ANDRE | 9 | 3ème | 1:35:35 | 
-| **105** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **9** | **3ème** | **1:36:11** | 
+| **105** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **9** | **3ème** | **1:36:11** | 
 | 106 | VERDIN ROMAIN | UNION SPORTIVE SAINT ANDRE | 9 | 3ème | 1:36:28 | 
 | 107 | BERNARD PHILIPPE | ROUE D'OR COMINOISE | 9 | 3ème | 1:36:28 | 
 | 108 | HEDBAUT ALEXIS | TEAM BLECOURTOISE | 9 | 3ème | 1:36:52 | 
@@ -185,7 +186,7 @@ image: assets/img/blog/road.png
 | 154 | DUPONT RAPHAEL | NEW TEAM MAULDE  | 8 | 3ème | 1:33:16 | 
 | 155 | DELORGE FREDERIC | UNION SPORTIVE VALENCIENNES CRESPIN | 8 | 4ème | 1:33:48 | 
 | 156 | GUISLAIN NICOLAS | AMICALE LAIQUE SPORTIVE  ROEULX | 8 | 4ème | 1:35:50 | 
-| **157** | **[DERASSE PATRICK](https://teamspecializedlille.cc/coureurs/derassepatrick)** | **TEAM SPECIALIZED LILLE** | **7** | **4ème** | **1:26:55** | 
+| **157** | **[DERASSE PATRICK](/coureurs/derassepatrick)** | **TEAM SPECIALIZED LILLE** | **7** | **4ème** | **1:26:55** | 
 | 158 | GARD DENIS | VELO CLUB SOLESMES | 7 | 4ème | 1:27:47 | 
 | 159 | GABEZ ANDRE | NEW TEAM MAULDE | 7 | 4ème | 1:27:47 | 
 | 160 | PAVARD JEAN MARC | VELO CLUB AMANDINOIS | 7 | 4ème | 1:27:48 | 

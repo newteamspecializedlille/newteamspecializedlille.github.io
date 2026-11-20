@@ -3,16 +3,17 @@ layout: post
 title: Route - LIEU SAINT AMAND - 2022
 date: 2022-09-04
 category: Route
+permalink: /resultats/route/2022-09-04-lieu-saint-amand/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 43 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 24
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 28
-- [DARQUE JEAN FRANCOIS](https://teamspecializedlille.cc/coureurs/darquejeanfrancois) : 34
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 24
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 28
+- [DARQUE JEAN FRANCOIS](/coureurs/darquejeanfrancois) : 34
 
 ### 2ème Catégorie
 39 participants
-- [LECLERCQ FRANCK](https://teamspecializedlille.cc/coureurs/leclercqfranck) : 6
+- [LECLERCQ FRANCK](/coureurs/leclercqfranck) : 6

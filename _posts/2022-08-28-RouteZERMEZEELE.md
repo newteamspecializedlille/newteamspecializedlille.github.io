@@ -3,17 +3,18 @@ layout: post
 title: Route - ZERMEZEELE - 2022
 date: 2022-08-28
 category: Route
+permalink: /resultats/route/2022-08-28-zermezeele/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 22 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 14
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 18
-- [DARQUE JEAN FRANCOIS](https://teamspecializedlille.cc/coureurs/darquejeanfrancois) : Ab
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 14
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 18
+- [DARQUE JEAN FRANCOIS](/coureurs/darquejeanfrancois) : Ab
 
 ### 2ème Catégorie
 33 participants
-- [LECLERCQ FRANCK](https://teamspecializedlille.cc/coureurs/leclercqfranck) : 6
-- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 10
+- [LECLERCQ FRANCK](/coureurs/leclercqfranck) : 6
+- [LECOLIER STEPHANE](/coureurs/lecolierstephane) : 10

@@ -3,24 +3,25 @@ layout: post
 title: Route - LIEU ST AMAND3 - 2026
 date: 2026-09-06
 category: Route
+permalink: /resultats/route/2026-09-06-lieu-st-amand3/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 31 participants
-- [CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas) : 3
-- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 7
+- [CROMBEZ THOMAS](/coureurs/crombezthomas) : 3
+- [MATTIOLI RONALD](/coureurs/mattiolironald) : 7
 
 ### 2ème Catégorie
 58 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 27
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 30
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 27
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 30
 
 ### 3ème Catégorie
 38 participants
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 17
-- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 30
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 17
+- [DEFER OLIVIER](/coureurs/deferolivier) : 30
 
 ### Scratch
 161 participants
@@ -29,11 +30,11 @@ image: assets/img/blog/road.png
 |---|---|---|---|---|---|
 | 1 | SAINT QUENTIN HUGO | GAZ ELEC CLUB DE DOUAI | 20 | 1ère | 2:2:31 | 
 | 2 | LALEU TIMOTHEE | UNION SPORTIVE SAINT ANDRE | 20 | 1ère | 2:2:35 | 
-| **3** | **[CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **20** | **1ère** | **2:2:35** | 
+| **3** | **[CROMBEZ THOMAS](/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **20** | **1ère** | **2:2:35** | 
 | 4 | MICHEL ANTHONY | ETOILE CYCLISTE FEIGNIES | 20 | 1ère | 2:2:35 | 
 | 5 | MARTHE ROMUALD | ETOILE CYCLISTE LIEU ST AMAND | 20 | 1ère | 2:2:36 | 
 | 6 | MORELLE YOHANN | TEAM CYCLISTE - RAMILLIES | 20 | 1ère | 2:2:36 | 
-| **7** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **20** | **1ère** | **2:2:37** | 
+| **7** | **[MATTIOLI RONALD](/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **20** | **1ère** | **2:2:37** | 
 | 8 | WAN-MEENEN JULIEN | UNION VELOCIPEDIQUE FOURMISIENNE | 20 | 1ère | 2:2:37 | 
 | 9 | BRASSART THEOPHILE | TEAM B.B.L. HERGNIES | 20 | 1ère | 2:2:38 | 
 | 10 | WINS STEPHANE | HAVELUY CYCLO CLUB | 20 | 1ère | 2:2:38 | 
@@ -78,10 +79,10 @@ image: assets/img/blog/road.png
 | 49 | THOMAS MATTHIAS | PANACHE SACOCHE CLUB - BRUAY SUR ESCAUT | 18 | 2ème | 1:48:57 | 
 | 50 | LECHAT RENAUD | Entente cycliste Wallers Arenberg Bellaing | 18 | 2ème | 1:49:4 | 
 | 51 | HAVET SEBASTIEN | GAZ ELEC CLUB DE DOUAI | 18 | 2ème | 1:49:8 | 
-| **52** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **18** | **2ème** | **1:49:8** | 
+| **52** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **18** | **2ème** | **1:49:8** | 
 | 53 | MARGARON CRETEUR JULES | ESEG DOUAI | 18 | 2ème | 1:49:11 | 
 | 54 | IMBERT JOHNNY | ETOILE CYCLISTE LIEU ST AMAND | 18 | 2ème | 1:49:13 | 
-| **55** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **18** | **2ème** | **1:49:15** | 
+| **55** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **18** | **2ème** | **1:49:15** | 
 | 56 | LARGEAU FREDERIC | TEAM CYCLING LA SENTINELLE | 18 | 2ème | 1:49:16 | 
 | 57 | OLEJNICZAK YANNICK | CYCLO CLUB ORCHIES | 18 | 2ème | 1:49:16 | 
 | 58 | ROBIN THIBAUT | CYCLO CLUB ORCHIES | 18 | 2ème | 1:49:16 | 
@@ -118,7 +119,7 @@ image: assets/img/blog/road.png
 | 89 | CESAR BENOIT | NEW ORANGE TEAM BOUSBECQUE | 18 | 3ème | 1:59:57 | 
 | 90 | MISMAQUE JACQUES | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 18 | 3ème | 1:59:57 | 
 | 91 | URBAIN RUDY | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 18 | 3ème | 1:59:58 | 
-| **92** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **18** | **3ème** | **1:59:58** | 
+| **92** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **18** | **3ème** | **1:59:58** | 
 | 93 | CHEVAL EDDY | TEAM CYCLING LA SENTINELLE | 18 | 3ème | 1:59:58 | 
 | 94 | LECLERCQ HUGO | VELO CLUB SOLESMES | 18 | 3ème | 2:0:10 | 
 | 95 | DEFOSSEZ RODRIGUE | ETOILE CYCLISTE FEIGNIES | 18 | 3ème | 2:0:10 | 
@@ -131,7 +132,7 @@ image: assets/img/blog/road.png
 | 102 | DAVAINE HUGUES | LA PEDALE MADELEINOISE | 18 | 3ème | 2:0:34 | 
 | 103 | WINS JEAN FRANCOIS | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 18 | 3ème | 2:0:45 | 
 | 104 | SOILE THIERRY | NEW ORANGE TEAM BOUSBECQUE | 18 | 3ème | 2:1:20 | 
-| **105** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **18** | **3ème** | **2:1:57** | 
+| **105** | **[DEFER OLIVIER](/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **18** | **3ème** | **2:1:57** | 
 | 106 | CHIMOT ROMAIN | TEAM CYCLISTE LA BORDURE - BETTRECHIES | 18 | 3ème | 2:3:6 | 
 | 107 | THORLET YANNICK | VELO CLUB DE L'ESCAUT ANZIN | 18 | 3ème | 2:3:21 | 
 | 108 | LEHEMBRE FRANCK | NOUVELLE ETOILE SPORTIVE BOUE ETREUX | 18 | 3ème | 2:3:50 | 

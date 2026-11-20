@@ -3,25 +3,26 @@ layout: post
 title: Route - ETROEUNGT - 2025
 date: 2025-04-13
 category: Route
+permalink: /resultats/route/2025-04-13-etroeungt/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 24 participants
-- [MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio) : 5
-- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 7
-- [LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis) : 9
-- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 14
+- [MINNECI ELIO](/coureurs/minnecielio) : 5
+- [LECOLIER STEPHANE](/coureurs/lecolierstephane) : 7
+- [LECOLIER LOUIS](/coureurs/lecolierlouis) : 9
+- [DERASSE DAVID](/coureurs/derassedavid) : 14
 
 ### 2ème Catégorie
 35 participants
-- [BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine) : 28
+- [BROUTIN ANTOINE](/coureurs/broutinantoine) : 28
 
 ### 3ème Catégorie
 24 participants
-- [DERASSE PATRICK](https://teamspecializedlille.cc/coureurs/derassepatrick) : Ab
-- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : Ab
+- [DERASSE PATRICK](/coureurs/derassepatrick) : Ab
+- [WALTER BENOIT](/coureurs/walterbenoit) : Ab
 
 ### Scratch
 102 participants
@@ -32,16 +33,16 @@ image: assets/img/blog/road.png
 | 2 | SEMOULIN JOAKIM | TEAM B.B.L. HERGNIES | 10 | 1ère | 1:52:6 | 
 | 3 | WINS STEPHANE | HAVELUY CYCLO CLUB | 10 | 1ère | 1:52:8 | 
 | 4 | MARECHAL GUILLAUME | VELO CLUB SOLESMES | 10 | 1ère | 1:52:8 | 
-| **5** | **[MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **10** | **1ère** | **1:52:8** | 
+| **5** | **[MINNECI ELIO](/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **10** | **1ère** | **1:52:8** | 
 | 6 | DE RIDDER SEBASTIEN | NOUVELLE ETOILE SPORTIVE BOUE ETREUX | 10 | 1ère | 1:52:9 | 
-| **7** | **[LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **10** | **1ère** | **1:52:9** | 
+| **7** | **[LECOLIER STEPHANE](/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **10** | **1ère** | **1:52:9** | 
 | 8 | VANWISSEN ANAICK | UNION VELOCIPEDIQUE FOURMISIENNE | 10 | 1ère | 1:52:9 | 
-| **9** | **[LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **10** | **1ère** | **1:52:10** | 
+| **9** | **[LECOLIER LOUIS](/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **10** | **1ère** | **1:52:10** | 
 | 10 | MAES LOUIS | CYCLO CLUB WAVRIN | 10 | 1ère | 1:52:10 | 
 | 11 | VANDERHAEGEN REGIS | ASSOCIATION CYCLISTE D'ETROEUNGT | 10 | 1ère | 1:52:10 | 
 | 12 | VANDERHAEGEN MAEL | ASSOCIATION CYCLISTE D'ETROEUNGT | 10 | 1ère | 1:52:10 | 
 | 13 | MONNIER FAGYAL MATEO | GAZ ELEC CLUB DE DOUAI | 10 | 1ère | 1:52:10 | 
-| **14** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **10** | **1ère** | **1:52:11** | 
+| **14** | **[DERASSE DAVID](/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **10** | **1ère** | **1:52:11** | 
 | 15 | MICHEL ANTHONY | ETOILE CYCLISTE FEIGNIES | 10 | 1ère | 1:52:13 | 
 | 16 | GREVIN JEROME | VELO CLUB SOLESMES | 10 | 1ère | 1:52:13 | 
 | 17 | DERUEL ANTOINE | ASSOCIATION SPORTIVE VELOCIPEDIQUE LA LONGUEVILLE | 10 | 1ère | 1:52:15 | 
@@ -94,7 +95,7 @@ image: assets/img/blog/road.png
 | 64 | THORLET YANNICK | VELO CLUB DE L'ESCAUT ANZIN | 8 | 3ème | 1:42:59 | 
 | 65 | DUMONT SEBASTIEN | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 8 | 3ème | 1:42:59 | 
 | 66 | TOURNEUX MICKAEL | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 8 | 2ème | 1:43:31 | 
-| **67** | **[BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine)** | **TEAM SPECIALIZED LILLE** | **8** | **2ème** | **1:43:31** | 
+| **67** | **[BROUTIN ANTOINE](/coureurs/broutinantoine)** | **TEAM SPECIALIZED LILLE** | **8** | **2ème** | **1:43:31** | 
 | 68 | DEBOCQ JULIE | HAVELUY CYCLO CLUB | 8 | 2ème | 1:43:37 | 
 | 69 | THEVE EMMANUEL | ROUE D'OR COMINOISE | 8 | 3ème | 1:47:16 | 
 | 70 | CORNELIS MICHEL | U.C. CAPELLOISE FOURMIES | 7 | 4ème | 0:46:4 | 
@@ -123,10 +124,10 @@ image: assets/img/blog/road.png
 | 93 | POT FREDERIC | ETOILE CYCLISTE FEIGNIES | 7 | 3ème | 1:34:33 | 
 | 94 | DELPIRE FREDERIC | VTT  CLUB PONT SUR SAMBRE | 7 | 2ème | 1:43:28 | 
 | 95 | MASCRET FREDERIC | UNION SPORTIVE VALENCIENNES CRESPIN | 6 | 2ème | 1:36:25 | 
-| **96** | **[DERASSE PATRICK](https://teamspecializedlille.cc/coureurs/derassepatrick)** | **TEAM SPECIALIZED LILLE** | **6** | **3ème** | **1:47:16** | 
+| **96** | **[DERASSE PATRICK](/coureurs/derassepatrick)** | **TEAM SPECIALIZED LILLE** | **6** | **3ème** | **1:47:16** | 
 | 97 | RAMETTE SAMUEL | VTT  CLUB PONT SUR SAMBRE | 4 | 4ème | 0:46:3 | 
 | 98 | BLAZE LOIC | UNION CYCLISTE SOLRE LE CHATEAU | 3 | 2ème | 0:26:44 | 
 | 99 | LELUBRE BENOIT | UNION CYCLISTE SOLRE LE CHATEAU | 1 | 2ème | 0:26:47 | 
-| **100** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
+| **100** | **[WALTER BENOIT](/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
 | 101 | SAINTRAIN GERARD | ETOILE CYCLISTE LIEU ST A | 0 | 3ème | 0:38:53 | 
 | 102 | VANDERHAEGEN ADELE | ASSOCIATION CYCLISTE D'ETROEUNGT | 0 | Féminines | 0:38:53 | 

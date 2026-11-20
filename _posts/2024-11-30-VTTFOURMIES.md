@@ -3,13 +3,14 @@ layout: post
 title: VTT - FOURMIES - 2025
 date: 2024-11-30
 category: VTT
+permalink: /resultats/vtt/2024-11-30-fourmies/
 tags: VTT
 image: assets/img/blog/vtt.png
 ---
 
 ### VTT Vétérans B
 11 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 1
+- [MATTIOLI RONALD](/coureurs/mattiolironald) : 1
 
 ### Scratch
 29 participants
@@ -19,7 +20,7 @@ image: assets/img/blog/vtt.png
 | 1 | MICHEL KEVIN | ETOILE CYCLISTE FEIGNIES | 8 | Seniors B | 0:53:22 | 
 | 2 | JABLONSKI SEBASTIEN | NEW TEAM MAULDE | 8 | Vétérans A | 0:56:55 | 
 | 3 | DARTUS MIKAEL | VELO CLUB SOLESMES | 8 | Vétérans A | 0:58:15 | 
-| **4** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans B** | **0:58:23** | 
+| **4** | **[MATTIOLI RONALD](/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans B** | **0:58:23** | 
 | 5 | BUGNICOURT CYRIL | UNION VELOCIPEDIQUE FOURMISIENNE | 8 | Vétérans A | 0:59:15 | 
 | 6 | BONNET JOHNNY | TEAM VTT JEUMONT | 8 | Seniors B | 1:0:26 | 
 | 7 | MARTINEZ JEROME | NEW TEAM MAULDE | 8 | Vétérans B | 1:0:37 | 

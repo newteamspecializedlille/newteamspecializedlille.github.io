@@ -31,3 +31,5 @@ python3 .claude/skills/add-races-from-pdf/scripts/add_race.py --pdf "CHEMIN.pdf"
 ## 3. Vérifier
 `git diff --stat`, relire le post, puis démarrer le site (skill `serve-site-local`). Ne pas commiter sans demande.
 Les dossiers Drive ne sont créés que si les identifiants Drive sont disponibles (sinon un message `[DRIVE]` est affiché).
+L'adresse du post (`permalink:` du front matter, `/resultats/<discipline>/<AAAA-MM-JJ>-<course>/`) est écrite par le script ; la page d'un coureur la recalcule
+depuis `team.json`, il n'y a pas de fichier de liens à mettre à jour.

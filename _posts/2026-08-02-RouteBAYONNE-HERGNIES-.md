@@ -3,17 +3,18 @@ layout: post
 title: Route - BAYONNE HERGNIES  - 2026
 date: 2026-08-02
 category: Route
+permalink: /resultats/route/2026-08-02-bayonne-hergnies/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
 41 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : Ab
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : Ab
 
 ### 3ème Catégorie
 43 participants
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 6
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 6
 
 ### Scratch
 132 participants
@@ -66,7 +67,7 @@ image: assets/img/blog/road.png
 | 44 | DELEPLANQUE LOIC | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 15 | 3ème | 1:36:38 | 
 | 45 | DEMEME MAXIME | VELO CLUB ROUBAIX | 15 | 3ème | 1:37:9 | 
 | 46 | LAMMERANT CLEMENT | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 15 | 3ème | 1:37:9 | 
-| **47** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **15** | **3ème** | **1:37:9** | 
+| **47** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **15** | **3ème** | **1:37:9** | 
 | 48 | DAUMONT BRUNO | NEW ORANGE TEAM BOUSBECQUE | 15 | 3ème | 1:37:9 | 
 | 49 | VERDIN FLAVIEN | UNION SPORTIVE SAINT ANDRE | 15 | 3ème | 1:37:9 | 
 | 50 | DEBERDT AURELIEN | VELO CLUB ROUBAIX | 15 | 3ème | 1:37:10 | 
@@ -121,7 +122,7 @@ image: assets/img/blog/road.png
 | 99 | WAN-MEENEN JULIEN | UNION VELOCIPEDIQUE FOURMISIENNE | 11 | 1ère | 1:6:29 | 
 | 100 | THUET JULIEN | Entente cycliste Wallers Arenberg Bellaing | 11 | 3ème | 1:14:22 | 
 | 101 | LEFEBVRE FRANCK | UNION SPORTIVE VALENCIENNES CRESPIN | 11 | 3ème | 1:14:45 | 
-| **102** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **11** | **2ème** | **1:15:20** | 
+| **102** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **11** | **2ème** | **1:15:20** | 
 | 103 | ZADOUD GEOFFREY | FENAIN CYCLO CLUB | 11 | 3ème | 1:15:41 | 
 | 104 | VANDERHAEGEN ADELE | ASSOCIATION CYCLISTE D'ETROEUNGT | 11 | Féminines | 1:18:58 | 
 | 105 | DOREZ AMELIE | ENTENTE CYCLISTE FACHES-THUMESNIL RONCHIN | 11 | Féminines | 1:18:58 | 

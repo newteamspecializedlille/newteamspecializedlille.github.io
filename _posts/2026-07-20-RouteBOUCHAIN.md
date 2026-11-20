@@ -3,13 +3,14 @@ layout: post
 title: Route - BOUCHAIN - 2026
 date: 2026-07-20
 category: Route
+permalink: /resultats/route/2026-07-20-bouchain/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
 24 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 7
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 7
 
 ### Scratch
 102 participants
@@ -42,7 +43,7 @@ image: assets/img/blog/road.png
 | 24 | ROY SEBASTIEN | TEAM CYCLISTE PROVINOIS - PROVIN | 36 | 2ème | 1:7:21 | 
 | 25 | VANWYNSBERGHE SAMUEL | NEW ORANGE TEAM BOUSBECQUE | 36 | 2ème | 1:7:25 | 
 | 26 | AVISSE CORENTIN | VELO CLUB SOLESMES | 36 | 2ème | 1:7:26 | 
-| **27** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **36** | **2ème** | **1:7:26** | 
+| **27** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **36** | **2ème** | **1:7:26** | 
 | 28 | PRIAT AURELIEN | ESEG DOUAI | 36 | 2ème | 1:7:27 | 
 | 29 | TOURNEUX MICKAEL | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 36 | 2ème | 1:7:27 | 
 | 30 | CORNETTE STEPHANE | TEAM BIKE PRESEAU | 36 | 2ème | 1:7:27 | 

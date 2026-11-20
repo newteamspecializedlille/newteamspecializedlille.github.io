@@ -3,13 +3,14 @@ layout: post
 title: VTT - ORCHIES - 2026
 date: 2025-10-05
 category: VTT
+permalink: /resultats/vtt/2025-10-05-orchies/
 tags: VTT
 image: assets/img/blog/vtt.png
 ---
 
 ### VTT Vétérans A
 18 participants
-- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 10
+- [DEFER OLIVIER](/coureurs/deferolivier) : 10
 
 ### Scratch
 47 participants
@@ -44,7 +45,7 @@ image: assets/img/blog/vtt.png
 | 26 | PLANQUE LOIC | TEAM SHARK VTT | 8 | Seniors B | 0:53:48 | 
 | 27 | BUONO JEREMY | MAROEUIL VELO VERT MAROEUILLOIS V.V.M | 7 | Vétérans A | 0:46:51 | 
 | 28 | MEESMAECKER WILLIAM | UNION SPORTIVE SAINT ANDRE | 7 | Seniors A | 0:47:8 | 
-| **29** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **7** | **Vétérans A** | **0:47:9** | 
+| **29** | **[DEFER OLIVIER](/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **7** | **Vétérans A** | **0:47:9** | 
 | 30 | FREROT FRANCK | U.C. CAPELLOISE FOURMIES | 7 | Vétérans B | 0:47:14 | 
 | 31 | DEZOUTER ARNAUD | BEUVRY CLUB LEO LAGRANGE | 7 | Seniors B | 0:47:40 | 
 | 32 | DUCATEZ FLORIAN | BEUVRY CLUB LEO LAGRANGE | 7 | Seniors A | 0:48:16 | 

@@ -3,6 +3,7 @@ layout: post
 title: VTT - ROUVROY - 2024
 date: 2023-12-17
 category: VTT
+permalink: /resultats/vtt/2023-12-17-rouvroy/
 tags: VTT
 image: assets/resultats/2023/vtt/12-17-rouvroy/1.jpg
 images:
@@ -12,7 +13,7 @@ images:
 
 ### VTT Vétérans B
 19 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 1
+- [MATTIOLI RONALD](/coureurs/mattiolironald) : 1
 
 ### Scratch
 53 participants
@@ -21,7 +22,7 @@ images:
 |---|---|---|---|---|---|
 | 1 | DEMEESTER KEVIN | WINGLES PYRAMIDES PASSION VTT | 9 | Seniors B | 0:52:36 | 
 | 2 | ASPEELE CEDRIC | TORCY TEAM PINK AND BLUE | 9 | Seniors B | 0:52:39 | 
-| **3** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **9** | **Vétérans B** | **0:53:39** | 
+| **3** | **[MATTIOLI RONALD](/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **9** | **Vétérans B** | **0:53:39** | 
 | 4 | CARPENTIER JEROME | FLEURBAIX TEAM SHARK VTT | 9 | Vétérans A | 0:53:40 | 
 | 5 | SOTTIAUX SEBASTIEN | UNION SPORTIVE SAINT ANDRE | 9 | Vétérans B | 0:53:53 | 
 | 6 | ALLART ERIC | TEAM POLICE HDF | 9 | Vétérans B | 0:53:55 | 

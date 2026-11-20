@@ -3,6 +3,7 @@ layout: post
 title: Route - MARQUETTE EN OSTREVENT - 2026
 date: 2026-05-10
 category: Route
+permalink: /resultats/route/2026-05-10-marquette-en-ostrevent/
 championship: Championnat Nord
 tags: Route
 image: assets/img/blog/road.png
@@ -10,25 +11,25 @@ image: assets/img/blog/road.png
 
 ### Masculins 17/19 ans
 31 participants
-- [LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis) : 2
-- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 3
+- [LECOLIER LOUIS](/coureurs/lecolierlouis) : 2
+- [DERASSE DAVID](/coureurs/derassedavid) : 3
 
 ### Masculins 20/29 ans
 38 participants
-- [MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio) : 8
+- [MINNECI ELIO](/coureurs/minnecielio) : 8
 
 
 ### Masculins  30/39 ans
 41 participants
-- [CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas) : 1
-- [BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine) : 17
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 27
+- [CROMBEZ THOMAS](/coureurs/crombezthomas) : 1
+- [BROUTIN ANTOINE](/coureurs/broutinantoine) : 17
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 27
 
 ### Masculins 40/49 ans
 59 participants
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 30
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 30
 
 ### Masculins 50/59 ans
 48 participants
-- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 11
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 36
+- [LECOLIER STEPHANE](/coureurs/lecolierstephane) : 11
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 36

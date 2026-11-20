@@ -3,14 +3,15 @@ layout: post
 title: Cyclo Cross - VERLINGHEM - 2026
 date: 2025-11-30
 category: Cyclo Cross
+permalink: /resultats/cyclo-cross/2025-11-30-verlinghem/
 tags: cyclo-cross
 image: assets/img/blog/cx.png
 ---
 
 ### 1ère Catégorie
 17 participants
-- [ORBIER AXEL](https://teamspecializedlille.cc/coureurs/orbieraxel) : 4
-- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 14
+- [ORBIER AXEL](/coureurs/orbieraxel) : 4
+- [DERASSE DAVID](/coureurs/derassedavid) : 14
 
 ### Scratch
 74 participants
@@ -20,7 +21,7 @@ image: assets/img/blog/cx.png
 | 1 | BUGNICOURT ELIAS | UNION VELOCIPEDIQUE FOURMISIENNE | 7 | 1ère | 1:10:20 | 
 | 2 | LEFRANCQ LUDOVIC | NOEUX VELO CLUB NOEUXOIS | 7 | 1ère | 1:10:48 | 
 | 3 | BUGNICOURT CYRIL | UNION VELOCIPEDIQUE FOURMISIENNE | 7 | 1ère | 1:12:14 | 
-| **4** | **[ORBIER AXEL](https://teamspecializedlille.cc/coureurs/orbieraxel)** | **TEAM SPECIALIZED LILLE** | **7** | **1ère** | **1:13:10** | 
+| **4** | **[ORBIER AXEL](/coureurs/orbieraxel)** | **TEAM SPECIALIZED LILLE** | **7** | **1ère** | **1:13:10** | 
 | 5 | LEGUEUX LAURENT | UNION VELOCIPEDIQUE FOURMISIENNE | 7 | 1ère | 1:15:22 | 
 | 6 | REUTER SEBASTIEN | VELO CLUB UNION HALLUIN | 7 | 1ère | 1:15:55 | 
 | 7 | MORDACQ JEAN-MICHEL | ESEG DOUAI | 7 | 1ère | 1:15:56 | 
@@ -55,7 +56,7 @@ image: assets/img/blog/cx.png
 | 36 | DEMETS EMMANUEL | ETOILE CYCLISTE LIEU ST AMAND | 6 | 2ème | 1:17:27 | 
 | 37 | CROMMELINCK PATRICK | CYCLOS RANDONNEURS LA BASSEE | 6 | 3ème | 1:17:36 | 
 | 38 | BAUW EDOUARD | BAILLEUL VELO CLUB | 6 | 3ème | 1:18:3 | 
-| **39** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **6** | **1ère** | **1:18:57** | 
+| **39** | **[DERASSE DAVID](/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **6** | **1ère** | **1:18:57** | 
 | 40 | DELHAYE RUDY | VELO CLUB DE L'ESCAUT ANZIN | 6 | 3ème | 1:19:17 | 
 | 41 | LUCAS LAURENT | ARTOIS CYCLING TEAM | 6 | 3ème | 1:19:25 | 
 | 42 | GEMELINE MATTHIEU | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 6 | 3ème | 1:19:50 | 

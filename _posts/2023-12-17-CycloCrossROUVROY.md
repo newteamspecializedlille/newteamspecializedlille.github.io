@@ -3,6 +3,7 @@ layout: post
 title: Cyclo Cross - ROUVROY - 2024
 date: 2023-12-17
 category: Cyclo Cross
+permalink: /resultats/cyclo-cross/2023-12-17-rouvroy/
 tags: cyclo-cross
 image: assets/resultats/2023/cyclo-cross/12-17-rouvroy/1.jpg
 images:
@@ -11,7 +12,7 @@ images:
 
 ### 3ème Catégorie
 37 participants
-- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : Ab
+- [DERASSE DAVID](/coureurs/derassedavid) : Ab
 
 ### Scratch
 81 participants
@@ -98,6 +99,6 @@ images:
 | 78 | LEFEBVRE STEPHANIE | HENIN ETOILE CYCLISTE HENINOISE | 4 | Féminines | 0:32:57 | 
 | 79 | DERODE ELOISE | HAVELUY CYCLO CLUB | 4 | Féminines | 0:37:23 | 
 | 80 | DOCHNIAK LEO | HAVELUY CYCLO CLUB | 0 | 1ère | 0:38:53 | 
-| **81** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
+| **81** | **[DERASSE DAVID](/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
 
 ![1](http://teamspecializedlille.github.io/assets/resultats/2023/cyclo-cross/12-17-rouvroy/1.jpg)

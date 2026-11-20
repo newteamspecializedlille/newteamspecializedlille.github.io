@@ -3,23 +3,24 @@ layout: post
 title: Route - BAVAY - 2025
 date: 2025-04-05
 category: Route
+permalink: /resultats/route/2025-04-05-bavay/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 47 participants
-- [MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio) : 23
-- [LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis) : 31
+- [MINNECI ELIO](/coureurs/minnecielio) : 23
+- [LECOLIER LOUIS](/coureurs/lecolierlouis) : 31
 
 ### 2ème Catégorie
 50 participants
-- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 36
+- [DEFER OLIVIER](/coureurs/deferolivier) : 36
 
 ### 3ème Catégorie
 76 participants
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 20
-- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 41
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 20
+- [WALTER BENOIT](/coureurs/walterbenoit) : 41
 
 ### Scratch
 210 participants
@@ -48,7 +49,7 @@ image: assets/img/blog/road.png
 | 20 | COMMONT DAVID | NOUVELLE ETOILE SPORTIVE BOUE ETREUX | 17 | 1ère | 1:48:57 | 
 | 21 | COINTE NOLAN | BARLIN CERCLE LAIQUE | 17 | 1ère | 1:48:59 | 
 | 22 | MARQUET VICTOR | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 17 | 1ère | 1:48:59 | 
-| **23** | **[MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **17** | **1ère** | **1:49:2** | 
+| **23** | **[MINNECI ELIO](/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **17** | **1ère** | **1:49:2** | 
 | 24 | DORGE AURELIEN | VELO SPRINT BOUCHAIN | 17 | 1ère | 1:49:2 | 
 | 25 | DELOBELLE OLIVIER | UNION SPORTIVE SAINT ANDRE | 17 | 1ère | 1:49:15 | 
 | 26 | CATILLON CYRIL | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 17 | 1ère | 1:49:23 | 
@@ -56,7 +57,7 @@ image: assets/img/blog/road.png
 | 28 | MAGY MATHEO | ETOILE CYCLISTE FEIGNIES | 17 | 1ère | 1:49:28 | 
 | 29 | LE MOUEL DIMITRI | VELO SPRINT BOUCHAIN | 17 | 1ère | 1:50:6 | 
 | 30 | LORRIAUX JULIEN | VELO CLUB SOLESMES | 17 | 1ère | 1:52:23 | 
-| **31** | **[LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **16** | **1ère** | **1:48:32** | 
+| **31** | **[LECOLIER LOUIS](/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **16** | **1ère** | **1:48:32** | 
 | 32 | WAN MEENEN JULIEN | VTT  CLUB PONT SUR SAMBRE | 15 | 2ème | 1:40:17 | 
 | 33 | SABREJA FREDERIC | UNION SPORTIVE SAINT ANDRE | 15 | 2ème | 1:40:17 | 
 | 34 | THOMAS MATTHIAS | TEAM B.B.L. HERGNIES | 15 | 2ème | 1:40:18 | 
@@ -115,7 +116,7 @@ image: assets/img/blog/road.png
 | 87 | CORNELIS DAVE | UNION VELOCIPEDIQUE FOURMISIENNE | 14 | 3ème | 1:41:18 | 
 | 88 | BOUZERE ADRIEN | ASSOCIATION CYCLISTE D'ETROEUNGT | 14 | 3ème | 1:41:37 | 
 | 89 | COTTON FABIEN | VELO CLUB UNION HALLUIN | 14 | 3ème | 1:42:47 | 
-| **90** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **14** | **3ème** | **1:42:49** | 
+| **90** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **14** | **3ème** | **1:42:49** | 
 | 91 | PANCZAK MAXIME | ROUE D'OR COMINOISE | 14 | 3ème | 1:42:49 | 
 | 92 | POULAIN CHRISTOPHE | VELO SPRINT DE L'OSTREVENT - ANICHE | 14 | 3ème | 1:43:7 | 
 | 93 | DEBRUYNE EMILIEN | CYCLO CLUB WAVRIN | 14 | 3ème | 1:43:9 | 
@@ -123,7 +124,7 @@ image: assets/img/blog/road.png
 | 95 | KONOPKA GABRIEL | CERCLE OLYMPIQUE MARCOING | 14 | 3ème | 1:44:6 | 
 | 96 | MOURAIN CEDRIC | UNION VELOCIPEDIQUE FOURMISIENNE | 14 | 2ème | 1:44:16 | 
 | 97 | POIDEVIN LUDOVIC | TEAM BIKE PRESEAU | 14 | 3ème | 1:44:36 | 
-| **98** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **14** | **2ème** | **1:44:39** | 
+| **98** | **[DEFER OLIVIER](/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **14** | **2ème** | **1:44:39** | 
 | 99 | DECRUCQ ROMUALD | UNION VELOCIPEDIQUE FOURMISIENNE | 14 | 3ème | 1:44:50 | 
 | 100 | LEYS LEO | ESEG DOUAI | 14 | 1ère | 1:44:56 | 
 | 101 | SEMOULIN JACQUES | TEAM B.B.L. HERGNIES | 14 | 3ème | 1:46:23 | 
@@ -144,7 +145,7 @@ image: assets/img/blog/road.png
 | 116 | BRIXHE ALAIN | VTT  CLUB PONT SUR SAMBRE | 13 | 3ème | 1:42:35 | 
 | 117 | CONTESSE FREDERIC | ASSOCIATION CYCLISTE D'ETROEUNGT | 13 | 3ème | 1:42:43 | 
 | 118 | RAHOUT TIMEO | LOOS EN GOHELLE VELO CLUB LOOSSOIS | 13 | 2ème | 1:43:28 | 
-| **119** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **13** | **3ème** | **1:43:32** | 
+| **119** | **[WALTER BENOIT](/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **13** | **3ème** | **1:43:32** | 
 | 120 | DEKOSTER MICKAEL | ARTeam Artois Racing Team | 13 | 3ème | 1:44:24 | 
 | 121 | GEORGES DAVID | UNION SPORTIVE VALENCIENNES CRESPIN | 13 | 3ème | 1:44:30 | 
 | 122 | GAMACHE CHRISTOPHE | CYCLOS RANDONNEURS LA BASSEE | 13 | 3ème | 1:44:42 | 

@@ -3,13 +3,14 @@ layout: post
 title: VTT - WALLERS AREMBERG - 2023
 date: 2023-01-22
 category: VTT
+permalink: /resultats/vtt/2023-01-22-wallers-aremberg/
 tags: VTT
 image: assets/img/blog/vtt.png
 ---
 
 ### VTT Vétérans B
 19 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 2
+- [MATTIOLI RONALD](/coureurs/mattiolironald) : 2
 
 ### Scratch
 34 participants
@@ -17,7 +18,7 @@ image: assets/img/blog/vtt.png
 | Place | Nom | Team | Tours | Catégorie | Temps |
 |---|---|---|---|---|---|
 | 1 | ALLART ERIC | THELUS TEAM UNIS-VERT VTT | 14 | Vétérans B | 0:57:32 | 
-| **2** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **14** | **Vétérans B** | **0:57:58** | 
+| **2** | **[MATTIOLI RONALD](/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **14** | **Vétérans B** | **0:57:58** | 
 | 3 | DUHAMEL ARNAUD | AGNY ARTEAM | 14 | Vétérans B | 0:59:10 | 
 | 4 | JABLONSKI SEBASTIEN | TEAM B.B.L. HERGNIES | 14 | Vétérans A | 0:59:32 | 
 | 5 | RIVART ADRIEN | ASSOCIATION CYCLISTE BELLAINGEOISE | 14 | Seniors A | 0:59:39 | 

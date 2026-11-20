@@ -3,13 +3,14 @@ layout: post
 title: Cyclo Cross - WINGLES - 2022
 date: 2021-11-11
 category: Cyclo Cross
+permalink: /resultats/cyclo-cross/2021-11-11-wingles/
 tags: cyclo-cross
 image: assets/img/blog/cx.png
 ---
 
 ### 3ème Catégorie
 58 participants
-- [MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix) : 26
+- [MOULIN FELIX](/coureurs/moulinfelix) : 26
 
 ### Scratch
 106 participants
@@ -71,7 +72,7 @@ image: assets/img/blog/cx.png
 | 53 | BROQUIN XAVIER | CYCLO CLUB BERGUES | 8 | 2ème | 1:0:45 | 
 | 54 | CAPELLE FRANCKY | ETOILE CYCLISTE TOURCOING | 8 | 3ème | 1:0:57 | 
 | 55 | DHAUSSY MELVIN | AGNY AMICALE LAIQUE | 8 | 3ème | 1:1:38 | 
-| **56** | **[MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **8** | **3ème** | **1:1:38** | 
+| **56** | **[MOULIN FELIX](/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **8** | **3ème** | **1:1:38** | 
 | 57 | LUCAS LAURENT | BIACHE ST VAAST VELO CLUB | 8 | 3ème | 1:1:55 | 
 | 58 | VANDEN TORREN MAXIME | MANQUEVILLE LILLERS CLUB  | 8 | 3ème | 1:2:26 | 
 | 59 | DELPLACE SYLVIAN | MANQUEVILLE LILLERS CLUB  | 8 | 3ème | 1:2:28 | 

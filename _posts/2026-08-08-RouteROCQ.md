@@ -3,19 +3,20 @@ layout: post
 title: Route - ROCQ - 2026
 date: 2026-08-08
 category: Route
+permalink: /resultats/route/2026-08-08-rocq/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
 27 participants
-- [LECOLIER BENOIT](https://teamspecializedlille.cc/coureurs/lecolierbenoit) : 15
+- [LECOLIER BENOIT](/coureurs/lecolierbenoit) : 15
 
 ### 3ème Catégorie
 37 participants
-- [LECOURT CHARLIE](https://teamspecializedlille.cc/coureurs/lecourtcharlie) : 7
-- [HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe) : 11
-- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 21
+- [LECOURT CHARLIE](/coureurs/lecourtcharlie) : 7
+- [HUBAUT CHRISTOPHE](/coureurs/hubautchristophe) : 11
+- [DEFER OLIVIER](/coureurs/deferolivier) : 21
 
 ### Scratch
 101 participants
@@ -49,7 +50,7 @@ image: assets/img/blog/road.png
 | 25 | BRABANT JULIEN | HAVELUY CYCLO CLUB | 13 | 2ème | 1:42:53 | 
 | 26 | HEBERT PIERRICK | NEW ORANGE TEAM BOUSBECQUE | 13 | 2ème | 1:43:4 | 
 | 27 | RAUX FLORENT | LES VIKINGS | 13 | 2ème | 1:44:2 | 
-| **28** | **[LECOLIER BENOIT](https://teamspecializedlille.cc/coureurs/lecolierbenoit)** | **TEAM SPECIALIZED LILLE** | **13** | **2ème** | **1:44:2** | 
+| **28** | **[LECOLIER BENOIT](/coureurs/lecolierbenoit)** | **TEAM SPECIALIZED LILLE** | **13** | **2ème** | **1:44:2** | 
 | 29 | HAIDON PASCAL | Entente cycliste Wallers Arenberg Bellaing | 13 | 2ème | 1:48:16 | 
 | 30 | DELPIRE FREDERIC | VTT  CLUB PONT SUR SAMBRE | 13 | 2ème | 1:49:25 | 
 | 31 | IMBERT JOHNNY | ETOILE CYCLISTE LIEU ST AMAND | 13 | 2ème | 1:57:40 | 
@@ -59,11 +60,11 @@ image: assets/img/blog/road.png
 | 35 | FRIBOURG BLANC BASTIEN | UNION SPORTIVE VALENCIENNES CRESPIN | 12 | 3ème | 1:36:2 | 
 | 36 | WILMART MARIUS | LES VIKINGS | 12 | 3ème | 1:36:31 | 
 | 37 | FLAHAUT JEAN-BAPTISTE | TEAM CYCLING LA SENTINELLE | 12 | 3ème | 1:36:31 | 
-| **38** | **[LECOURT CHARLIE](https://teamspecializedlille.cc/coureurs/lecourtcharlie)** | **TEAM SPECIALIZED LILLE** | **12** | **3ème** | **1:36:32** | 
+| **38** | **[LECOURT CHARLIE](/coureurs/lecourtcharlie)** | **TEAM SPECIALIZED LILLE** | **12** | **3ème** | **1:36:32** | 
 | 39 | COULON SYLVAIN | GILLOT CYCLING CLUB FEIGNIES | 12 | 3ème | 1:36:34 | 
 | 40 | MISMAQUE JACQUES | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 12 | 3ème | 1:36:44 | 
 | 41 | FIEVEZ BENOIT | TEAM VTT JEUMONT | 12 | 3ème | 1:36:44 | 
-| **42** | **[HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe)** | **TEAM SPECIALIZED LILLE** | **12** | **3ème** | **1:36:45** | 
+| **42** | **[HUBAUT CHRISTOPHE](/coureurs/hubautchristophe)** | **TEAM SPECIALIZED LILLE** | **12** | **3ème** | **1:36:45** | 
 | 43 | KHOUALED DAVID | VELO CLUB UNION HALLUIN | 12 | 3ème | 1:36:45 | 
 | 44 | TRIOLO FLORENT | TEAM BOUSIES | 12 | 3ème | 1:36:45 | 
 | 45 | CARETTE MICKAEL | VELO CLUB UNION HALLUIN | 12 | 3ème | 1:36:45 | 
@@ -75,7 +76,7 @@ image: assets/img/blog/road.png
 | 51 | BEAUJEAN NATHANAEL | PANACHE SACOCHE CLUB - BRUAY SUR ESCAUT | 12 | 2ème | 1:47:37 | 
 | 52 | LECHAT RENAUD | Entente cycliste Wallers Arenberg Bellaing | 12 | 2ème | 1:48:19 | 
 | 53 | MICHEL STEPHANE | ETOILE CYCLISTE FEIGNIES | 11 | 3ème | 1:32:52 | 
-| **54** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **11** | **3ème** | **1:35:18** | 
+| **54** | **[DEFER OLIVIER](/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **11** | **3ème** | **1:35:18** | 
 | 55 | AUVRAY LOIC | RESILIENCE CLUB | 11 | 3ème | 1:35:47 | 
 | 56 | LANOY CHRISTOPHER | UNION SPORTIVE VALENCIENNES CRESPIN | 11 | 3ème | 1:35:47 | 
 | 57 | COULON JULIEN | GILLOT CYCLING CLUB FEIGNIES | 11 | 3ème | 1:36:6 | 

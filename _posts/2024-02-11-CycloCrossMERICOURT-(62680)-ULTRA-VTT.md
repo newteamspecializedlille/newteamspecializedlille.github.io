@@ -3,6 +3,7 @@ layout: post
 title: Cyclo Cross - MERICOURT (62680) ULTRA VTT - 2024
 date: 2024-02-11
 category: Cyclo Cross
+permalink: /resultats/cyclo-cross/2024-02-11-mericourt-62680-ultra-vtt/
 tags: cyclo-cross
 image: assets/resultats/2024/cyclo-cross/02-11-mericourt-(62680)-ultra-vtt/1.jpg
 images:
@@ -16,7 +17,7 @@ images:
 
 ### 3ème Catégorie
 19 participants
-- [MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix) : 3
+- [MOULIN FELIX](/coureurs/moulinfelix) : 3
 
 ### Scratch
 36 participants
@@ -41,7 +42,7 @@ images:
 | 16 | DOLLET ETIENNE | MANQUEVILLE LILLERS CLUB CYCLISTE | 6 | 2ème | 0:51:14 | 
 | 17 | DUFOUR SYLVAIN | VELO CLUB UNION HALLUIN | 6 | 3ème | 0:52:39 | 
 | 18 | BOULOGNE JEROME | LINSELLES CYCLISME | 6 | 3ème | 0:53:22 | 
-| **19** | **[MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **6** | **3ème** | **0:53:44** | 
+| **19** | **[MOULIN FELIX](/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **6** | **3ème** | **0:53:44** | 
 | 20 | DELACOURTE LAURENT | UNION SPORTIVE VALENCIENNES CRESPIN | 6 | 3ème | 0:53:47 | 
 | 21 | LEROI JEAN CLAUDE | VTT  CLUB PONT SUR SAMBRE | 6 | 3ème | 0:54:1 | 
 | 22 | LUCAS LAURENT | ARTOIS CYCLING TEAM | 6 | 3ème | 0:54:6 | 

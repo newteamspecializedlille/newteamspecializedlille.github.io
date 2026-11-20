@@ -3,13 +3,14 @@ layout: post
 title: Cyclo Cross - BOUVIGNIES - 2023
 date: 2023-02-11
 category: Cyclo Cross
+permalink: /resultats/cyclo-cross/2023-02-11-bouvignies/
 tags: cyclo-cross
 image: assets/img/blog/cx.png
 ---
 
 ### 3ème Catégorie
 24 participants
-- [MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix) : 18
+- [MOULIN FELIX](/coureurs/moulinfelix) : 18
 
 ### Scratch
 53 participants
@@ -55,7 +56,7 @@ image: assets/img/blog/cx.png
 | 37 | MARTIN GREGORY | AGNY ARTEAM | 9 | 3ème | 0:58:9 | 
 | 38 | DOLLET ETIENNE | MANQUEVILLE LILLERS CLUB CYCLISTE | 8 | 3ème | 0:51:41 | 
 | 39 | DANEL JEAN PIERRE | ARTOIS CYCLING TEAM | 8 | 3ème | 0:52:31 | 
-| **40** | **[MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **8** | **3ème** | **0:53:17** | 
+| **40** | **[MOULIN FELIX](/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **8** | **3ème** | **0:53:17** | 
 | 41 | DE BRUYNE JOCELYN | TEAM LABIERE BAILLEUL | 8 | 3ème | 0:53:20 | 
 | 42 | BAUW EDOUARD | TEAM LABIERE BAILLEUL | 8 | 3ème | 0:53:21 | 
 | 43 | GEORGES DAVID | UNION SPORTIVE VALENCIENNES MARLY | 8 | 3ème | 0:54:27 | 

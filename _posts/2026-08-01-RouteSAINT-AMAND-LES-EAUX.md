@@ -3,19 +3,20 @@ layout: post
 title: Route - SAINT AMAND LES EAUX - 2026
 date: 2026-08-01
 category: Route
+permalink: /resultats/route/2026-08-01-saint-amand-les-eaux/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
 62 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 12
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 12
 
 ### 3ème Catégorie
 80 participants
-- [HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe) : 2
-- [HUGUENIN DYLAN](https://teamspecializedlille.cc/coureurs/huguenindylan) : 24
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 26
+- [HUBAUT CHRISTOPHE](/coureurs/hubautchristophe) : 2
+- [HUGUENIN DYLAN](/coureurs/huguenindylan) : 24
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 26
 
 ### Scratch
 239 participants
@@ -62,7 +63,7 @@ image: assets/img/blog/road.png
 | 38 | DEURBROECK KRIS | UNION SPORTIVE SAINT ANDRE | 11 | 2ème | 1:48:40 | 
 | 39 | DELHAYE FLORENT | CLUB CYCLISTE THUN ST MARTIN | 11 | 2ème | 1:48:40 | 
 | 40 | MARTINEZ JEROME | NEW TEAM MAULDE | 11 | 2ème | 1:48:40 | 
-| **41** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **11** | **2ème** | **1:48:40** | 
+| **41** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **11** | **2ème** | **1:48:40** | 
 | 42 | DUPONT DAMIEN | TEAM CROSS HASPRES | 11 | 2ème | 1:48:40 | 
 | 43 | BARATIER JULIEN | LA PEDALE MADELEINOISE | 11 | 2ème | 1:48:40 | 
 | 44 | TOURNEUX MICKAEL | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 11 | 2ème | 1:48:40 | 
@@ -103,7 +104,7 @@ image: assets/img/blog/road.png
 | 79 | VANAUBERG EDDY | TEAM B.B.L. HERGNIES | 11 | 2ème | 1:49:18 | 
 | 80 | LEFEVRE TOM | TEAM CYCLISTE LA BORDURE - BETTRECHIES | 11 | 1ère | 1:49:34 | 
 | 81 | MASSON GAETAN | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 10 | 3ème | 1:36:41 | 
-| **82** | **[HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe)** | **TEAM SPECIALIZED LILLE** | **10** | **3ème** | **1:36:42** | 
+| **82** | **[HUBAUT CHRISTOPHE](/coureurs/hubautchristophe)** | **TEAM SPECIALIZED LILLE** | **10** | **3ème** | **1:36:42** | 
 | 83 | DEBERDT AURELIEN | VELO CLUB ROUBAIX | 10 | 3ème | 1:36:43 | 
 | 84 | NOWINSKI JEROME | UNION SPORTIVE SAINT ANDRE | 10 | 3ème | 1:36:45 | 
 | 85 | LOGEZ GUILLAUME | TEAM PEVELE CAREMBAULT CYCLISME | 10 | 3ème | 1:36:46 | 
@@ -125,9 +126,9 @@ image: assets/img/blog/road.png
 | 101 | GRAVE BENJAMIN | BRUAY LA BUISSIERE U.S.O. CYCLISME | 10 | 3ème | 1:36:49 | 
 | 102 | FLAHAUT JEAN-BAPTISTE | TEAM CYCLING LA SENTINELLE | 10 | 3ème | 1:36:49 | 
 | 103 | WALTER BENOIT | VELO CLUB UNION HALLUIN | 10 | 3ème | 1:36:49 | 
-| **104** | **[HUGUENIN DYLAN](https://teamspecializedlille.cc/coureurs/huguenindylan)** | **TEAM SPECIALIZED LILLE** | **10** | **3ème** | **1:36:50** | 
+| **104** | **[HUGUENIN DYLAN](/coureurs/huguenindylan)** | **TEAM SPECIALIZED LILLE** | **10** | **3ème** | **1:36:50** | 
 | 105 | LANOY CHRISTOPHER | UNION SPORTIVE VALENCIENNES CRESPIN | 10 | 3ème | 1:36:50 | 
-| **106** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **10** | **3ème** | **1:36:50** | 
+| **106** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **10** | **3ème** | **1:36:50** | 
 | 107 | DUFOUR SYLVAIN | VELO CLUB UNION HALLUIN | 10 | 3ème | 1:36:50 | 
 | 108 | LABOUREUR MATTHIEU | VTT  CLUB PONT SUR SAMBRE | 10 | 3ème | 1:36:50 | 
 | 109 | AUVRAY LOIC | RESILIENCE CLUB | 10 | 3ème | 1:36:51 | 

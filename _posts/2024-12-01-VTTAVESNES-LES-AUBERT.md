@@ -3,13 +3,14 @@ layout: post
 title: VTT - AVESNES LES AUBERT - 2025
 date: 2024-12-01
 category: VTT
+permalink: /resultats/vtt/2024-12-01-avesnes-les-aubert/
 tags: VTT
 image: assets/img/blog/vtt.png
 ---
 
 ### VTT Vétérans B
 6 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 2
+- [MATTIOLI RONALD](/coureurs/mattiolironald) : 2
 
 ### Scratch
 19 participants
@@ -21,7 +22,7 @@ image: assets/img/blog/vtt.png
 | 3 | GREVIN JEROME | VELO CLUB SOLESMES | 8 | Vétérans B | 0:55:0 | 
 | 4 | RICHARD ROMAIN | VELO CLUB DE L'ESCAUT ANZIN | 8 | Seniors B | 0:55:47 | 
 | 5 | JABLONSKI SEBASTIEN | NEW TEAM MAULDE | 8 | Vétérans A | 0:56:7 | 
-| **6** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans B** | **0:56:45** | 
+| **6** | **[MATTIOLI RONALD](/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans B** | **0:56:45** | 
 | 7 | DARTUS MIKAEL | VELO CLUB SOLESMES | 8 | Vétérans A | 0:57:32 | 
 | 8 | MICHEL ANTHONY | ETOILE CYCLISTE FEIGNIES | 7 | Seniors A | 0:50:46 | 
 | 9 | GAMACHE CHRISTOPHE | CYCLOS RANDONNEURS LA BASSEE | 7 | Vétérans B | 0:52:34 | 

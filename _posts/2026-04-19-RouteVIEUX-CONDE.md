@@ -3,6 +3,7 @@ layout: post
 title: Route - VIEUX CONDE - 2026
 date: 2026-04-19
 category: Route
+permalink: /resultats/route/2026-04-19-vieux-conde/
 tags: Route
 image: assets/img/blog/road.png
 images:
@@ -12,24 +13,24 @@ images:
 
 ### 1ère Catégorie
 43 participants
-- [CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas) : 11
-- [MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio) : 15
-- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 18
-- [LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis) : 19
-- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 23
+- [CROMBEZ THOMAS](/coureurs/crombezthomas) : 11
+- [MINNECI ELIO](/coureurs/minnecielio) : 15
+- [DERASSE DAVID](/coureurs/derassedavid) : 18
+- [LECOLIER LOUIS](/coureurs/lecolierlouis) : 19
+- [LECOLIER STEPHANE](/coureurs/lecolierstephane) : 23
 
 ### 2ème Catégorie
 70 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 20
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : Ab
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 20
+- [DEFOSSE HERVE](/coureurs/defosseherve) : Ab
 
 ### 3ème Catégorie
 69 participants
-- [HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe) : 32
+- [HUBAUT CHRISTOPHE](/coureurs/hubautchristophe) : 32
 
 ### 4ème Catégorie
 47 participants
-- [DERASSE PATRICK](https://teamspecializedlille.cc/coureurs/derassepatrick) : Ab
+- [DERASSE PATRICK](/coureurs/derassepatrick) : Ab
 
 ### Scratch
 
@@ -45,19 +46,19 @@ images:
 | 8 | HURIAU BENOIT | Entente cycliste Wallers Arenberg Bellaing | 26 | 1ère | 01:36:19 |
 | 9 | FREHAUT NICOLAS | ASSOCIATION CYCLISTE D'ETROEUNGT | 26 | 1ère | 01:36:23 |
 | 10 | TROUKENS FABIEN | TEAM B.B.L. HERGNIES | 26 | 1ère | 01:36:23 |
-| **11** | **[CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **26** | **1ère** | **01:36:23** |
+| **11** | **[CROMBEZ THOMAS](/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **26** | **1ère** | **01:36:23** |
 | 12 | LALEU TIMOTHEE | UNION SPORTIVE SAINT ANDRE | 26 | 1ère | 01:36:23 |
 | 13 | LEVEILLE STEPHANE | TEAM CYCLING LA SENTINELLE | 26 | 1ère | 01:36:24 |
 | 14 | DELANGUE THOMAS | NEW ORANGE TEAM BOUSBECQUE | 26 | 1ère | 01:36:24 |
-| **15** | **[MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **26** | **1ère** | **01:36:25** |
+| **15** | **[MINNECI ELIO](/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **26** | **1ère** | **01:36:25** |
 | 16 | LEVEILLE FLORIAN | TEAM CYCLING LA SENTINELLE | 26 | 1ère | 01:36:25 |
 | 17 | BRASSART THEOPHILE | TEAM B.B.L. HERGNIES | 26 | 1ère | 01:36:25 |
-| **18** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **26** | **1ère** | **01:36:25** |
-| **19** | **[LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **26** | **1ère** | **01:36:25** |
+| **18** | **[DERASSE DAVID](/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **26** | **1ère** | **01:36:25** |
+| **19** | **[LECOLIER LOUIS](/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **26** | **1ère** | **01:36:25** |
 | 20 | POTIER CHARLES-HUGO | ETOILE CYCLISTE TOURCOING | 26 | 1ère | 01:36:25 |
 | 21 | VAN FRIEL MAXIME | CYCLO CLUB CAMBRESIEN | 26 | 1ère | 01:36:26 |
 | 22 | MASSIN ALEXANDRE | ESEG DOUAI | 26 | 1ère | 01:36:26 |
-| **23** | **[LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **26** | **1ère** | **01:36:26** |
+| **23** | **[LECOLIER STEPHANE](/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **26** | **1ère** | **01:36:26** |
 | 24 | VANDERHAEGEN REGIS | ASSOCIATION CYCLISTE D'ETROEUNGT | 26 | 1ère | 01:36:27 |
 | 25 | BARA VICTOR | UNION SPORTIVE SAINT ANDRE | 26 | 1ère | 01:36:27 |
 | 26 | MINGOA LUCIANO | NEW ORANGE TEAM BOUSBECQUE | 26 | 1ère | 01:36:27 |
@@ -97,7 +98,7 @@ images:
 | 17 | DUHAMEL ARNAUD | ARTeam Artois Racing Team | 25 | 2ème | 01:35:06 |
 | 18 | PLUCHARD MATHIS | HAVELUY CYCLO CLUB | 25 | 2ème | 01:35:06 |
 | 19 | AMAND JEREMY | VELO CLUB DE L'ESCAUT ANZIN | 25 | 2ème | 01:35:06 |
-| **20** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **25** | **2ème** | **01:35:06** |
+| **20** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **25** | **2ème** | **01:35:06** |
 | 21 | DEBRABANT ANTHONY | TEAM CYCLING LA SENTINELLE | 25 | 2ème | 01:35:06 |
 | 22 | GUERVILLE YANN | CYCLO CLUB WAVRIN | 25 | 2ème | 01:35:07 |
 | 23 | DERENZIS RYAN | Entente cycliste Wallers Arenberg Bellaing | 25 | 2ème | 01:35:07 |
@@ -148,7 +149,7 @@ images:
 | 68 | BRABANT JULIEN | HAVELUY CYCLO CLUB | 14 | 2ème | 00:52:26 |
 | 69 | ROISSE SEBASTIEN | CYCLO CLUB ORCHIES | 9 | 2ème | 00:33:12 |
 | 70 | BOURGEOIS SYLVAIN | VELO CLUB DE L'ESCAUT ANZIN | 5 | 2ème | 00:17:34 |
-| **Ab** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **-** | **2ème** | **-** |
+| **Ab** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **-** | **2ème** | **-** |
 | Ab | ROULY ALEXIS | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | - | 2ème | - |
 | Ab | JUILLET GLENN | VELO CLUB ROUBAIX | - | 2ème | - |
 | Ab | BRUNEBARBE SEBASTIEN | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | - | 2ème | - |
@@ -183,7 +184,7 @@ images:
 | 29 | BAUDOIN ETIENNE | LES VIKINGS | 23 | 3ème | 01:31:57 |
 | 30 | DETAVERNIER FLORIAN | ROUE D'OR COMINOISE | 23 | 3ème | 01:31:58 |
 | 31 | DIAS XAVIER | NEW TEAM MAULDE | 23 | 3ème | 01:31:59 |
-| **32** | **[HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe)** | **TEAM SPECIALIZED LILLE** | **23** | **3ème** | **01:31:59** |
+| **32** | **[HUBAUT CHRISTOPHE](/coureurs/hubautchristophe)** | **TEAM SPECIALIZED LILLE** | **23** | **3ème** | **01:31:59** |
 | 33 | LOEZ VALENTIN | VELO CLUB SOLESMES | 23 | 3ème | 01:31:59 |
 | 34 | URBAIN RUDY | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 23 | 3ème | 01:31:59 |
 | 35 | CARON FABRICE | VELO CLUB AMANDINOIS | 23 | 3ème | 01:31:59 |
@@ -272,7 +273,7 @@ images:
 | 47 | LHOIR DOMINIQUE | TEAM B.B.L. HERGNIES | 12 | 4ème | 00:57:00 |
 | Ab | LECOUSTRE ANDRE | OUTREAU CLUB SPORTIF | - | 4ème | - |
 | Ab | FLAHAUT MARCEL | UNION SPORTIVE SAINT ANDRE | - | 4ème | - |
-| **Ab** | **[DERASSE PATRICK](https://teamspecializedlille.cc/coureurs/derassepatrick)** | **TEAM SPECIALIZED LILLE** | **-** | **4ème** | **-** |
+| **Ab** | **[DERASSE PATRICK](/coureurs/derassepatrick)** | **TEAM SPECIALIZED LILLE** | **-** | **4ème** | **-** |
 | Ab | HAVET PIERRE | BEUVRY CYCLO CLUB | - | 4ème | - |
 | Ab | LECU PASCAL | UNION SPORTIVE VALENCIENNES CRESPIN | - | 4ème | - |
 | Ab | LALAUT JEROME | LOOS EN GOHELLE VELO CLUB | - | 4ème | - |

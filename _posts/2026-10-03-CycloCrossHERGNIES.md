@@ -3,13 +3,14 @@ layout: post
 title: Cyclo Cross - HERGNIES - 2027
 date: 2026-10-03
 category: Cyclo Cross
+permalink: /resultats/cyclo-cross/2026-10-03-hergnies/
 tags: cyclo-cross
 image: assets/img/blog/cx.png
 ---
 
 ### 3ème Catégorie
 50 participants
-- [MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix) : AB
+- [MOULIN FELIX](/coureurs/moulinfelix) : AB
 
 ### Scratch
 91 participants
@@ -99,7 +100,7 @@ image: assets/img/blog/cx.png
 | 81 | FLAMANT LOUKA | ESEG DOUAI | 5 | Cadets | 0:35:20 | 
 | 82 | VALIAVANOS ANAIS | CYCLO CLUB DE PASLY | 5 | Féminines | 0:46:03 | 
 | 83 | DZIEMBOWSKI GERALD | VELO CLUB ROUBAIX | 5 | 3ème | 1:01:54 | 
-| **84** | **[MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
+| **84** | **[MOULIN FELIX](/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
 | 85 | CARPENTIER ROMAIN | VTT CLUB PONT SUR SAMBRE | 0 | 3ème | 0:38:53 | 
 | 86 | DEJEAN MATHIS | TEAM CYCLISTE LA BORDURE | 0 | 3ème | 0:38:53 | 
 | 87 | STAQUET AURELIEN | TEAM CROSS HASPRES | 0 | 3ème | 0:38:53 | 

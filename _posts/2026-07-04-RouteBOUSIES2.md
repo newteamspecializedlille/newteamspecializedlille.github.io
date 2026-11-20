@@ -3,6 +3,7 @@ layout: post
 title: Route - BOUSIES2 - 2026
 date: 2026-07-04
 category: Route
+permalink: /resultats/route/2026-07-04-bousies2/
 tags: Route
 image: assets/img/blog/road.png
 images:
@@ -31,13 +32,13 @@ images:
 
 ### 2ème Catégorie
 40 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 19
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : Ab
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 19
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : Ab
 
 ### 3ème Catégorie
 49 participants
-- [HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe) : 7
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 23
+- [HUBAUT CHRISTOPHE](/coureurs/hubautchristophe) : 7
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 23
 
 ### Scratch
 169 participants
@@ -76,7 +77,7 @@ images:
 | 30 | ROY SEBASTIEN | TEAM CYCLISTE PROVINOIS - PROVIN | 23 | 2ème | 1:50:23 | 
 | 31 | DELHAYE FLORENT | CLUB CYCLISTE THUN ST MARTIN | 23 | 2ème | 1:50:28 | 
 | 32 | CAULIER NICOLAS | CAMPAGNE LES WARDRECQUES CLUB CYCLISTE CCCW | 23 | 2ème | 1:50:28 | 
-| **33** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **23** | **2ème** | **1:50:38** | 
+| **33** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **23** | **2ème** | **1:50:38** | 
 | 34 | DELPIRE FREDERIC | VTT  CLUB PONT SUR SAMBRE | 23 | 2ème | 1:50:53 | 
 | 35 | MOULIN NICOLAS | PANACHE SACOCHE CLUB - BRUAY SUR ESCAUT | 23 | 2ème | 1:50:54 | 
 | 36 | DENOYELLE ADRIEN | ASSOCIATION CYCLISTE D'ETROEUNGT | 23 | 2ème | 1:50:54 | 
@@ -96,7 +97,7 @@ images:
 | 50 | DRUART LAURENT | VELO CLUB DE L'ESCAUT ANZIN | 20 | 3ème | 1:37:16 | 
 | 51 | URBAIN RUDY | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 20 | 3ème | 1:37:16 | 
 | 52 | WINS JEAN FRANCOIS | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 20 | 3ème | 1:37:16 | 
-| **53** | **[HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe)** | **TEAM SPECIALIZED LILLE** | **20** | **3ème** | **1:37:16** | 
+| **53** | **[HUBAUT CHRISTOPHE](/coureurs/hubautchristophe)** | **TEAM SPECIALIZED LILLE** | **20** | **3ème** | **1:37:16** | 
 | 54 | PRZESZLO YANNICK | UNION CYCLISTE SOLRE LE CHATEAU | 20 | 3ème | 1:37:16 | 
 | 55 | FLAHAUT JEAN-BAPTISTE | TEAM CYCLING LA SENTINELLE | 20 | 3ème | 1:37:16 | 
 | 56 | POIDEVIN LUDOVIC | TEAM BIKE PRESEAU | 20 | 3ème | 1:37:16 | 
@@ -112,7 +113,7 @@ images:
 | 66 | POT FREDERIC | ETOILE CYCLISTE FEIGNIES | 20 | 3ème | 1:37:19 | 
 | 67 | PORQUET LUDOVIC | TEAM CYCLING LA SENTINELLE | 20 | 3ème | 1:37:19 | 
 | 68 | DUMONT SEBASTIEN | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 20 | 3ème | 1:37:21 | 
-| **69** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **20** | **3ème** | **1:37:21** | 
+| **69** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **20** | **3ème** | **1:37:21** | 
 | 70 | SCREVE THIBAUT | 52X11 HIRSON THIERACHE | 20 | 3ème | 1:37:25 | 
 | 71 | DEFOSSEZ RODRIGUE | ETOILE CYCLISTE FEIGNIES | 20 | 3ème | 1:37:26 | 
 | 72 | MONNIER SEBASTIEN | CLUB CYCLOTOURISME MAROILLES | 20 | 3ème | 1:37:26 | 
@@ -194,7 +195,7 @@ images:
 | 148 | LENGLET GUILLAUME | Transpondeur ne fonctionne pas | 0 | 2ème | 0:38:53 | 
 | 149 | WAERNIER ROMUALD | Transpondeur ne fonctionne pas | 0 | 2ème | 0:38:53 | 
 | 150 | ROULY ALEXIS | CLUB DES SUPPORTERS CYCLI | 0 | 2ème | 0:38:53 | 
-| **151** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **0** | **2ème** | **0:38:53** | 
+| **151** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **0** | **2ème** | **0:38:53** | 
 | 152 | MOUFTIER LOUKA | TEAM VTT JEUMONT | 0 | 2ème | 0:38:53 | 
 | 153 | BELKEIR SLIMAN | NEW ORANGE TEAM BOUSBECQU | 0 | 2ème | 0:38:53 | 
 | 154 | COPPE THOMAS | Transpondeur ne fonctionne pas | 0 | 2ème | 0:38:53 | 

@@ -3,14 +3,15 @@ layout: post
 title: Route - BOUSIES3 - 2020
 date: 2020-09-19
 category: Route
+permalink: /resultats/route/2020-09-19-bousies3/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 36 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 20
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 22
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 20
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 22
 
 ### Scratch
 181 participants

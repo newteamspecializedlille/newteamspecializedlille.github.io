@@ -3,14 +3,15 @@ layout: post
 title: Route - CRESPIN - 2024
 date: 2024-05-20
 category: Route
+permalink: /resultats/route/2024-05-20-crespin/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 3ème Catégorie
 42 participants
-- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 3
-- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 5
+- [DEFER OLIVIER](/coureurs/deferolivier) : 3
+- [DERASSE DAVID](/coureurs/derassedavid) : 5
 
 ### Scratch
 92 participants
@@ -47,9 +48,9 @@ image: assets/img/blog/road.png
 | 28 | LEVAS LAURENT | UNION SPORTIVE VALENCIENNES CRESPIN | 18 | 2ème | 1:41:27 | 
 | 29 | AMAND JEREMY | UNION SPORTIVE VALENCIENNES CRESPIN | 17 | 3ème | 1:26:59 | 
 | 30 | LEONARDI FLORIAN | RESILIENCE CLUB | 17 | 3ème | 1:27:0 | 
-| **31** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **17** | **3ème** | **1:27:3** | 
+| **31** | **[DEFER OLIVIER](/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **17** | **3ème** | **1:27:3** | 
 | 32 | DEMOUILLER FREDERIC | UNION SPORTIVE VALENCIENNES CRESPIN | 17 | 3ème | 1:27:41 | 
-| **33** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **17** | **3ème** | **1:27:41** | 
+| **33** | **[DERASSE DAVID](/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **17** | **3ème** | **1:27:41** | 
 | 34 | PLOUY THIERRY | LA PEDALE MADELEINOISE | 17 | 3ème | 1:27:41 | 
 | 35 | BURY RANDY | TEAM BOUSIES | 17 | 3ème | 1:27:44 | 
 | 36 | PETIT MATEO | UNION CYCLISTE WATTIGNIES | 17 | 3ème | 1:27:52 | 

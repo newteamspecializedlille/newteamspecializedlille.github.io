@@ -3,13 +3,14 @@ layout: post
 title: VTT - LE QUESNOY1 - 2025
 date: 2025-01-05
 category: VTT
+permalink: /resultats/vtt/2025-01-05-le-quesnoy1/
 tags: VTT
 image: assets/img/blog/vtt.png
 ---
 
 ### VTT Vétérans B
 5 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : Ab
+- [MATTIOLI RONALD](/coureurs/mattiolironald) : Ab
 
 ### Scratch
 15 participants
@@ -30,4 +31,4 @@ image: assets/img/blog/vtt.png
 | 12 | FOULON FRANCK | TEAM DECOPUB PROVILLE | 4 | Vétérans B | 1:0:1 | 
 | 13 | DEGRELLE BENJAMIN | LES VIKINGS VTT MARCHE NORDIQUE OHAIN | 4 | Seniors B | 1:0:56 | 
 | 14 | DARTUS MIKAEL | VELO CLUB SOLESMES | 0 | Vétérans A | 0:38:53 | 
-| **15** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **0** | **Vétérans B** | **0:38:53** | 
+| **15** | **[MATTIOLI RONALD](/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **0** | **Vétérans B** | **0:38:53** | 

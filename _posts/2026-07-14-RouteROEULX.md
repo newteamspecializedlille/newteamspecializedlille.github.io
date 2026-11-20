@@ -3,13 +3,14 @@ layout: post
 title: Route - ROEULX - 2026
 date: 2026-07-14
 category: Route
+permalink: /resultats/route/2026-07-14-roeulx/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
 40 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 17
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 17
 
 ### Scratch
 159 participants
@@ -49,7 +50,7 @@ image: assets/img/blog/road.png
 | 31 | MARTINEZ JEROME | NEW TEAM MAULDE | 17 | 2ème | 0:38:53 | 
 | 32 | POULAIN CHRISTOPHE | VELO SPRINT DE L'OSTREVENT - ANICHE | 17 | 2ème | 0:38:53 | 
 | 33 | DEBRUYNE LOIC | VELO CLUB ROUBAIX | 17 | 2ème | 0:38:53 | 
-| **34** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **17** | **2ème** | **0:38:53** | 
+| **34** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **17** | **2ème** | **0:38:53** | 
 | 35 | BEAUJEAN NATHANAEL | PANACHE SACOCHE CLUB - BRUAY SUR ESCAUT | 17 | 2ème | 0:38:53 | 
 | 36 | ALBERTINI LUDOVIC | NEW ORANGE TEAM BOUSBECQUE | 17 | 2ème | 0:38:53 | 
 | 37 | DI CARLO DONATO | NEW ORANGE TEAM BOUSBECQUE | 17 | 2ème | 0:38:53 | 

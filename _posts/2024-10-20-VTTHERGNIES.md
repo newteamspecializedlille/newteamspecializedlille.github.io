@@ -3,13 +3,14 @@ layout: post
 title: VTT - HERGNIES - 2025
 date: 2024-10-20
 category: VTT
+permalink: /resultats/vtt/2024-10-20-hergnies/
 tags: VTT
 image: assets/img/blog/vtt.png
 ---
 
 ### VTT Vétérans B
 18 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 1
+- [MATTIOLI RONALD](/coureurs/mattiolironald) : 1
 
 ### Scratch
 35 participants
@@ -22,7 +23,7 @@ image: assets/img/blog/vtt.png
 | 4 | BRADFER GERY | ETOILE CYCLISTE LIEU ST AMAND | 9 | Vétérans A | 0:51:24 | 
 | 5 | JABLONSKI SEBASTIEN | NEW TEAM MAULDE | 9 | Vétérans A | 0:51:37 | 
 | 6 | MAQUIGNON CEDRIC | TOURNEHEM LES MARCASSINS | 9 | Vétérans A | 0:52:17 | 
-| **7** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **9** | **Vétérans B** | **0:52:43** | 
+| **7** | **[MATTIOLI RONALD](/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **9** | **Vétérans B** | **0:52:43** | 
 | 8 | MEESMAECKER WILLIAM | UNION SPORTIVE SAINT ANDRE | 9 | Seniors A | 0:52:49 | 
 | 9 | RICHARD ROMAIN | VELO CLUB DE L'ESCAUT ANZIN | 9 | Seniors B | 0:52:51 | 
 | 10 | DESRUMAUX FRANCK | TEAM MELANTOIS - PERONNE EN MELANTOIS | 9 | Vétérans B | 0:55:0 | 

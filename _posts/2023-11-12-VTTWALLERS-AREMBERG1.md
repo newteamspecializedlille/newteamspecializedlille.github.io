@@ -3,13 +3,14 @@ layout: post
 title: VTT - WALLERS AREMBERG1 - 2024
 date: 2023-11-12
 category: VTT
+permalink: /resultats/vtt/2023-11-12-wallers-aremberg1/
 tags: VTT
 image: assets/img/blog/vtt.png
 ---
 
 ### VTT Vétérans A
 12 participants
-- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 8
+- [WALTER BENOIT](/coureurs/walterbenoit) : 8
 
 ### Scratch
 37 participants
@@ -39,7 +40,7 @@ image: assets/img/blog/vtt.png
 | 21 | PLOUVIEZ VINCENT | CYCLO CLUB WAVRIN | 10 | Vétérans B | 0:54:31 | 
 | 22 | MERIAUX FREDERIC | FLEURBAIX TEAM SHARK VTT | 10 | Vétérans B | 0:54:34 | 
 | 23 | TAPIN FLORIAN | LES VIKINGS VTT MARCHE NORDIQUE OHAIN | 10 | Seniors A | 0:55:11 | 
-| **24** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **10** | **Vétérans A** | **0:55:18** | 
+| **24** | **[WALTER BENOIT](/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **10** | **Vétérans A** | **0:55:18** | 
 | 25 | VAN DAMME THOMAS | CYCLO CLUB CAMBRESIEN | 10 | Seniors B | 0:55:19 | 
 | 26 | BUONO JEREMY | VELO CLUB TALMAS | 10 | Seniors B | 0:55:20 | 
 | 27 | LETOMBE CHRISTOPHE | BEUVRY CLUB LEO LAGRANGE | 10 | Vétérans B | 0:56:3 | 

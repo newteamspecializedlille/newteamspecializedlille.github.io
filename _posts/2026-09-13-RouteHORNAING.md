@@ -3,13 +3,14 @@ layout: post
 title: Route - HORNAING - 2026
 date: 2026-09-13
 category: Route
+permalink: /resultats/route/2026-09-13-hornaing/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
 26 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 10
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 10
 
 ### Scratch
 82 participants
@@ -31,7 +32,7 @@ image: assets/img/blog/road.png
 | 13 | MARTINEZ JEROME | NEW TEAM MAULDE | 16 | 2ème | 1:44:57 | 
 | 14 | HEBERT PIERRICK | NEW ORANGE TEAM BOUSBECQUE | 16 | 2ème | 1:44:57 | 
 | 15 | TONDELIER LUDOVIC | CYCLO CLUB WAVRIN | 16 | 2ème | 1:44:57 | 
-| **16** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **16** | **2ème** | **1:44:57** | 
+| **16** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **16** | **2ème** | **1:44:57** | 
 | 17 | GOCHON VALENTIN | TEAM MELANTOIS - ANSTAING | 16 | 2ème | 1:44:57 | 
 | 18 | PRIAT AURELIEN | ESEG DOUAI | 16 | 2ème | 1:44:58 | 
 | 19 | PLUCHARD MATHIS | HAVELUY CYCLO CLUB | 16 | 2ème | 1:44:59 | 

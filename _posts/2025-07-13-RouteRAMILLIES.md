@@ -3,14 +3,15 @@ layout: post
 title: Route - RAMILLIES - 2025
 date: 2025-07-13
 category: Route
+permalink: /resultats/route/2025-07-13-ramillies/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 3ème Catégorie
 35 participants
-- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 13
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 20
+- [WALTER BENOIT](/coureurs/walterbenoit) : 13
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 20
 
 ### Scratch
 112 participants
@@ -79,14 +80,14 @@ image: assets/img/blog/road.png
 | 60 | LARGEAU FREDERIC | SAULZOIR MONTRECOURT CYCLING CLUB | 0 | 3ème | 0:38:53 | 
 | 61 | DELEPLACE DIDIER | CYCLISME EN CAMBRESIS - NEUVILLE ST REMY | 0 | 3ème | 0:38:53 | 
 | 62 | FRANCOIS GERALD | SAULZOIR MONTRECOURT CYCLING CLUB | 0 | 3ème | 0:38:53 | 
-| **63** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
+| **63** | **[WALTER BENOIT](/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
 | 64 | VERWAERDE FABIEN | BAILLEUL VELO CLUB | 0 | 3ème | 0:38:53 | 
 | 65 | PASSARD MATEO | ESEG DOUAI | 0 | 3ème | 0:38:53 | 
 | 66 | CHEVAL EDDY | SAULZOIR MONTRECOURT CYCLING CLUB | 0 | 3ème | 0:38:53 | 
 | 67 | DEBRABANT ANTHONY | TEAM BOUSIES | 0 | 3ème | 0:38:53 | 
 | 68 | CODDEVILLE KENNY | VELO CLUB UNION HALLUIN | 0 | 3ème | 0:38:53 | 
 | 69 | KHOUALED DAVID | VELO CLUB UNION HALLUIN | 0 | 3ème | 0:38:53 | 
-| **70** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
+| **70** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
 | 71 | DEFOSSEZ RODRIGUE | CLUB CYCLISTE THUN ST MARTIN | 0 | 3ème | 0:38:53 | 
 | 72 | DELANNOY MAXIME | VELO CLUB SOLESMES | 0 | 3ème | 0:38:53 | 
 | 73 | DHAINE VINCENT | VELO CLUB DE L'ESCAUT ANZIN | 0 | 3ème | 0:38:53 | 

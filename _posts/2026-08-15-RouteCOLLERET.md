@@ -3,17 +3,18 @@ layout: post
 title: Route - COLLERET - 2026
 date: 2026-08-15
 category: Route
+permalink: /resultats/route/2026-08-15-colleret/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
 22 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 15
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 15
 
 ### 3ème Catégorie
 31 participants
-- [LECOURT CHARLIE](https://teamspecializedlille.cc/coureurs/lecourtcharlie) : 3
+- [LECOURT CHARLIE](/coureurs/lecourtcharlie) : 3
 
 ### Scratch
 83 participants
@@ -42,11 +43,11 @@ image: assets/img/blog/road.png
 | 20 | LOGIE MATTHIEU | VELO CLUB UNION HALLUIN | 21 | 1ère | 1:41:16 | 
 | 21 | LACROIX FREDERIC | VELO CLUB ROUBAIX | 21 | 1ère | 1:41:30 | 
 | 22 | VINCENT ETIENNE | ETOILE CYCLISTE FEIGNIES | 20 | 2ème | 1:37:6 | 
-| **23** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **20** | **2ème** | **1:38:42** | 
+| **23** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **20** | **2ème** | **1:38:42** | 
 | 24 | MILLET FABRICE | VTT  CLUB PONT SUR SAMBRE | 20 | 2ème | 1:40:21 | 
 | 25 | WILMART MARIUS | LES VIKINGS | 18 | 3ème | 1:25:57 | 
 | 26 | DUPONT REMI | RESILIENCE CLUB | 18 | 3ème | 1:25:58 | 
-| **27** | **[LECOURT CHARLIE](https://teamspecializedlille.cc/coureurs/lecourtcharlie)** | **TEAM SPECIALIZED LILLE** | **18** | **3ème** | **1:26:22** | 
+| **27** | **[LECOURT CHARLIE](/coureurs/lecourtcharlie)** | **TEAM SPECIALIZED LILLE** | **18** | **3ème** | **1:26:22** | 
 | 28 | DEBERDT AURELIEN | VELO CLUB ROUBAIX | 18 | 3ème | 1:26:26 | 
 | 29 | DEMORY ERIC | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 18 | 3ème | 1:26:27 | 
 | 30 | COULON SYLVAIN | GILLOT CYCLING CLUB FEIGNIES | 18 | 3ème | 1:26:29 | 

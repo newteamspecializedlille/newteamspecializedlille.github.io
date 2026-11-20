@@ -3,6 +3,7 @@ layout: post
 title: Cyclo Cross - BEUVRY - 2024
 date: 2024-01-14
 category: Cyclo Cross
+permalink: /resultats/cyclo-cross/2024-01-14-beuvry/
 tags: cyclo-cross
 image: assets/resultats/2024/cyclo-cross/01-14-beuvry/1.jpg
 images:
@@ -13,7 +14,7 @@ images:
 
 ### 3ème Catégorie
 29 participants
-- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 3
+- [DERASSE DAVID](/coureurs/derassedavid) : 3
 
 ### Scratch
 46 participants
@@ -31,7 +32,7 @@ images:
 | 9 | FOULON ANDRE | TEAM DECOPUB PROVILLE | 6 | 3ème | 1:3:53 | 
 | 10 | BOUVET GRICOURT HUGO | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 6 | 3ème | 1:4:47 | 
 | 11 | VANWAELSCAPPEL GUILLAUME | CYCLO CLUB WAVRIN | 6 | 2ème | 1:5:12 | 
-| **12** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **6** | **3ème** | **1:5:21** | 
+| **12** | **[DERASSE DAVID](/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **6** | **3ème** | **1:5:21** | 
 | 13 | WITTEK DASSONVILLE CELINE | NOEUX VELO CLUB NOEUXOIS | 6 | 3ème | 1:5:21 | 
 | 14 | BOCQUILLON JEROME | AGNY ARTeam | 6 | 3ème | 1:5:28 | 
 | 15 | LETOMBE CHRISTOPHE | BEUVRY CLUB LEO LAGRANGE | 6 | 3ème | 1:6:11 | 

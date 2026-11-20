@@ -3,18 +3,19 @@ layout: post
 title: Route - LALLAING - 2026
 date: 2026-05-17
 category: Route
+permalink: /resultats/route/2026-05-17-lallaing/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
 52 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 14
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 14
 
 ### 3ème Catégorie
 68 participants
-- [LECOURT CHARLIE](https://teamspecializedlille.cc/coureurs/lecourtcharlie) : 15
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : Ab
+- [LECOURT CHARLIE](/coureurs/lecourtcharlie) : 15
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : Ab
 
 ### Scratch
 204 participants
@@ -44,7 +45,7 @@ image: assets/img/blog/road.png
 | 21 | CORNETTE STEPHANE | TEAM BIKE PRESEAU | 15 | 2ème | 1:40:59 | 
 | 22 | DIAS MARTIN BAPTISTE | CAMPHIN EN CAREMBAULT CYCLING TEAM | 15 | 2ème | 1:40:59 | 
 | 23 | DEPARIS TRISTAN | VELO CLUB UNION HALLUIN | 15 | 2ème | 1:40:59 | 
-| **24** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **15** | **2ème** | **1:41:0** | 
+| **24** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **15** | **2ème** | **1:41:0** | 
 | 25 | MARTINEZ JEROME | NEW TEAM MAULDE | 15 | 2ème | 1:41:0 | 
 | 26 | FOURNIER AXEL | TEAM CYCLISTE LA BORDURE - BETTRECHIES | 15 | 2ème | 1:41:0 | 
 | 27 | ROBIN THIBAUT | CYCLO CLUB ORCHIES | 15 | 2ème | 1:41:0 | 
@@ -94,7 +95,7 @@ image: assets/img/blog/road.png
 | 71 | HENNEBIQUE CLEMENT | MAROEUIL VELO VERT MAROEUILLOIS V.V.M | 13 | 3ème | 1:28:3 | 
 | 72 | PASSARD MATEO | ESEG DOUAI | 13 | 3ème | 1:28:4 | 
 | 73 | DAUMONT BRUNO | NEW ORANGE TEAM BOUSBECQUE | 13 | 3ème | 1:29:49 | 
-| **74** | **[LECOURT CHARLIE](https://teamspecializedlille.cc/coureurs/lecourtcharlie)** | **TEAM SPECIALIZED LILLE** | **13** | **3ème** | **1:30:33** | 
+| **74** | **[LECOURT CHARLIE](/coureurs/lecourtcharlie)** | **TEAM SPECIALIZED LILLE** | **13** | **3ème** | **1:30:33** | 
 | 75 | BRUYERES MATHIS | TEAM CYCLING LA SENTINELLE | 13 | 3ème | 1:31:39 | 
 | 76 | GALVAIRE CHRISTOPHE | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 13 | 3ème | 1:31:39 | 
 | 77 | CODDEVILLE KENNY | VELO CLUB UNION HALLUIN | 13 | 3ème | 1:31:40 | 
@@ -205,7 +206,7 @@ image: assets/img/blog/road.png
 | 182 | DILIBERTO MATTEO | UNION SPORTIVE VALENCIENN | 0 | 3ème | 0:38:53 | 
 | 183 | FLAMENT BENOIT | ETOILE CYCLISTE FEIGNIES | 0 | 3ème | 0:38:53 | 
 | 184 | DUPUIS VALENTIN | NEW TEAM MAULDE | 0 | 3ème | 0:38:53 | 
-| **185** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
+| **185** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
 | 186 | BURIDON DAVID | CYCLO CLUB ORCHIES | 0 | 3ème | 0:38:53 | 
 | 187 | DEQUEKER LUCAS | BEUVRY CYCLO CLUB | 0 | 3ème | 0:38:53 | 
 | 188 | GEORGES OLIVIER | UNION SPORTIVE VALENCIENN | 0 | 3ème | 0:38:53 | 

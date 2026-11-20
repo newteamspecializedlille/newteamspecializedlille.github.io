@@ -3,17 +3,18 @@ layout: post
 title: Route - FEIGNIES2 - 2026
 date: 2026-09-12
 category: Route
+permalink: /resultats/route/2026-09-12-feignies2/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
 26 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 7
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 7
 
 ### 3ème Catégorie
 51 participants
-- [LECOURT CHARLIE](https://teamspecializedlille.cc/coureurs/lecourtcharlie) : 22
+- [LECOURT CHARLIE](/coureurs/lecourtcharlie) : 22
 
 ### Scratch
 130 participants
@@ -47,7 +48,7 @@ image: assets/img/blog/road.png
 | 25 | TONDELIER LUDOVIC | CYCLO CLUB WAVRIN | 25 | 2ème | 1:40:57 | 
 | 26 | DRUART THIBAUT | TEAM CYCLISTE LA BORDURE - BETTRECHIES | 25 | 2ème | 1:40:57 | 
 | 27 | THOMAS MATTHIAS | PANACHE SACOCHE CLUB - BRUAY SUR ESCAUT | 25 | 2ème | 1:40:57 | 
-| **28** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **25** | **2ème** | **1:40:57** | 
+| **28** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **25** | **2ème** | **1:40:57** | 
 | 29 | MOUFTIER LOUKA | TEAM VTT JEUMONT | 25 | 2ème | 1:40:58 | 
 | 30 | CODER MOUCHART AXEL | ETOILE CYCLISTE FEIGNIES | 25 | 2ème | 1:40:58 | 
 | 31 | MAERTE ARNAUD |  | 25 | 2ème | 1:40:58 | 
@@ -86,7 +87,7 @@ image: assets/img/blog/road.png
 | 64 | BOUTONNE FREDERIC | TEAM BOUSIES | 22 | 3ème | 1:30:10 | 
 | 65 | WALTER BENOIT | VELO CLUB UNION HALLUIN | 22 | 3ème | 1:30:11 | 
 | 66 | FRANCOIS GERALD | TEAM CYCLING LA SENTINELLE | 22 | 3ème | 1:30:11 | 
-| **67** | **[LECOURT CHARLIE](https://teamspecializedlille.cc/coureurs/lecourtcharlie)** | **TEAM SPECIALIZED LILLE** | **22** | **3ème** | **1:30:11** | 
+| **67** | **[LECOURT CHARLIE](/coureurs/lecourtcharlie)** | **TEAM SPECIALIZED LILLE** | **22** | **3ème** | **1:30:11** | 
 | 68 | AUVRAY LOIC | RESILIENCE CLUB | 22 | 3ème | 1:30:11 | 
 | 69 | DEFOSSEZ RODRIGUE | ETOILE CYCLISTE FEIGNIES | 22 | 3ème | 1:30:11 | 
 | 70 | POT FREDERIC | ETOILE CYCLISTE FEIGNIES | 22 | 3ème | 1:30:11 | 

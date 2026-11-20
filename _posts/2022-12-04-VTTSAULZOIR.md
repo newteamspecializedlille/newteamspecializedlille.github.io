@@ -3,13 +3,14 @@ layout: post
 title: VTT - SAULZOIR - 2023
 date: 2022-12-04
 category: VTT
+permalink: /resultats/vtt/2022-12-04-saulzoir/
 tags: VTT
 image: assets/img/blog/vtt.png
 ---
 
 ### VTT Vétérans B
 10 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 1
+- [MATTIOLI RONALD](/coureurs/mattiolironald) : 1
 
 ### Scratch
 41 participants
@@ -18,7 +19,7 @@ image: assets/img/blog/vtt.png
 |---|---|---|---|---|---|
 | 1 | MICHEL KEVIN | ASSOCIATION CYCLISTE BELLAINGEOISE | 11 | Seniors A | 1:2:19 | 
 | 2 | WINS STEPHANE | TEAM BOUSIES | 11 | Vétérans A | 1:5:1 | 
-| **3** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **11** | **Vétérans B** | **1:5:9** | 
+| **3** | **[MATTIOLI RONALD](/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **11** | **Vétérans B** | **1:5:9** | 
 | 4 | GOUEL VALENTIN | ESEG DOUAI | 11 | Seniors B | 1:5:34 | 
 | 5 | SAMIER GERMAIN | CAMPHIN EN CAREMBAULT CYCLING TEAM | 11 | Seniors A | 1:6:3 | 
 | 6 | FORRIERE MAXENCE | VELO CLUB SOLESMES | 11 | Seniors A | 1:6:31 | 

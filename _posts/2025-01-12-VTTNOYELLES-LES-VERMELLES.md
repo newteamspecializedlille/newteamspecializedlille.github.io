@@ -3,13 +3,14 @@ layout: post
 title: VTT - NOYELLES LES VERMELLES - 2025
 date: 2025-01-12
 category: VTT
+permalink: /resultats/cyclo-cross/2025-01-12-noyelles-les-vermelles/
 tags: VTT
 image: assets/img/blog/vtt.png
 ---
 
 ### VTT Vétérans B
 19 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 2
+- [MATTIOLI RONALD](/coureurs/mattiolironald) : 2
 
 ### Scratch
 55 participants
@@ -22,7 +23,7 @@ image: assets/img/blog/vtt.png
 | 4 | BONNET JOHNNY | TEAM VTT JEUMONT | 9 | Seniors B | 0:59:58 | 
 | 5 | GREVIN JEROME | VELO CLUB SOLESMES | 9 | Vétérans B | 1:0:25 | 
 | 6 | VAN CLEEMPUT MARTIAL | TEAM SHARK VTT | 9 | Seniors A | 1:0:26 | 
-| **7** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **9** | **Vétérans B** | **1:0:27** | 
+| **7** | **[MATTIOLI RONALD](/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **9** | **Vétérans B** | **1:0:27** | 
 | 8 | DARTUS MIKAEL | VELO CLUB SOLESMES | 9 | Vétérans A | 1:0:33 | 
 | 9 | KADDOUR-DJEBBAR FREDERIC | VTT  CLUB PONT SUR SAMBRE | 9 | Vétérans A | 1:0:55 | 
 | 10 | RICHARD ROMAIN | VELO CLUB DE L'ESCAUT ANZIN | 9 | Seniors B | 1:1:2 | 

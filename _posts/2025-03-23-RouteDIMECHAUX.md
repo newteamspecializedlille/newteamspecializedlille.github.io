@@ -3,24 +3,25 @@ layout: post
 title: Route - DIMECHAUX - 2025
 date: 2025-03-23
 category: Route
+permalink: /resultats/route/2025-03-23-dimechaux/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 57 participants
-- [CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas) : 4
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : Ab
+- [CROMBEZ THOMAS](/coureurs/crombezthomas) : 4
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : Ab
 
 ### 2ème Catégorie
 59 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 25
-- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 38
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 25
+- [DEFER OLIVIER](/coureurs/deferolivier) : 38
 
 ### 3ème Catégorie
 76 participants
-- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 8
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 47
+- [WALTER BENOIT](/coureurs/walterbenoit) : 8
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 47
 
 ### Scratch
 237 participants
@@ -30,7 +31,7 @@ image: assets/img/blog/road.png
 | 1 | BEDOU ANTONIN | 52X11 HIRSON THIERACHE | 13 | 1ère | 1:49:27 | 
 | 2 | SEMOULIN JOAKIM | TEAM B.B.L. HERGNIES | 13 | 1ère | 1:49:27 | 
 | 3 | DEJARDIN EMMANUEL | NOUVELLE ETOILE SPORTIVE BOUE ETREUX | 13 | 1ère | 1:49:28 | 
-| **4** | **[CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **13** | **1ère** | **1:49:29** | 
+| **4** | **[CROMBEZ THOMAS](/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **13** | **1ère** | **1:49:29** | 
 | 5 | MORELLE YOHANN | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 13 | 1ère | 1:49:29 | 
 | 6 | ANTON LUDOVIC | NEW TEAM MAULDE | 13 | 1ère | 1:49:29 | 
 | 7 | DEMOL LEO | UNION SPORTIVE SAINT ANDRE | 13 | 1ère | 1:49:30 | 
@@ -89,7 +90,7 @@ image: assets/img/blog/road.png
 | 60 | DRUART JEROME | TEAM CYCLISTE LA BORDURE - BETTRECHIES | 12 | 2ème | 1:48:50 | 
 | 61 | BLONDEL FREDERIC | ESEG DOUAI | 12 | 2ème | 1:48:50 | 
 | 62 | DIEUDONNE GUILLAUME | GAZ ELEC CLUB DE DOUAI | 12 | 2ème | 1:48:50 | 
-| **63** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **12** | **2ème** | **1:48:50** | 
+| **63** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **12** | **2ème** | **1:48:50** | 
 | 64 | TELLIER TEDDY | AMIENS CYCLING TEAM | 12 | 1ère | 1:48:51 | 
 | 65 | CAILLARD ANTHONY | TEAM LINK AND RIDE HERIN | 12 | 2ème | 1:48:51 | 
 | 66 | HAMMANUKA YEVHENII | ASSOCIATION CYCLISTE D'ETROEUNGT | 12 | 2ème | 1:48:51 | 
@@ -105,7 +106,7 @@ image: assets/img/blog/road.png
 | 76 | BLONDEAU BENOIT | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 12 | 2ème | 1:48:59 | 
 | 77 | MOURAIN DORIAN | UNION VELOCIPEDIQUE FOURMISIENNE | 12 | 2ème | 1:49:21 | 
 | 78 | MOURAIN CEDRIC | UNION VELOCIPEDIQUE FOURMISIENNE | 12 | 2ème | 1:49:23 | 
-| **79** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **12** | **2ème** | **1:50:5** | 
+| **79** | **[DEFER OLIVIER](/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **12** | **2ème** | **1:50:5** | 
 | 80 | FAYT OLIVAN | UNION SPORTIVE SAINT ANDRE | 12 | 2ème | 1:52:14 | 
 | 81 | MOUFTIER LOUKA | TEAM VTT JEUMONT | 12 | 2ème | 1:52:16 | 
 | 82 | FLAMENT LOICK | ETOILE CYCLISTE FEIGNIES | 12 | 2ème | 1:52:19 | 
@@ -118,7 +119,7 @@ image: assets/img/blog/road.png
 | 89 | BIENFAIT LIONEL | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 11 | 3ème | 1:38:55 | 
 | 90 | RICHET CHRISTOPHE | ASSOCIATION CYCLISTE D'ETROEUNGT | 11 | 3ème | 1:38:55 | 
 | 91 | POULAIN CHRISTOPHE | VELO SPRINT DE L'OSTREVENT - ANICHE | 11 | 3ème | 1:38:55 | 
-| **92** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **11** | **3ème** | **1:38:55** | 
+| **92** | **[WALTER BENOIT](/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **11** | **3ème** | **1:38:55** | 
 | 93 | MEULEMANS LAURENT | VELO CLUB RETHELOIS | 11 | 3ème | 1:38:55 | 
 | 94 | PENSERINI FABIEN | ETOILE CYCLISTE LIEU ST AMAND | 11 | 3ème | 1:38:55 | 
 | 95 | GARCIA THOMAS | CLUB DES CYCLOS ET RANDONNEURS GARDEENS | 11 | 3ème | 1:38:55 | 
@@ -157,7 +158,7 @@ image: assets/img/blog/road.png
 | 128 | KHOUALED DAVID | VELO CLUB UNION HALLUIN | 11 | 3ème | 1:39:8 | 
 | 129 | PANCZAK MAXIME | ROUE D'OR COMINOISE | 11 | 3ème | 1:39:8 | 
 | 130 | AUSSEMS JEAN-YVES | UNION SPORTIVE SAINT ANDRE | 11 | 3ème | 1:39:10 | 
-| **131** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **11** | **3ème** | **1:39:13** | 
+| **131** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **11** | **3ème** | **1:39:13** | 
 | 132 | FREHAUT THIBAULT | ASSOCIATION CYCLISTE D'ETROEUNGT | 11 | 3ème | 1:39:35 | 
 | 133 | BOUZERE ADRIEN | ASSOCIATION CYCLISTE D'ETROEUNGT | 11 | 3ème | 1:39:36 | 
 | 134 | THEVE EMMANUEL | ROUE D'OR COMINOISE | 11 | 3ème | 1:40:4 | 
@@ -219,7 +220,7 @@ image: assets/img/blog/road.png
 | 190 | LANDAS PRIMEROSE | UNION SPORTIVE SAINT ANDRE | 9 | 4ème | 1:34:50 | 
 | 191 | DUPONT JEAN FRANCOIS | TEAM MELANTOIS - PERONNE EN MELANTOIS | 9 | 4ème | 1:39:44 | 
 | 192 | COLMANT ALEXANDRE | UNION SPORTIVE VALENCIENNES CRESPIN | 9 | 3ème | 1:44:7 | 
-| **193** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **8** | **1ère** | **1:10:47** | 
+| **193** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **8** | **1ère** | **1:10:47** | 
 | 194 | BERNIER DIMITRI | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 8 | 1ère | 1:10:50 | 
 | 195 | CROMMELINCK STEPHANE | VELO CLUB AMANDINOIS | 8 | 3ème | 1:15:50 | 
 | 196 | DEVYNCK MATTHIEU | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 8 | 2ème | 1:17:47 | 

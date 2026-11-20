@@ -67,7 +67,7 @@ def create_notifications(posts):
         race_type, race_name, human_date = info
         post_notification("Nouveau résultat disponible",
                           f"Résultat {race_type} de {race_name} le {human_date} disponible sur le site",
-                          f"{HOST}{url}/")
+                          f"{HOST}{url}")
 
 
 if __name__ == "__main__":

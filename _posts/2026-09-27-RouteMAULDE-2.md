@@ -3,24 +3,25 @@ layout: post
 title: Route - MAULDE 2 - 2026
 date: 2026-09-27
 category: Route
+permalink: /resultats/route/2026-09-27-maulde-2/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 33 participants
-- [CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas) : 4
+- [CROMBEZ THOMAS](/coureurs/crombezthomas) : 4
 
 ### 2ème Catégorie
 65 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 8
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 22
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 8
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 22
 
 ### 3ème Catégorie
 56 participants
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 1
-- [HUGUENIN DYLAN](https://teamspecializedlille.cc/coureurs/huguenindylan) : 18
-- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 30
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 1
+- [HUGUENIN DYLAN](/coureurs/huguenindylan) : 18
+- [DEFER OLIVIER](/coureurs/deferolivier) : 30
 
 ### Scratch
 200 participants
@@ -30,7 +31,7 @@ image: assets/img/blog/road.png
 | 1 | BEDOU ANTONIN | 52X11 HIRSON THIERACHE | 16 | 1ère | 1:41:9 | 
 | 2 | DELEPLACE HADRIEN | TEAM CYCLISTE - RAMILLIES | 16 | 1ère | 1:41:10 | 
 | 3 | WINS STEPHANE | HAVELUY CYCLO CLUB | 16 | 1ère | 1:41:10 | 
-| **4** | **[CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **16** | **1ère** | **1:41:11** | 
+| **4** | **[CROMBEZ THOMAS](/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **16** | **1ère** | **1:41:11** | 
 | 5 | SEMOULIN JOAKIM | TEAM B.B.L. HERGNIES | 16 | 1ère | 1:41:18 | 
 | 6 | MARTHE ROMUALD | ETOILE CYCLISTE LIEU ST AMAND | 16 | 1ère | 1:41:20 | 
 | 7 | MORELLE YOHANN | TEAM CYCLISTE - RAMILLIES | 16 | 1ère | 1:41:28 | 
@@ -59,7 +60,7 @@ image: assets/img/blog/road.png
 | 30 | GEORGES NOE | MAROEUIL VELO VERT MAROEUILLOIS V.V.M | 15 | 2ème | 1:40:48 | 
 | 31 | DUHAMEL ARNAUD | ARTeam Artois Racing Team | 15 | 2ème | 1:40:48 | 
 | 32 | WINS JEAN FRANCOIS | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 15 | 2ème | 1:40:48 | 
-| **33** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **15** | **2ème** | **1:40:48** | 
+| **33** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **15** | **2ème** | **1:40:48** | 
 | 34 | CINQUINA GUISEPPE | ETOILE CYCLISTE LIEU ST AMAND | 15 | 2ème | 1:40:48 | 
 | 35 | HAIDON PASCAL | Entente cycliste Wallers Arenberg Bellaing | 15 | 2ème | 1:40:48 | 
 | 36 | POLLET MAEL | TEAM MELANTOIS - ANSTAING | 15 | 2ème | 1:40:48 | 
@@ -73,7 +74,7 @@ image: assets/img/blog/road.png
 | 44 | STIEVENART FREDERIC | ETOILE CYCLISTE LIEU ST AMAND | 15 | 2ème | 1:40:50 | 
 | 45 | TONDELIER LUDOVIC | CYCLO CLUB WAVRIN | 15 | 2ème | 1:40:51 | 
 | 46 | BOURGEOIS SYLVAIN | VELO CLUB DE L'ESCAUT ANZIN | 15 | 2ème | 1:40:51 | 
-| **47** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **15** | **2ème** | **1:40:51** | 
+| **47** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **15** | **2ème** | **1:40:51** | 
 | 48 | BROSSE JIMMY | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 15 | 2ème | 1:40:52 | 
 | 49 | BECUWE ROMAIN | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 15 | 2ème | 1:40:52 | 
 | 50 | TIAGO SEBASTIAN | NEW ORANGE TEAM BOUSBECQUE | 15 | 2ème | 1:40:53 | 
@@ -108,7 +109,7 @@ image: assets/img/blog/road.png
 | 79 | CORNETTE STEPHANE | TEAM BIKE PRESEAU | 15 | 2ème | 1:41:28 | 
 | 80 | ROY SEBASTIEN | TEAM CYCLISTE PROVINOIS - PROVIN | 15 | 2ème | 1:41:33 | 
 | 81 | DERREVEAUX CHRISTOPHE | ETOILE CYCLISTE TOURCOING | 15 | 2ème | 1:42:0 | 
-| **82** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **14** | **3ème** | **1:35:15** | 
+| **82** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **14** | **3ème** | **1:35:15** | 
 | 83 | CARETTE MICKAEL | VELO CLUB UNION HALLUIN | 14 | 3ème | 1:35:16 | 
 | 84 | LECLERCQ LOUIS | VELO CLUB SOLESMES | 14 | 3ème | 1:35:23 | 
 | 85 | DEVILLEZ KEVIN | VELO CLUB DE L'ESCAUT ANZIN | 14 | 3ème | 1:35:23 | 
@@ -125,7 +126,7 @@ image: assets/img/blog/road.png
 | 96 | CODDEVILLE RUDY | VELO CLUB UNION HALLUIN | 14 | 3ème | 1:35:25 | 
 | 97 | VANWAELSCAPPEL GUILLAUME | CYCLO CLUB WAVRIN | 14 | 3ème | 1:35:25 | 
 | 98 | CHIMOT ROMAIN | TEAM CYCLISTE LA BORDURE - BETTRECHIES | 14 | 3ème | 1:35:25 | 
-| **99** | **[HUGUENIN DYLAN](https://teamspecializedlille.cc/coureurs/huguenindylan)** | **TEAM SPECIALIZED LILLE** | **14** | **3ème** | **1:35:25** | 
+| **99** | **[HUGUENIN DYLAN](/coureurs/huguenindylan)** | **TEAM SPECIALIZED LILLE** | **14** | **3ème** | **1:35:25** | 
 | 100 | VANWAELSCAPPEL JEROME | CYCLO CLUB WAVRIN | 14 | 3ème | 1:35:25 | 
 | 101 | CHEVAL EDDY | TEAM CYCLING LA SENTINELLE | 14 | 3ème | 1:35:25 | 
 | 102 | PHILIPPO PIERRICK | ASSOCIATION CYCLISTE D'ETROEUNGT | 14 | 3ème | 1:35:25 | 
@@ -137,7 +138,7 @@ image: assets/img/blog/road.png
 | 108 | MAHE CEDRIC | TEAM CYCLING LA SENTINELLE | 14 | 3ème | 1:35:31 | 
 | 109 | BOSSU ALOIS | VELO CLUB DE L'ESCAUT ANZIN | 14 | 3ème | 1:35:33 | 
 | 110 | FOURMY WILLY | TEAM B.B.L. HERGNIES | 14 | 3ème | 1:35:34 | 
-| **111** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **14** | **3ème** | **1:35:34** | 
+| **111** | **[DEFER OLIVIER](/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **14** | **3ème** | **1:35:34** | 
 | 112 | PORQUET LUDOVIC | TEAM CYCLING LA SENTINELLE | 14 | 3ème | 1:35:34 | 
 | 113 | GANTIEZ MAXIME | UNION SPORTIVE SAINT ANDRE | 14 | 3ème | 1:35:34 | 
 | 114 | CARON FABRICE | VELO CLUB AMANDINOIS | 14 | 3ème | 1:35:35 | 

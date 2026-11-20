@@ -3,13 +3,14 @@ layout: post
 title: Route - BOUSIES1 - 2025
 date: 2025-07-05
 category: Route
+permalink: /resultats/route/2025-07-05-bousies1/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 3ème Catégorie
 38 participants
-- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 37
+- [WALTER BENOIT](/coureurs/walterbenoit) : 37
 
 ### Scratch
 106 participants
@@ -121,4 +122,4 @@ image: assets/img/blog/road.png
 | 103 | BOISIEUX ANAIS | ETOILE CYCLISTE LIEU ST AMAND | 18 | Féminines | 1:4:58 | 
 | 104 | DEMOUSTIER ARNAUD | U.C. CAPELLOISE FOURMIES | 17 | 3ème | 1:3:26 | 
 | 105 | ANTON MILA | TEAM B.B.L. HERGNIES | 17 | Féminines | 1:5:0 | 
-| **106** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
+| **106** | **[WALTER BENOIT](/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 

@@ -3,18 +3,19 @@ layout: post
 title: Route - NEUF MESNIL - 2026
 date: 2026-05-09
 category: Route
+permalink: /resultats/route/2026-05-09-neuf-mesnil/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
 32 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 27
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 27
 
 ### 3ème Catégorie
 53 participants
-- [LECOURT CHARLIE](https://teamspecializedlille.cc/coureurs/lecourtcharlie) : 8
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 9
+- [LECOURT CHARLIE](/coureurs/lecourtcharlie) : 8
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 9
 
 ### Scratch
 139 participants
@@ -61,7 +62,7 @@ image: assets/img/blog/road.png
 | 38 | NIEDZWIECKI VINCENT | NEW TEAM MAULDE | 27 | 2ème | 1:36:7 | 
 | 39 | DARTUS MIKAEL | U.C. CAPELLOISE FOURMIES | 27 | 2ème | 1:36:18 | 
 | 40 | FLAMENT LOICK | ETOILE CYCLISTE FEIGNIES | 27 | 2ème | 1:37:13 | 
-| **41** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **26** | **2ème** | **1:35:44** | 
+| **41** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **26** | **2ème** | **1:35:44** | 
 | 42 | ROISSE SEBASTIEN | CYCLO CLUB ORCHIES | 26 | 2ème | 1:36:2 | 
 | 43 | ROBIN JEAN CHRISTOPHE | CYCLO CLUB ORCHIES | 26 | 2ème | 1:36:6 | 
 | 44 | LEFEBVRE JEAN-DANIEL | U.C. CAPELLOISE FOURMIES | 26 | 2ème | 1:36:6 | 
@@ -74,8 +75,8 @@ image: assets/img/blog/road.png
 | 51 | BARENNE LAURENT | VELO CLUB UNION HALLUIN | 23 | 3ème | 1:20:55 | 
 | 52 | HYSBERGUE EVAN | ASSOCIATION CYCLISTE D'ETROEUNGT | 23 | 3ème | 1:21:48 | 
 | 53 | FIEVEZ BENOIT | TEAM VTT JEUMONT | 23 | 3ème | 1:21:49 | 
-| **54** | **[LECOURT CHARLIE](https://teamspecializedlille.cc/coureurs/lecourtcharlie)** | **TEAM SPECIALIZED LILLE** | **23** | **3ème** | **1:21:51** | 
-| **55** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **23** | **3ème** | **1:21:52** | 
+| **54** | **[LECOURT CHARLIE](/coureurs/lecourtcharlie)** | **TEAM SPECIALIZED LILLE** | **23** | **3ème** | **1:21:51** | 
+| **55** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **23** | **3ème** | **1:21:52** | 
 | 56 | LANDAS JEROME | VELO SPRINT DE L'OSTREVENT - ANICHE | 23 | 3ème | 1:21:52 | 
 | 57 | WILMART MARIUS | LES VIKINGS | 23 | 3ème | 1:21:52 | 
 | 58 | POULAIN NOAH | VELO SPRINT DE L'OSTREVENT - ANICHE | 23 | 3ème | 1:21:53 | 

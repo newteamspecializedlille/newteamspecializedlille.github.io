@@ -3,13 +3,14 @@ layout: post
 title: Route - DOUAI - 2020
 date: 2020-08-30
 category: Route
+permalink: /resultats/route/2020-08-30-douai/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 28 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 15
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 15
 
 ### Scratch
 150 participants

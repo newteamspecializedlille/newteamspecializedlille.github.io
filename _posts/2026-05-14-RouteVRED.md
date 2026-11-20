@@ -3,31 +3,32 @@ layout: post
 title: Route - VRED - 2026
 date: 2026-05-14
 category: Route
+permalink: /resultats/route/2026-05-14-vred/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 36 participants
-- [CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas) : 1
-- [POULAIN NOAH](https://teamspecializedlille.cc/coureurs/poulainnoah) : 33
+- [CROMBEZ THOMAS](/coureurs/crombezthomas) : 1
+- [POULAIN NOAH](/coureurs/poulainnoah) : 33
 
 ### 2ème Catégorie
 71 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 19
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 49
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 19
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 49
 
 ### 3ème Catégorie
 92 participants
-- [HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe) : 13
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 62
+- [HUBAUT CHRISTOPHE](/coureurs/hubautchristophe) : 13
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 62
 
 ### Scratch
 221 participants
 
 | Place | Nom | Team | Tours | Catégorie | Temps |
 |---|---|---|---|---|---|
-| **1** | **[CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **8** | **1ère** | **1:50:23** | 
+| **1** | **[CROMBEZ THOMAS](/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **8** | **1ère** | **1:50:23** | 
 | 2 | WINS STEPHANE | HAVELUY CYCLO CLUB | 8 | 1ère | 1:50:24 | 
 | 3 | DELEPLACE HADRIEN | TEAM CYCLISTE - RAMILLIES | 8 | 1ère | 1:50:26 | 
 | 4 | LALEU TIMOTHEE | UNION SPORTIVE SAINT ANDRE | 8 | 1ère | 1:50:29 | 
@@ -75,7 +76,7 @@ image: assets/img/blog/road.png
 | 46 | DI CARLO DAVID | NEW ORANGE TEAM BOUSBECQUE | 8 | 2ème | 1:57:36 | 
 | 47 | DI CARLO DONATO | NEW ORANGE TEAM BOUSBECQUE | 8 | 2ème | 1:57:36 | 
 | 48 | HIERNAUX TANGUY | ASSOCIATION CYCLISTE D'ETROEUNGT | 8 | 2ème | 1:57:36 | 
-| **49** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **8** | **2ème** | **1:57:36** | 
+| **49** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **8** | **2ème** | **1:57:36** | 
 | 50 | TIAGO SEBASTIAN | NEW ORANGE TEAM BOUSBECQUE | 8 | 2ème | 1:57:37 | 
 | 51 | POULAIN CHRISTOPHE | VELO SPRINT DE L'OSTREVENT - ANICHE | 8 | 2ème | 1:57:37 | 
 | 52 | DUCROCQ MAXENCE | ENTENTE CYCLISTE FACHES-THUMESNIL RONCHIN | 8 | 2ème | 1:57:37 | 
@@ -106,7 +107,7 @@ image: assets/img/blog/road.png
 | 77 | HEBERT PIERRICK | NEW ORANGE TEAM BOUSBECQUE | 8 | 2ème | 1:57:46 | 
 | 78 | AMAND JEREMY | VELO CLUB DE L'ESCAUT ANZIN | 8 | 2ème | 1:57:47 | 
 | 79 | ROISSE SEBASTIEN | CYCLO CLUB ORCHIES | 8 | 2ème | 1:57:47 | 
-| **80** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **8** | **2ème** | **1:57:48** | 
+| **80** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **8** | **2ème** | **1:57:48** | 
 | 81 | HAVET SEBASTIEN | GAZ ELEC CLUB DE DOUAI | 8 | 2ème | 1:57:48 | 
 | 82 | LECLERCQ JEAN LOUIS | TEAM FULL WATTS CAMBRESIS - PROVILLE | 8 | 2ème | 1:57:50 | 
 | 83 | DUPONT DAMIEN | TEAM CROSS HASPRES | 8 | 2ème | 1:57:50 | 
@@ -139,7 +140,7 @@ image: assets/img/blog/road.png
 | 110 | DECONINCK MAXIMILIEN | CYCLO CLUB ORCHIES | 7 | 3ème | 1:42:59 | 
 | 111 | DELFORGE FABRICE | VELO SPRINT DE L'OSTREVENT - ANICHE | 7 | 3ème | 1:42:59 | 
 | 112 | BECUWE ROMAIN | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 7 | 3ème | 1:42:59 | 
-| **113** | **[HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe)** | **TEAM SPECIALIZED LILLE** | **7** | **3ème** | **1:42:59** | 
+| **113** | **[HUBAUT CHRISTOPHE](/coureurs/hubautchristophe)** | **TEAM SPECIALIZED LILLE** | **7** | **3ème** | **1:42:59** | 
 | 114 | CAULIER PAUL | CYCLO CLUB ORCHIES | 7 | 3ème | 1:42:59 | 
 | 115 | CARON THIBAULT | ESEG DOUAI | 7 | 3ème | 1:42:59 | 
 | 116 | URBAIN RUDY | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 7 | 3ème | 1:43:00 | 
@@ -188,7 +189,7 @@ image: assets/img/blog/road.png
 | 159 | SAINTRAIN GERARD | ETOILE CYCLISTE LIEU ST AMAND | 7 | 3ème | 1:43:13 | 
 | 160 | CREPIEUX ARNAUD | TEAM LINK AND RIDE HERIN | 7 | 3ème | 1:43:14 | 
 | 161 | CREPEL FLORIAN | UNION SPORTIVE VALENCIENNES CRESPIN | 7 | 3ème | 1:43:15 | 
-| **162** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **7** | **3ème** | **1:43:17** | 
+| **162** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **7** | **3ème** | **1:43:17** | 
 | 163 | CLAISSE ANAIS | UNION SPORTIVE VALENCIENNES CRESPIN | 7 | 3ème | 1:43:21 | 
 | 164 | DEFOSSEZ RODRIGUE | ETOILE CYCLISTE FEIGNIES | 7 | 3ème | 1:43:21 | 
 | 165 | THEODORE NICOLAS | MAROEUIL VELO VERT MAROEUILLOIS V.V.M | 7 | 3ème | 1:43:23 | 

@@ -3,17 +3,18 @@ layout: post
 title: VTT - PREUX AU BOIS - 2023
 date: 2023-01-14
 category: VTT
+permalink: /resultats/vtt/2023-01-14-preux-au-bois/
 tags: VTT
 image: assets/img/blog/vtt.png
 ---
 
 ### VTT Sénior B
 7 participants
-- [DUFOUR JONATHAN](https://teamspecializedlille.cc/coureurs/dufourjonathan) : 1
+- [DUFOUR JONATHAN](/coureurs/dufourjonathan) : 1
 
 ### VTT Vétérans B
 9 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 1
+- [MATTIOLI RONALD](/coureurs/mattiolironald) : 1
 
 ### Scratch
 27 participants
@@ -22,8 +23,8 @@ image: assets/img/blog/vtt.png
 |---|---|---|---|---|---|
 | 1 | MICHEL KEVIN | ASSOCIATION CYCLISTE BELLAINGEOISE | 7 | Seniors A | 0:54:44 | 
 | 2 | RIVART ADRIEN | ASSOCIATION CYCLISTE BELLAINGEOISE | 7 | Seniors A | 0:58:18 | 
-| **3** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **7** | **Vétérans B** | **0:59:31** | 
-| **4** | **[DUFOUR JONATHAN](https://teamspecializedlille.cc/coureurs/dufourjonathan)** | **TEAM SPECIALIZED LILLE** | **7** | **Seniors B** | **0:59:35** | 
+| **3** | **[MATTIOLI RONALD](/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **7** | **Vétérans B** | **0:59:31** | 
+| **4** | **[DUFOUR JONATHAN](/coureurs/dufourjonathan)** | **TEAM SPECIALIZED LILLE** | **7** | **Seniors B** | **0:59:35** | 
 | 5 | HEDBAUT ALEXIS | VELO CLUB SOLESMES | 7 | Seniors A | 1:0:25 | 
 | 6 | HANNOT CHRISTOPHE | VELO CLUB UNION HALLUIN | 7 | Vétérans A | 1:0:30 | 
 | 7 | JABLONSKI SEBASTIEN | TEAM B.B.L. HERGNIES | 7 | Vétérans A | 1:1:18 | 

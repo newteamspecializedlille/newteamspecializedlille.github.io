@@ -3,19 +3,20 @@ layout: post
 title: Route - VIEUX CONDE - 2023
 date: 2023-09-10
 category: Route
+permalink: /resultats/route/2023-09-10-vieux-conde/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 30 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 17
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 23
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 17
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 23
 
 ### 3ème Catégorie
 49 participants
-- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 12
-- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 38
+- [DEFER OLIVIER](/coureurs/deferolivier) : 12
+- [WALTER BENOIT](/coureurs/walterbenoit) : 38
 
 ### Scratch
 163 participants
@@ -33,7 +34,7 @@ image: assets/img/blog/road.png
 | 9 | DUCARNE JEAN PHILIPPE | NEW TEAM MAULDE | 22 | 3ème | 1:28:6 | 
 | 10 | CONTESSE FREDERIC | ASSOCIATION CYCLISTE D'ETROEUNGT | 22 | 3ème | 1:28:6 | 
 | 11 | BEGHIN MARTIAL | LA PEDALE MADELEINOISE | 22 | 3ème | 1:28:6 | 
-| **12** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **22** | **3ème** | **1:28:6** | 
+| **12** | **[DEFER OLIVIER](/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **22** | **3ème** | **1:28:6** | 
 | 13 | VANAUBERG GAETAN | NEW TEAM MAULDE | 22 | 3ème | 1:28:6 | 
 | 14 | RENAUT VINCENT | SAULZOIR MONTRECOURT CYCLING CLUB | 22 | 3ème | 1:28:6 | 
 | 15 | CODDEVILLE RUDY | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 22 | 3ème | 1:28:6 | 
@@ -75,7 +76,7 @@ image: assets/img/blog/road.png
 | 51 | HURIAU BENOIT | ASSOCIATION CYCLISTE BELLAINGEOISE | 22 | 1ère | 1:30:41 | 
 | 52 | BERTHIER THIBAUT | ETOILE CYCLISTE LIEU ST AMAND | 22 | 1ère | 1:30:43 | 
 | 53 | ANTON LUDOVIC | NEW TEAM MAULDE | 22 | 1ère | 1:30:50 | 
-| **54** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **22** | **1ère** | **1:30:51** | 
+| **54** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **22** | **1ère** | **1:30:51** | 
 | 55 | HAJAER EDGARD | NEW ORANGE TEAM BOUSBECQUE | 22 | 1ère | 1:30:51 | 
 | 56 | MEYS DAVID | VELO CLUB ROUBAIX | 22 | 1ère | 1:30:52 | 
 | 57 | BLONDEAU BENOIT | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 22 | 1ère | 1:30:57 | 
@@ -107,7 +108,7 @@ image: assets/img/blog/road.png
 | 83 | COASNE CLEMENT | TEAM POLICE HDF - ROUBAIX | 22 | 2ème | 1:31:9 | 
 | 84 | VEAUX CORENTIN | TEAM LINK AND RIDE HERIN | 22 | 1ère | 1:31:10 | 
 | 85 | POTIER CHARLES HUGO | ETOILE CYCLISTE TOURCOING | 22 | 2ème | 1:31:10 | 
-| **86** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **22** | **1ère** | **1:31:11** | 
+| **86** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **22** | **1ère** | **1:31:11** | 
 | 87 | BELKEIR SLIMAN | NEW ORANGE TEAM BOUSBECQUE | 22 | 2ème | 1:31:11 | 
 | 88 | ROUZE ERIK | LA PEDALE MADELEINOISE | 22 | 2ème | 1:31:11 | 
 | 89 | PRIAT AURELIEN | ESEG DOUAI | 22 | 2ème | 1:31:11 | 
@@ -134,7 +135,7 @@ image: assets/img/blog/road.png
 | 110 | JOLIS CLEMENT | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 22 | 1ère | 1:31:59 | 
 | 111 | COMBLIN JEROME | ASSOCIATION CYCLISTE BELLAINGEOISE | 22 | 2ème | 1:31:59 | 
 | 112 | RIGAUX JEAN JACQUES | CLUB CYCLISTE THUN ST MARTIN | 22 | 2ème | 1:32:1 | 
-| **113** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **20** | **3ème** | **1:28:57** | 
+| **113** | **[WALTER BENOIT](/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **20** | **3ème** | **1:28:57** | 
 | 114 | VERHAEGHE ALEXANDRE | LINSELLES CYCLISME | 20 | 3ème | 1:29:22 | 
 | 115 | HOUREZ CEDRIC | NEW TEAM MAULDE | 19 | 3ème | 1:25:5 | 
 | 116 | DOCHNIAK LEO | HAVELUY CYCLO CLUB | 18 | 3ème | 1:28:12 | 

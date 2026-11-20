@@ -3,13 +3,14 @@ layout: post
 title: Route - FOREST EN CAMBRESIS - 2020
 date: 2020-09-27
 category: Route
+permalink: /resultats/route/2020-09-27-forest-en-cambresis/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 16 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 9
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 9
 
 ### Scratch
 72 participants

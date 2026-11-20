@@ -3,13 +3,14 @@ layout: post
 title: VTT - WARGNIES LE PETIT - 2024
 date: 2023-11-04
 category: VTT
+permalink: /resultats/vtt/2023-11-04-wargnies-le-petit/
 tags: VTT
 image: assets/img/blog/vtt.png
 ---
 
 ### VTT Vétérans B
 12 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : Ab
+- [MATTIOLI RONALD](/coureurs/mattiolironald) : Ab
 
 ### Scratch
 25 participants
@@ -40,4 +41,4 @@ image: assets/img/blog/vtt.png
 | 22 | LAMAND MATHIEU | VELO CLUB SOLESMES | 6 | Seniors B | 1:4:20 | 
 | 23 | KADDOUR-DJEBBAR FREDERIC | VTT  CLUB PONT SUR SAMBRE | 0 | Vétérans A | 0:38:53 | 
 | 24 | RAMETTE SAMUEL | VTT  CLUB PONT SUR SAMBRE | 0 | Vétérans B | 0:38:53 | 
-| **25** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **0** | **Vétérans B** | **0:38:53** | 
+| **25** | **[MATTIOLI RONALD](/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **0** | **Vétérans B** | **0:38:53** | 

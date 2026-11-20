@@ -3,15 +3,16 @@ layout: post
 title: Cyclo Cross - COMINES - 2027
 date: 2026-11-14
 category: Cyclo Cross
+permalink: /resultats/cyclo-cross/2026-11-14-comines/
 tags: cyclo-cross
 image: assets/img/blog/cx.png
 ---
 
 ### 3ème Catégorie
 17 participants
-- [MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix) : 4
-- [SCHULZ YANNICK](https://teamspecializedlille.cc/coureurs/schulzyannick) : 13
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 15
+- [MOULIN FELIX](/coureurs/moulinfelix) : 4
+- [SCHULZ YANNICK](/coureurs/schulzyannick) : 13
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 15
 
 ### Scratch
 44 participants
@@ -37,7 +38,7 @@ image: assets/img/blog/cx.png
 | 17 | DUFOUR SYLVAIN | VELO CLUB UNION HALLUIN | 7 | 3ème | 0:49:38 | 
 | 18 | LIAL DENIS | CAMPAGNE LES WARDRECQUES CLUB CYCLISTE CCCW | 7 | 2ème | 0:49:40 | 
 | 19 | REUTER BENOIT | CYCLO CLUB ORCHIES | 7 | 2ème | 0:50:20 | 
-| **20** | **[MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **7** | **3ème** | **0:50:22** | 
+| **20** | **[MOULIN FELIX](/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **7** | **3ème** | **0:50:22** | 
 | 21 | CARPENTIER ROMAIN | VTT CLUB PONT SUR SAMBRE | 7 | 3ème | 0:51:01 | 
 | 22 | ALBERTINI LUDOVIC | NEW ORANGE TEAM BOUSBECQUE | 7 | 2ème | 0:51:17 | 
 | 23 | LEVAS LAURENT | MANQUEVILLE LILLERS CLUB CYCLISTE | 7 | 3ème | 0:51:40 | 
@@ -48,11 +49,11 @@ image: assets/img/blog/cx.png
 | 28 | BAUW EDOUARD | BAILLEUL VELO CLUB | 7 | 3ème | 0:54:45 | 
 | 29 | CARPELS GUILLAUME | VELO CLUB UNION HALLUIN | 7 | 2ème | 0:55:00 | 
 | 30 | GEMELINE MATTHIEU | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 7 | 3ème | 0:55:46 | 
-| **31** | **[SCHULZ YANNICK](https://teamspecializedlille.cc/coureurs/schulzyannick)** | **TEAM SPECIALIZED LILLE** | **7** | **3ème** | **0:55:49** | 
+| **31** | **[SCHULZ YANNICK](/coureurs/schulzyannick)** | **TEAM SPECIALIZED LILLE** | **7** | **3ème** | **0:55:49** | 
 | 32 | SAMYN GEOFFREY | CYCLO CLUB ARMENTIEROIS | 7 | 2ème | 0:55:51 | 
 | 33 | GELLE MAXIME | BAILLEUL VELO CLUB | 7 | 2ème | 0:56:06 | 
 | 34 | DAENS VINCENT | MANQUEVILLE LILLERS CLUB CYCLISTE | 7 | 3ème | 0:56:06 | 
-| **35** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **7** | **3ème** | **0:56:46** | 
+| **35** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **7** | **3ème** | **0:56:46** | 
 | 36 | CHILESE COLIN | CYCLO CLUB ORCHIES | 7 | 2ème | 0:57:06 | 
 | 37 | CAUWET FRANCK | OUTREAU CLUB SPORTIF OUTRELOIS (C.S.O) | 6 | 3ème | 0:50:48 | 
 | 38 | DE RIEMAECKER TOM | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 5 | Cadets | 0:30:06 | 

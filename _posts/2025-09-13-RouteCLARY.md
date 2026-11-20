@@ -3,24 +3,25 @@ layout: post
 title: Route - CLARY - 2025
 date: 2025-09-13
 category: Route
+permalink: /resultats/route/2025-09-13-clary/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 27 participants
-- [MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio) : Ab
+- [MINNECI ELIO](/coureurs/minnecielio) : Ab
 
 ### 2ème Catégorie
 42 participants
-- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 12
-- [BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine) : 17
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 26
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : Ab
+- [DEFER OLIVIER](/coureurs/deferolivier) : 12
+- [BROUTIN ANTOINE](/coureurs/broutinantoine) : 17
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 26
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : Ab
 
 ### 3ème Catégorie
 30 participants
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 5
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 5
 
 ### Scratch
 122 participants
@@ -51,12 +52,12 @@ image: assets/img/blog/road.png
 | 22 | LE VOURCH DAMIEN | ARTeam Artois Racing Team | 13 | 2ème | 1:48:50 | 
 | 23 | BRAL JAN | ETOILE CYCLISTE LIEU ST AMAND | 13 | 2ème | 1:48:51 | 
 | 24 | KNOCKAERT JULIEN | TEAM CYCLISTE PROVINOIS - PROVIN | 13 | 2ème | 1:48:52 | 
-| **25** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **13** | **2ème** | **1:48:52** | 
+| **25** | **[DEFER OLIVIER](/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **13** | **2ème** | **1:48:52** | 
 | 26 | IMBERT JOHNNY | ETOILE CYCLISTE LIEU ST AMAND | 13 | 2ème | 1:48:53 | 
 | 27 | WAERNIER ROMUALD | ETOILE CYCLISTE LIEU ST AMAND | 13 | 2ème | 1:48:53 | 
 | 28 | RICHET CHRISTOPHE | ASSOCIATION CYCLISTE D'ETROEUNGT | 13 | 2ème | 1:48:53 | 
 | 29 | LENGLET GUILLAUME | NOUVELLE ETOILE SPORTIVE BOUE ETREUX | 13 | 2ème | 1:50:59 | 
-| **30** | **[BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine)** | **TEAM SPECIALIZED LILLE** | **13** | **2ème** | **1:50:59** | 
+| **30** | **[BROUTIN ANTOINE](/coureurs/broutinantoine)** | **TEAM SPECIALIZED LILLE** | **13** | **2ème** | **1:50:59** | 
 | 31 | TONDELIER LUDOVIC | CYCLO CLUB WAVRIN | 13 | 2ème | 1:51:1 | 
 | 32 | DUHAMEL ARNAUD | ARTeam Artois Racing Team | 13 | 2ème | 1:52:11 | 
 | 33 | DERENZIS RYAN | Entente cycliste Wallers Arenberg Bellaing | 13 | 2ème | 1:52:12 | 
@@ -65,7 +66,7 @@ image: assets/img/blog/road.png
 | 36 | LEFEBVRE JEAN-DANIEL | U.C. CAPELLOISE FOURMIES | 13 | 2ème | 1:52:13 | 
 | 37 | COPPEE THOMAS | 52X11 HIRSON THIERACHE | 13 | 2ème | 1:52:13 | 
 | 38 | AVISSE CORENTIN | VELO CLUB SOLESMES | 13 | 2ème | 1:52:14 | 
-| **39** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **13** | **2ème** | **1:52:14** | 
+| **39** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **13** | **2ème** | **1:52:14** | 
 | 40 | HARDY JEAN PHILIPPE | LA CHERIZIENNE - VILLE DE CHAUNY | 13 | 2ème | 1:52:17 | 
 | 41 | DIMANCHE DAVID | CERCLE OLYMPIQUE MARCOING | 13 | 2ème | 1:52:17 | 
 | 42 | PRIAT AURELIEN | ESEG DOUAI | 13 | 2ème | 1:52:24 | 
@@ -75,7 +76,7 @@ image: assets/img/blog/road.png
 | 46 | PASSARD MATEO | ESEG DOUAI | 12 | 3ème | 1:48:50 | 
 | 47 | WELVAERT RICHARD | E2CJ - Energy Cycling Club Joncourt | 12 | 3ème | 1:48:51 | 
 | 48 | MARY KEVIN | VELO CLUB SOLESMES | 12 | 3ème | 1:48:51 | 
-| **49** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **12** | **3ème** | **1:48:52** | 
+| **49** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **12** | **3ème** | **1:48:52** | 
 | 50 | DALLE FREDERIC | VELO CLUB SOLESMES | 12 | 3ème | 1:48:53 | 
 | 51 | MATTON STEPHANE | 52X11 HIRSON THIERACHE | 12 | 3ème | 1:48:55 | 
 | 52 | CESAR BENOIT | NEW ORANGE TEAM BOUSBECQUE | 12 | 3ème | 1:50:10 | 
@@ -125,14 +126,14 @@ image: assets/img/blog/road.png
 | 96 | CATILLON CYRIL | ENTENTE CYCLISTE DE FONTA | 0 | 1ère | 0:38:53 | 
 | 97 | DALLE CLEMENT | VELO CLUB SOLESMES | 0 | 1ère | 0:38:53 | 
 | 98 | VAN FRIEL MAXIME | TEAM AVESNOIS - LEVAL | 0 | 1ère | 0:38:53 | 
-| **99** | **[MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **0** | **1ère** | **0:38:53** | 
+| **99** | **[MINNECI ELIO](/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **0** | **1ère** | **0:38:53** | 
 | 100 | ANCELOT SEBASTIEN | NOUVELLE ETOILE SPORTIVE | 0 | 1ère | 0:38:53 | 
 | 101 | VAN SNICK NATHAN | NOUVELLE ETOILE SPORTIVE | 0 | 1ère | 0:38:53 | 
 | 102 | VAN SNICK FLORIAN | NOUVELLE ETOILE SPORTIVE | 0 | 1ère | 0:38:53 | 
 | 103 | DIEUDONNE GUILLAUME | GAZ ELEC CLUB DE DOUAI | 0 | 1ère | 0:38:53 | 
 | 104 | HAIDON PASCAL | ASSOCIATION CYCLISTE BELL | 0 | 2ème | 0:38:53 | 
 | 105 | HAVET SEBASTIEN | GAZ ELEC CLUB DE DOUAI | 0 | 2ème | 0:38:53 | 
-| **106** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **0** | **2ème** | **0:38:53** | 
+| **106** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **0** | **2ème** | **0:38:53** | 
 | 107 | CHOTEAU PASCAL | VELO CLUB DE L'ESCAUT ANZ | 0 | 2ème | 0:38:53 | 
 | 108 | NIEDZWIECKI VINCENT | NEW TEAM MAULDE | 0 | 2ème | 0:38:53 | 
 | 109 | CAGNY SEBASTIEN | LA CHERIZIENNE - VILLE DE | 0 | 2ème | 0:38:53 | 

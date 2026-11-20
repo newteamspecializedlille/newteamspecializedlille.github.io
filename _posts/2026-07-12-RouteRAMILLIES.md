@@ -3,22 +3,23 @@ layout: post
 title: Route - RAMILLIES - 2026
 date: 2026-07-12
 category: Route
+permalink: /resultats/route/2026-07-12-ramillies/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 32 participants
-- [CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas) : 2
+- [CROMBEZ THOMAS](/coureurs/crombezthomas) : 2
 
 ### 2ème Catégorie
 19 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 8
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 8
 
 ### 3ème Catégorie
 64 participants
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 16
-- [HUGUENIN DYLAN](https://teamspecializedlille.cc/coureurs/huguenindylan) : 46
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 16
+- [HUGUENIN DYLAN](/coureurs/huguenindylan) : 46
 
 ### Scratch
 162 participants
@@ -26,7 +27,7 @@ image: assets/img/blog/road.png
 | Place | Nom | Team | Tours | Catégorie | Temps |
 |---|---|---|---|---|---|
 | 1 | LORRIAUX JULIEN | VELO CLUB SOLESMES | 12 | 1ère | 0:38:53 | 
-| **2** | **[CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **12** | **1ère** | **0:38:53** | 
+| **2** | **[CROMBEZ THOMAS](/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **12** | **1ère** | **0:38:53** | 
 | 3 | DELEPLACE HADRIEN | TEAM CYCLISTE - RAMILLIES | 12 | 1ère | 0:38:53 | 
 | 4 | DELSAUX DAMIEN | TEAM CYCLISTE - RAMILLIES | 12 | 1ère | 0:38:53 | 
 | 5 | VANDERHAEGEN MAEL | ASSOCIATION CYCLISTE D'ETROEUNGT | 12 | 1ère | 0:38:53 | 
@@ -53,7 +54,7 @@ image: assets/img/blog/road.png
 | 26 | TAISNE CHRISTOPHE | GAZ ELEC CLUB DE DOUAI | 12 | 3ème | 1:55:17 | 
 | 27 | LECLERCQ LOUIS | VELO CLUB SOLESMES | 12 | 3ème | 1:55:17 | 
 | 28 | HARDY JEAN PHILIPPE | LA CHERIZIENNE - VILLE DE CHAUNY | 12 | 3ème | 1:55:21 | 
-| **29** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **12** | **3ème** | **1:55:21** | 
+| **29** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **12** | **3ème** | **1:55:21** | 
 | 30 | DELOT GREGORY | TEAM BIKE PRESEAU | 12 | 3ème | 1:55:21 | 
 | 31 | BERNARD PHILIPPE | CYCLO CLUB ARMENTIEROIS | 12 | 3ème | 1:55:22 | 
 | 32 | HEDBAUT ALEXIS | TEAM BLECOURTOISE | 12 | 3ème | 1:55:23 | 
@@ -90,7 +91,7 @@ image: assets/img/blog/road.png
 | 63 | FERRO ORAZIO | PANACHE SACOCHE CLUB - BRUAY SUR ESCAUT | 11 | 2ème | 0:38:53 | 
 | 64 | HAIDON PASCAL | Entente cycliste Wallers Arenberg Bellaing | 11 | 2ème | 0:38:53 | 
 | 65 | LECLERCQ JEAN LOUIS | TEAM FULL WATTS CAMBRESIS - PROVILLE | 11 | 2ème | 0:38:53 | 
-| **66** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **11** | **2ème** | **0:38:53** | 
+| **66** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **11** | **2ème** | **0:38:53** | 
 | 67 | KRYLOV STANISLAV | CYCLO CLUB ARMENTIEROIS | 11 | 2ème | 0:38:53 | 
 | 68 | DELHAYE FLORENT | CLUB CYCLISTE THUN ST MARTIN | 11 | 2ème | 0:38:53 | 
 | 69 | LECCI PIERRE | HAVELUY CYCLO CLUB | 11 | 2ème | 0:38:53 | 
@@ -134,7 +135,7 @@ image: assets/img/blog/road.png
 | 107 | DEMARCQ MARIAN | VELO SPRINT DE L'OSTREVENT - ANICHE | 10 | 3ème | 1:55:30 | 
 | 108 | BERNIER BRUNO | U.C. CAPELLOISE FOURMIES | 10 | 4ème | 1:56:57 | 
 | 109 | LECOUSTRE ANDRE | OUTREAU CLUB SPORTIF OUTRELOIS (C.S.O) | 10 | 4ème | 1:58:21 | 
-| **110** | **[HUGUENIN DYLAN](https://teamspecializedlille.cc/coureurs/huguenindylan)** | **TEAM SPECIALIZED LILLE** | **10** | **3ème** | **1:58:27** | 
+| **110** | **[HUGUENIN DYLAN](/coureurs/huguenindylan)** | **TEAM SPECIALIZED LILLE** | **10** | **3ème** | **1:58:27** | 
 | 111 | HUMEZ DIMITRI | VELO SPRINT DE L'OSTREVENT - ANICHE | 9 | 3ème | 1:40:40 | 
 | 112 | TISON COLINE | UNION SPORTIVE SAINT ANDRE | 9 | Féminines | 1:41:23 | 
 | 113 | MACHU PASCAL | UNION SPORTIVE SAINT ANDRE | 9 | 4ème | 1:41:25 | 

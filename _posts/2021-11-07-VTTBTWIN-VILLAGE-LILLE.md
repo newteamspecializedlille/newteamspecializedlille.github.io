@@ -3,20 +3,21 @@ layout: post
 title: VTT - BTWIN VILLAGE LILLE - 2022
 date: 2021-11-07
 category: VTT
+permalink: /resultats/vtt/2021-11-07-btwin-village-lille/
 tags: VTT
 image: assets/img/blog/vtt.png
 ---
 
 ### VTT Vétérans A
 21 participants
-- [BRADEFER GERY](https://teamspecializedlille.cc/coureurs/bradefergery) : 1
+- [BRADEFER GERY](/coureurs/bradefergery) : 1
 
 ### Scratch
 69 participants
 
 | Place | Nom | Team | Tours | Catégorie | Temps |
 |---|---|---|---|---|---|
-| **1** | **[BRADEFER GERY](https://teamspecializedlille.cc/coureurs/bradefergery)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans A** | **0:55:11** | 
+| **1** | **[BRADEFER GERY](/coureurs/bradefergery)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans A** | **0:55:11** | 
 | 2 | DEMEESTER KEVIN | WINGLES PYRAMIDES PASSION | 8 | Seniors B | 0:55:37 | 
 | 3 | LELEU CHRISTIAN | VERMELLES MTB RACING TEAM | 8 | Seniors B | 0:55:39 | 
 | 4 | ASPEELE CÉDRIC | VTT SAINT AMAND LES EAUX | 8 | Seniors B | 0:55:42 | 

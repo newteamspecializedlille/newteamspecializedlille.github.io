@@ -3,14 +3,15 @@ layout: post
 title: Route - LINSELLES - 2025
 date: 2025-09-07
 category: Route
+permalink: /resultats/route/2025-09-07-linselles/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 3ème Catégorie
 45 participants
-- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 4
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 21
+- [WALTER BENOIT](/coureurs/walterbenoit) : 4
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 21
 
 ### Scratch
 108 participants
@@ -41,7 +42,7 @@ image: assets/img/blog/road.png
 | 22 | BENAMOR ALEXIS | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 15 | 3ème | 1:36:20 | 
 | 23 | DENDIEVEL JULIEN | VELO CLUB UNION HALLUIN | 15 | 3ème | 1:36:21 | 
 | 24 | DUPONT REMI | RESILIENCE CLUB | 15 | 3ème | 1:37:47 | 
-| **25** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **15** | **3ème** | **1:38:1** | 
+| **25** | **[WALTER BENOIT](/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **15** | **3ème** | **1:38:1** | 
 | 26 | PANCZAK MAXIME | ROUE D'OR COMINOISE | 15 | 3ème | 1:38:7 | 
 | 27 | CODDEVILLE KENNY | VELO CLUB UNION HALLUIN | 15 | 3ème | 1:38:7 | 
 | 28 | LUKASZKA ERIC | UNION SPORTIVE VALENCIENNES CRESPIN | 15 | 3ème | 1:38:7 | 
@@ -58,7 +59,7 @@ image: assets/img/blog/road.png
 | 39 | CODDEVILLE RUDY | VELO CLUB UNION HALLUIN | 15 | 3ème | 1:38:34 | 
 | 40 | SERE MARC | CYCLO CLUB WAVRIN | 15 | 3ème | 1:38:35 | 
 | 41 | DIAS MARTIN BAPTISTE | CAMPHIN EN CAREMBAULT CYCLING TEAM | 15 | 3ème | 1:38:37 | 
-| **42** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **15** | **3ème** | **1:38:44** | 
+| **42** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **15** | **3ème** | **1:38:44** | 
 | 43 | BERNARD PHILIPPE | ROUE D'OR COMINOISE | 15 | 3ème | 1:39:7 | 
 | 44 | BEEUWSAERT HENRI | ROUE D'OR COMINOISE | 15 | 3ème | 1:39:20 | 
 | 45 | PILLYSER PAUL | UNION SPORTIVE SAINT ANDRE | 15 | 3ème | 1:40:0 | 

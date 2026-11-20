@@ -3,13 +3,14 @@ layout: post
 title: Cyclo Cross - NOEUX LES MINES - 2026
 date: 2026-01-04
 category: Cyclo Cross
+permalink: /resultats/cyclo-cross/2026-01-04-noeux-les-mines/
 tags: cyclo-cross
 image: assets/img/blog/cx.png
 ---
 
 ### 1ère Catégorie
 20 participants
-- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 13
+- [DERASSE DAVID](/coureurs/derassedavid) : 13
 
 ### Scratch
 74 participants
@@ -27,7 +28,7 @@ image: assets/img/blog/cx.png
 | 9 | THOMASSEY SEBASTIEN | CAMPHIN EN CAREMBAULT CYCLING TEAM | 8 | 1ère | 0:50:3 | 
 | 10 | FLAHAUT FRANCK | AMICALE CYCLISTE SAINT MICHEL | 8 | 1ère | 0:50:4 | 
 | 11 | LOGIE MATTHIEU | VELO CLUB UNION HALLUIN | 8 | 2ème | 0:50:16 | 
-| **12** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **8** | **1ère** | **0:50:50** | 
+| **12** | **[DERASSE DAVID](/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **8** | **1ère** | **0:50:50** | 
 | 13 | VANDERMEIREN MANUEL | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 8 | 1ère | 0:50:51 | 
 | 14 | LEQUIEN GWENAEL | BARLIN CERCLE LAICQUE | 8 | 2ème | 0:51:12 | 
 | 15 | FOURNIER NATAN | EMBRY TEAM PINK AND BLUE | 7 | Cadets | 0:44:12 | 

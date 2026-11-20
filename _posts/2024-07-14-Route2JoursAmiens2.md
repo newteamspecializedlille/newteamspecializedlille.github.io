@@ -3,14 +3,15 @@ layout: post
 title: Route - 2 Jours d'Amiens - Etape 3
 date: 2024-07-14
 category: Route
+permalink: /resultats/route/2024-07-14-2joursamiens2/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
-- [BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine) : 33
+- [BROUTIN ANTOINE](/coureurs/broutinantoine) : 33
 
 ### 3ème Catégorie
 54 participants
-- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 6
-- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 9
+- [DERASSE DAVID](/coureurs/derassedavid) : 6
+- [WALTER BENOIT](/coureurs/walterbenoit) : 9

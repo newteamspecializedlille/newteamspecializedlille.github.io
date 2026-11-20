@@ -3,13 +3,14 @@ layout: post
 title: Cyclo Cross - WALLERS ARENBERG1 - 2024
 date: 2023-11-12
 category: Cyclo Cross
+permalink: /resultats/cyclo-cross/2023-11-12-wallers-arenberg1/
 tags: cyclo-cross
 image: assets/img/blog/cx.png
 ---
 
 ### 3ème Catégorie
 26 participants
-- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 11
+- [DERASSE DAVID](/coureurs/derassedavid) : 11
 
 ### Scratch
 70 participants
@@ -59,7 +60,7 @@ image: assets/img/blog/cx.png
 | 41 | DOOLAEGHE TERRY | VELO CLUB UNION HALLUIN | 9 | 3ème | 0:45:59 | 
 | 42 | DOCHNIAK DAVID | HAVELUY CYCLO CLUB | 9 | 3ème | 0:46:16 | 
 | 43 | DEHONGHER MATTHIEU | NOEUX VELO CLUB NOEUXOIS | 9 | 3ème | 0:46:24 | 
-| **44** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **9** | **3ème** | **0:46:34** | 
+| **44** | **[DERASSE DAVID](/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **9** | **3ème** | **0:46:34** | 
 | 45 | DEMOL LEO | UNION SPORTIVE SAINT ANDRE | 9 | 2ème | 0:46:37 | 
 | 46 | LUCAS LAURENT | ARTOIS CYCLING TEAM | 9 | 3ème | 0:46:44 | 
 | 47 | VAILLANT LOUIS | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 9 | 1ère | 0:46:49 | 

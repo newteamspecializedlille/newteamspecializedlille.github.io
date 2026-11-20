@@ -3,19 +3,20 @@ layout: post
 title: Route - BOUVIGNIES - 2023
 date: 2023-04-08
 category: Route
+permalink: /resultats/route/2023-04-08-bouvignies/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 45 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 12
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 21
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 25
+- [MATTIOLI RONALD](/coureurs/mattiolironald) : 12
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 21
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 25
 
 ### 2ème Catégorie
 58 participants
-- [HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe) : 3
+- [HUBAUT CHRISTOPHE](/coureurs/hubautchristophe) : 3
 
 ### Scratch
 217 participants
@@ -33,7 +34,7 @@ image: assets/img/blog/road.png
 | 9 | MORELLE YOHANN | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 20 | 1ère | 1:36:6 | 
 | 10 | MONNIER FAGYAL MATEO | GAZ ELEC CLUB DE DOUAI | 20 | 1ère | 1:36:6 | 
 | 11 | CINQUINA GUISEPPE | ETOILE CYCLISTE LIEU ST AMAND | 20 | 1ère | 1:36:7 | 
-| **12** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **20** | **1ère** | **1:36:7** | 
+| **12** | **[MATTIOLI RONALD](/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **20** | **1ère** | **1:36:7** | 
 | 13 | WINS STEPHANE | TEAM BOUSIES | 20 | 1ère | 1:36:8 | 
 | 14 | DELANGUE THEO | NEW ORANGE TEAM BOUSBECQUE | 20 | 1ère | 1:36:8 | 
 | 15 | BRIAND KEVIN | ASSOCIATION SPORTIVE THOUROTTOISE CYCLISTE | 20 | 1ère | 1:36:8 | 
@@ -42,11 +43,11 @@ image: assets/img/blog/road.png
 | 18 | CAZE ALBAN | UNION SPORTIVE SAINT ANDRE | 20 | 1ère | 1:36:8 | 
 | 19 | GAILLEZ VINCENT | CERCLE OLYMPIQUE MARCOING | 20 | 1ère | 1:36:9 | 
 | 20 | LACROIX FREDERIC | #N/A | 20 | 1ère | 1:36:9 | 
-| **21** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **20** | **1ère** | **1:36:10** | 
+| **21** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **20** | **1ère** | **1:36:10** | 
 | 22 | BOURGEOIS SYLVAIN | ETOILE CYCLISTE LIEU ST AMAND | 20 | 1ère | 1:36:10 | 
 | 23 | CRIGNON NOE | CAMPHIN EN CAREMBAULT CYCLING TEAM | 20 | 1ère | 1:36:10 | 
 | 24 | DELOBELLE OLIVIER | UNION SPORTIVE SAINT ANDRE | 20 | 1ère | 1:36:10 | 
-| **25** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **20** | **1ère** | **1:36:11** | 
+| **25** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **20** | **1ère** | **1:36:11** | 
 | 26 | MAGNIES CLEMENT | CYCLO CLUB ORCHIES | 20 | 1ère | 1:36:11 | 
 | 27 | BERNIER DIMITRI | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 20 | 1ère | 1:36:12 | 
 | 28 | VASSEUR HUGO | UNION SPORTIVE SAINT ANDRE | 20 | 1ère | 1:36:55 | 
@@ -56,7 +57,7 @@ image: assets/img/blog/road.png
 | 32 | HEUNET OLIVIER | GAZ ELEC CLUB DE DOUAI | 19 | 1ère | 1:36:49 | 
 | 33 | MINGOA LUCIANO | NEW ORANGE TEAM BOUSBECQUE | 19 | 2ème | 1:36:52 | 
 | 34 | DESMET SEBASTIEN | VELO CLUB UNION HALLUIN | 19 | 2ème | 1:36:53 | 
-| **35** | **[HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe)** | **TEAM SPECIALIZED LILLE** | **19** | **2ème** | **1:37:10** | 
+| **35** | **[HUBAUT CHRISTOPHE](/coureurs/hubautchristophe)** | **TEAM SPECIALIZED LILLE** | **19** | **2ème** | **1:37:10** | 
 | 36 | TECHEL GREGORY | VELO CLUB UNION HALLUIN | 19 | 2ème | 1:37:11 | 
 | 37 | DE PARMENTIER MAXENCE | VELO CLUB SOLESMES | 19 | 2ème | 1:37:11 | 
 | 38 | DI CARLO DONATO | NEW ORANGE TEAM BOUSBECQUE | 19 | 2ème | 1:37:11 | 

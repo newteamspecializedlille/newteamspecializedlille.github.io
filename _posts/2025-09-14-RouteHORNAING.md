@@ -3,20 +3,21 @@ layout: post
 title: Route - HORNAING - 2025
 date: 2025-09-14
 category: Route
+permalink: /resultats/route/2025-09-14-hornaing/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
 52 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 10
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 21
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 10
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 21
 
 ### 3ème Catégorie
 47 participants
-- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 4
-- [HUGUENIN DYLAN](https://teamspecializedlille.cc/coureurs/huguenindylan) : 20
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 24
+- [WALTER BENOIT](/coureurs/walterbenoit) : 4
+- [HUGUENIN DYLAN](/coureurs/huguenindylan) : 20
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 24
 
 ### Scratch
 166 participants
@@ -48,7 +49,7 @@ image: assets/img/blog/road.png
 | 23 | DEGROOTE ULYSSE | Entente cycliste Wallers Arenberg Bellaing | 17 | 2ème | 1:28:1 | 
 | 24 | VAAST JEAN SEBASTIEN | TEAM ENFER WALLERS ARENBERG | 17 | 2ème | 1:28:1 | 
 | 25 | DUPUIS JULIEN | CERCLE OLYMPIQUE MARCOING | 17 | 2ème | 1:28:1 | 
-| **26** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **17** | **2ème** | **1:28:1** | 
+| **26** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **17** | **2ème** | **1:28:1** | 
 | 27 | LEVEILLE FLORIAN | TEAM ENFER WALLERS ARENBERG | 17 | 2ème | 1:28:1 | 
 | 28 | AVISSE CORENTIN | VELO CLUB SOLESMES | 17 | 2ème | 1:28:2 | 
 | 29 | BRIFFEUIL MATHIS | VELO CLUB UNION HALLUIN | 17 | 2ème | 1:28:2 | 
@@ -59,7 +60,7 @@ image: assets/img/blog/road.png
 | 34 | POLLET MAEL | TEAM MELANTOIS - PERONNE EN MELANTOIS | 17 | 2ème | 1:28:3 | 
 | 35 | MARY KEVIN | VELO CLUB SOLESMES | 17 | 2ème | 1:28:3 | 
 | 36 | DERENZIS RYAN | Entente cycliste Wallers Arenberg Bellaing | 17 | 2ème | 1:28:3 | 
-| **37** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **17** | **2ème** | **1:28:4** | 
+| **37** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **17** | **2ème** | **1:28:4** | 
 | 38 | DOOM HERVE | NEW ORANGE TEAM BOUSBECQUE | 17 | 2ème | 1:28:5 | 
 | 39 | TONDELIER LUDOVIC | CYCLO CLUB WAVRIN | 17 | 2ème | 1:28:5 | 
 | 40 | HENOCQ FRANCOIS | UNION SPORTIVE SAINT ANDRE | 17 | 2ème | 1:28:6 | 
@@ -88,7 +89,7 @@ image: assets/img/blog/road.png
 | 63 | DEVILLEZ RUDY | TEAM CYCLING LA SENTINELLE | 16 | 3ème | 1:24:16 | 
 | 64 | LEGRAND MICHAEL | RESILIENCE CLUB | 16 | 3ème | 1:24:24 | 
 | 65 | DEBRABANT ANTHONY | TEAM BOUSIES | 16 | 3ème | 1:24:24 | 
-| **66** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **16** | **3ème** | **1:24:24** | 
+| **66** | **[WALTER BENOIT](/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **16** | **3ème** | **1:24:24** | 
 | 67 | FLAMENT JAMES | HARNES VELO CLUB HARNESIEN | 16 | 3ème | 1:24:24 | 
 | 68 | BONTE CLEMENT | VELO CLUB UNION HALLUIN | 16 | 3ème | 1:24:24 | 
 | 69 | CODDEVILLE KENNY | VELO CLUB UNION HALLUIN | 16 | 3ème | 1:24:25 | 
@@ -104,11 +105,11 @@ image: assets/img/blog/road.png
 | 79 | DELOT GREGORY | TEAM BIKE PRESEAU | 16 | 3ème | 1:24:27 | 
 | 80 | JUNG PHILIPPE | UNION SPORTIVE SAINT ANDRE | 16 | 3ème | 1:24:27 | 
 | 81 | LARGEAU FREDERIC | SAULZOIR MONTRECOURT CYCLING CLUB | 16 | 3ème | 1:24:27 | 
-| **82** | **[HUGUENIN DYLAN](https://teamspecializedlille.cc/coureurs/huguenindylan)** | **TEAM SPECIALIZED LILLE** | **16** | **3ème** | **1:24:27** | 
+| **82** | **[HUGUENIN DYLAN](/coureurs/huguenindylan)** | **TEAM SPECIALIZED LILLE** | **16** | **3ème** | **1:24:27** | 
 | 83 | TAISNE CHRISTOPHE | GAZ ELEC CLUB DE DOUAI | 16 | 3ème | 1:24:28 | 
 | 84 | KONOPKA YOANN | CERCLE OLYMPIQUE MARCOING | 16 | 3ème | 1:24:30 | 
 | 85 | KWIATKOWSKI SYLVAIN | ASSOCIATION SPORTIVE VELOCIPEDIQUE LA LONGUEVILLE | 16 | 3ème | 1:24:31 | 
-| **86** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **16** | **3ème** | **1:24:32** | 
+| **86** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **16** | **3ème** | **1:24:32** | 
 | 87 | KHOUALED DAVID | VELO CLUB UNION HALLUIN | 16 | 3ème | 1:24:33 | 
 | 88 | THIERCELIN CYRIL | UNION SPORTIVE VALENCIENNES CRESPIN | 16 | 3ème | 1:24:34 | 
 | 89 | PRZESZLO YANNICK | UNION CYCLISTE SOLRE LE CHATEAU | 16 | 3ème | 1:25:3 | 

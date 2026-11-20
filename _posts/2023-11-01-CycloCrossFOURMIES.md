@@ -3,17 +3,18 @@ layout: post
 title: Cyclo Cross - FOURMIES - 2024
 date: 2023-11-01
 category: Cyclo Cross
+permalink: /resultats/cyclo-cross/2023-11-01-fourmies/
 tags: cyclo-cross
 image: assets/img/blog/cx.png
 ---
 
 ### 2ème Catégorie
 22 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 10
+- [MATTIOLI RONALD](/coureurs/mattiolironald) : 10
 
 ### 3ème Catégorie
 25 participants
-- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 6
+- [DERASSE DAVID](/coureurs/derassedavid) : 6
 
 ### Scratch
 68 participants
@@ -43,7 +44,7 @@ image: assets/img/blog/cx.png
 | 21 | DELPIRE FREDERIC | VTT  CLUB PONT SUR SAMBRE | 8 | 2ème | 1:2:58 | 
 | 22 | SAINTRAIN CORENTIN | ETOILE CYCLISTE LIEU ST AMAND | 8 | 2ème | 1:3:17 | 
 | 23 | SAINTRAIN GERARD | ETOILE CYCLISTE LIEU ST AMAND | 8 | 2ème | 1:3:17 | 
-| **24** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **8** | **2ème** | **1:4:1** | 
+| **24** | **[MATTIOLI RONALD](/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **8** | **2ème** | **1:4:1** | 
 | 25 | MILLET FABRICE | VTT  CLUB PONT SUR SAMBRE | 8 | 2ème | 1:4:18 | 
 | 26 | DEWALLENS STEPHANE | UNION CYCLISTE SOLRE LE CHATEAU | 8 | 2ème | 1:4:34 | 
 | 27 | LEFEVRE ROBIN | 52X11 HIRSON THIÉRACHE | 8 | 3ème | 1:4:41 | 
@@ -52,7 +53,7 @@ image: assets/img/blog/cx.png
 | 30 | DIMANCHE DAVID | VELO CLUB SANTERRE ET VERMANDOIS | 8 | 3ème | 1:5:22 | 
 | 31 | CORNELIS DAVE | UNION VELOCIPEDIQUE FOURMISIENNE | 8 | 1ère | 1:5:29 | 
 | 32 | HIERNAUX TANGUY | ASSOCIATION CYCLISTE D'ETROEUNGT | 8 | 3ème | 1:5:37 | 
-| **33** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **8** | **3ème** | **1:5:52** | 
+| **33** | **[DERASSE DAVID](/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **8** | **3ème** | **1:5:52** | 
 | 34 | HENNO FABRICE | CYCLO CLUB ORCHIES | 8 | 2ème | 1:6:10 | 
 | 35 | FREROT FRANCK | U.C. CAPELLOISE FOURMIES | 8 | 2ème | 1:6:24 | 
 | 36 | BOUZERE ADRIEN | ASSOCIATION CYCLISTE D'ETROEUNGT | 8 | 3ème | 1:7:15 | 

@@ -3,13 +3,14 @@ layout: post
 title: Route - DIMECHAUX - 2024
 date: 2024-04-21
 category: Route
+permalink: /resultats/route/2024-04-21-dimechaux/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
 26 participants
-- [LECOLIER BENOIT](https://teamspecializedlille.cc/coureurs/lecolierbenoit) : 3
+- [LECOLIER BENOIT](/coureurs/lecolierbenoit) : 3
 
 ### Scratch
 104 participants
@@ -35,7 +36,7 @@ image: assets/img/blog/road.png
 | 17 | GREVIN JEROME | VELO CLUB SOLESMES | 12 | 1ère | 1:45:1 | 
 | 18 | LOUETTE XAVIER | 52X11 HIRSON THIÉRACHE | 12 | 2ème | 1:47:25 | 
 | 19 | DELPIRE FREDERIC | VTT  CLUB PONT SUR SAMBRE | 12 | 2ème | 1:47:25 | 
-| **20** | **[LECOLIER BENOIT](https://teamspecializedlille.cc/coureurs/lecolierbenoit)** | **TEAM SPECIALIZED LILLE** | **12** | **2ème** | **1:47:25** | 
+| **20** | **[LECOLIER BENOIT](/coureurs/lecolierbenoit)** | **TEAM SPECIALIZED LILLE** | **12** | **2ème** | **1:47:25** | 
 | 21 | LIENARD ROMAIN | NOUVELLE ETOILE SPORTIVE BOUE ETREUX | 12 | 2ème | 1:47:44 | 
 | 22 | KRUHELSKI VIANNEY | SAULZOIR MONTRECOURT CYCLING CLUB | 12 | 2ème | 1:47:44 | 
 | 23 | CORNETTE STEPHANE | TEAM BIKE PRESEAU | 12 | 2ème | 1:47:47 | 

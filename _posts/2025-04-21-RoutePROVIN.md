@@ -3,14 +3,15 @@ layout: post
 title: Route - PROVIN - 2025
 date: 2025-04-21
 category: Route
+permalink: /resultats/route/2025-04-21-provin/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
 27 participants
-- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 14
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 20
+- [DEFER OLIVIER](/coureurs/deferolivier) : 14
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 20
 
 ### Scratch
 114 participants
@@ -46,7 +47,7 @@ image: assets/img/blog/road.png
 | 27 | LEFEBVRE JEAN-DANIEL | U.C. CAPELLOISE FOURMIES | 17 | 2ème | 0:56:25 | 
 | 28 | GOCHON VALENTIN | TEAM MELANTOIS - PERONNE EN MELANTOIS | 17 | 2ème | 0:56:26 | 
 | 29 | SCHERNU CHRISTOPHE | TEAM CYCLISTE PROVINOIS - PROVIN | 17 | 2ème | 0:56:26 | 
-| **30** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **17** | **2ème** | **0:56:27** | 
+| **30** | **[DEFER OLIVIER](/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **17** | **2ème** | **0:56:27** | 
 | 31 | TAQUIN JOCELYN | BAILLEUL VELO CLUB | 17 | 2ème | 0:56:27 | 
 | 32 | LETUFFE SAMUEL | CYCLO CLUB WAVRIN | 17 | 2ème | 0:56:28 | 
 | 33 | ROY SEBASTIEN | TEAM CYCLISTE PROVINOIS - PROVIN | 17 | 2ème | 0:56:28 | 
@@ -57,7 +58,7 @@ image: assets/img/blog/road.png
 | 38 | LE CARDIEC VALENTIN | CYCLO CLUB WAVRIN | 16 | 3ème | 0:56:3 | 
 | 39 | DUMORTIER TOM | CYCLO CLUB WAVRIN | 16 | 3ème | 0:56:3 | 
 | 40 | VANDEKERCKHOVE SYLVAIN | VELO CLUB UNION HALLUIN | 16 | 3ème | 0:56:5 | 
-| **41** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **16** | **2ème** | **0:56:15** | 
+| **41** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **16** | **2ème** | **0:56:15** | 
 | 42 | FLAMENT JAMES | HARNES VELO CLUB HARNESIEN | 16 | 3ème | 0:56:17 | 
 | 43 | HAVET SEBASTIEN | GAZ ELEC CLUB DE DOUAI | 16 | 2ème | 0:56:23 | 
 | 44 | CHAUVEL BENJAMIN | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 16 | 3ème | 0:56:59 | 

@@ -3,16 +3,17 @@ layout: post
 title: Route - FERRIERE LA GRANDE - 2022
 date: 2022-08-21
 category: Route
+permalink: /resultats/route/2022-08-21-ferriere-la-grande/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 32 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : Ab
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : Ab
+- [DEFOSSE HERVE](/coureurs/defosseherve) : Ab
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : Ab
 
 ### 3ème Catégorie
 57 participants
-- [HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe) : 21
-- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 48
+- [HUBAUT CHRISTOPHE](/coureurs/hubautchristophe) : 21
+- [DEFER OLIVIER](/coureurs/deferolivier) : 48

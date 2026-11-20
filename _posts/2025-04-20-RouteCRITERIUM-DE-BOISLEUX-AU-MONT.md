@@ -3,22 +3,23 @@ layout: post
 title: Route - CRITERIUM DE BOISLEUX AU MONT - 2025
 date: 2025-04-20
 category: Route
+permalink: /resultats/route/2025-04-20-criterium-de-boisleux-au-mont/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 11 participants
-- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 4
+- [DERASSE DAVID](/coureurs/derassedavid) : 4
 
 ### 2ème Catégorie
 21 participants
-- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 12
+- [DEFER OLIVIER](/coureurs/deferolivier) : 12
 
 ### 3ème Catégorie
 29 participants
-- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 5
-- [DERASSE PATRICK](https://teamspecializedlille.cc/coureurs/derassepatrick) : 24
+- [WALTER BENOIT](/coureurs/walterbenoit) : 5
+- [DERASSE PATRICK](/coureurs/derassepatrick) : 24
 
 ### Scratch
 79 participants
@@ -28,7 +29,7 @@ image: assets/img/blog/road.png
 | 1 | DEBUISSON JULIAN | UNION SPORTIVE SAINT ANDRE | 25 | 1ère | 1:14:4 | 
 | 2 | DREMEAUX JOHAN | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 25 | 1ère | 1:14:28 | 
 | 3 | LEFEVRE TOM | ASSOCIATION SPORTIVE VELOCIPEDIQUE LA LONGUEVILLE | 25 | 1ère | 1:16:12 | 
-| **4** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **25** | **1ère** | **1:17:14** | 
+| **4** | **[DERASSE DAVID](/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **25** | **1ère** | **1:17:14** | 
 | 5 | DUVAL TEDDY | OHM CYCLISME HESDIN | 25 | 1ère | 1:17:14 | 
 | 6 | MARTHE ROMUALD | ETOILE CYCLISTE LIEU ST AMAND | 25 | 1ère | 1:17:22 | 
 | 7 | DUVAL RUDY | OHM CYCLISME HESDIN | 24 | 1ère | 1:14:40 | 
@@ -37,7 +38,7 @@ image: assets/img/blog/road.png
 | 10 | PETTE ANTOINE | ARTeam Artois Racing Team | 24 | 3ème | 1:37:32 | 
 | 11 | GALAND VICTOR | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 24 | 3ème | 1:38:15 | 
 | 12 | POULAIN CHRISTOPHE | VELO SPRINT DE L'OSTREVENT - ANICHE | 24 | 3ème | 1:40:24 | 
-| **13** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **24** | **3ème** | **1:40:24** | 
+| **13** | **[WALTER BENOIT](/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **24** | **3ème** | **1:40:24** | 
 | 14 | GOUBEL BENJAMIN | GAZ ELEC CLUB DE DOUAI | 24 | 3ème | 1:40:24 | 
 | 15 | DEMOUILLER FREDERIC | UNION SPORTIVE VALENCIENNES CRESPIN | 24 | 3ème | 1:40:24 | 
 | 16 | DRUMEZ CLEMENT | ESEG DOUAI | 24 | 3ème | 1:40:24 | 
@@ -57,7 +58,7 @@ image: assets/img/blog/road.png
 | 30 | TISON CEDRIC | TEAM ENFER WALLERS ARENBERG | 23 | 2ème | 1:11:29 | 
 | 31 | CHALAS JEAN PIERRE | NOEUX VELO CLUB NOEUXOIS | 23 | 2ème | 1:11:42 | 
 | 32 | LETUFFE SAMUEL | CYCLO CLUB WAVRIN | 23 | 2ème | 1:11:43 | 
-| **33** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **23** | **2ème** | **1:12:35** | 
+| **33** | **[DEFER OLIVIER](/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **23** | **2ème** | **1:12:35** | 
 | 34 | FINET ALEXIS | NEW TEAM MAULDE | 23 | 3ème | 1:38:17 | 
 | 35 | MOTTIER DAMIEN | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 23 | 3ème | 1:38:54 | 
 | 36 | DUPRE SEBASTIEN | HENIN ETOILE CYCLISTE HENINOISE | 23 | 3ème | 1:38:55 | 
@@ -74,7 +75,7 @@ image: assets/img/blog/road.png
 | 47 | FLAMENT AURORE | LA PEDALE MADELEINOISE | 22 | 3ème | 1:38:45 | 
 | 48 | DUPONT RAPHAEL | NEW TEAM MAULDE  | 21 | 3ème | 1:40:11 | 
 | 49 | CANU ERWAN | UNION SPORTIVE SAINT ANDRE | 19 | 2ème | 1:14:24 | 
-| **50** | **[DERASSE PATRICK](https://teamspecializedlille.cc/coureurs/derassepatrick)** | **TEAM SPECIALIZED LILLE** | **19** | **3ème** | **1:38:28** | 
+| **50** | **[DERASSE PATRICK](/coureurs/derassepatrick)** | **TEAM SPECIALIZED LILLE** | **19** | **3ème** | **1:38:28** | 
 | 51 | HAVET PIERRE | BEUVRY CYCLO CLUB | 18 | 4ème | 1:0:8 | 
 | 52 | PAYEN MATHILDE | ARTeam Artois Racing Team | 18 | Féminines | 1:0:31 | 
 | 53 | BEGHIN MARTIAL | LA PEDALE MADELEINOISE | 18 | 4ème | 1:1:39 | 

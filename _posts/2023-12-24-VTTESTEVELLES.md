@@ -3,6 +3,7 @@ layout: post
 title: VTT - ESTEVELLES - 2024
 date: 2023-12-24
 category: VTT
+permalink: /resultats/vtt/2023-12-24-estevelles/
 tags: VTT
 image: assets/resultats/2023/vtt/12-24-estevelles/1.jpg
 images:
@@ -12,7 +13,7 @@ images:
 
 ### VTT Vétérans A
 14 participants
-- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 10
+- [WALTER BENOIT](/coureurs/walterbenoit) : 10
 
 ### Scratch
 39 participants
@@ -43,7 +44,7 @@ images:
 | 22 | PLOUVIEZ VINCENT | CYCLO CLUB WAVRIN | 7 | Vétérans B | 0:50:16 | 
 | 23 | LELONG GAETAN | BEUVRY CLUB LEO LAGRANGE | 7 | Vétérans A | 0:50:20 | 
 | 24 | GOBERT JEAN FRANCOIS | ARTOIS CYCLING TEAM | 7 | Vétérans A | 0:50:55 | 
-| **25** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **7** | **Vétérans A** | **0:50:55** | 
+| **25** | **[WALTER BENOIT](/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **7** | **Vétérans A** | **0:50:55** | 
 | 26 | LETOMBE CHRISTOPHE | BEUVRY CLUB LEO LAGRANGE | 7 | Vétérans B | 0:51:0 | 
 | 27 | DUFOUR JORDAN | HERSIN VELO CLUB HERSIN COUPIGNY | 7 | Seniors A | 0:51:1 | 
 | 28 | BENOIT KEVIN | CYCLO CLUB BERGUES | 7 | Seniors B | 0:51:34 | 

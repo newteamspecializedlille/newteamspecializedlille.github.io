@@ -3,19 +3,20 @@ layout: post
 title: Route - NEUVIREUIL - IZEL - 2026
 date: 2026-06-20
 category: Route
+permalink: /resultats/route/2026-06-20-neuvireuil-izel/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
 33 participants
-- [BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine) : 7
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 16
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 18
+- [BROUTIN ANTOINE](/coureurs/broutinantoine) : 7
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 16
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 18
 
 ### 3ème Catégorie
 47 participants
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 22
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 22
 
 ### Scratch
 124 participants
@@ -38,7 +39,7 @@ image: assets/img/blog/road.png
 | 14 | ROY SEBASTIEN | TEAM CYCLISTE PROVINOIS - PROVIN | 10 | 2ème | 1:43:3 | 
 | 15 | SCHERNU CHRISTOPHE | TEAM CYCLISTE PROVINOIS - PROVIN | 10 | 2ème | 1:43:5 | 
 | 16 | DEURBROECK KRIS | UNION SPORTIVE SAINT ANDRE | 10 | 2ème | 1:43:5 | 
-| **17** | **[BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine)** | **TEAM SPECIALIZED LILLE** | **10** | **2ème** | **1:43:5** | 
+| **17** | **[BROUTIN ANTOINE](/coureurs/broutinantoine)** | **TEAM SPECIALIZED LILLE** | **10** | **2ème** | **1:43:5** | 
 | 18 | HUART GUILLAUME | CYCLO CLUB ORCHIES | 10 | 2ème | 1:43:6 | 
 | 19 | DUQUESNES BENJAMIN | UNION SPORTIVE VALENCIENNES CRESPIN | 10 | 2ème | 1:43:6 | 
 | 20 | HEBERT PIERRICK | NEW ORANGE TEAM BOUSBECQUE | 10 | 2ème | 1:43:7 | 
@@ -47,9 +48,9 @@ image: assets/img/blog/road.png
 | 23 | CAULIER NICOLAS | CAMPAGNE LES WARDRECQUES CLUB CYCLISTE CCCW | 10 | 2ème | 1:43:51 | 
 | 24 | LETUFFE SAMUEL | CYCLO CLUB WAVRIN | 10 | 2ème | 1:43:51 | 
 | 25 | LEULLIER JEAN-FRANCOIS | VELO CLUB ROUBAIX | 10 | 2ème | 1:43:53 | 
-| **26** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **10** | **2ème** | **1:43:54** | 
+| **26** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **10** | **2ème** | **1:43:54** | 
 | 27 | PACAUX ANTOINE | TEAM POLICE HDFN | 10 | 2ème | 1:43:54 | 
-| **28** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **10** | **2ème** | **1:43:57** | 
+| **28** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **10** | **2ème** | **1:43:57** | 
 | 29 | ZANOLINO FABRICE | BRUAY LA BUISSIERE U.S.O. CYCLISME | 10 | 2ème | 1:43:57 | 
 | 30 | REUTER SEBASTIEN | VELO CLUB UNION HALLUIN | 10 | 2ème | 1:43:58 | 
 | 31 | DI CARLO DONATO | NEW ORANGE TEAM BOUSBECQUE | 10 | 2ème | 1:43:59 | 
@@ -86,7 +87,7 @@ image: assets/img/blog/road.png
 | 62 | LEVAS LAURENT | MANQUEVILLE LILLERS CLUB CYCLISTE | 8 | 3ème | 1:25:53 | 
 | 63 | TRACKOEN Mathieu | TEAM CYCLISTE PROVINOIS - PROVIN | 8 | 3ème | 1:25:53 | 
 | 64 | BUCHET HECTOR | TEAM CYCLISTE PROVINOIS - PROVIN | 8 | 3ème | 1:25:53 | 
-| **65** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **8** | **3ème** | **1:25:54** | 
+| **65** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **8** | **3ème** | **1:25:54** | 
 | 66 | BARENNE LAURENT | VELO CLUB UNION HALLUIN | 8 | 3ème | 1:25:54 | 
 | 67 | THEVE EMMANUEL | ROUE D'OR COMINOISE | 8 | 3ème | 1:25:55 | 
 | 68 | GEORGES ALEXANDRE | BEUVRY CYCLO CLUB | 8 | 3ème | 1:25:55 | 

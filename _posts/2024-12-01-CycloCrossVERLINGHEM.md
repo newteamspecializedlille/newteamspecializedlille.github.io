@@ -3,13 +3,14 @@ layout: post
 title: Cyclo Cross - VERLINGHEM - 2025
 date: 2024-12-01
 category: Cyclo Cross
+permalink: /resultats/cyclo-cross/2024-12-01-verlinghem/
 tags: cyclo-cross
 image: assets/img/blog/cx.png
 ---
 
 ### 2ème Catégorie
 21 participants
-- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 8
+- [DERASSE DAVID](/coureurs/derassedavid) : 8
 
 ### Scratch
 62 participants
@@ -35,7 +36,7 @@ image: assets/img/blog/cx.png
 | 17 | BREVIERE ALEXANDRE | CAMPHIN EN CAREMBAULT CYCLING TEAM | 6 | 2ème | 0:53:48 | 
 | 18 | PIAT JEREMY | ETOILE CYCLISTE LIEU ST AMAND | 6 | 2ème | 0:53:53 | 
 | 19 | VARLET SIMON | VELO CLUB UNION HALLUIN | 6 | 3ème | 0:54:9 | 
-| **20** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **6** | **2ème** | **0:54:10** | 
+| **20** | **[DERASSE DAVID](/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **6** | **2ème** | **0:54:10** | 
 | 21 | DEHONGHER MATTHIEU | CYCLO CLUB ARMENTIEROIS | 6 | 2ème | 0:54:25 | 
 | 22 | GOCHON VALENTIN | TEAM MELANTOIS - PERONNE EN MELANTOIS | 6 | 2ème | 0:55:2 | 
 | 23 | VANWAELSCAPPEL GUILLAUME | CYCLO CLUB WAVRIN | 6 | 2ème | 0:55:16 | 

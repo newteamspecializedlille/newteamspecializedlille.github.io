@@ -3,13 +3,14 @@ layout: post
 title: VTT - ORCHIES - 2025
 date: 2024-10-06
 category: VTT
+permalink: /resultats/vtt/2024-10-06-orchies/
 tags: VTT
 image: assets/img/blog/vtt.png
 ---
 
 ### VTT Vétérans B
 12 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 2
+- [MATTIOLI RONALD](/coureurs/mattiolironald) : 2
 
 ### Scratch
 32 participants
@@ -17,7 +18,7 @@ image: assets/img/blog/vtt.png
 | Place | Nom | Team | Tours | Catégorie | Temps |
 |---|---|---|---|---|---|
 | 1 | DURANT DIDIER | TEAM POLICE HDF | 8 | Vétérans B | 0:50:22 | 
-| **2** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans B** | **0:50:44** | 
+| **2** | **[MATTIOLI RONALD](/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans B** | **0:50:44** | 
 | 3 | CORMAN SEBASTIEN | CAMPHIN EN CAREMBAULT CYCLING TEAM | 8 | Vétérans A | 0:51:13 | 
 | 4 | HORCHOLLE REMI | VTT  CLUB PONT SUR SAMBRE | 8 | Seniors B | 0:52:6 | 
 | 5 | ROMAIN RICHARD | #N/A | 8 | Seniors B | 0:52:6 | 

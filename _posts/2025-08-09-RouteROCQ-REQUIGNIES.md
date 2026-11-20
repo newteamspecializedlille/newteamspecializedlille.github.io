@@ -3,17 +3,18 @@ layout: post
 title: Route - ROCQ REQUIGNIES - 2025
 date: 2025-08-09
 category: Route
+permalink: /resultats/route/2025-08-09-rocq-requignies/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
 33 participants
-- [BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine) : 11
+- [BROUTIN ANTOINE](/coureurs/broutinantoine) : 11
 
 ### 3ème Catégorie
 33 participants
-- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 20
+- [WALTER BENOIT](/coureurs/walterbenoit) : 20
 
 ### Scratch
 110 participants
@@ -46,7 +47,7 @@ image: assets/img/blog/road.png
 | 24 | DEURBROECK KRIS | UNION SPORTIVE SAINT ANDRE | 13 | 2ème | 1:42:29 | 
 | 25 | COMBLIN JUSTIN | ASSOCIATION CYCLISTE BELLAINGEOISE | 13 | 2ème | 1:42:30 | 
 | 26 | BAUW EDOUARD | BAILLEUL VELO CLUB | 13 | 2ème | 1:42:31 | 
-| **27** | **[BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine)** | **TEAM SPECIALIZED LILLE** | **13** | **2ème** | **1:42:31** | 
+| **27** | **[BROUTIN ANTOINE](/coureurs/broutinantoine)** | **TEAM SPECIALIZED LILLE** | **13** | **2ème** | **1:42:31** | 
 | 28 | GOUTEAU FREDERIC | U.C. CAPELLOISE FOURMIES | 13 | 2ème | 1:42:31 | 
 | 29 | LELUBRE BENOIT | UNION CYCLISTE SOLRE LE CHATEAU | 13 | 2ème | 1:42:31 | 
 | 30 | CAILLARD ANTHONY | TEAM LINK AND RIDE HERIN | 13 | 2ème | 1:42:33 | 
@@ -77,7 +78,7 @@ image: assets/img/blog/road.png
 | 55 | KHOUALED DAVID | VELO CLUB UNION HALLUIN | 12 | 3ème | 1:42:38 | 
 | 56 | MOUFTIER LOUKA | TEAM VTT JEUMONT | 12 | 2ème | 1:43:8 | 
 | 57 | POIDEVIN LUDOVIC | TEAM BIKE PRESEAU | 12 | 3ème | 1:43:47 | 
-| **58** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **12** | **3ème** | **1:43:48** | 
+| **58** | **[WALTER BENOIT](/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **12** | **3ème** | **1:43:48** | 
 | 59 | BAUDOIN ETIENNE | LES VIKINGS VTT MARCHE NORDIQUE OHAIN | 12 | 3ème | 1:43:48 | 
 | 60 | BLAZE LOIC | UNION CYCLISTE SOLRE LE CHATEAU | 12 | 2ème | 1:44:3 | 
 | 61 | GREUSE GUILLAUME | ETOILE CYCLISTE FEIGNIES | 12 | 3ème | 1:44:54 | 

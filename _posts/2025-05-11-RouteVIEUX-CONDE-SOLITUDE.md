@@ -3,23 +3,24 @@ layout: post
 title: Route - VIEUX CONDE SOLITUDE - 2025
 date: 2025-05-11
 category: Route
+permalink: /resultats/route/2025-05-11-vieux-conde-solitude/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 36 participants
-- [CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas) : 4
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 25
+- [CROMBEZ THOMAS](/coureurs/crombezthomas) : 4
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 25
 
 ### 2ème Catégorie
 63 participants
-- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 33
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 47
+- [DEFER OLIVIER](/coureurs/deferolivier) : 33
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 47
 
 ### 3ème Catégorie
 61 participants
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 16
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 16
 
 ### Scratch
 193 participants
@@ -29,7 +30,7 @@ image: assets/img/blog/road.png
 | 1 | WINS STEPHANE | HAVELUY CYCLO CLUB | 25 | 1ère | 1:31:24 | 
 | 2 | SEMOULIN JOAKIM | TEAM B.B.L. HERGNIES | 25 | 1ère | 1:31:25 | 
 | 3 | DI CARLO GIUSEPPE | NEW ORANGE TEAM BOUSBECQUE | 25 | 1ère | 1:31:28 | 
-| **4** | **[CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **25** | **1ère** | **1:31:31** | 
+| **4** | **[CROMBEZ THOMAS](/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **25** | **1ère** | **1:31:31** | 
 | 5 | BRASSART THEOPHILE | TEAM B.B.L. HERGNIES | 25 | 1ère | 1:31:43 | 
 | 6 | DELANGUE THOMAS | NEW ORANGE TEAM BOUSBECQUE | 25 | 1ère | 1:31:43 | 
 | 7 | MURRUZZU AURELIEN | UNION SPORTIVE SAINT ANDRE | 25 | 1ère | 1:31:44 | 
@@ -49,7 +50,7 @@ image: assets/img/blog/road.png
 | 21 | BOUVET GRICOURT HUGO | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 25 | 1ère | 1:31:47 | 
 | 22 | DEWALLENS STEPHANE | UNION CYCLISTE SOLRE LE CHATEAU | 25 | 1ère | 1:31:47 | 
 | 23 | GABEZ BAPTISTE | VELO CLUB SOLESMES | 25 | 1ère | 1:31:48 | 
-| **24** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **25** | **1ère** | **1:31:48** | 
+| **24** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **25** | **1ère** | **1:31:48** | 
 | 25 | HURIAU BENOIT | ASSOCIATION CYCLISTE BELLAINGEOISE | 25 | 1ère | 1:31:50 | 
 | 26 | LAMARCHE FRANCK | TEAM DECOPUB PROVILLE | 25 | 1ère | 1:31:53 | 
 | 27 | GREVIN JEROME | VELO CLUB SOLESMES | 25 | 1ère | 1:31:53 | 
@@ -86,7 +87,7 @@ image: assets/img/blog/road.png
 | 58 | HELLOT FRANCOIS | HAVELUY CYCLO CLUB | 24 | 2ème | 1:31:59 | 
 | 59 | ROUSSEAU DIDIER | ETOILE CYCLISTE FEIGNIES | 24 | 2ème | 1:32:0 | 
 | 60 | DRUESNE DAMIEN | UNION VELOCIPEDIQUE FOURMISIENNE | 24 | 2ème | 1:32:0 | 
-| **61** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **24** | **2ème** | **1:32:1** | 
+| **61** | **[DEFER OLIVIER](/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **24** | **2ème** | **1:32:1** | 
 | 62 | DOCHNIAK LEO | HAVELUY CYCLO CLUB | 24 | 2ème | 1:32:2 | 
 | 63 | ALEXANDRE GEORGES | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 24 | 2ème | 1:32:2 | 
 | 64 | DEBOCQ JULIE | HAVELUY CYCLO CLUB | 24 | 2ème | 1:32:3 | 
@@ -100,7 +101,7 @@ image: assets/img/blog/road.png
 | 72 | LECLERCQ JEAN LOUIS | CYCLISME EN CAMBRESIS - NEUVILLE ST REMY | 24 | 2ème | 1:32:7 | 
 | 73 | LEBLOND MATHIEU | TEAM POLICE HDF | 24 | 2ème | 1:32:8 | 
 | 74 | DEVYNCK MATTHIEU | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 24 | 2ème | 1:32:10 | 
-| **75** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **24** | **2ème** | **1:32:12** | 
+| **75** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **24** | **2ème** | **1:32:12** | 
 | 76 | OLIVIER ALEXANDRE | VELO CLUB UNION HALLUIN | 24 | 1ère | 1:32:13 | 
 | 77 | BOUZIN BENJAMIN | ASSOCIATION CYCLISTE D'ETROEUNGT | 24 | 2ème | 1:32:15 | 
 | 78 | DEWAILLY VINCENT | UNION SPORTIVE SAINT ANDRE | 24 | 2ème | 1:32:15 | 
@@ -127,7 +128,7 @@ image: assets/img/blog/road.png
 | 99 | HENNOCQ FRANCOIS | UNION SPORTIVE SAINT ANDRE | 22 | 3ème | 1:28:56 | 
 | 100 | QUESTE DAVID | TEAM B.B.L. HERGNIES | 22 | 3ème | 1:28:56 | 
 | 101 | BIANCUCCI MARIO | VELO CLUB UNION HALLUIN | 22 | 3ème | 1:28:56 | 
-| **102** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **22** | **3ème** | **1:28:56** | 
+| **102** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **22** | **3ème** | **1:28:56** | 
 | 103 | BERTHIER ANTOINE | ETOILE CYCLISTE LIEU ST AMAND | 22 | 3ème | 1:28:56 | 
 | 104 | DUPONT REMI | RESILIENCE CLUB | 22 | 3ème | 1:28:56 | 
 | 105 | KONOPKA GABRIEL | CERCLE OLYMPIQUE MARCOING | 22 | 3ème | 1:28:57 | 

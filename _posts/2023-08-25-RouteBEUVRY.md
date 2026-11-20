@@ -3,13 +3,14 @@ layout: post
 title: Route - BEUVRY - 2023
 date: 2023-08-25
 category: Route
+permalink: /resultats/route/2023-08-25-beuvry/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 22 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 18
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 18
 
 ### Scratch
 100 participants
@@ -32,7 +33,7 @@ image: assets/img/blog/road.png
 | 14 | BECQUET JORDAN | VELO CLUB UNION HALLUIN | 18 | 1ère | 1:52:44 | 
 | 15 | MARQUET VICTOR | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 18 | 1ère | 1:52:45 | 
 | 16 | VASSEUR HUGO | UNION SPORTIVE SAINT ANDRE | 18 | 1ère | 1:52:48 | 
-| **17** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **18** | **1ère** | **1:52:51** | 
+| **17** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **18** | **1ère** | **1:52:51** | 
 | 18 | DASSONNEVILLE FRANCK | RESILIENCE CLUB | 18 | 1ère | 1:53:2 | 
 | 19 | HEBERT PIERRICK | NEW ORANGE TEAM BOUSBECQUE | 17 | 2ème | 1:40:44 | 
 | 20 | COMBLIN JEROME | ASSOCIATION CYCLISTE BELLAINGEOISE | 17 | 2ème | 1:40:44 | 

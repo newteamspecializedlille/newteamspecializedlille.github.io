@@ -3,13 +3,14 @@ layout: post
 title: VTT - ESTEVELLES2 - 2026
 date: 2025-12-28
 category: VTT
+permalink: /resultats/vtt/2025-12-28-estevelles2/
 tags: VTT
 image: assets/img/blog/vtt.png
 ---
 
 ### VTT Vétérans B
 15 participants
-- [DERASSE PATRICK](https://teamspecializedlille.cc/coureurs/derassepatrick) : 13
+- [DERASSE PATRICK](/coureurs/derassepatrick) : 13
 
 ### Scratch
 47 participants
@@ -60,6 +61,6 @@ image: assets/img/blog/vtt.png
 | 42 | TOURET HERVE | TEAM SHARK VTT | 4 | Vétérans B | 0:54:30 | 
 | 43 | DELPLACE SYLVIAN | HENIN ETOILE CYCLISTE HENINOISE | 4 | Vétérans A | 0:56:45 | 
 | 44 | HAVET STEPHANE | CYCLO CLUB BEUVRY | 4 | Vétérans B | 1:0:5 | 
-| **45** | **[DERASSE PATRICK](https://teamspecializedlille.cc/coureurs/derassepatrick)** | **TEAM SPECIALIZED LILLE** | **3** | **Vétérans B** | **0:57:36** | 
+| **45** | **[DERASSE PATRICK](/coureurs/derassepatrick)** | **TEAM SPECIALIZED LILLE** | **3** | **Vétérans B** | **0:57:36** | 
 | 46 | LELONG GAETAN | BEUVRY CLUB LEO LAGRANGE | 2 | Vétérans A | 0:22:45 | 
 | 47 | DROUVIN GILLES | OHM CYCLISME HESDIN | 2 | Vétérans B | 0:29:53 | 

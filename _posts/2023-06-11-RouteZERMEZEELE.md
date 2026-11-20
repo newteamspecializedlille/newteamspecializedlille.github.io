@@ -3,21 +3,22 @@ layout: post
 title: Route - ZERMEZEELE - 2023
 date: 2023-06-11
 category: Route
+permalink: /resultats/route/2023-06-11-zermezeele/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 21 participants
-- [SCHERNU CHRISTOPHE](https://teamspecializedlille.cc/coureurs/schernuchristophe) : 15
+- [SCHERNU CHRISTOPHE](/coureurs/schernuchristophe) : 15
 
 ### 2ème Catégorie
 25 participants
-- [HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe) : 13
+- [HUBAUT CHRISTOPHE](/coureurs/hubautchristophe) : 13
 
 ### 3ème Catégorie
 34 participants
-- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 20
+- [DEFER OLIVIER](/coureurs/deferolivier) : 20
 
 ### Scratch
 95 participants
@@ -38,7 +39,7 @@ image: assets/img/blog/road.png
 | 12 | HAVET SEBASTIEN | GAZ ELEC CLUB DE DOUAI | 16 | 1ère | 2:3:28 | 
 | 13 | BUGNICOURT CYRIL | UNION VELOCIPEDIQUE FOURMISIENNE | 16 | 1ère | 2:3:50 | 
 | 14 | DEVIGNE NICOLAS | ARTOIS CYCLING TEAM | 16 | 1ère | 2:4:22 | 
-| **15** | **[SCHERNU CHRISTOPHE](https://teamspecializedlille.cc/coureurs/schernuchristophe)** | **TEAM SPECIALIZED LILLE** | **16** | **1ère** | **2:4:52** | 
+| **15** | **[SCHERNU CHRISTOPHE](/coureurs/schernuchristophe)** | **TEAM SPECIALIZED LILLE** | **16** | **1ère** | **2:4:52** | 
 | 16 | DEURBROECK KRIS | UNION SPORTIVE SAINT ANDRE | 15 | 2ème | 1:53:55 | 
 | 17 | BOS FABRICE | ASSOCIATION CYCLISTE BELLAINGEOISE | 15 | 2ème | 1:53:58 | 
 | 18 | DEWILDE LUDOVIC | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 15 | 2ème | 1:53:58 | 
@@ -51,7 +52,7 @@ image: assets/img/blog/road.png
 | 25 | PRIAT AURELIEN | ESEG DOUAI | 15 | 2ème | 1:54:33 | 
 | 26 | DELANNOY JULIEN | ETOILE CYCLISTE TOURCOING | 15 | 2ème | 1:54:33 | 
 | 27 | VERHAEGHE THOMAS | LINSELLES CYCLISME | 15 | 2ème | 1:54:33 | 
-| **28** | **[HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe)** | **TEAM SPECIALIZED LILLE** | **15** | **2ème** | **1:54:33** | 
+| **28** | **[HUBAUT CHRISTOPHE](/coureurs/hubautchristophe)** | **TEAM SPECIALIZED LILLE** | **15** | **2ème** | **1:54:33** | 
 | 29 | DI CARLO DONATO | NEW ORANGE TEAM BOUSBECQUE | 15 | 2ème | 1:54:34 | 
 | 30 | RICHLINSKI STEPHENS | TEAM POLICE HDF - ROUBAIX | 15 | 2ème | 1:54:34 | 
 | 31 | HERFEUIL ANTHONY | UNION SPORTIVE SAINT ANDRE | 15 | 2ème | 1:54:34 | 
@@ -83,7 +84,7 @@ image: assets/img/blog/road.png
 | 57 | CHOQUET DAVID | UNION SPORTIVE SAINT ANDRE | 14 | 2ème | 1:54:41 | 
 | 58 | BURIDON RACHEL | CYCLO CLUB ORCHIES | 14 | 2ème | 1:56:40 | 
 | 59 | PETIT FLORIAN | UNION CYCLISTE WATTIGNIES | 13 | 3ème | 1:48:1 | 
-| **60** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **13** | **3ème** | **1:49:10** | 
+| **60** | **[DEFER OLIVIER](/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **13** | **3ème** | **1:49:10** | 
 | 61 | RYCKEBUSH BAPTISTE | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 13 | 3ème | 1:51:17 | 
 | 62 | DEHONGHER MATTHIEU | NOEUX VELO CLUB NOEUXOIS | 12 | 3ème | 1:49:33 | 
 | 63 | DELECLUSE JUSTINE | RESILIENCE CLUB | 11 | 4ème | 1:36:11 | 

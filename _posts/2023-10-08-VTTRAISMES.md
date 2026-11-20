@@ -3,13 +3,14 @@ layout: post
 title: VTT - RAISMES - 2024
 date: 2023-10-08
 category: VTT
+permalink: /resultats/vtt/2023-10-08-raismes/
 tags: VTT
 image: assets/img/blog/vtt.png
 ---
 
 ### VTT Vétérans B
 18 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 2
+- [MATTIOLI RONALD](/coureurs/mattiolironald) : 2
 
 ### Scratch
 60 participants
@@ -22,7 +23,7 @@ image: assets/img/blog/vtt.png
 | 4 | SANGNIER FREDERIC | CAMPHIN EN CAREMBAULT CYCLING TEAM | 8 | Vétérans A | 1:0:44 | 
 | 5 | JABLONSKI SEBASTIEN | TEAM B.B.L. HERGNIES | 8 | Vétérans A | 1:0:50 | 
 | 6 | NOWICKI FABRICE | TEAM POLICE HDF | 8 | Vétérans B | 1:0:55 | 
-| **7** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans B** | **1:1:4** | 
+| **7** | **[MATTIOLI RONALD](/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans B** | **1:1:4** | 
 | 8 | FARDOUX DANY | FLEURBAIX TEAM SHARK VTT | 8 | Vétérans A | 1:1:13 | 
 | 9 | CORMAN SEBASTIEN | CAMPHIN EN CAREMBAULT CYCLING TEAM | 8 | Vétérans A | 1:1:14 | 
 | 10 | MARECHAL GUILLAUME | VELO CLUB SOLESMES | 8 | Seniors B | 1:1:20 | 

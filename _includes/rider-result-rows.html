@@ -6,8 +6,12 @@
 {%- for res in include.results -%}
   {%- assign date_parts = res.date | split: "-" -%}
   {%- assign _m_idx = date_parts[1] | plus: 0 | minus: 1 -%}
-  {%- assign _url_key = include.discipline | append: "|" | append: date_parts[0] | append: "/" | append: date_parts[1] | append: "/" | append: date_parts[2] | append: "|" | append: res.raceName -%}
-  {%- assign _post_url = site.data.race_urls[_url_key] -%}
+  {%- assign _dir = "route" -%}
+  {%- if include.discipline == "cx" -%}{%- assign _dir = "cyclo-cross" -%}{%- elsif include.discipline == "vtt" -%}{%- assign _dir = "vtt" -%}{%- endif -%}
+  {%- assign _race_slug = res.raceName | slugify: "latin" -%}
+  {%- assign _candidate_url = "/resultats/" | append: _dir | append: "/" | append: res.date | append: "-" | append: _race_slug | append: "/" -%}
+  {%- assign _post_url = nil -%}
+  {%- if site.data.post_urls[_candidate_url] -%}{%- assign _post_url = _candidate_url -%}{%- endif -%}
   {%- assign _champ_key = date_parts[0] | append: "/" | append: date_parts[1] | append: "/" | append: date_parts[2] | append: "|" | append: res.raceName -%}
   {%- assign _champ_label = site.data.race_types[_champ_key] -%}
   <tr class="velo-race-table__row">

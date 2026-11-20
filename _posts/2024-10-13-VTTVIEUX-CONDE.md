@@ -3,6 +3,7 @@ layout: post
 title: VTT - VIEUX CONDE - 2025
 date: 2024-10-13
 category: VTT
+permalink: /resultats/vtt/2024-10-13-vieux-conde/
 tags: VTT
 image: assets/resultats/2024/vtt/10-13-vieux-conde/1.jpg
 images:
@@ -13,7 +14,7 @@ images:
 
 ### VTT Vétérans B
 16 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 2
+- [MATTIOLI RONALD](/coureurs/mattiolironald) : 2
 
 ### Scratch
 57 participants
@@ -34,7 +35,7 @@ images:
 | 12 | BRIAND SEBASTIEN | TEAM SHARK VTT | 6 | Vétérans A | 1:0:9 | 
 | 13 | PARENT MAXIME | TEAM SHARK VTT | 6 | Seniors A | 1:0:10 | 
 | 14 | ROMAIN RICHARD | #N/A | 6 | Seniors B | 1:0:29 | 
-| **15** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **6** | **Vétérans B** | **1:1:10** | 
+| **15** | **[MATTIOLI RONALD](/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **6** | **Vétérans B** | **1:1:10** | 
 | 16 | DELETTRE ANTHONY | VERMELLES MTB RACING TEAM | 6 | Seniors B | 1:1:12 | 
 | 17 | CORMAN SEBASTIEN | CAMPHIN EN CAREMBAULT CYCLING TEAM | 6 | Vétérans A | 1:1:32 | 
 | 18 | FREMEAUX ALEXIS | VERMELLES MTB RACING TEAM | 6 | Seniors A | 1:1:40 | 

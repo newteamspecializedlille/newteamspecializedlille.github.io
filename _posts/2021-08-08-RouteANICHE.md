@@ -3,14 +3,15 @@ layout: post
 title: Route - ANICHE - 2021
 date: 2021-08-08
 category: Route
+permalink: /resultats/route/2021-08-08-aniche/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 21 participants
-- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 10
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : AB
+- [LECOLIER STEPHANE](/coureurs/lecolierstephane) : 10
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : AB
 
 ### Scratch
 135 participants

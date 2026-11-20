@@ -3,6 +3,7 @@ layout: post
 title: VTT - BAILLEUL - 2024
 date: 2023-11-18
 category: VTT
+permalink: /resultats/vtt/2023-11-18-bailleul/
 tags: VTT
 image: assets/resultats/2023/vtt/11-18-bailleul/1.jpeg
 images:
@@ -12,7 +13,7 @@ images:
 
 ### VTT Vétérans A
 10 participants
-- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 8
+- [WALTER BENOIT](/coureurs/walterbenoit) : 8
 
 ### Scratch
 30 participants
@@ -39,7 +40,7 @@ images:
 | 18 | BULTE OLIVIER | TORCY TEAM PINK AND BLUE | 5 | Seniors B | 1:9:48 | 
 | 19 | PORQUET LUDOVIC | SAULZOIR MONTRECOURT CYCLING CLUB | 4 | Vétérans A | 0:57:40 | 
 | 20 | BERQUEZ MAXIME | CYCLO CLUB ORCHIES | 4 | Seniors B | 1:0:28 | 
-| **21** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **4** | **Vétérans A** | **1:3:57** | 
+| **21** | **[WALTER BENOIT](/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **4** | **Vétérans A** | **1:3:57** | 
 | 22 | HOUDOT ABEL | TORCY TEAM PINK AND BLUE | 4 | Seniors A | 1:4:34 | 
 | 23 | VERBEKE HUGO | BEUVRY CLUB LEO LAGRANGE | 0 | Seniors A | 0:38:53 | 
 | 24 | DESQUIRET ALAIN | BEUVRY CLUB LEO LAGRANGE | 0 | Seniors B | 0:38:53 | 

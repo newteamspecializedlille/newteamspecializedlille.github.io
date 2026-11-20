@@ -3,13 +3,14 @@ layout: post
 title: Route - LINSELLES - 2026
 date: 2026-09-06
 category: Route
+permalink: /resultats/route/2026-09-06-linselles/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 3ème Catégorie
 45 participants
-- [LECOURT CHARLIE](https://teamspecializedlille.cc/coureurs/lecourtcharlie) : 2
+- [LECOURT CHARLIE](/coureurs/lecourtcharlie) : 2
 
 ### Scratch
 102 participants
@@ -52,7 +53,7 @@ image: assets/img/blog/road.png
 | 34 | MUI PHILIPPE HOO TONG | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 16 | 2ème | 1:42:14 | 
 | 35 | GRARE SAMUEL | ROUE D'OR COMINOISE | 16 | 2ème | 1:43:36 | 
 | 36 | CAULIER PAUL | CYCLO CLUB ORCHIES | 15 | 3ème | 1:22:38 | 
-| **37** | **[LECOURT CHARLIE](https://teamspecializedlille.cc/coureurs/lecourtcharlie)** | **TEAM SPECIALIZED LILLE** | **15** | **3ème** | **1:22:38** | 
+| **37** | **[LECOURT CHARLIE](/coureurs/lecourtcharlie)** | **TEAM SPECIALIZED LILLE** | **15** | **3ème** | **1:22:38** | 
 | 38 | CICHOWSKI DAVID | VELO SPRINT DE L'OSTREVENT - ANICHE | 15 | 3ème | 1:22:41 | 
 | 39 | WALTER BENOIT | VELO CLUB UNION HALLUIN | 15 | 3ème | 1:22:42 | 
 | 40 | WILLEMS MICHEL | UNION VELOCIPEDIQUE FOURMISIENNE | 15 | 3ème | 1:22:42 | 

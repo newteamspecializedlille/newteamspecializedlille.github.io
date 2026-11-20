@@ -3,14 +3,15 @@ layout: post
 title: Route - ROCQ RECQUIGNIES - 2023
 date: 2023-08-12
 category: Route
+permalink: /resultats/route/2023-08-12-rocq-recquignies/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 26 participants
-- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 2
-- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 4
+- [LECOLIER STEPHANE](/coureurs/lecolierstephane) : 2
+- [MATTIOLI RONALD](/coureurs/mattiolironald) : 4
 
 ### Scratch
 103 participants
@@ -18,9 +19,9 @@ image: assets/img/blog/road.png
 | Place | Nom | Team | Tours | Catégorie | Temps |
 |---|---|---|---|---|---|
 | 1 | WINS STEPHANE | TEAM BOUSIES | 14 | 1ère | 1:42:45 | 
-| **2** | **[LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **14** | **1ère** | **1:42:45** | 
+| **2** | **[LECOLIER STEPHANE](/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **14** | **1ère** | **1:42:45** | 
 | 3 | SEMOULIN JOAKIM | TEAM B.B.L. HERGNIES | 14 | 1ère | 1:44:25 | 
-| **4** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **14** | **1ère** | **1:44:28** | 
+| **4** | **[MATTIOLI RONALD](/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **14** | **1ère** | **1:44:28** | 
 | 5 | COUTELARD MATHYS | VELO CLUB SOLESMES | 14 | 1ère | 1:44:30 | 
 | 6 | DREMEAUX JOHAN | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 14 | 1ère | 1:44:32 | 
 | 7 | GOUTEAU FREDERIC | U.C. CAPELLOISE FOURMIES | 14 | 1ère | 1:44:32 | 

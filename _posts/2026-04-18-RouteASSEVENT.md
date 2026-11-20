@@ -3,13 +3,14 @@ layout: post
 title: Route - ASSEVENT - 2026
 date: 2026-04-18
 category: Route
+permalink: /resultats/route/2026-04-18-assevent/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
 36 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 11
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 11
 
 ### Scratch
 148 participants
@@ -48,7 +49,7 @@ image: assets/img/blog/road.png
 | 30 | MARY KEVIN | VELO CLUB SOLESMES | 22 | 2ème | 1:33:58 | 
 | 31 | CHUTSCH ALBAN | GAZ ELEC CLUB DE DOUAI | 22 | 2ème | 1:33:58 | 
 | 32 | HIERNAUX TANGUY | ASSOCIATION CYCLISTE D'ETROEUNGT | 22 | 2ème | 1:33:58 | 
-| **33** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **22** | **2ème** | **1:33:59** | 
+| **33** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **22** | **2ème** | **1:33:59** | 
 | 34 | BRABANT JULIEN | HAVELUY CYCLO CLUB | 22 | 2ème | 1:33:59 | 
 | 35 | MILLET FABRICE | VTT  CLUB PONT SUR SAMBRE | 22 | 2ème | 1:33:59 | 
 | 36 | LECERF JEROME | ASSOCIATION SPORTIVE VELOCIPEDIQUE LA LONGUEVILLE | 22 | 2ème | 1:33:59 | 

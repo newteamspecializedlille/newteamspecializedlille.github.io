@@ -3,6 +3,7 @@ layout: post
 title: Route - PROVIN - 2026
 date: 2026-04-06
 category: Route
+permalink: /resultats/route/2026-04-06-provin/
 tags: Route
 image: assets/img/blog/road.png
 images:
@@ -11,18 +12,18 @@ images:
 
 ### 1ère Catégorie
 18 participants
-- [FONTAINE NICOLAS](https://teamspecializedlille.cc/coureurs/fontainenicolas) : 2
-- [MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio) : 5
-- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 8
+- [FONTAINE NICOLAS](/coureurs/fontainenicolas) : 2
+- [MINNECI ELIO](/coureurs/minnecielio) : 5
+- [DERASSE DAVID](/coureurs/derassedavid) : 8
 
 ### 2ème Catégorie
 39 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 14
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 14
 
 ### 3ème Catégorie
 63 participants
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 21
-- [LECOURT CHARLIE](https://teamspecializedlille.cc/coureurs/lecourtcharlie) : Ab
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 21
+- [LECOURT CHARLIE](/coureurs/lecourtcharlie) : Ab
 
 ### Scratch
 164 participants
@@ -31,7 +32,7 @@ images:
 |---|---|---|---|---|---|
 | 1 | SOUFFLET EMILIEN | TEAM WATTS PATROUILLE | 31 | 2ème | 1:45:55 | 
 | 2 | LALEU TIMOTHEE | UNION SPORTIVE SAINT ANDRE | 31 | 1ère | 1:46:27 | 
-| **3** | **[FONTAINE NICOLAS](https://teamspecializedlille.cc/coureurs/fontainenicolas)** | **TEAM SPECIALIZED LILLE** | **31** | **1ère** | **1:46:27** | 
+| **3** | **[FONTAINE NICOLAS](/coureurs/fontainenicolas)** | **TEAM SPECIALIZED LILLE** | **31** | **1ère** | **1:46:27** | 
 | 4 | DUPUIS JULIEN | TEAM FULL WATTS CAMBRESIS - PROVILLE | 31 | 2ème | 1:47:53 | 
 | 5 | FAYT OLIVAN | UNION SPORTIVE SAINT ANDRE | 31 | 2ème | 1:47:56 | 
 | 6 | DEVOS CYRIL | LINSELLES CYCLISME | 31 | 2ème | 1:47:57 | 
@@ -40,12 +41,12 @@ images:
 | 9 | BOURIGUE ALI | ESEG DOUAI | 31 | 2ème | 1:48:0 | 
 | 10 | DI CARLO GIUSEPPE | NEW ORANGE TEAM BOUSBECQUE | 31 | 1ère | 1:48:39 | 
 | 11 | BUGNICOURT CYRIL | UNION VELOCIPEDIQUE FOURMISIENNE | 31 | 1ère | 1:48:39 | 
-| **12** | **[MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **31** | **1ère** | **1:48:45** | 
+| **12** | **[MINNECI ELIO](/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **31** | **1ère** | **1:48:45** | 
 | 13 | DERENZIS RYAN | Entente cycliste Wallers Arenberg Bellaing | 30 | 2ème | 1:46:23 | 
 | 14 | SCHERNU CHRISTOPHE | TEAM CYCLISTE PROVINOIS - PROVIN | 30 | 2ème | 1:46:23 | 
 | 15 | DELOBELLE OLIVIER | UNION SPORTIVE SAINT ANDRE | 30 | 1ère | 1:46:29 | 
 | 16 | BERTHIER THIBAUT | NEW ORANGE TEAM BOUSBECQUE | 30 | 1ère | 1:46:29 | 
-| **17** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **30** | **1ère** | **1:46:30** | 
+| **17** | **[DERASSE DAVID](/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **30** | **1ère** | **1:46:30** | 
 | 18 | COLLET LEO | HENIN ETOILE CYCLISTE HENINOISE | 30 | 1ère | 1:46:30 | 
 | 19 | LACROIX FREDERIC | VELO CLUB ROUBAIX | 30 | 1ère | 1:46:31 | 
 | 20 | VASSEUR HUGO | UNION SPORTIVE SAINT ANDRE | 30 | 1ère | 1:46:32 | 
@@ -56,7 +57,7 @@ images:
 | 25 | TONDELIER LUDOVIC | CYCLO CLUB WAVRIN | 30 | 2ème | 1:46:44 | 
 | 26 | POIRE RYAN | HENIN ETOILE CYCLISTE HENINOISE | 30 | 1ère | 1:46:46 | 
 | 27 | DELPIRE FREDERIC | VTT  CLUB PONT SUR SAMBRE | 30 | 2ème | 1:46:49 | 
-| **28** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **30** | **2ème** | **1:46:49** | 
+| **28** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **30** | **2ème** | **1:46:49** | 
 | 29 | TOURNEUX MICKAEL | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 30 | 2ème | 1:46:49 | 
 | 30 | KNOCKAERT JULIEN | TEAM CYCLISTE PROVINOIS - PROVIN | 30 | 2ème | 1:46:51 | 
 | 31 | LETUFFE SAMUEL | CYCLO CLUB WAVRIN | 30 | 2ème | 1:46:52 | 
@@ -98,7 +99,7 @@ images:
 | 67 | QUESTE DAVID | TEAM B.B.L. HERGNIES | 26 | 3ème | 1:30:19 | 
 | 68 | DAVAINE HUGUES | LA PEDALE MADELEINOISE | 26 | 3ème | 1:30:21 | 
 | 69 | CHAUVEL BENJAMIN | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 26 | 3ème | 1:30:23 | 
-| **70** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **26** | **3ème** | **1:30:24** | 
+| **70** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **26** | **3ème** | **1:30:24** | 
 | 71 | ROUTIER ALEXIS | ARTeam Artois Racing Team | 26 | 3ème | 1:31:8 | 
 | 72 | ZANOLINO FABRICE | BRUAY LA BUISSIERE U.S.O. CYCLISME | 26 | 2ème | 1:49:24 | 
 | 73 | CAULIER PAUL | CYCLO CLUB ORCHIES | 25 | 3ème | 1:28:29 | 
@@ -164,7 +165,7 @@ images:
 | 133 | TONDELIER DIDIER | CYCLO CLUB WAVRIN | 18 | 4ème | 1:20:28 | 
 | 134 | MORTREUX LISE | CLUB CYCLISTE D'ISBERGUES MOLINGHEM | 18 | Féminines | 1:20:29 | 
 | 135 | MARION KARIM | UNION SPORTIVE VALENCIENNES CRESPIN | 18 | 4ème | 1:20:30 | 
-| **136** | **[DERASSE PATRICK](https://teamspecializedlille.cc/coureurs/derassepatrick)** | **TEAM SPECIALIZED LILLE** | **18** | **4ème** | **1:20:30** | 
+| **136** | **[DERASSE PATRICK](/coureurs/derassepatrick)** | **TEAM SPECIALIZED LILLE** | **18** | **4ème** | **1:20:30** | 
 | 137 | GOUNINE ANNABELLE | TEAM DECOPUB PROVILLE | 18 | Féminines | 1:20:54 | 
 | 138 | WECLAWIAK TRISTAN | HENIN ETOILE CYCLISTE HENINOISE | 18 | 4ème | 1:21:55 | 
 | 139 | LEFEBVRE STEPHANIE | HENIN ETOILE CYCLISTE HENINOISE | 18 | Féminines | 1:22:26 | 
@@ -180,7 +181,7 @@ images:
 | 149 | LALAUT JEROME | LOOS EN GOHELLE VELO CLUB LOOSSOIS | 13 | 4ème | 1:19:0 | 
 | 150 | HERBERT ALEXANDRE | LINSELLES CYCLISME | 0 | 2ème | 0:38:53 | 
 | 151 | DEBRABANT ANTHONY | TEAM CYCLING LA SENTINELL | 0 | 2ème | 0:38:53 | 
-| **152** | **[LECOURT CHARLIE](https://teamspecializedlille.cc/coureurs/lecourtcharlie)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
+| **152** | **[LECOURT CHARLIE](/coureurs/lecourtcharlie)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
 | 153 | MORTREUX JEROME | CLUB CYCLISTE D'ISBERGUES | 0 | 3ème | 0:38:53 | 
 | 154 | DAUMONT BRUNO | NEW ORANGE TEAM BOUSBECQU | 0 | 3ème | 0:38:53 | 
 | 155 | SERE MARC | CYCLO CLUB WAVRIN | 0 | 3ème | 0:38:53 | 

@@ -3,13 +3,14 @@ layout: post
 title: Route - OBIES - 2025
 date: 2025-09-20
 category: Route
+permalink: /resultats/route/2025-09-20-obies/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
 31 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 21
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 21
 
 ### Scratch
 94 participants
@@ -60,7 +61,7 @@ image: assets/img/blog/road.png
 | 42 | PANCZAK MAXIME | ROUE D'OR COMINOISE | 16 | 3ème | 1:36:20 | 
 | 43 | LOMBARD SULLIVAN | TEAM BIKE PRESEAU | 16 | 3ème | 1:37:30 | 
 | 44 | RIVART THIERRY | VTT  CLUB PONT SUR SAMBRE | 16 | 2ème | 1:37:56 | 
-| **45** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **16** | **2ème** | **1:43:10** | 
+| **45** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **16** | **2ème** | **1:43:10** | 
 | 46 | DEBOCQ JULIE | HAVELUY CYCLO CLUB | 16 | 2ème | 1:43:10 | 
 | 47 | RENAUT VINCENT | SAULZOIR MONTRECOURT CYCLING CLUB | 15 | 3ème | 1:38:25 | 
 | 48 | DRUART JEROME | TEAM CYCLISTE LA BORDURE - BETTRECHIES | 15 | 2ème | 1:42:26 | 
@@ -77,7 +78,7 @@ image: assets/img/blog/road.png
 | 59 | PRISETTE JEAN-MICHEL | UNION VELOCIPEDIQUE FOURMISIENNE | 14 | 4ème | 1:38:32 | 
 | 60 | CUVELIER LAURENT | ETOILE CYCLISTE FEIGNIES | 14 | 4ème | 1:38:40 | 
 | 61 | SOUFFLET BENJAMIN | VELO CLUB BAVAISIEN | 14 | 3ème | 1:38:46 | 
-| **62** | **[DERASSE PATRICK](https://teamspecializedlille.cc/coureurs/derassepatrick)** | **TEAM SPECIALIZED LILLE** | **13** | **4ème** | **1:36:21** | 
+| **62** | **[DERASSE PATRICK](/coureurs/derassepatrick)** | **TEAM SPECIALIZED LILLE** | **13** | **4ème** | **1:36:21** | 
 | 63 | EROUART CHARLES | HARNES VELO CLUB HARNESIEN | 11 | 4ème | 1:36:22 | 
 | 64 | LEMPEREUR JACOB | ASSOCIATION CYCLISTE D'ETROEUNGT | 9 | 3ème | 1:3:19 | 
 | 65 | VANDERHAEGEN ADELE | ASSOCIATION CYCLISTE D'ETROEUNGT | 9 | Féminines | 1:3:46 | 

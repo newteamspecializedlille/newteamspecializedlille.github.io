@@ -5,7 +5,7 @@ dans assets/results/<year>/<route>/ et met à jour le front matter du post Jekyl
 Usage (appelé par le workflow GitHub Actions) :
   Variables d'environnement attendues :
     PHOTOGRAPHER_NAME  — nom du photographe
-    POST_URL           — URL du post (ex: https://…/route/2026/05/01/RoutePONT-SUR-SAMBRE/)
+    POST_URL           — URL du post (ex: https://…/resultats/route/2026-05-01-pont-sur-sambre/)
     IMAGES_URLS        — JSON array des URLs CDN (ex: '["https://…/a.jpg","https://…/b.jpg"]')
 """
 
@@ -36,39 +36,34 @@ CATEGORY_SLUG_MAP = {
     'rando':       'Rando',
 }
 
-# Préfixes de type dans le slug Jekyll (ex: RoutePONT-SUR-SAMBRE → Route)
-SLUG_TYPE_PREFIXES = ['CycloCross', 'Route', 'Rando', 'VTT']
-
-
 def extract_url_parts(post_url: str) -> dict:
-    """Extrait year, month, day, race_type, route_slug et route_name depuis l'URL."""
-    match = re.search(r'/([a-z-]+)/(\d{4})/(\d{2})/(\d{2})/([^/]+)/?', post_url)
-    if match:
-        cat_slug, year, month, day, slug = match.groups()
-    else:
-        match = re.search(r'/([a-z-]+)/(\d+)/.*?/([^/]+)/?$', post_url)
-        if match:
-            cat_slug, year, slug = match.group(1), match.group(2), match.group(3)
-            month, day = '00', '00'
-        else:
-            return {'year': 'unknown', 'month': '00', 'day': '00',
-                    'race_type': 'Unknown', 'route_slug': 'unknown', 'route_name': 'unknown'}
-
-    race_type = CATEGORY_SLUG_MAP.get(cat_slug, cat_slug.capitalize())
-
-    # Retirer le préfixe de type du slug pour le nom du dossier (ex: RoutePONT → PONT)
-    clean_slug = slug
-    for prefix in SLUG_TYPE_PREFIXES:
-        if slug.startswith(prefix):
-            clean_slug = slug[len(prefix):]
-            break
-
+    """Extrait year, month, day, race_type et route_name d'une URL `/resultats/<discipline>/<AAAA-MM-JJ>-<course>/`."""
+    path = re.sub(r'^https?://[^/]+', '', post_url.strip())
+    match = re.search(r'/resultats/([a-z-]+)/(\d{4})-(\d{2})-(\d{2})-([^/]+)/?$', path)
+    if not match:
+        return {'year': 'unknown', 'month': '00', 'day': '00',
+                'race_type': 'Unknown', 'route_slug': 'unknown', 'route_name': 'unknown', 'permalink': path}
+    cat_slug, year, month, day, slug = match.groups()
     return {
         'year': year, 'month': month, 'day': day,
-        'race_type': race_type,
+        'race_type': CATEGORY_SLUG_MAP.get(cat_slug, cat_slug.capitalize()),
         'route_slug': slug,
-        'route_name': sanitize_path_segment(clean_slug) if clean_slug else sanitize_path_segment(slug),
+        'route_name': sanitize_path_segment(slug),
+        'permalink': path if path.endswith('/') else path + '/',
     }
+
+
+def find_post_path(permalink: str, posts_dir: str = '_posts'):
+    """Fichier du post dont le front matter déclare ce `permalink:` (None si aucun)."""
+    for name in sorted(os.listdir(posts_dir)):
+        if not name.endswith('.md'):
+            continue
+        path = os.path.join(posts_dir, name)
+        with open(path, encoding='utf-8') as f:
+            head = f.read(2000)
+        if re.search(r'^permalink:\s*' + re.escape(permalink) + r'\s*$', head, re.M):
+            return path
+    return None
 
 
 # ---------------------------------------------------------------------------
@@ -200,7 +195,8 @@ def main():
     route_slug = parts['route_slug']
     route_name = parts['route_name']
 
-    print(f"Post cible    : _posts/{year}-{month}-{day}-{route_slug}.md")
+    post_path = find_post_path(parts['permalink'])
+    print(f"Post cible    : {post_path}")
     print(f"Dossier assets: assets/resultats/{year}/{race_type}/{month}-{day}-{route_name}/")
 
     # Créer le dossier de destination
@@ -236,9 +232,8 @@ def main():
         return
 
     # Mettre à jour le front matter du post
-    post_path = os.path.join('_posts', f"{year}-{month}-{day}-{route_slug}.md")
-    if not os.path.exists(post_path):
-        print(f"Post introuvable : {post_path}")
+    if not post_path or not os.path.exists(post_path):
+        print(f"Post introuvable pour {parts['permalink']}")
         return
 
     with open(post_path, encoding='utf-8') as f:

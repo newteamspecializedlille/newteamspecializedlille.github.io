@@ -3,24 +3,25 @@ layout: post
 title: Route - ANICHE - 2026
 date: 2026-08-09
 category: Route
+permalink: /resultats/route/2026-08-09-aniche/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 32 participants
-- [CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas) : 1
+- [CROMBEZ THOMAS](/coureurs/crombezthomas) : 1
 
 ### 2ème Catégorie
 40 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 26
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 26
 
 ### Scratch
 166 participants
 
 | Place | Nom | Team | Tours | Catégorie | Temps |
 |---|---|---|---|---|---|
-| **1** | **[CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **21** | **1ère** | **1:51:47** | 
+| **1** | **[CROMBEZ THOMAS](/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **21** | **1ère** | **1:51:47** | 
 | 2 | MORELLE YOHANN | TEAM CYCLISTE - RAMILLIES | 21 | 1ère | 1:52:20 | 
 | 3 | UZON AURELIEN | ASSOCIATION SPORTIVE ET CULTUREL OUZOUER SUR LOIRE | 21 | 1ère | 1:52:20 | 
 | 4 | BOURIGUE ALI | ESEG DOUAI | 21 | 1ère | 1:52:20 | 
@@ -74,7 +75,7 @@ image: assets/img/blog/road.png
 | 52 | RICHARD MATTEO | VTT  CLUB PONT SUR SAMBRE | 19 | 1ère | 1:55:39 | 
 | 53 | DEVEYER CLEMENT | CERCLE OLYMPIQUE MARCOING | 18 | 2ème | 1:40:49 | 
 | 54 | CARPELS GUILLAUME | VELO CLUB UNION HALLUIN | 18 | 2ème | 1:40:50 | 
-| **55** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **18** | **2ème** | **1:40:52** | 
+| **55** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **18** | **2ème** | **1:40:52** | 
 | 56 | HERFEUIL ANTHONY | NOEUX VELO CLUB NOEUXOIS | 18 | 2ème | 1:41:48 | 
 | 57 | VANAUBERG GAETAN | VELO CLUB ROUBAIX | 18 | 2ème | 1:41:57 | 
 | 58 | FURNE JEAN CHRISTOPHE | VELO SPRINT DE L'OSTREVENT - ANICHE | 18 | 2ème | 1:42:6 | 

@@ -3,13 +3,14 @@ layout: post
 title: Route - MONDICOURT - 2023
 date: 2023-07-23
 category: Route
+permalink: /resultats/route/2023-07-23-mondicourt/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 3ème Catégorie
 25 participants
-- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 15
+- [DEFER OLIVIER](/coureurs/deferolivier) : 15
 
 ### Scratch
 64 participants
@@ -41,7 +42,7 @@ image: assets/img/blog/road.png
 | 23 | VAUDION REMI | UNION SPORTIVE VTT RUN AMIENS | 24 | 3ème | 1:13:37 | 
 | 24 | THOREL HERVE | CLUB CYCLISTE DE SALOUEL | 24 | 3ème | 1:13:37 | 
 | 25 | CHOQUET DAVID | UNION SPORTIVE SAINT ANDRE | 24 | 3ème | 1:13:38 | 
-| **26** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **24** | **3ème** | **1:13:38** | 
+| **26** | **[DEFER OLIVIER](/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **24** | **3ème** | **1:13:38** | 
 | 27 | FONTAINE BENJAMIN | AGNY ARTEAM | 24 | 3ème | 1:13:39 | 
 | 28 | VERVELLE TANGUY |  | 24 | 3ème | 1:13:39 | 
 | 29 | GOCHON VALENTIN | ETOILE CYCLISTE TOURCOING | 24 | 2ème | 1:23:17 | 

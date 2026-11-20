@@ -3,14 +3,15 @@ layout: post
 title: Route - PECQUENCOURT - 2021
 date: 2021-08-15
 category: Route
+permalink: /resultats/route/2021-08-15-pecquencourt/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 24 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : Ab
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : Ab
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : Ab
+- [DEFOSSE HERVE](/coureurs/defosseherve) : Ab
 
 ### Scratch
 145 participants

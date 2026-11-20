@@ -3,13 +3,14 @@ layout: post
 title: Route - BOUSIES1 - 2020
 date: 2020-07-19
 category: Route
+permalink: /resultats/route/2020-07-19-bousies1/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 47 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 29
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 29
 
 ### Scratch
 201 participants

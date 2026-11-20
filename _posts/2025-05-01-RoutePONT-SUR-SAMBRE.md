@@ -3,26 +3,27 @@ layout: post
 title: Route - PONT SUR SAMBRE - 2025
 date: 2025-05-01
 category: Route
+permalink: /resultats/route/2025-05-01-pont-sur-sambre/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 56 participants
-- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 8
-- [CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas) : 11
-- [LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis) : 19
-- [MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio) : 42
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 47
+- [LECOLIER STEPHANE](/coureurs/lecolierstephane) : 8
+- [CROMBEZ THOMAS](/coureurs/crombezthomas) : 11
+- [LECOLIER LOUIS](/coureurs/lecolierlouis) : 19
+- [MINNECI ELIO](/coureurs/minnecielio) : 42
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 47
 
 ### 2ème Catégorie
 77 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 55
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 55
 
 ### 3ème Catégorie
 79 participants
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 21
-- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : Ab
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 21
+- [WALTER BENOIT](/coureurs/walterbenoit) : Ab
 
 ### Scratch
 274 participants
@@ -36,10 +37,10 @@ image: assets/img/blog/road.png
 | 5 | VANWISSEN ANAICK | UNION VELOCIPEDIQUE FOURMISIENNE | 21 | 1ère | 2:8:14 | 
 | 6 | JABLONSKI SEBASTIEN | NEW TEAM MAULDE | 21 | 1ère | 2:8:14 | 
 | 7 | VANDERHAEGEN MAEL | ASSOCIATION CYCLISTE D'ETROEUNGT | 21 | 1ère | 2:8:15 | 
-| **8** | **[LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **21** | **1ère** | **2:8:15** | 
+| **8** | **[LECOLIER STEPHANE](/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **21** | **1ère** | **2:8:15** | 
 | 9 | SEMOULIN JOAKIM | TEAM B.B.L. HERGNIES | 21 | 1ère | 2:8:15 | 
 | 10 | MATTIOLI RONALD | NOUVELLE ETOILE SPORTIVE BOUE ETREUX | 21 | 1ère | 2:8:16 | 
-| **11** | **[CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **21** | **1ère** | **2:8:18** | 
+| **11** | **[CROMBEZ THOMAS](/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **21** | **1ère** | **2:8:18** | 
 | 12 | VEAUX CORENTIN | TEAM LINK AND RIDE HERIN | 21 | 1ère | 2:8:21 | 
 | 13 | MARTHE ROMUALD | ETOILE CYCLISTE LIEU ST AMAND | 21 | 1ère | 2:8:21 | 
 | 14 | MICHEL ANTHONY | ETOILE CYCLISTE FEIGNIES | 21 | 1ère | 2:8:22 | 
@@ -47,7 +48,7 @@ image: assets/img/blog/road.png
 | 16 | SAINT QUENTIN HUGO | GAZ ELEC CLUB DE DOUAI | 21 | 1ère | 2:8:24 | 
 | 17 | DOYEN MATHIS | CYCLO CLUB ORCHIES | 21 | 1ère | 2:8:26 | 
 | 18 | DERUEL ANTOINE | ASSOCIATION SPORTIVE VELOCIPEDIQUE LA LONGUEVILLE | 21 | 1ère | 2:8:31 | 
-| **19** | **[LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **21** | **1ère** | **2:8:33** | 
+| **19** | **[LECOLIER LOUIS](/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **21** | **1ère** | **2:8:33** | 
 | 20 | LEFEVRE EDDY | UNION VELOCIPEDIQUE FOURMISIENNE | 21 | 1ère | 2:8:33 | 
 | 21 | LALEU TIMOTHEE | UNION SPORTIVE SAINT ANDRE | 21 | 1ère | 2:8:33 | 
 | 22 | DREMEAUX JOHAN | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 21 | 1ère | 2:8:33 | 
@@ -70,7 +71,7 @@ image: assets/img/blog/road.png
 | 39 | LESAGE ANTHONY | ASSOCIATION CYCLISTE BELLAINGEOISE | 21 | 1ère | 2:11:33 | 
 | 40 | ANTON LUDOVIC | NEW TEAM MAULDE | 21 | 1ère | 2:11:36 | 
 | 41 | BERNIER DIMITRI | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 21 | 1ère | 2:11:36 | 
-| **42** | **[MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **21** | **1ère** | **2:11:42** | 
+| **42** | **[MINNECI ELIO](/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **21** | **1ère** | **2:11:42** | 
 | 43 | COINTE NOLAN | BARLIN CERCLE LAIQUE | 21 | 1ère | 2:11:43 | 
 | 44 | LEFEVRE TOM | ASSOCIATION SPORTIVE VELOCIPEDIQUE LA LONGUEVILLE | 20 | 1ère | 2:8:35 | 
 | 45 | DEWALLENS STEPHANE | UNION CYCLISTE SOLRE LE CHATEAU | 20 | 1ère | 2:11:43 | 
@@ -119,7 +120,7 @@ image: assets/img/blog/road.png
 | 88 | BONAMY FRANCOIS | UNION CYCLISTE SOLRE LE CHATEAU | 19 | 2ème | 1:59:47 | 
 | 89 | MOURAIN CEDRIC | UNION VELOCIPEDIQUE FOURMISIENNE | 19 | 2ème | 2:0:0 | 
 | 90 | BALIN NATHAN | 52X11 HIRSON THIERACHE | 19 | 1ère | 2:7:49 | 
-| **91** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **19** | **1ère** | **2:11:42** | 
+| **91** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **19** | **1ère** | **2:11:42** | 
 | 92 | DEPREZ BENJAMIN | VELO CLUB UNION HALLUIN | 18 | 2ème | 1:57:1 | 
 | 93 | VANWYNSBERGHE SAMUEL | NEW ORANGE TEAM BOUSBECQUE | 18 | 2ème | 1:57:35 | 
 | 94 | REGOST ELIE | NOEUX VELO CLUB NOEUXOIS | 18 | 2ème | 1:58:0 | 
@@ -151,7 +152,7 @@ image: assets/img/blog/road.png
 | 120 | PETIT MATEO | UNION CYCLISTE WATTIGNIES | 17 | 3ème | 1:53:19 | 
 | 121 | AMIOT YOANN | SAULZOIR MONTRECOURT CYCLING CLUB | 17 | 3ème | 1:53:19 | 
 | 122 | CORNELIS DAVE | UNION VELOCIPEDIQUE FOURMISIENNE | 17 | 3ème | 1:53:19 | 
-| **123** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **17** | **3ème** | **1:53:19** | 
+| **123** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **17** | **3ème** | **1:53:19** | 
 | 124 | DELOT GREGORY | TEAM BIKE PRESEAU | 17 | 3ème | 1:53:20 | 
 | 125 | FREROT FRANCK | U.C. CAPELLOISE FOURMIES | 17 | 3ème | 1:53:20 | 
 | 126 | RENAUT VINCENT | SAULZOIR MONTRECOURT CYCLING CLUB | 17 | 3ème | 1:53:21 | 
@@ -173,7 +174,7 @@ image: assets/img/blog/road.png
 | 142 | COMBLIN DAVID | ASSOCIATION CYCLISTE BELLAINGEOISE | 17 | 3ème | 1:53:32 | 
 | 143 | KWIATKOWSKI SYLVAIN | ASSOCIATION SPORTIVE VELOCIPEDIQUE LA LONGUEVILLE | 17 | 3ème | 1:53:36 | 
 | 144 | BIANCUCCI MARIO | VELO CLUB UNION HALLUIN | 17 | 3ème | 1:54:8 | 
-| **145** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **17** | **2ème** | **1:55:48** | 
+| **145** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **17** | **2ème** | **1:55:48** | 
 | 146 | URBAIN RUDY | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 17 | 3ème | 1:55:57 | 
 | 147 | CAUDERLIER SEBASTIEN | ETOILE CYCLISTE LIEU ST AMAND | 17 | 2ème | 1:56:39 | 
 | 148 | GUELTON GAETAN | VELO CLUB DE L'ESCAUT ANZIN | 17 | 2ème | 1:59:9 | 
@@ -289,7 +290,7 @@ image: assets/img/blog/road.png
 | 258 | PENSERINI FABIEN | ETOILE CYCLISTE LIEU ST A | 0 | 3ème | 0:38:53 | 
 | 259 | BURIDON DAVID | CYCLO CLUB ORCHIES | 0 | 3ème | 0:38:53 | 
 | 260 | FLAMENT ETHAN | TEAM BOUSIES | 0 | 3ème | 0:38:53 | 
-| **261** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
+| **261** | **[WALTER BENOIT](/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
 | 262 | HOUREZ CEDRIC | NEW TEAM MAULDE | 0 | 3ème | 0:38:53 | 
 | 263 | VILLAIN JEAN JACQUES | ETOILE CYCLISTE FEIGNIES | 0 | 4ème | 0:38:53 | 
 | 264 | VIVIER DANIEL | UNION SPORTIVE SAINT ANDR | 0 | 4ème | 0:38:53 | 

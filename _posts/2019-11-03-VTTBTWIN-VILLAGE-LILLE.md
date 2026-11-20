@@ -3,13 +3,14 @@ layout: post
 title: VTT - BTWIN VILLAGE LILLE - 2020
 date: 2019-11-03
 category: VTT
+permalink: /resultats/vtt/2019-11-03-btwin-village-lille/
 tags: VTT
 image: assets/img/blog/vtt.png
 ---
 
 ### VTT Vétérans B
 16 participants
-- [BOONE ERIC](https://teamspecializedlille.cc/coureurs/booneeric) : AB
+- [BOONE ERIC](/coureurs/booneeric) : AB
 
 ### Scratch
 0 participants

@@ -3,13 +3,14 @@ layout: post
 title: VTT - PROVIN - 2023
 date: 2023-01-21
 category: VTT
+permalink: /resultats/vtt/2023-01-21-provin/
 tags: VTT
 image: assets/img/blog/vtt.png
 ---
 
 ### VTT Sénior B
 10 participants
-- [DUFOUR JONATHAN](https://teamspecializedlille.cc/coureurs/dufourjonathan) : 2
+- [DUFOUR JONATHAN](/coureurs/dufourjonathan) : 2
 
 ### Scratch
 34 participants
@@ -22,7 +23,7 @@ image: assets/img/blog/vtt.png
 | 4 | KROL MICHAEL | FLEURBAIX TEAM SHARK VTT | 11 | Vétérans A | 0:56:18 | 
 | 5 | CARPENTIER JEROME | MERICOURT ULTRA VTT | 11 | Vétérans A | 0:56:40 | 
 | 6 | ALEXANDRE JIMMY | VELO CLUB SOLESMES | 11 | Vétérans A | 0:57:35 | 
-| **7** | **[DUFOUR JONATHAN](https://teamspecializedlille.cc/coureurs/dufourjonathan)** | **TEAM SPECIALIZED LILLE** | **11** | **Seniors B** | **0:57:58** | 
+| **7** | **[DUFOUR JONATHAN](/coureurs/dufourjonathan)** | **TEAM SPECIALIZED LILLE** | **11** | **Seniors B** | **0:57:58** | 
 | 8 | DUHAMEL ARNAUD | AGNY ARTEAM | 11 | Vétérans B | 0:58:13 | 
 | 9 | WIERRE MATHIEU | ST POL SUR TERNOISE VELO CLUB ST POLOIS | 11 | Seniors B | 0:58:18 | 
 | 10 | LEBLON ROBIN | CYCLO CLUB WAVRIN | 11 | Seniors A | 0:58:20 | 

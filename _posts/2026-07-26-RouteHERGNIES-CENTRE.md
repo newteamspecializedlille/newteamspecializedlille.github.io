@@ -3,20 +3,21 @@ layout: post
 title: Route - HERGNIES CENTRE - 2026
 date: 2026-07-26
 category: Route
+permalink: /resultats/route/2026-07-26-hergnies-centre/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 39 participants
-- [CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas) : 6
-- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 17
-- [MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio) : 18
-- [LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis) : 30
+- [CROMBEZ THOMAS](/coureurs/crombezthomas) : 6
+- [LECOLIER STEPHANE](/coureurs/lecolierstephane) : 17
+- [MINNECI ELIO](/coureurs/minnecielio) : 18
+- [LECOLIER LOUIS](/coureurs/lecolierlouis) : 30
 
 ### 2ème Catégorie
 48 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 14
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 14
 
 ### Scratch
 194 participants
@@ -28,7 +29,7 @@ image: assets/img/blog/road.png
 | 3 | UZON AURELIEN | Association Sportive et Culturel OUZOUER SUR LOIRE | 12 | 1ère | 2:5:34 | 
 | 4 | JOLIS CLEMENT | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 12 | 1ère | 2:5:34 | 
 | 5 | MORELLE YOHANN | TEAM CYCLISTE - RAMILLIES | 12 | 1ère | 2:5:35 | 
-| **6** | **[CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **12** | **1ère** | **2:5:36** | 
+| **6** | **[CROMBEZ THOMAS](/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **12** | **1ère** | **2:5:36** | 
 | 7 | DREMEAUX JOHAN | TEAM B.B.L. HERGNIES | 12 | 1ère | 2:5:36 | 
 | 8 | GALLIEZ VINCENT | TEAM FULL WATTS CAMBRESIS - PROVILLE | 12 | 1ère | 2:5:37 | 
 | 9 | AINI ISSAM | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 12 | 1ère | 2:5:37 | 
@@ -39,8 +40,8 @@ image: assets/img/blog/road.png
 | 14 | HURIAU BENOIT | Entente cycliste Wallers Arenberg Bellaing | 12 | 1ère | 2:8:14 | 
 | 15 | JABLONSKI SEBASTIEN | NEW TEAM MAULDE | 12 | 1ère | 2:8:18 | 
 | 16 | SAINT QUENTIN HUGO | GAZ ELEC CLUB DE DOUAI | 12 | 1ère | 2:8:26 | 
-| **17** | **[LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **12** | **1ère** | **2:8:42** | 
-| **18** | **[MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **12** | **1ère** | **2:8:43** | 
+| **17** | **[LECOLIER STEPHANE](/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **12** | **1ère** | **2:8:42** | 
+| **18** | **[MINNECI ELIO](/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **12** | **1ère** | **2:8:43** | 
 | 19 | BRASSART THEOPHILE | TEAM B.B.L. HERGNIES | 12 | 1ère | 2:8:43 | 
 | 20 | GUERVILLE YANN | CYCLO CLUB WAVRIN | 12 | 1ère | 2:8:45 | 
 | 21 | GREVIN JEROME | ETOILE CYCLISTE FEIGNIES | 12 | 1ère | 2:8:52 | 
@@ -52,7 +53,7 @@ image: assets/img/blog/road.png
 | 27 | FREHAUT NICOLAS | ASSOCIATION CYCLISTE D'ETROEUNGT | 12 | 1ère | 2:11:4 | 
 | 28 | DELANGUE THOMAS | NEW ORANGE TEAM BOUSBECQUE | 12 | 1ère | 2:11:4 | 
 | 29 | MARECHAL GUILLAUME | VELO CLUB SOLESMES | 12 | 1ère | 2:11:4 | 
-| **30** | **[LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **11** | **1ère** | **2:3:21** | 
+| **30** | **[LECOLIER LOUIS](/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **11** | **1ère** | **2:3:21** | 
 | 31 | LARTIGAU GABRIEL | CYCLO CLUB CAMBRESIEN | 11 | 1ère | 2:15:30 | 
 | 32 | BUREL THOMAS | ASSOCIATION SPORTIVE VELOCIPEDIQUE LA LONGUEVILLE | 10 | 2ème | 1:48:36 | 
 | 33 | KRYLOV STANISLAV | CYCLO CLUB ARMENTIEROIS | 10 | 2ème | 1:48:36 | 
@@ -67,7 +68,7 @@ image: assets/img/blog/road.png
 | 42 | CHALAS JEAN PIERRE | NOEUX VELO CLUB NOEUXOIS | 10 | 2ème | 1:49:31 | 
 | 43 | LENGLET GUILLAUME | NOUVELLE ETOILE SPORTIVE BOUE ETREUX | 10 | 2ème | 1:49:31 | 
 | 44 | LUCZAK SIMON | ESEG DOUAI | 10 | 2ème | 1:49:31 | 
-| **45** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **10** | **2ème** | **1:49:31** | 
+| **45** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **10** | **2ème** | **1:49:31** | 
 | 46 | PRIAT AURELIEN | ESEG DOUAI | 10 | 2ème | 1:49:31 | 
 | 47 | VAAST JEAN SEBASTIEN | TEAM CYCLING LA SENTINELLE | 10 | 2ème | 1:49:31 | 
 | 48 | DIAS MARTIN BAPTISTE | CAMPHIN EN CAREMBAULT CYCLING TEAM | 10 | 2ème | 1:49:32 | 

@@ -3,6 +3,7 @@ layout: post
 title: Route - WAMBRECHIES - 2026
 date: 2026-05-03
 category: Route
+permalink: /resultats/route/2026-05-03-wambrechies/
 tags: Route
 image: assets/img/blog/road.png
 images:
@@ -20,7 +21,7 @@ images:
 
 ### 3ème Catégorie
 54 participants
-- [LECOURT CHARLIE](https://teamspecializedlille.cc/coureurs/lecourtcharlie) : 28
+- [LECOURT CHARLIE](/coureurs/lecourtcharlie) : 28
 
 ### Scratch
 152 participants
@@ -94,7 +95,7 @@ images:
 | 65 | DEQUEKER LUCAS | BEUVRY CYCLO CLUB | 15 | 3ème | 1:24:32 | 
 | 66 | GEORGES ALEXANDRE | BEUVRY CYCLO CLUB | 15 | 3ème | 1:24:33 | 
 | 67 | FLAMENT ETHAN | TEAM BOUSIES | 15 | 3ème | 1:24:33 | 
-| **68** | **[LECOURT CHARLIE](https://teamspecializedlille.cc/coureurs/lecourtcharlie)** | **TEAM SPECIALIZED LILLE** | **15** | **3ème** | **1:24:33** | 
+| **68** | **[LECOURT CHARLIE](/coureurs/lecourtcharlie)** | **TEAM SPECIALIZED LILLE** | **15** | **3ème** | **1:24:33** | 
 | 69 | NUEE VALENTIN | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 15 | 3ème | 1:24:33 | 
 | 70 | DETAVERNIER FLORIAN | ROUE D'OR COMINOISE | 15 | 3ème | 1:24:33 | 
 | 71 | ODENT STEPHANE | UNION SPORTIVE VALENCIENNES CRESPIN | 15 | 3ème | 1:24:33 | 

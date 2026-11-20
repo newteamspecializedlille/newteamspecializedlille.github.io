@@ -3,24 +3,25 @@ layout: post
 title: Route - BETTRECHIES - 2025
 date: 2025-06-08
 category: Route
+permalink: /resultats/route/2025-06-08-bettrechies/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 28 participants
-- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 10
-- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 16
-- [LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis) : Ab
-- [MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio) : Ab
+- [LECOLIER STEPHANE](/coureurs/lecolierstephane) : 10
+- [DERASSE DAVID](/coureurs/derassedavid) : 16
+- [LECOLIER LOUIS](/coureurs/lecolierlouis) : Ab
+- [MINNECI ELIO](/coureurs/minnecielio) : Ab
 
 ### 2ème Catégorie
 35 participants
-- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 23
+- [DEFER OLIVIER](/coureurs/deferolivier) : 23
 
 ### 3ème Catégorie
 28 participants
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 11
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 11
 
 ### Scratch
 103 participants
@@ -36,13 +37,13 @@ image: assets/img/blog/road.png
 | 7 | MORDACQ ENZO | ESEG DOUAI | 21 | 1ère | 2:3:51 | 
 | 8 | LEVEILLE STEPHANE | TEAM ENFER WALLERS ARENBERG | 21 | 1ère | 2:3:51 | 
 | 9 | VANDERHAEGEN MAEL | ASSOCIATION CYCLISTE D'ETROEUNGT | 21 | 1ère | 2:3:52 | 
-| **10** | **[LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **21** | **1ère** | **2:3:52** | 
+| **10** | **[LECOLIER STEPHANE](/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **21** | **1ère** | **2:3:52** | 
 | 11 | BERTHIER THIBAUT | NEW ORANGE TEAM BOUSBECQUE | 21 | 1ère | 2:3:54 | 
 | 12 | MARTHE ROMUALD | ETOILE CYCLISTE LIEU ST AMAND | 21 | 1ère | 2:3:55 | 
 | 13 | VANDERHAEGEN REGIS | ASSOCIATION CYCLISTE D'ETROEUNGT | 21 | 1ère | 2:3:55 | 
 | 14 | HAJAER EDGARD | NEW ORANGE TEAM BOUSBECQUE | 21 | 1ère | 2:3:57 | 
 | 15 | MICHEL ANTHONY | ETOILE CYCLISTE FEIGNIES | 21 | 1ère | 2:3:58 | 
-| **16** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **20** | **1ère** | **2:3:3** | 
+| **16** | **[DERASSE DAVID](/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **20** | **1ère** | **2:3:3** | 
 | 17 | DEMOL LEO | UNION SPORTIVE SAINT ANDRE | 20 | 1ère | 2:3:5 | 
 | 18 | PIAT JEREMY | ETOILE CYCLISTE LIEU ST AMAND | 19 | 1ère | 1:58:6 | 
 | 19 | BOUXOM CEDRIC | BAILLEUL VELO CLUB | 19 | 2ème | 1:58:20 | 
@@ -67,7 +68,7 @@ image: assets/img/blog/road.png
 | 38 | IMBERT JOHNNY | ETOILE CYCLISTE LIEU ST AMAND | 18 | 2ème | 2:0:45 | 
 | 39 | CONTESSE THIBAUD | SAULZOIR MONTRECOURT CYCLING CLUB | 18 | 2ème | 2:2:36 | 
 | 40 | WAERNIER ROMUALD | ETOILE CYCLISTE LIEU ST AMAND | 18 | 2ème | 2:3:17 | 
-| **41** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **18** | **2ème** | **2:5:17** | 
+| **41** | **[DEFER OLIVIER](/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **18** | **2ème** | **2:5:17** | 
 | 42 | DEBOCQ JULIE | HAVELUY CYCLO CLUB | 17 | 2ème | 2:5:17 | 
 | 43 | LOUETTE NOHAN | 52X11 HIRSON THIERACHE | 16 | 3ème | 1:37:50 | 
 | 44 | DELANSAY JULIEN | TEAM CYCLISTE LA BORDURE - BETTRECHIES | 16 | 3ème | 1:37:51 | 
@@ -79,7 +80,7 @@ image: assets/img/blog/road.png
 | 50 | SEMOULIN JACQUES | TEAM B.B.L. HERGNIES | 16 | 3ème | 1:39:37 | 
 | 51 | BEUDIN FREDERIC | VTT SAINT AMAND LES EAUX | 16 | 3ème | 1:39:38 | 
 | 52 | GEMELINE MATTHIEU | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 16 | 3ème | 1:39:41 | 
-| **53** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **16** | **3ème** | **1:39:44** | 
+| **53** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **16** | **3ème** | **1:39:44** | 
 | 54 | KONOPKA GABRIEL | CERCLE OLYMPIQUE MARCOING | 16 | 3ème | 1:39:44 | 
 | 55 | AMIOT YOANN | SAULZOIR MONTRECOURT CYCLING CLUB | 16 | 3ème | 1:39:45 | 
 | 56 | COTTON FABIEN | VELO CLUB UNION HALLUIN | 16 | 3ème | 1:39:48 | 
@@ -102,7 +103,7 @@ image: assets/img/blog/road.png
 | 73 | SIMON REMY | VELO CLUB DE LEWARDE (VCL) | 13 | 4ème | 1:32:43 | 
 | 74 | CARDON . DAVID | CYCLO CLUB ORCHIES | 13 | 4ème | 1:32:43 | 
 | 75 | HAMANUKHA YEUKENII |  | 12 | 2ème | 1:16:49 | 
-| **76** | **[DERASSE PATRICK](https://teamspecializedlille.cc/coureurs/derassepatrick)** | **TEAM SPECIALIZED LILLE** | **12** | **4ème** | **1:33:31** | 
+| **76** | **[DERASSE PATRICK](/coureurs/derassepatrick)** | **TEAM SPECIALIZED LILLE** | **12** | **4ème** | **1:33:31** | 
 | 77 | MAGY MATHEO | ETOILE CYCLISTE FEIGNIES | 12 | 1ère | 1:37:32 | 
 | 78 | MACHU PASCAL | UNION SPORTIVE SAINT ANDRE | 11 | 4ème | 1:21:44 | 
 | 79 | DEBLIQUI PASCAL | VELO CLUB AMANDINOIS | 11 | 1ère | 1:52:38 | 
@@ -115,9 +116,9 @@ image: assets/img/blog/road.png
 | 86 | LELUBRE THIBAULT | UNION CYCLISTE SOLRE LE CHATEAU | 5 | 1ère | 0:35:10 | 
 | 87 | LECHAT RENAUD | UNION SPORTIVE VALENCIENNES CRESPIN | 4 | 2ème | 0:28:5 | 
 | 88 | ROUSSEAU DIDIER | ETOILE CYCLISTE FEIGNIES | 3 | 2ème | 1:7:41 | 
-| **89** | **[LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **0** | **1ère** | **0:38:53** | 
+| **89** | **[LECOLIER LOUIS](/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **0** | **1ère** | **0:38:53** | 
 | 90 | LEFEVRE SEBASTIEN | UNION VELOCIPEDIQUE FOURM | 0 | 1ère | 0:38:53 | 
-| **91** | **[MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **0** | **1ère** | **0:38:53** | 
+| **91** | **[MINNECI ELIO](/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **0** | **1ère** | **0:38:53** | 
 | 92 | FREHAUT NICOLAS | ASSOCIATION CYCLISTE D'ET | 0 | 2ème | 0:38:53 | 
 | 93 | DRUART JEROME | TEAM CYCLISTE LA BORDURE | 0 | 2ème | 0:38:53 | 
 | 94 | KONOPKA BAPTISTE | CERCLE OLYMPIQUE MARCOING | 0 | 2ème | 0:38:53 | 

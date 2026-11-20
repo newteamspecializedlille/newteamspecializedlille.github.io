@@ -3,30 +3,31 @@ layout: post
 title: Route - TAISNIERES SUR HON - 2026
 date: 2026-03-28
 category: Route
+permalink: /resultats/route/2026-03-28-taisnieres-sur-hon/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 24 participants
-- [CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas) : 1
+- [CROMBEZ THOMAS](/coureurs/crombezthomas) : 1
 
 ### 2ème Catégorie
 48 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 16
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 36
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 16
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 36
 
 ### 3ème Catégorie
 68 participants
-- [HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe) : 11
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 27
+- [HUBAUT CHRISTOPHE](/coureurs/hubautchristophe) : 11
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 27
 
 ### Scratch
 171 participants
 
 | Place | Nom | Team | Tours | Catégorie | Temps |
 |---|---|---|---|---|---|
-| **1** | **[CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **14** | **1ère** | **2:7:33** | 
+| **1** | **[CROMBEZ THOMAS](/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **14** | **1ère** | **2:7:33** | 
 | 2 | MICHEL ANTHONY | ETOILE CYCLISTE FEIGNIES | 14 | 1ère | 2:7:40 | 
 | 3 | DEMOL LEO | UNION SPORTIVE SAINT ANDRE | 14 | 1ère | 2:7:49 | 
 | 4 | LORRIAUX JULIEN | VELO CLUB SOLESMES | 14 | 1ère | 2:7:59 | 
@@ -53,7 +54,7 @@ image: assets/img/blog/road.png
 | 25 | LOUETTE NOHAN | 52X11 HIRSON THIERACHE | 13 | 2ème | 1:58:38 | 
 | 26 | HIERNAUX TANGUY | ASSOCIATION CYCLISTE D'ETROEUNGT | 13 | 2ème | 1:58:38 | 
 | 27 | ROSZKIEWICZ RAPHAEL | VELO CLUB DE L'ESCAUT ANZIN | 13 | 2ème | 2:0:21 | 
-| **28** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **13** | **2ème** | **2:0:22** | 
+| **28** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **13** | **2ème** | **2:0:22** | 
 | 29 | DRUON STEPHANE | TEAM POLICE HDFN | 13 | 2ème | 2:0:23 | 
 | 30 | DELPIRE FREDERIC | VTT  CLUB PONT SUR SAMBRE | 13 | 2ème | 2:0:26 | 
 | 31 | POULAIN CHRISTOPHE | VELO SPRINT DE L'OSTREVENT - ANICHE | 13 | 2ème | 2:0:27 | 
@@ -75,7 +76,7 @@ image: assets/img/blog/road.png
 | 47 | CAILLARD ANTHONY | TEAM LINK AND RIDE HERIN | 13 | 1ère | 2:11:45 | 
 | 48 | FURNE JEAN CHRISTOPHE | VELO SPRINT DE L'OSTREVENT - ANICHE | 12 | 2ème | 1:54:42 | 
 | 49 | DRUART JEROME | TEAM CYCLISTE LA BORDURE - BETTRECHIES | 12 | 2ème | 1:56:52 | 
-| **50** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **12** | **2ème** | **1:57:5** | 
+| **50** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **12** | **2ème** | **1:57:5** | 
 | 51 | MOUFTIER LOUKA | TEAM VTT JEUMONT | 12 | 2ème | 1:57:43 | 
 | 52 | DUBOIS SAM | VELO CLUB SOLESMES | 12 | 2ème | 2:0:24 | 
 | 53 | BLONDEAU BENOIT | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 12 | 2ème | 2:3:6 | 
@@ -89,7 +90,7 @@ image: assets/img/blog/road.png
 | 61 | PASSARD MATEO | ESEG DOUAI | 11 | 3ème | 1:49:35 | 
 | 62 | HEEMS CYPRIEN | VELO CLUB BAVAISIEN | 11 | 3ème | 1:49:38 | 
 | 63 | DANNA MATTHIEU | CYCLO CLUB ORCHIES | 11 | 3ème | 1:49:39 | 
-| **64** | **[HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe)** | **TEAM SPECIALIZED LILLE** | **11** | **3ème** | **1:49:44** | 
+| **64** | **[HUBAUT CHRISTOPHE](/coureurs/hubautchristophe)** | **TEAM SPECIALIZED LILLE** | **11** | **3ème** | **1:49:44** | 
 | 65 | POIDEVIN LUDOVIC | TEAM BIKE PRESEAU | 11 | 3ème | 1:49:48 | 
 | 66 | DAVAINE HUGUES | LA PEDALE MADELEINOISE | 11 | 3ème | 1:49:52 | 
 | 67 | KONOPKA YOANN | CERCLE OLYMPIQUE MARCOING | 11 | 3ème | 1:49:56 | 
@@ -105,7 +106,7 @@ image: assets/img/blog/road.png
 | 77 | DEMORY ERIC | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 11 | 3ème | 1:53:45 | 
 | 78 | FRANCOIS GERALD | TEAM CYCLING LA SENTINELLE | 11 | 3ème | 1:53:48 | 
 | 79 | GROSSEMY MICKAEL | ETOILE CYCLISTE FEIGNIES | 11 | 3ème | 1:53:52 | 
-| **80** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **11** | **3ème** | **1:53:52** | 
+| **80** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **11** | **3ème** | **1:53:52** | 
 | 81 | TOURNEUX LOUNA | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 11 | 3ème | 1:54:5 | 
 | 82 | DEJEAN MATHIS | TEAM CYCLISTE LA BORDURE - BETTRECHIES | 11 | 3ème | 1:55:27 | 
 | 83 | MATHIEU ELIAN | TEAM CYCLISTE LA BORDURE - BETTRECHIES | 11 | 3ème | 1:55:27 | 

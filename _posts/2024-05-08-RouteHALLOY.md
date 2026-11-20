@@ -3,14 +3,15 @@ layout: post
 title: Route - HALLOY - 2024
 date: 2024-05-08
 category: Route
+permalink: /resultats/route/2024-05-08-halloy/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 3ème Catégorie
 23 participants
-- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 7
-- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 13
+- [DERASSE DAVID](/coureurs/derassedavid) : 7
+- [WALTER BENOIT](/coureurs/walterbenoit) : 13
 
 ### Scratch
 71 participants
@@ -42,13 +43,13 @@ image: assets/img/blog/road.png
 | 23 | PETIT MATHEO | WATTIGNIES | 14 | 3ème | 1:44:27 | 
 | 24 | GALIEN RUDDY | BETHUNE ROBECQ TEAM TBR | 14 | 3ème | 1:44:28 | 
 | 25 | FOULON RANDY | AGNY ARTeam | 14 | 3ème | 1:44:29 | 
-| **26** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **14** | **3ème** | **1:44:29** | 
+| **26** | **[DERASSE DAVID](/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **14** | **3ème** | **1:44:29** | 
 | 27 | BASTIN CYRIL | CYCLOS RANDONNEURS LA BASSEE | 14 | 3ème | 1:44:29 | 
 | 28 | BASTIN FABRICE | UNION SPORTIVE SAINT ANDRE | 14 | 3ème | 1:44:29 | 
 | 29 | CANDELIER YANN | ARTOIS CYCLING TEAM | 14 | 3ème | 1:44:29 | 
 | 30 | GEORGES ALEXANDRE | BEUVRY CYCLO CLUB | 14 | 3ème | 1:44:30 | 
 | 31 | DEMORY FRANCIS | UNION SPORTIVE SAINT ANDRE | 14 | 3ème | 1:44:30 | 
-| **32** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **14** | **3ème** | **1:44:30** | 
+| **32** | **[WALTER BENOIT](/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **14** | **3ème** | **1:44:30** | 
 | 33 | MARTIN GREGORY | AGNY ARTeam | 14 | 3ème | 1:44:31 | 
 | 34 | BARENNE LAURENT | VELO CLUB UNION HALLUIN | 14 | 3ème | 1:44:34 | 
 | 35 | WILLEMS MICHEL | UNION SPORTIVE SAINT ANDRE | 14 | 3ème | 1:44:37 | 

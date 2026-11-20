@@ -3,6 +3,7 @@ layout: post
 title: Route - HERGNIES CRITERIUM - 2024
 date: 2024-06-02
 category: Route
+permalink: /resultats/route/2024-06-02-hergnies-criterium/
 tags: Route
 image: assets/img/blog/road.png
 images:
@@ -13,13 +14,13 @@ images:
 
 ### 2ème Catégorie
 40 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 22
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 22
 
 ### 3ème Catégorie
 46 participants
-- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 1
-- [MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio) : 29
-- [HOUREZ CEDRIC](https://teamspecializedlille.cc/coureurs/hourezcedric) : 33
+- [DEFER OLIVIER](/coureurs/deferolivier) : 1
+- [MINNECI ELIO](/coureurs/minnecielio) : 29
+- [HOUREZ CEDRIC](/coureurs/hourezcedric) : 33
 
 ### Scratch
 144 participants
@@ -62,7 +63,7 @@ images:
 | 34 | FONTAINE THOMAS | ETOILE CYCLISTE FEIGNIES | 23 | 2ème | 1:12:51 | 
 | 35 | ALBERTINI LUDOVIC | NEW ORANGE TEAM BOUSBECQUE | 23 | 2ème | 1:12:51 | 
 | 36 | LEFEBVRE JEAN-DANIEL | U.C. CAPELLOISE FOURMIES | 23 | 2ème | 1:12:53 | 
-| **37** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **23** | **2ème** | **1:12:53** | 
+| **37** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **23** | **2ème** | **1:12:53** | 
 | 38 | BOUZIN BENJAMIN | ASSOCIATION CYCLISTE D'ETROEUNGT | 23 | 2ème | 1:12:58 | 
 | 39 | DI CARLO DONATO | NEW ORANGE TEAM BOUSBECQUE | 23 | 2ème | 1:13:11 | 
 | 40 | CAILLARD ANTHONY | TEAM LINK AND RIDE HERIN | 23 | 2ème | 1:13:11 | 
@@ -76,7 +77,7 @@ images:
 | 48 | DEHON JOHAN | VELO CLUB BAVAISIEN | 21 | 2ème | 1:11:26 | 
 | 49 | GEORGES BENOIT | VELO CLUB UNION HALLUIN | 21 | 2ème | 1:11:30 | 
 | 50 | DUFOUR MICHEL | ASSOCIATION CYCLISTE BELLAINGEOISE | 21 | 2ème | 1:13:26 | 
-| **51** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **20** | **3ème** | **1:5:13** | 
+| **51** | **[DEFER OLIVIER](/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **20** | **3ème** | **1:5:13** | 
 | 52 | DRUON STEPHANE | TEAM POLICE HDF | 20 | 3ème | 1:5:27 | 
 | 53 | CODDEVILLE KENNY | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 20 | 3ème | 1:5:27 | 
 | 54 | CARPELS GUILLAUME | VELO CLUB UNION HALLUIN | 20 | 3ème | 1:5:27 | 
@@ -124,7 +125,7 @@ images:
 | 96 | BISIAUX YOHANN | ETOILE CYCLISTE LIEU ST AMAND | 19 | 4ème | 1:5:6 | 
 | 97 | DOCHNIAK DAVID | HAVELUY CYCLO CLUB | 19 | 4ème | 1:5:9 | 
 | 98 | BOUCLY ERIC | AMICALE LAIQUE SPORTIVE  ROEULX | 19 | 4ème | 1:5:32 | 
-| **99** | **[MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **19** | **3ème** | **1:5:35** | 
+| **99** | **[MINNECI ELIO](/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **19** | **3ème** | **1:5:35** | 
 | 100 | PETIT YANIS | TEAM BIKE PRESEAU | 19 | 3ème | 1:5:40 | 
 | 101 | MACHU PASCAL | MONDICOURT AVENIR CYCLISTE | 19 | 4ème | 1:6:22 | 
 | 102 | BARTHELEMY THEO | TEAM BIKE PRESEAU | 19 | 3ème | 1:6:29 | 

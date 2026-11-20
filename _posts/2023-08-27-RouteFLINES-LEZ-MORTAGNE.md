@@ -3,21 +3,22 @@ layout: post
 title: Route - FLINES LEZ MORTAGNE - 2023
 date: 2023-08-27
 category: Route
+permalink: /resultats/route/2023-08-27-flines-lez-mortagne/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 43 participants
-- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 14
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 23
-- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 25
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 27
+- [LECOLIER STEPHANE](/coureurs/lecolierstephane) : 14
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 23
+- [MATTIOLI RONALD](/coureurs/mattiolironald) : 25
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 27
 
 ### 2ème Catégorie
 62 participants
-- [HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe) : 7
-- [LECOLIER BENOIT](https://teamspecializedlille.cc/coureurs/lecolierbenoit) : 30
+- [HUBAUT CHRISTOPHE](/coureurs/hubautchristophe) : 7
+- [LECOLIER BENOIT](/coureurs/lecolierbenoit) : 30
 
 ### Scratch
 207 participants
@@ -37,7 +38,7 @@ image: assets/img/blog/road.png
 | 11 | VEAUX CORENTIN | TEAM LINK AND RIDE HERIN | 12 | 1ère | 1:41:44 | 
 | 12 | WINS ALEXIS | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 12 | 1ère | 1:41:44 | 
 | 13 | COMMONT DAVID | RELAIS CYCLISTE MOY DE L'AISNE | 12 | 1ère | 1:41:44 | 
-| **14** | **[LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **12** | **1ère** | **1:41:44** | 
+| **14** | **[LECOLIER STEPHANE](/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **12** | **1ère** | **1:41:44** | 
 | 15 | DELANGUE THOMAS | NEW ORANGE TEAM BOUSBECQUE | 12 | 1ère | 1:41:44 | 
 | 16 | HIERNAUX TANGUY | ASSOCIATION CYCLISTE D'ETROEUNGT | 12 | 1ère | 1:41:45 | 
 | 17 | LALEU DAVID | UNION SPORTIVE SAINT ANDRE | 12 | 1ère | 1:41:45 | 
@@ -46,11 +47,11 @@ image: assets/img/blog/road.png
 | 20 | ANTON LUDOVIC | NEW TEAM MAULDE | 12 | 1ère | 1:41:45 | 
 | 21 | DELPLANQUE DYLAN | VELO SPRINT DE L'OSTREVENT - AUBERCHICOURT | 12 | 1ère | 1:41:45 | 
 | 22 | MISMAQUE JACQUES | ASSOCIATION CYCLISTE BELLAINGEOISE | 12 | 1ère | 1:41:45 | 
-| **23** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **12** | **1ère** | **1:41:45** | 
+| **23** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **12** | **1ère** | **1:41:45** | 
 | 24 | CRIGNON NOE | CAMPHIN EN CAREMBAULT CYCLING TEAM | 12 | 1ère | 1:41:46 | 
-| **25** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **12** | **1ère** | **1:41:46** | 
+| **25** | **[MATTIOLI RONALD](/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **12** | **1ère** | **1:41:46** | 
 | 26 | MARECHAL GUILLAUME | CLUB DES SUPPORTERS CYCLISTES FERRIEROIS | 12 | 1ère | 1:41:47 | 
-| **27** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **12** | **1ère** | **1:41:47** | 
+| **27** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **12** | **1ère** | **1:41:47** | 
 | 28 | DELEPLACE JULES | VELO CLUB ROUBAIX | 12 | 1ère | 1:41:47 | 
 | 29 | CARRIN JEROME | TEAM ENFER DU NORD WALLERS ARENBERG | 12 | 1ère | 1:41:48 | 
 | 30 | HURIAU BENOIT | ASSOCIATION CYCLISTE BELLAINGEOISE | 12 | 1ère | 1:41:49 | 
@@ -64,7 +65,7 @@ image: assets/img/blog/road.png
 | 38 | CORNETTE STEPHANE | TEAM BIKE PRESEAU | 11 | 2ème | 1:34:19 | 
 | 39 | DEBLIQUI PASCAL | VELO CLUB AMANDINOIS | 11 | 2ème | 1:34:19 | 
 | 40 | LABRE MAXIME | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 11 | 2ème | 1:34:19 | 
-| **41** | **[HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe)** | **TEAM SPECIALIZED LILLE** | **11** | **2ème** | **1:34:19** | 
+| **41** | **[HUBAUT CHRISTOPHE](/coureurs/hubautchristophe)** | **TEAM SPECIALIZED LILLE** | **11** | **2ème** | **1:34:19** | 
 | 42 | DI CARLO DONATO | NEW ORANGE TEAM BOUSBECQUE | 11 | 2ème | 1:34:19 | 
 | 43 | RIGAUX JEAN JACQUES | CLUB CYCLISTE THUN ST MARTIN | 11 | 2ème | 1:34:20 | 
 | 44 | COMBLIN JEROME | ASSOCIATION CYCLISTE BELLAINGEOISE | 11 | 2ème | 1:34:20 | 
@@ -86,7 +87,7 @@ image: assets/img/blog/road.png
 | 60 | MICHALLET THEO | LINSELLES CYCLISME | 11 | 2ème | 1:34:23 | 
 | 61 | BIANCUCCI GIOVANNI | UNION SPORTIVE VALENCIENNES CRESPIN | 11 | 2ème | 1:34:23 | 
 | 62 | DRUESNE DAMIEN | UNION VELOCIPEDIQUE FOURMISIENNE | 11 | 2ème | 1:34:23 | 
-| **63** | **[LECOLIER BENOIT](https://teamspecializedlille.cc/coureurs/lecolierbenoit)** | **TEAM SPECIALIZED LILLE** | **11** | **2ème** | **1:34:23** | 
+| **63** | **[LECOLIER BENOIT](/coureurs/lecolierbenoit)** | **TEAM SPECIALIZED LILLE** | **11** | **2ème** | **1:34:23** | 
 | 64 | TIAGO SEBASTIAN | LINSELLES CYCLISME | 11 | 2ème | 1:34:23 | 
 | 65 | POTIER CHARLES HUGO | ETOILE CYCLISTE TOURCOING | 11 | 2ème | 1:34:23 | 
 | 66 | SAINTRAIN GERARD | ETOILE CYCLISTE LIEU ST AMAND | 11 | 2ème | 1:34:24 | 

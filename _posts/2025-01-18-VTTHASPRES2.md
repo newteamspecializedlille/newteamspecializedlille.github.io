@@ -3,13 +3,14 @@ layout: post
 title: VTT - HASPRES2 - 2025
 date: 2025-01-18
 category: VTT
+permalink: /resultats/vtt/2025-01-18-haspres2/
 tags: VTT
 image: assets/img/blog/vtt.png
 ---
 
 ### VTT Vétérans B
 14 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 1
+- [MATTIOLI RONALD](/coureurs/mattiolironald) : 1
 
 ### Scratch
 26 participants
@@ -18,7 +19,7 @@ image: assets/img/blog/vtt.png
 |---|---|---|---|---|---|
 | 1 | MICHEL KEVIN | ETOILE CYCLISTE FEIGNIES | 7 | Seniors B | 0:51:28 | 
 | 2 | FORRIERE MAXENCE | VELO CLUB SOLESMES | 7 | Seniors A | 0:55:1 | 
-| **3** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **7** | **Vétérans B** | **0:56:39** | 
+| **3** | **[MATTIOLI RONALD](/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **7** | **Vétérans B** | **0:56:39** | 
 | 4 | MORELLE YOHANN | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 7 | Seniors B | 0:58:36 | 
 | 5 | DARTUS MIKAEL | VELO CLUB SOLESMES | 7 | Vétérans A | 0:58:37 | 
 | 6 | LIEVIN FRANCK | VTT SAINT AMAND LES EAUX | 7 | Vétérans B | 0:59:50 | 

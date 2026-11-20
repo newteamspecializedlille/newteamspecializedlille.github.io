@@ -3,13 +3,14 @@ layout: post
 title: Route - LIEU ST AMAND - 2020
 date: 2020-05-24
 category: Route
+permalink: /resultats/route/2020-05-24-lieu-st-amand/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 28 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 12
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 12
 
 ### Scratch
 152 participants

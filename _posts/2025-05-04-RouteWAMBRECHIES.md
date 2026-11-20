@@ -3,13 +3,14 @@ layout: post
 title: Route - WAMBRECHIES - 2025
 date: 2025-05-04
 category: Route
+permalink: /resultats/route/2025-05-04-wambrechies/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
 54 participants
-- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : Ab
+- [DEFER OLIVIER](/coureurs/deferolivier) : Ab
 
 ### Scratch
 180 participants
@@ -190,7 +191,7 @@ image: assets/img/blog/road.png
 | 172 | EROUART CHARLES | Transpondeur | 1 | 4ème | 0:38:53 | 
 | 173 | BOUVET GRICOURT HUGO | ESPOIR CYCLISTE WAMBRECHI | 0 | 1ère | 0:38:53 | 
 | 174 | VAN GENECHTEN GABIN | VELO CLUB UNION HALLUIN | 0 | 2ème | 0:38:53 | 
-| **175** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **0** | **2ème** | **0:38:53** | 
+| **175** | **[DEFER OLIVIER](/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **0** | **2ème** | **0:38:53** | 
 | 176 | DELANNOY MAXIME | VELO CLUB SOLESMES | 0 | 3ème | 0:38:53 | 
 | 177 | DEKOSTER MICKAEL | ARTeam Artois Racing Team | 0 | 3ème | 0:38:53 | 
 | 178 | Déclassé et 10 points de pénalité pour s'être accroché lors du dépassement |  | 0 | 4ème | 0:38:53 | 

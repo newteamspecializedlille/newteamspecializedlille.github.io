@@ -3,7 +3,6 @@ import os
 
 import team_members
 import parse_results
-import site_links
 
 team = {}
 results = {}
@@ -16,5 +15,4 @@ parser = parse_results.ParseResults(team, results)
 team = parser.generate_results(seasons)
 team_members.update_team_file(team)
 # classements challenge et statistiques route : calculés au build par _plugins/challenges.rb (barèmes : _data/challenge_rules.json)
-site_links.update_race_urls()  # liens des pages coureur -> posts
 print("Update race done")

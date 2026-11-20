@@ -127,17 +127,14 @@ class MatchingTest(unittest.TestCase):
 
 
 class LinksTest(unittest.TestCase):
-    def test_slug_like_jekyll(self):
-        self.assertEqual(site_links.jekyll_slug("MAULDE---CHORETTE"), "MAULDE-CHORETTE")
-        self.assertEqual(site_links.jekyll_slug("BRUILLE-SAINT-AMAND-"), "BRUILLE-SAINT-AMAND")
-        self.assertEqual(site_links.jekyll_slug("MAULDE-(CHORETTE)"), "MAULDE-(CHORETTE)")
+    def test_slugify_like_liquid_latin(self):
+        self.assertEqual(site_links.slugify("MAULDE---CHORETTE"), "maulde-chorette")
+        self.assertEqual(site_links.slugify("Fécamp-d'Hénin (2)"), "fecamp-d-henin-2")
+        self.assertEqual(site_links.slugify("BRUILLE-SAINT-AMAND-"), "bruille-saint-amand")
 
-    def test_unique_post_on_date_fallback(self):
-        posts = {("road", "2024/05/26"): [("2024Departement", "/vtt/2024/03/24/Route2024Departement")]}
-        member = {"road": {"2024": [{"date": "2024-05-26", "raceName": "Departemental", "category": "Equipe",
-                                     "rank": 2, "status": None, "participants": None}]}}
-        urls = site_links.build_race_urls([member], posts)
-        self.assertEqual(urls["road|2024/05/26|Departemental"], "/vtt/2024/03/24/Route2024Departement")
+    def test_post_permalink(self):
+        self.assertEqual(site_links.post_permalink("Route", "2026-04-12", "ETROEUNGT"), "/resultats/route/2026-04-12-etroeungt/")
+        self.assertEqual(site_links.post_permalink("Cyclo Cross", "2026/11/14", "LES MINES"), "/resultats/cyclo-cross/2026-11-14-les-mines/")
 
 
 if __name__ == "__main__":

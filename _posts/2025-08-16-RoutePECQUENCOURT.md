@@ -3,20 +3,21 @@ layout: post
 title: Route - PECQUENCOURT - 2025
 date: 2025-08-16
 category: Route
+permalink: /resultats/route/2025-08-16-pecquencourt/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
 36 participants
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 1
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 15
-- [BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine) : 23
-- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 25
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 1
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 15
+- [BROUTIN ANTOINE](/coureurs/broutinantoine) : 23
+- [DEFER OLIVIER](/coureurs/deferolivier) : 25
 
 ### 3ème Catégorie
 56 participants
-- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 9
+- [WALTER BENOIT](/coureurs/walterbenoit) : 9
 
 ### Scratch
 157 participants
@@ -42,7 +43,7 @@ image: assets/img/blog/road.png
 | 17 | DELSAUX DAMIEN | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 22 | 1ère | 1:34:48 | 
 | 18 | LACROIX FREDERIC | VELO CLUB ROUBAIX | 22 | 1ère | 1:35:6 | 
 | 19 | DE RIDDER SEBASTIEN | NOUVELLE ETOILE SPORTIVE BOUE ETREUX | 22 | 1ère | 1:35:16 | 
-| **20** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **20** | **2ème** | **1:30:1** | 
+| **20** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **20** | **2ème** | **1:30:1** | 
 | 21 | COMBLIN DAVID | ASSOCIATION CYCLISTE BELLAINGEOISE | 20 | 2ème | 1:30:1 | 
 | 22 | VANDAMME THOMAS | CERCLE OLYMPIQUE MARCOING | 20 | 2ème | 1:30:1 | 
 | 23 | DUPUIS JULIEN | CERCLE OLYMPIQUE MARCOING | 20 | 2ème | 1:31:5 | 
@@ -56,7 +57,7 @@ image: assets/img/blog/road.png
 | 31 | TECHEL GREGORY | VELO CLUB UNION HALLUIN | 20 | 2ème | 1:31:6 | 
 | 32 | POULAIN CHRISTOPHE | VELO SPRINT DE L'OSTREVENT - ANICHE | 20 | 2ème | 1:31:6 | 
 | 33 | DOCHNIAK LEO | HAVELUY CYCLO CLUB | 20 | 2ème | 1:31:6 | 
-| **34** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **20** | **2ème** | **1:31:6** | 
+| **34** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **20** | **2ème** | **1:31:6** | 
 | 35 | BENOIT KEVIN | MANQUEVILLE LILLERS CLUB CYCLISTE | 20 | 2ème | 1:31:6 | 
 | 36 | BOURIGUE ALI | ESEG DOUAI | 20 | 2ème | 1:31:7 | 
 | 37 | CARPELS GUILLAUME | VELO CLUB UNION HALLUIN | 20 | 2ème | 1:31:7 | 
@@ -64,9 +65,9 @@ image: assets/img/blog/road.png
 | 39 | HAVET SEBASTIEN | GAZ ELEC CLUB DE DOUAI | 20 | 2ème | 1:31:7 | 
 | 40 | TISON CEDRIC | TEAM ENFER WALLERS ARENBERG | 20 | 2ème | 1:31:7 | 
 | 41 | MOUFTIER LOUKA | TEAM VTT JEUMONT | 20 | 2ème | 1:31:8 | 
-| **42** | **[BROUTIN ANTOINE](https://teamspecializedlille.cc/coureurs/broutinantoine)** | **TEAM SPECIALIZED LILLE** | **20** | **2ème** | **1:31:8** | 
+| **42** | **[BROUTIN ANTOINE](/coureurs/broutinantoine)** | **TEAM SPECIALIZED LILLE** | **20** | **2ème** | **1:31:8** | 
 | 43 | HELLOT FRANCOIS | HAVELUY CYCLO CLUB | 20 | 2ème | 1:31:8 | 
-| **44** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **20** | **2ème** | **1:31:9** | 
+| **44** | **[DEFER OLIVIER](/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **20** | **2ème** | **1:31:9** | 
 | 45 | WLODARSKI LAURENT | TEAM POLICE HDF | 20 | 2ème | 1:31:9 | 
 | 46 | RIVART THIERRY | VTT  CLUB PONT SUR SAMBRE | 20 | 2ème | 1:31:12 | 
 | 47 | HENOCQ FRANCOIS | UNION SPORTIVE SAINT ANDRE | 20 | 2ème | 1:31:20 | 
@@ -80,7 +81,7 @@ image: assets/img/blog/road.png
 | 55 | CODDEVILLE KENNY | VELO CLUB UNION HALLUIN | 19 | 3ème | 1:26:8 | 
 | 56 | BOUTONNE FREDERIC | TEAM BOUSIES | 19 | 3ème | 1:26:8 | 
 | 57 | LANDAS JEROME | VELO SPRINT DE L'OSTREVENT - ANICHE | 19 | 3ème | 1:26:9 | 
-| **58** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **19** | **3ème** | **1:26:9** | 
+| **58** | **[WALTER BENOIT](/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **19** | **3ème** | **1:26:9** | 
 | 59 | VERWAERDE FABIEN | BAILLEUL VELO CLUB | 19 | 3ème | 1:26:9 | 
 | 60 | DEBRABANT ANTHONY | TEAM BOUSIES | 19 | 3ème | 1:26:10 | 
 | 61 | LARGEAU FREDERIC | SAULZOIR MONTRECOURT CYCLING CLUB | 19 | 3ème | 1:26:10 | 

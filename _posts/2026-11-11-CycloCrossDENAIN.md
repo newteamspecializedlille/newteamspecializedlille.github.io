@@ -3,18 +3,19 @@ layout: post
 title: Cyclo Cross - DENAIN - 2027
 date: 2026-11-11
 category: Cyclo Cross
+permalink: /resultats/cyclo-cross/2026-11-11-denain/
 tags: cyclo-cross
 image: assets/img/blog/cx.png
 ---
 
 ### 1ère Catégorie
 21 participants
-- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 13
+- [DERASSE DAVID](/coureurs/derassedavid) : 13
 
 ### 3ème Catégorie
 51 participants
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 26
-- [SCHULZ YANNICK](https://teamspecializedlille.cc/coureurs/schulzyannick) : AB
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 26
+- [SCHULZ YANNICK](/coureurs/schulzyannick) : AB
 
 ### Scratch
 134 participants
@@ -42,7 +43,7 @@ image: assets/img/blog/cx.png
 | 19 | KADDOUR-DJEBBAR Frédéric | VTT CLUB PONT SUR SAMBRE | 6 | 2ème | 0:52:42 | 
 | 20 | HOUDART PHILIPPE | VTT CLUB PONT SUR SAMBRE | 6 | 2ème | 0:52:48 | 
 | 21 | DROLET PHILIPPE | UNION SPORTIVE SAINT ANDRE | 6 | 2ème | 0:53:05 | 
-| **22** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **6** | **1ère** | **0:53:21** | 
+| **22** | **[DERASSE DAVID](/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **6** | **1ère** | **0:53:21** | 
 | 23 | LEONARDI FLORIAN | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 6 | 2ème | 0:53:26 | 
 | 24 | PIAT JEREMY | ARTOIS CYCLING TEAM | 6 | 2ème | 0:53:34 | 
 | 25 | AVISSE CORENTIN | TEAM FULL WATTS CAMBRESIS | 6 | 2ème | 0:53:42 | 
@@ -107,7 +108,7 @@ image: assets/img/blog/cx.png
 | 84 | DEVILLEZ KEVIN | VELO CLUB DE L'ESCAUT ANZIN | 6 | 3ème | 1:02:56 | 
 | 85 | OLEJNICZAK YANNICK | CYCLO CLUB ORCHIES | 6 | 3ème | 1:03:11 | 
 | 86 | BLANCHET ALEXIS | PANACHE SACOCHE CLUB | 5 | 3ème | 0:51:14 | 
-| **87** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **5** | **3ème** | **0:51:48** | 
+| **87** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **5** | **3ème** | **0:51:48** | 
 | 88 | MARTIN DOCILE | MANQUEVILLE LILLERS CLUB CYCLISTE | 5 | 3ème | 0:51:52 | 
 | 89 | BOYANNICK ARNAUD | TOUQUET ATHLETIC CLUB CYCLISME T.A.C. | 5 | 3ème | 0:52:01 | 
 | 90 | LABOUREUR MATTHIEU | VTT CLUB PONT SUR SAMBRE | 5 | 3ème | 0:52:48 | 
@@ -145,7 +146,7 @@ image: assets/img/blog/cx.png
 | 122 | ALEXANDRE ABBY | ETOILE CYCLISTE FEIGNIES | 3 | Cadets | 0:36:40 | 
 | 123 | BOCALE ROMEO | TEAM FLAHAUT DENAIN | 3 | Cadets | 0:36:47 | 
 | 124 | CHALAS CYRIAQUE | OUTREAU CLUB SPORTIF OUTRELOIS (C.S.O) | 2 | 1ère | 0:12:30 | 
-| **125** | **[SCHULZ YANNICK](https://teamspecializedlille.cc/coureurs/schulzyannick)** | **TEAM SPECIALIZED LILLE** | **1** | **3ème** | **0:02:17** | 
+| **125** | **[SCHULZ YANNICK](/coureurs/schulzyannick)** | **TEAM SPECIALIZED LILLE** | **1** | **3ème** | **0:02:17** | 
 | 126 | TOURNEUX ALICE | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 1 | Cadets | 0:14:30 | 
 | 127 | MAGNIES Clément | CYCLO CLUB ORCHIES | 0 | 1ère | 0:38:53 | 
 | 128 | HOEZ Théo | TEAM BOUSIES | 0 | 2ème | 0:38:53 | 

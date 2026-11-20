@@ -3,6 +3,7 @@ layout: post
 title: VTT - BTWIN - LILLE - 2024
 date: 2023-12-03
 category: VTT
+permalink: /resultats/vtt/2023-12-03-btwin-lille/
 tags: VTT
 image: assets/resultats/2023/vtt/12-03-btwin---lille/1.jpg
 images:
@@ -14,7 +15,7 @@ images:
 
 ### VTT Vétérans A
 12 participants
-- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 7
+- [WALTER BENOIT](/coureurs/walterbenoit) : 7
 
 ### Scratch
 48 participants
@@ -47,7 +48,7 @@ images:
 | 24 | HELLEBOIS ALAIN | CLUB CYCLISTE D'ISBERGUES MOLINGHEM | 6 | Vétérans B | 1:9:34 | 
 | 25 | COCART RUDY | BETHUNE ROBECQ TEAM TBR | 5 | Seniors B | 0:59:48 | 
 | 26 | FAUCOEUR THOMAS | BEUVRY CLUB LEO LAGRANGE | 5 | Seniors B | 1:0:0 | 
-| **27** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **5** | **Vétérans A** | **1:0:3** | 
+| **27** | **[WALTER BENOIT](/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **5** | **Vétérans A** | **1:0:3** | 
 | 28 | GUYOT MICKAEL | VERMELLES MTB RACING TEAM | 5 | Vétérans B | 1:1:15 | 
 | 29 | MERIAUX FREDERIC | FLEURBAIX TEAM SHARK VTT | 5 | Vétérans B | 1:1:21 | 
 | 30 | DEZOUTER ARNAUD | BEUVRY CLUB LEO LAGRANGE | 5 | Seniors B | 1:1:40 | 

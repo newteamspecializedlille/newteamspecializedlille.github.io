@@ -3,13 +3,14 @@ layout: post
 title: Cyclo Cross - BTWIN VILLAGE - 2022
 date: 2021-11-07
 category: Cyclo Cross
+permalink: /resultats/cyclo-cross/2021-11-07-btwin-village/
 tags: cyclo-cross
 image: assets/img/blog/cx.png
 ---
 
 ### 3ème Catégorie
 66 participants
-- [MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix) : 36
+- [MOULIN FELIX](/coureurs/moulinfelix) : 36
 
 ### Scratch
 123 participants
@@ -98,7 +99,7 @@ image: assets/img/blog/cx.png
 | 80 | ROULY FRANCK | ETOILE CYCLISTE LIEU ST A | 7 | 2ème | 0:55:26 | 
 | 81 | LARGEAU FREDERIC | SAULZOIR MONTRECOURT CYCL | 7 | 3ème | 0:55:26 | 
 | 82 | LAGNEAU PASCAL | UNION VELOCIPEDIQUE JEUMO | 7 | 2ème | 0:55:32 | 
-| **83** | **[MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **7** | **3ème** | **0:55:40** | 
+| **83** | **[MOULIN FELIX](/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **7** | **3ème** | **0:55:40** | 
 | 84 | CAPELLE FRANCKY | ETOILE CYCLISTE TOURCOING | 7 | 3ème | 0:55:51 | 
 | 85 | DANEL JEAN PIERRE | BIACHE ST VAAST VELO CLUB | 7 | 3ème | 0:55:58 | 
 | 86 | DEKOSTER MICKAEL | AGNY AMICALE LAIQUE | 7 | 3ème | 0:57:4 | 

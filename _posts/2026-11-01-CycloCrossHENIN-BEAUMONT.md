@@ -3,13 +3,14 @@ layout: post
 title: Cyclo Cross - HENIN BEAUMONT - 2027
 date: 2026-11-01
 category: Cyclo Cross
+permalink: /resultats/cyclo-cross/2026-11-01-henin-beaumont/
 tags: cyclo-cross
 image: assets/img/blog/cx.png
 ---
 
 ### 1ère Catégorie
 9 participants
-- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 7
+- [DERASSE DAVID](/coureurs/derassedavid) : 7
 
 ### Scratch
 58 participants
@@ -25,7 +26,7 @@ image: assets/img/blog/cx.png
 | 7 | PIAT JEREMY | ARTOIS CYCLING TEAM | 5 | 2ème | 0:54:07 | 
 | 8 | CHALAS JEAN-PIERRE | OUTREAU CLUB SPORTIF OUTRELOIS (C.S.O) | 5 | 1ère | 0:54:16 | 
 | 9 | BROSSE JIMMY | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 5 | 2ème | 0:54:16 | 
-| **10** | **[DERASSE David](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **5** | **1ère** | **0:54:33** | 
+| **10** | **[DERASSE David](/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **5** | **1ère** | **0:54:33** | 
 | 11 | TISON Cedric | NEW TEAM MAULDE | 5 | 1ère | 0:55:47 | 
 | 12 | LEBROGNE PIERRE | UNION SPORTIVE VALENCIENNES CRESPIN | 5 | 2ème | 0:56:34 | 
 | 13 | PRIAT AURELIEN | ESEG DOUAI | 5 | 2ème | 0:56:34 | 

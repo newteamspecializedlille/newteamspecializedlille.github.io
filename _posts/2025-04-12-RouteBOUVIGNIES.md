@@ -3,18 +3,19 @@ layout: post
 title: Route - BOUVIGNIES - 2025
 date: 2025-04-12
 category: Route
+permalink: /resultats/route/2025-04-12-bouvignies/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 33 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 24
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 24
 
 ### 3ème Catégorie
 62 participants
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : Ab
-- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : Ab
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : Ab
+- [WALTER BENOIT](/coureurs/walterbenoit) : Ab
 
 ### Scratch
 182 participants
@@ -64,7 +65,7 @@ image: assets/img/blog/road.png
 | 41 | TECHEL GREGORY | VELO CLUB UNION HALLUIN | 19 | 2ème | 1:42:35 | 
 | 42 | BRAL JAN | ETOILE CYCLISTE LIEU ST AMAND | 19 | 2ème | 1:42:41 | 
 | 43 | DUBRON GUILLAUME | ASSOCIATION CYCLISTE DE CUINCY | 19 | 2ème | 1:42:45 | 
-| **44** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **18** | **1ère** | **1:37:54** | 
+| **44** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **18** | **1ère** | **1:37:54** | 
 | 45 | COLOMBO LUCAS | LA PEDALE MADELEINOISE | 18 | 1ère | 1:40:10 | 
 | 46 | DEVEYER CLEMENT | CERCLE OLYMPIQUE MARCOING | 18 | 2ème | 1:40:31 | 
 | 47 | CHUTSCH ALBAN | GAZ ELEC CLUB DE DOUAI | 18 | 2ème | 1:40:37 | 
@@ -193,8 +194,8 @@ image: assets/img/blog/road.png
 | 170 | CORNELIS DAVE | UNION VELOCIPEDIQUE FOURM | 0 | 3ème | 0:38:53 | 
 | 171 | HOUREZ CEDRIC | NEW TEAM MAULDE | 0 | 3ème | 0:38:53 | 
 | 172 | LANDAS JEROME | VELO SPRINT DE L'OSTREVEN | 0 | 3ème | 0:38:53 | 
-| **173** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
-| **174** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
+| **173** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
+| **174** | **[WALTER BENOIT](/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **0** | **3ème** | **0:38:53** | 
 | 175 | BASTIN FABRICE | MERICOURT BIKES-MERICOURT | 0 | 3ème | 0:38:53 | 
 | 176 | BUCHET HECTOR | LOOS EN GOHELLE VELO CLUB | 0 | 3ème | 0:38:53 | 
 | 177 | JABLONSKI EVA | UNION SPORTIVE SAINT ANDR | 0 | 4ème | 0:38:53 | 

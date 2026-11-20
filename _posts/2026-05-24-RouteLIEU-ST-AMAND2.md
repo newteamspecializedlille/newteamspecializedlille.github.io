@@ -3,25 +3,26 @@ layout: post
 title: Route - LIEU ST AMAND2 - 2026
 date: 2026-05-24
 category: Route
+permalink: /resultats/route/2026-05-24-lieu-st-amand2/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 23 participants
-- [CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas) : 1
-- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 5
-- [LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis) : 16
+- [CROMBEZ THOMAS](/coureurs/crombezthomas) : 1
+- [LECOLIER STEPHANE](/coureurs/lecolierstephane) : 5
+- [LECOLIER LOUIS](/coureurs/lecolierlouis) : 16
 
 ### 2ème Catégorie
 50 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 11
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 27
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 11
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 27
 
 ### 3ème Catégorie
 67 participants
-- [LECOURT CHARLIE](https://teamspecializedlille.cc/coureurs/lecourtcharlie) : 4
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 40
+- [LECOURT CHARLIE](/coureurs/lecourtcharlie) : 4
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 40
 
 
 ### Scratch
@@ -29,11 +30,11 @@ image: assets/img/blog/road.png
 
 | Place | Nom | Team | Tours | Catégorie | Temps |
 |---|---|---|---|---|---|
-| **1** | **[CROMBEZ THOMAS](https://teamspecializedlille.cc/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **20** | **1ère** | **1:47:13** | 
+| **1** | **[CROMBEZ THOMAS](/coureurs/crombezthomas)** | **TEAM SPECIALIZED LILLE** | **20** | **1ère** | **1:47:13** | 
 | 2 | SAINT QUENTIN HUGO | GAZ ELEC CLUB DE DOUAI | 20 | 1ère | 1:47:13 | 
 | 3 | DOYEN MATHIS | CYCLO CLUB ORCHIES | 20 | 1ère | 1:47:14 | 
 | 4 | VEAUX CORENTIN | TEAM LINK AND RIDE HERIN | 20 | 1ère | 1:47:14 | 
-| **5** | **[LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **20** | **1ère** | **1:47:14** | 
+| **5** | **[LECOLIER STEPHANE](/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **20** | **1ère** | **1:47:14** | 
 | 6 | POTIER CHARLES-HUGO | ETOILE CYCLISTE TOURCOING | 20 | 1ère | 1:47:14 | 
 | 7 | AINI ISSAM | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 20 | 1ère | 1:47:15 | 
 | 8 | MARECHAL GUILLAUME | VELO CLUB SOLESMES | 20 | 1ère | 1:47:16 | 
@@ -42,7 +43,7 @@ image: assets/img/blog/road.png
 | 11 | LAMARCHE FRANCK | TEAM DECOPUB PROVILLE | 20 | 1ère | 1:47:20 | 
 | 12 | MICHEL ANTHONY | ETOILE CYCLISTE FEIGNIES | 20 | 1ère | 1:47:21 | 
 | 13 | COUTELARD MATHYS | CERCLE OLYMPIQUE MARCOING | 20 | 1ère | 1:47:24 | 
-| **14** | **[LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **20** | **1ère** | **1:47:31** | 
+| **14** | **[LECOLIER LOUIS](/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **20** | **1ère** | **1:47:31** | 
 | 15 | AMAND JEREMY |  | 19 | 2ème | 1:42:35 | 
 | 16 | DEVILLEZ RUDY |  | 19 | 2ème | 1:42:35 | 
 | 17 | GUERVILLE YANN | CYCLO CLUB WAVRIN | 19 | 2ème | 1:42:35 | 
@@ -52,7 +53,7 @@ image: assets/img/blog/road.png
 | 21 | DEBRIL BENJAMIN | TEAM B.B.L. HERGNIES | 19 | 2ème | 1:42:36 | 
 | 22 | CHALAS JEAN PIERRE | NOEUX VELO CLUB NOEUXOIS | 19 | 2ème | 1:42:36 | 
 | 23 | DI CARLO DONATO | NEW ORANGE TEAM BOUSBECQUE | 19 | 2ème | 1:42:37 | 
-| **24** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **19** | **2ème** | **1:42:37** | 
+| **24** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **19** | **2ème** | **1:42:37** | 
 | 25 | VANAUBERG GAETAN | VELO CLUB ROUBAIX | 19 | 2ème | 1:42:37 | 
 | 26 | DELHAYE FLORENT | CLUB CYCLISTE THUN ST MARTIN | 19 | 2ème | 1:42:37 | 
 | 27 | POULAIN CHRISTOPHE | VELO SPRINT DE L'OSTREVENT - ANICHE | 19 | 2ème | 1:42:38 | 
@@ -67,7 +68,7 @@ image: assets/img/blog/road.png
 | 36 | STIEVENART FREDERIC | ETOILE CYCLISTE LIEU ST AMAND | 19 | 2ème | 1:42:49 | 
 | 37 | DEMETS EMMANUEL | ETOILE CYCLISTE LIEU ST AMAND | 19 | 2ème | 1:42:52 | 
 | 38 | WAERNIER ROMUALD | ETOILE CYCLISTE LIEU ST AMAND | 19 | 2ème | 1:42:54 | 
-| **39** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **19** | **2ème** | **1:42:54** | 
+| **39** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **19** | **2ème** | **1:42:54** | 
 | 40 | LECCI PIERRE | HAVELUY CYCLO CLUB | 19 | 2ème | 1:42:55 | 
 | 41 | KNOCKAERT JULIEN | TEAM CYCLISTE PROVINOIS - PROVIN | 19 | 2ème | 1:43:0 | 
 | 42 | LE VOURCH DAMIEN | ARTeam Artois Racing Team | 19 | 2ème | 1:43:0 | 
@@ -85,7 +86,7 @@ image: assets/img/blog/road.png
 | 54 | VISSIO MATHIEU | ARTeam Artois Racing Team | 18 | 2ème | 1:42:57 | 
 | 55 | FLAMENT BENOIT | ETOILE CYCLISTE FEIGNIES | 18 | 3ème | 1:45:1 | 
 | 56 | HYSBERGUE EVAN | ASSOCIATION CYCLISTE D'ETROEUNGT | 18 | 3ème | 1:45:35 | 
-| **57** | **[LECOURT CHARLIE](https://teamspecializedlille.cc/coureurs/lecourtcharlie)** | **TEAM SPECIALIZED LILLE** | **18** | **3ème** | **1:45:36** | 
+| **57** | **[LECOURT CHARLIE](/coureurs/lecourtcharlie)** | **TEAM SPECIALIZED LILLE** | **18** | **3ème** | **1:45:36** | 
 | 58 | DAUMONT BRUNO | NEW ORANGE TEAM BOUSBECQUE | 18 | 3ème | 1:45:38 | 
 | 59 | MICHEL STEPHANE | ETOILE CYCLISTE FEIGNIES | 18 | 3ème | 1:45:38 | 
 | 60 | LANDAS JEROME | VELO SPRINT DE L'OSTREVENT - ANICHE | 18 | 3ème | 1:45:39 | 

@@ -3,13 +3,14 @@ layout: post
 title: VTT - ROUVROY - 2025
 date: 2024-12-22
 category: VTT
+permalink: /resultats/vtt/2024-12-22-rouvroy/
 tags: VTT
 image: assets/img/blog/vtt.png
 ---
 
 ### VTT Vétérans B
 14 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 3
+- [MATTIOLI RONALD](/coureurs/mattiolironald) : 3
 
 ### Scratch
 37 participants
@@ -23,7 +24,7 @@ image: assets/img/blog/vtt.png
 | 5 | DURANT DIDIER | TEAM POLICE HDF | 8 | Vétérans B | 1:19:55 | 
 | 6 | DASSONVILLE BENOIT | BEUVRY CLUB LEO LAGRANGE | 8 | Seniors B | 1:21:0 | 
 | 7 | CARPENTIER JEROME | TEAM SHARK VTT | 8 | Vétérans B | 1:21:37 | 
-| **8** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans B** | **1:21:46** | 
+| **8** | **[MATTIOLI RONALD](/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans B** | **1:21:46** | 
 | 9 | NOWICKI FABRICE | TEAM POLICE HDF | 8 | Vétérans B | 1:22:0 | 
 | 10 | VAN STAEN ELOUAN | CYCLO CLUB WAVRIN | 8 | Seniors A | 1:23:12 | 
 | 11 | LEPLAN BENJAMIN | ARTeam Artois Racing Team | 8 | Seniors B | 1:23:58 | 

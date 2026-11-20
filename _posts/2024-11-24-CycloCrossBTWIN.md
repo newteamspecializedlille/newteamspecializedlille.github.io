@@ -3,20 +3,21 @@ layout: post
 title: Cyclo Cross - BTWIN - 2025
 date: 2024-11-24
 category: Cyclo Cross
+permalink: /resultats/cyclo-cross/2024-11-24-btwin/
 tags: cyclo-cross
 ---
 
 ### 1ère Catégorie
 21 participants
-- [ORBIER AXEL](https://teamspecializedlille.cc/coureurs/orbieraxel) : 8
+- [ORBIER AXEL](/coureurs/orbieraxel) : 8
 
 ### 2ème Catégorie
 43 participants
-- [DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid) : 31
+- [DERASSE DAVID](/coureurs/derassedavid) : 31
 
 ### 3ème Catégorie
 38 participants
-- [MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix) : 13
+- [MOULIN FELIX](/coureurs/moulinfelix) : 13
 
 ### Scratch
 111 participants
@@ -31,7 +32,7 @@ tags: cyclo-cross
 | 6 | LEGUEUX LAURENT | UNION VELOCIPEDIQUE FOURMISIENNE | 7 | 1ère | 0:58:53 | 
 | 7 | ROISSE CLEMENT | TEAM VTT JEUMONT | 7 | 2ème | 0:59:17 | 
 | 8 | GALLIEZ ANTHONY | ESEG DOUAI | 7 | 1ère | 0:59:23 | 
-| **9** | **[ORBIER AXEL](https://teamspecializedlille.cc/coureurs/orbieraxel)** | **TEAM SPECIALIZED LILLE** | **7** | **1ère** | **0:59:25** | 
+| **9** | **[ORBIER AXEL](/coureurs/orbieraxel)** | **TEAM SPECIALIZED LILLE** | **7** | **1ère** | **0:59:25** | 
 | 10 | MAES LOUIS | CYCLO CLUB WAVRIN | 7 | 1ère | 0:59:47 | 
 | 11 | DUPUIS JULIEN | CERCLE OLYMPIQUE MARCOING | 7 | 2ème | 1:0:10 | 
 | 12 | DEMOL LEO | UNION SPORTIVE SAINT ANDRE | 7 | 1ère | 1:0:34 | 
@@ -77,7 +78,7 @@ tags: cyclo-cross
 | 52 | MOUCHON ARNAUD | ASSOCIATION CYCLISTE DE CUINCY | 6 | 2ème | 0:58:57 | 
 | 53 | LIONNE BERNARD | HAVELUY CYCLO CLUB | 6 | 3ème | 0:59:4 | 
 | 54 | THELIER LUDOVIC | UADEL BAILLEUL | 6 | 3ème | 0:59:11 | 
-| **55** | **[DERASSE DAVID](https://teamspecializedlille.cc/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **6** | **2ème** | **0:59:26** | 
+| **55** | **[DERASSE DAVID](/coureurs/derassedavid)** | **TEAM SPECIALIZED LILLE** | **6** | **2ème** | **0:59:26** | 
 | 56 | CARBONNIER QUENTIN | WINGLES PYRAMIDES PASSION VTT | 6 | 3ème | 0:59:29 | 
 | 57 | CODDEVILLE KENNY | VELO CLUB UNION HALLUIN | 6 | 2ème | 0:59:31 | 
 | 58 | BOULOGNE JEROME | LINSELLES CYCLISME | 6 | 3ème | 1:0:38 | 
@@ -86,7 +87,7 @@ tags: cyclo-cross
 | 61 | BERTHE THOMAS | UNION SPORTIVE VALENCIENNES CRESPIN | 6 | 2ème | 1:1:17 | 
 | 62 | SERE BENJAMIN | CYCLO CLUB WAVRIN | 6 | 3ème | 1:1:19 | 
 | 63 | VANDEN TORREN MAXIME | MANQUEVILLE LILLERS CLUB CYCLISTE | 6 | 3ème | 1:1:35 | 
-| **64** | **[MOULIN FELIX](https://teamspecializedlille.cc/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **6** | **3ème** | **1:1:43** | 
+| **64** | **[MOULIN FELIX](/coureurs/moulinfelix)** | **TEAM SPECIALIZED LILLE** | **6** | **3ème** | **1:1:43** | 
 | 65 | MEUNIER SYLVAIN | VELO CLUB DE L'ESCAUT ANZIN | 6 | 3ème | 1:1:45 | 
 | 66 | BECUWE DENIS | UADEL BAILLEUL | 6 | 2ème | 1:1:59 | 
 | 67 | BROQUIN XAVIER | CYCLO CLUB BERGUES | 6 | 3ème | 1:2:7 | 

@@ -3,14 +3,15 @@ layout: post
 title: Route - BACHANT - 2026
 date: 2026-09-05
 category: Route
+permalink: /resultats/route/2026-09-05-bachant/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 3ème Catégorie
 39 participants
-- [HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe) : 25
-- [HUGUENIN DYLAN](https://teamspecializedlille.cc/coureurs/huguenindylan) : 28
+- [HUBAUT CHRISTOPHE](/coureurs/hubautchristophe) : 25
+- [HUGUENIN DYLAN](/coureurs/huguenindylan) : 28
 
 ### Scratch
 119 participants
@@ -84,10 +85,10 @@ image: assets/img/blog/road.png
 | 65 | ORLANDO MIRCO | UNION SPORTIVE SAINT ANDRE | 28 | 3ème | 1:32:42 | 
 | 66 | FLAMENT BENOIT | ETOILE CYCLISTE FEIGNIES | 28 | 3ème | 1:35:4 | 
 | 67 | BINOT JULIEN | VTT  CLUB PONT SUR SAMBRE | 28 | 3ème | 1:38:29 | 
-| **68** | **[HUBAUT CHRISTOPHE](https://teamspecializedlille.cc/coureurs/hubautchristophe)** | **TEAM SPECIALIZED LILLE** | **27** | **3ème** | **1:32:37** | 
+| **68** | **[HUBAUT CHRISTOPHE](/coureurs/hubautchristophe)** | **TEAM SPECIALIZED LILLE** | **27** | **3ème** | **1:32:37** | 
 | 69 | FLAMENT ETHAN | TEAM BOUSIES | 27 | 3ème | 1:32:42 | 
 | 70 | POT FREDERIC | ETOILE CYCLISTE FEIGNIES | 27 | 3ème | 1:36:51 | 
-| **71** | **[HUGUENIN DYLAN](https://teamspecializedlille.cc/coureurs/huguenindylan)** | **TEAM SPECIALIZED LILLE** | **26** | **3ème** | **1:31:49** | 
+| **71** | **[HUGUENIN DYLAN](/coureurs/huguenindylan)** | **TEAM SPECIALIZED LILLE** | **26** | **3ème** | **1:31:49** | 
 | 72 | LUDE AURELIEN | LES VIKINGS | 26 | 3ème | 1:32:2 | 
 | 73 | BAUDOIN ETIENNE | LES VIKINGS | 26 | 3ème | 1:32:50 | 
 | 74 | ANCEAU JEAN BERNARD | ASSOCIATION CYCLISTE D'ETROEUNGT | 26 | 3ème | 1:34:49 | 

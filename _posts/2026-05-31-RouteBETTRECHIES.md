@@ -3,19 +3,20 @@ layout: post
 title: Route - BETTRECHIES - 2026
 date: 2026-05-31
 category: Route
+permalink: /resultats/route/2026-05-31-bettrechies/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 1ère Catégorie
 26 participants
-- [LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis) : 9
-- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 14
-- [MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio) : 16
+- [LECOLIER LOUIS](/coureurs/lecolierlouis) : 9
+- [LECOLIER STEPHANE](/coureurs/lecolierstephane) : 14
+- [MINNECI ELIO](/coureurs/minnecielio) : 16
 
 ### 3ème Catégorie
 48 participants
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 12
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 12
 
 ### Scratch
 137 participants
@@ -30,14 +31,14 @@ image: assets/img/blog/road.png
 | 6 | CLIP SIMON | 52X11 HIRSON THIERACHE | 21 | 1ère | 1:58:6 | 
 | 7 | VANDERHAEGEN REGIS | ASSOCIATION CYCLISTE D'ETROEUNGT | 21 | 1ère | 1:58:7 | 
 | 8 | GOUBERT NOE | TEAM CYCLISTE LA BORDURE - BETTRECHIES | 21 | 1ère | 1:58:7 | 
-| **9** | **[LECOLIER LOUIS](https://teamspecializedlille.cc/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **21** | **1ère** | **1:58:7** | 
+| **9** | **[LECOLIER LOUIS](/coureurs/lecolierlouis)** | **TEAM SPECIALIZED LILLE** | **21** | **1ère** | **1:58:7** | 
 | 10 | WAN-MEENEN JULIEN | UNION VELOCIPEDIQUE FOURMISIENNE | 21 | 1ère | 1:58:8 | 
 | 11 | MASSIN ALEXANDRE | ESEG DOUAI | 21 | 1ère | 1:58:8 | 
 | 12 | LEFEVRE TOM | TEAM CYCLISTE LA BORDURE - BETTRECHIES | 21 | 1ère | 1:58:10 | 
 | 13 | GALLIEZ ANTHONY | TEAM FULL WATTS CAMBRESIS - PROVILLE | 21 | 1ère | 1:58:58 | 
-| **14** | **[LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **21** | **1ère** | **1:59:14** | 
+| **14** | **[LECOLIER STEPHANE](/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **21** | **1ère** | **1:59:14** | 
 | 15 | MARECHAL GUILLAUME | VELO CLUB SOLESMES | 21 | 1ère | 2:0:31 | 
-| **16** | **[MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **20** | **1ère** | **1:56:58** | 
+| **16** | **[MINNECI ELIO](/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **20** | **1ère** | **1:56:58** | 
 | 17 | THOMAS MATTHIAS | PANACHE SACOCHE CLUB - BRUAY SUR ESCAUT | 19 | 2ème | 1:51:49 | 
 | 18 | FAYT OLIVAN | UNION SPORTIVE SAINT ANDRE | 19 | 2ème | 1:52:3 | 
 | 19 | POLLET MAEL | TEAM MELANTOIS - ANSTAING | 19 | 2ème | 1:52:10 | 
@@ -73,7 +74,7 @@ image: assets/img/blog/road.png
 | 49 | BRUYERES MATHIS | TEAM CYCLING LA SENTINELLE | 16 | 3ème | 1:39:56 | 
 | 50 | DAUMONT BRUNO | NEW ORANGE TEAM BOUSBECQUE | 16 | 3ème | 1:40:41 | 
 | 51 | GEORGES NOE | MAROEUIL VELO VERT MAROEUILLOIS V.V.M | 16 | 3ème | 1:40:42 | 
-| **52** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **16** | **3ème** | **1:41:1** | 
+| **52** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **16** | **3ème** | **1:41:1** | 
 | 53 | KHOUALED DAVID | VELO CLUB UNION HALLUIN | 16 | 3ème | 1:41:1 | 
 | 54 | LEPLAN BENJAMIN | ARTeam Artois Racing Team | 16 | 3ème | 1:41:1 | 
 | 55 | DELOT GREGORY | TEAM BIKE PRESEAU | 16 | 3ème | 1:41:13 | 

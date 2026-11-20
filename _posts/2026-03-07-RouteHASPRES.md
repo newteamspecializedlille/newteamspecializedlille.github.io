@@ -3,18 +3,19 @@ layout: post
 title: Route - HASPRES - 2026
 date: 2026-03-07
 category: Route
+permalink: /resultats/route/2026-03-07-haspres/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### 2ème Catégorie
 37 participants
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : 8
-- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 40
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : 8
+- [DEFER OLIVIER](/coureurs/deferolivier) : 40
 
 ### 3ème Catégorie
 53 participants
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : 20
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : 20
 
 ### Scratch
 115 participants
@@ -64,7 +65,7 @@ image: assets/img/blog/road.png
 | 41 | OBLED NICOLAS | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 22 | 3ème | 1:7:3 | 
 | 42 | PLOUY THIERRY | LA PEDALE MADELEINOISE | 22 | 3ème | 1:7:3 | 
 | 43 | GUILLOUARD THOMAS | VELO CLUB EUDOIS ET BRESLOIS | 22 | 3ème | 1:7:6 | 
-| **44** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **22** | **3ème** | **1:7:9** | 
+| **44** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **22** | **3ème** | **1:7:9** | 
 | 45 | DARTUS MIKAEL | U.C. CAPELLOISE FOURMIES | 22 | 2ème | 1:7:42 | 
 | 46 | AUVRAY LOIC | RESILIENCE CLUB | 22 | 3ème | 1:8:33 | 
 | 47 | DUVAL TEDDY | CAMPAGNE LES WARDRECQUES CLUB CYCLISTE CCCW | 22 | 1ère | 1:8:35 | 
@@ -124,7 +125,7 @@ image: assets/img/blog/road.png
 | 101 | LHOIR DOMINIQUE | Transpondeur ne fonctionne pas | 10 | 4ème | 1:5:35 | 
 | 102 | MICHEL ANTHONY | Transpondeur ne fonctionne pas | 0 | 1ère | 0:38:53 | 
 | 103 | AVISSE CORENTIN | Transpondeur ne fonctionne pas | 0 | 2ème | 0:38:53 | 
-| **104** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **0** | **2ème** | **0:38:53** | 
+| **104** | **[DEFER OLIVIER](/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **0** | **2ème** | **0:38:53** | 
 | 105 | DUPONT DAMIEN | TEAM CROSS HASPRES | 0 | 2ème | 0:38:53 | 
 | 106 | FLAMENT LOICK | ETOILE CYCLISTE FEIGNIES | 0 | 2ème | 0:38:53 | 
 | 107 | PACAUX ANT | Transpondeur ne fonctionne pas | 0 | 2ème | 0:38:53 | 

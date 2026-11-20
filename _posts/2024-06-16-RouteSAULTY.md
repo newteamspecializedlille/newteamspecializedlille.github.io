@@ -3,29 +3,30 @@ layout: post
 title: Route - SAULTY - 2024
 date: 2024-06-16
 category: Route
+permalink: /resultats/route/2024-06-16-saulty/
 tags: Route
 image: assets/img/blog/road.png
 ---
 
 ### VTT Sénior A
 0 participants
-- [MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio) : 16
+- [MINNECI ELIO](/coureurs/minnecielio) : 16
 
 ### VTT Sénior B
 34 participants
-- [DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier) : 21
-- [DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael) : Ab
-- [DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien) : Ab
+- [DEFER OLIVIER](/coureurs/deferolivier) : 21
+- [DEJONGHE MICKAEL](/coureurs/dejonghemickael) : Ab
+- [DUFOUR JULIEN](/coureurs/dufourjulien) : Ab
 
 ### VTT Vétérans A
 32 participants
-- [WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit) : 24
+- [WALTER BENOIT](/coureurs/walterbenoit) : 24
 
 ### VTT Vétérans B
 36 participants
-- [MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald) : 2
-- [LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane) : 4
-- [DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve) : 27
+- [MATTIOLI RONALD](/coureurs/mattiolironald) : 2
+- [LECOLIER STEPHANE](/coureurs/lecolierstephane) : 4
+- [DEFOSSE HERVE](/coureurs/defosseherve) : 27
 
 ### Scratch
 121 participants
@@ -88,14 +89,14 @@ image: assets/img/blog/road.png
 | 54 | VAN STAEN ELOUAN | CYCLO CLUB WAVRIN | 9 | Seniors A | 2:26:27 | 
 | 55 | DELANGUE THOMAS | NEW ORANGE TEAM BOUSBECQUE | 9 | Seniors A | 2:28:23 | 
 | 56 | JOLIS CLEMENT | ESPOIR CYCLISTE WAMBRECHIES MARQUETTE | 9 | Seniors A | 2:28:24 | 
-| **57** | **[DEFER OLIVIER](https://teamspecializedlille.cc/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **9** | **Seniors B** | **2:28:43** | 
+| **57** | **[DEFER OLIVIER](/coureurs/deferolivier)** | **TEAM SPECIALIZED LILLE** | **9** | **Seniors B** | **2:28:43** | 
 | 58 | MEDO NICOLAS | TEAM MELANTOIS - PERONNE EN MELANTOIS | 9 | Seniors B | 2:28:43 | 
 | 59 | BENOIT KEVIN | CYCLO CLUB BERGUES | 9 | Seniors B | 2:28:44 | 
 | 60 | TOURNEUX MICKAEL | ENTENTE CYCLISTE DE FONTAINE AU BOIS | 9 | Seniors B | 2:29:6 | 
 | 61 | SOTTIAUX SEBASTIEN | UNION SPORTIVE SAINT ANDRE | 8 | Vétérans B | 2:0:21 | 
-| **62** | **[MATTIOLI RONALD](https://teamspecializedlille.cc/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans B** | **2:0:22** | 
+| **62** | **[MATTIOLI RONALD](/coureurs/mattiolironald)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans B** | **2:0:22** | 
 | 63 | MARTHE ROMUALD | ETOILE CYCLISTE LIEU ST AMAND | 8 | Vétérans B | 2:0:22 | 
-| **64** | **[LECOLIER STEPHANE](https://teamspecializedlille.cc/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans B** | **2:0:24** | 
+| **64** | **[LECOLIER STEPHANE](/coureurs/lecolierstephane)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans B** | **2:0:24** | 
 | 65 | DEWILDE LUDOVIC | VELO CLUB UNION HALLUIN | 8 | Vétérans B | 2:0:25 | 
 | 66 | LETUFFE SAMUEL | CYCLO CLUB WAVRIN | 8 | Vétérans B | 2:0:51 | 
 | 67 | BOURGEOIS SYLVAIN | ETOILE CYCLISTE LIEU ST AMAND | 8 | Vétérans B | 2:1:56 | 
@@ -115,7 +116,7 @@ image: assets/img/blog/road.png
 | 81 | DALLE FREDERIC | VELO CLUB SOLESMES | 8 | Vétérans B | 2:11:31 | 
 | 82 | BARENNE LAURENT | VELO CLUB UNION HALLUIN | 8 | Vétérans B | 2:16:17 | 
 | 83 | DEKOSTER MICKAEL | AGNY ARTeam | 8 | Vétérans B | 2:17:1 | 
-| **84** | **[WALTER BENOIT](https://teamspecializedlille.cc/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans A** | **2:17:40** | 
+| **84** | **[WALTER BENOIT](/coureurs/walterbenoit)** | **TEAM SPECIALIZED LILLE** | **8** | **Vétérans A** | **2:17:40** | 
 | 85 | CHOQUET DAVID | UNION SPORTIVE SAINT ANDRE | 8 | Vétérans B | 2:18:0 | 
 | 86 | GEOFFROY JEAN FRANCOIS | TEAM PEVELE CAREMBAULT CYCLISME | 8 | Vétérans B | 2:18:5 | 
 | 87 | DANGLETERRE CYRIL | UNION SPORTIVE SAINT ANDRE | 8 | Vétérans B | 2:18:6 | 
@@ -124,10 +125,10 @@ image: assets/img/blog/road.png
 | 90 | VANDEN TORREN MAXIME | MANQUEVILLE LILLERS CLUB CYCLISTE | 8 | Seniors B | 2:20:38 | 
 | 91 | BARTKOWIAK CLEMENT | HENIN ETOILE CYCLISTE HENINOISE | 8 | Seniors A | 2:20:40 | 
 | 92 | GEORGES ALEXANDRE | BEUVRY CYCLO CLUB | 8 | Seniors A | 2:20:52 | 
-| **93** | **[MINNECI ELIO](https://teamspecializedlille.cc/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **8** | **Seniors A** | **2:21:1** | 
+| **93** | **[MINNECI ELIO](/coureurs/minnecielio)** | **TEAM SPECIALIZED LILLE** | **8** | **Seniors A** | **2:21:1** | 
 | 94 | HEDBAUT ALEXIS | VELO CLUB SOLESMES | 8 | Seniors A | 2:21:1 | 
 | 95 | SERE MARC | CYCLO CLUB WAVRIN | 7 | Vétérans B | 2:2:47 | 
-| **96** | **[DEFOSSE HERVE](https://teamspecializedlille.cc/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **7** | **Vétérans B** | **2:9:35** | 
+| **96** | **[DEFOSSE HERVE](/coureurs/defosseherve)** | **TEAM SPECIALIZED LILLE** | **7** | **Vétérans B** | **2:9:35** | 
 | 97 | HAVET STEPHANE | HENIN ETOILE CYCLISTE HENINOISE | 7 | Vétérans B | 2:12:48 | 
 | 98 | LEFEBVRE OLIVIER | UNION SPORTIVE VALENCIENNES CRESPIN | 7 | Vétérans B | 2:12:52 | 
 | 99 | BOS FABRICE | ASSOCIATION CYCLISTE BELLAINGEOISE | 7 | Vétérans B | 2:13:24 | 
@@ -141,8 +142,8 @@ image: assets/img/blog/road.png
 | 107 | VAN DAMME THOMAS | CYCLO CLUB CAMBRESIEN | 0 | Seniors B | 0:38:53 | 
 | 108 | TISON CEDRIC | TEAM ENFER WALLERS ARENBE | 0 | Seniors B | 0:38:53 | 
 | 109 | HAVET SEBASTIEN | GAZ ELEC CLUB DE DOUAI | 0 | Seniors B | 0:38:53 | 
-| **110** | **[DEJONGHE MICKAEL](https://teamspecializedlille.cc/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **0** | **Seniors B** | **0:38:53** | 
-| **111** | **[DUFOUR JULIEN](https://teamspecializedlille.cc/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **0** | **Seniors B** | **0:38:53** | 
+| **110** | **[DEJONGHE MICKAEL](/coureurs/dejonghemickael)** | **TEAM SPECIALIZED LILLE** | **0** | **Seniors B** | **0:38:53** | 
+| **111** | **[DUFOUR JULIEN](/coureurs/dufourjulien)** | **TEAM SPECIALIZED LILLE** | **0** | **Seniors B** | **0:38:53** | 
 | 112 | DEWAILLY VINCENT | UNION SPORTIVE SAINT ANDR | 0 | Vétérans A | 0:38:53 | 
 | 113 | COMBLIN DAVID | ASSOCIATION CYCLISTE BELL | 0 | Vétérans A | 0:38:53 | 
 | 114 | MINGOA LUCIANO | NEW ORANGE TEAM BOUSBECQU | 0 | Vétérans A | 0:38:53 | 
