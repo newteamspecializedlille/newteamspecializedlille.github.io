@@ -3750,7 +3750,7 @@ a.velo-home-partners__item {
   flex-wrap: wrap;
   align-items: center;
   gap: 1rem 2rem;
-  padding: 1.25rem var(--v-margin);
+  padding: calc(var(--v-nav-h) + 1.25rem) var(--v-margin) 1.25rem; /* le menu du site est fixe en haut */
   border-bottom: 1px solid rgba(0, 0, 0, 0.12);
 }
 .velo-challenge-picker__group { display: inline-flex; border: 2px solid var(--v-primary); }

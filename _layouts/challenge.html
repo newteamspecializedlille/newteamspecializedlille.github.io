@@ -19,18 +19,19 @@ layout: default
     {%- if total > 0 -%}
       {%- assign kind = "route" -%}
       {%- if item[0] contains "boue" -%}{%- assign kind = "boue" -%}{%- endif -%}
-      {%- assign entry_str = item[1].challenge_year | append: "|" | append: kind | append: "|" | append: item[0] -%}
+      {%- assign entry_str = item[1].challenge_year | append: "|" | append: kind | append: "|" | append: item[0] | append: "|" | append: item[1].update_iso -%}
       {%- assign entries = entries | push: entry_str -%}
     {%- endif -%}
   {%- endif -%}
 {%- endfor -%}
 {%- assign entries = entries | sort | reverse -%}
 
-{%- comment -%} Sélection par défaut : le challenge route le plus récent {%- endcomment -%}
+{%- comment -%} Sélection par défaut : le challenge dont le dernier résultat est le plus récent {%- endcomment -%}
 {%- assign default_key = "" -%}
+{%- assign best_date = "" -%}
 {%- for entry in entries -%}
   {%- assign parts = entry | split: "|" -%}
-  {%- if default_key == "" and parts[1] == "route" -%}{%- assign default_key = parts[2] -%}{%- endif -%}
+  {%- if parts[3] > best_date -%}{%- assign best_date = parts[3] -%}{%- assign default_key = parts[2] -%}{%- endif -%}
 {%- endfor -%}
 {%- if default_key == "" -%}{%- assign first_parts = entries[0] | split: "|" -%}{%- assign default_key = first_parts[2] -%}{%- endif -%}
 

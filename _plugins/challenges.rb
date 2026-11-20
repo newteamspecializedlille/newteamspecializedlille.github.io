@@ -65,6 +65,7 @@ module Challenges
     ranking = totals.sort_by { |name, points| [-points, name] }.to_h
     scale.merge(
       "update_date" => french_date(last_result_date(members, disciplines, season)),
+      "update_iso" => last_result_date(members, disciplines, season).to_s,
       "challenge_year" => season,
       "challenge" => ranking
     )

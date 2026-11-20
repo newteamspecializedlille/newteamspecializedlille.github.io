@@ -9,7 +9,7 @@ main:
     url: "/blog"
     parent: 0
 
-  - title: "Challenge"
+  - title: "Challenges"
     url: "/challenge/"
     parent: 0
 
