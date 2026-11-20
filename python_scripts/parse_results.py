@@ -14,6 +14,7 @@ import urllib3
 import json
 import urllib.parse
 import sync_drive
+import races_registry
 import site_links
 
 base = "https://www.cyclismeufolep5962.fr/"
@@ -28,11 +29,8 @@ CHAMPIONSHIPS = {
     "Regional": "Championnat Département",                     # jaune
     "National": "Championnat National",                        # blanc
 }
-# nom du calendrier -> nom historique de la course (garde les liens des posts et de team.json)
-ALIASES_FILE = "../_data/race_aliases.json"
-# "AAAA/MM/JJ|NOM" -> type de course (affiché dans les pages du site)
-# empreinte SHA-256 du dernier PDF lu pour chaque course : détecte un classement corrigé par UFOLEP
-PDF_HASHES_FILE = "../_data/pdf_hashes.json"
+# registre des courses déjà traitées (date, nom, empreinte du PDF) : voir races_registry.py
+RACES_FILE = "../_data/races.json"
 # une course est revérifiée (PDF re-téléchargé) pendant ce nombre de jours après sa date
 RECHECK_DAYS = int(os.getenv("RECHECK_DAYS", "21"))
 # clés du front matter gérées par le script (les autres, ex. `images:` ajoutées par upload_photos, sont conservées)
@@ -99,37 +97,6 @@ def check_if_scratch_enable(sheet):
         return False
     except Exception:
         return False
-
-def save_races_parsed(races_parsed):
-    data = {"races_parsed": races_parsed}
-    json_object = json.dumps(data, ensure_ascii=False, indent=4)
-    with open("../_data/races_parsed.json", "w", encoding='utf8') as outfile:
-        outfile.write(json_object)
-
-
-def load_races_parsed():
-    races_parsed = []
-    races_parsed_file = open("../_data/races_parsed.json", 'r')
-    data = json.load(races_parsed_file)
-    if len(data['races_parsed']) > 0:
-        for race in data['races_parsed']:
-            races_parsed.append(race)
-    races_parsed_file.close()
-    return races_parsed
-
-
-def load_json(path):
-    if not os.path.exists(path):
-        return {}
-    with open(path, "r", encoding="utf8") as json_file:
-        return json.load(json_file)
-
-
-def save_json(path, data):
-    with open(path, "w", encoding="utf8") as json_file:
-        json.dump(data, json_file, ensure_ascii=False, indent=4)
-        json_file.write("\n")
-
 
 def championship_label(css_classes):
     """Type de course d'après les classes CSS de la ligne (None pour une course normale)."""
@@ -225,9 +192,7 @@ class ParseResults:
     race_type = ""
     race_year = ""
     race_championship = ""
-    aliases = {}
     race_cat = ""
-    races_parsed = []
     team = {}
 
     def __init__(self, team, results):
@@ -237,7 +202,7 @@ class ParseResults:
         self.race_name = ""
         self.race_type = ""
         self.race_year = ""
-        self.races_parsed = []
+        self.registry = races_registry.RaceRegistry()
         self.used_pdfs = set()
 
     def display_race_infos(self):
@@ -364,7 +329,7 @@ class ParseResults:
 
         reg = re.search(r"(.*)\/(\d\d\d\d)\/(.*)\/(.*)", line)
         if reg:
-            self.race_name = reg.group(3)
+            self.race_name = reg.group(3).strip()
             self.race_type = reg.group(1)
             self.race_year = reg.group(2)
 
@@ -472,16 +437,26 @@ class ParseResults:
         downloaded = self.download_pdf(pdf_href)
         return downloaded, downloaded is not None
 
-    def load_race(self, pdf_href, calendar_name, season, key=None):
-        """Lit une nouvelle course (et mémorise l'empreinte de son PDF)."""
+    def race_discipline(self):
+        return DISCIPLINE_BY_TYPE[self.race_type]
+
+    def race_is_known(self):
+        return self.registry.has(self.race_discipline(), self.race_year, self.race_name)
+
+    def remember_race(self, sha=None):
+        """Enregistre la course courante (date, nom, empreinte du PDF) dans le registre."""
+        self.registry.set(self.race_discipline(), self.race_year, self.race_name, self.race_date, sha)
+
+    def load_race(self, pdf_href, calendar_name, season):
+        """Lit une nouvelle course (et mémorise la course et l'empreinte de son PDF)."""
         path, temporary = self.fetch_race_pdf(pdf_href, calendar_name)
         if not path:
             return False
         print("[PDF] " + (pdf_href if temporary else path))
         try:
             loaded = self.parse_results_race_pdf(path, season)
-            if loaded and key:
-                self.pdf_hashes[key] = file_sha256(path)
+            if loaded:
+                self.remember_race(file_sha256(path))
             return loaded
         finally:
             if temporary:
@@ -494,7 +469,7 @@ class ParseResults:
         for member in self.team.values():
             member.remove_race_results(discipline, season, date, self.race_name)
 
-    def refresh_race(self, pdf_href, calendar_name, key, season):
+    def refresh_race(self, pdf_href, calendar_name, season):
         """Course récente déjà traitée : relit son PDF s'il a changé (classement corrigé par UFOLEP)."""
         path, temporary = self.fetch_race_pdf(pdf_href, calendar_name)
         if not path:
@@ -502,19 +477,19 @@ class ParseResults:
         backup = copy.deepcopy(self.team)
         try:
             digest = file_sha256(path)
-            if self.pdf_hashes.get(key) == digest:
+            if self.registry.sha(self.race_discipline(), self.race_year, self.race_name) == digest:
                 return
-            print("[MAJ] PDF nouveau ou modifié, course relue : " + key)
+            print("[MAJ] PDF nouveau ou modifié, course relue : " + self.get_hash_race())
             self.purge_race_results(season)
             self.results = {}
             if self.parse_results_race_pdf(path, season):
-                self.pdf_hashes[key] = digest
+                self.remember_race(digest)
                 self.display_race_infos()
                 self.create_post_race()
             else:
                 raise ValueError("PDF illisible")
         except Exception as e:  # on garde les résultats précédents
-            print("[ERROR] relecture de " + key + " impossible, résultats conservés : " + repr(e))
+            print("[ERROR] relecture de " + self.get_hash_race() + " impossible, résultats conservés : " + repr(e))
             self.team.clear()
             self.team.update(backup)
             self.results = {}
@@ -562,19 +537,13 @@ class ParseResults:
             self.race_date = row["date"]
             self.set_race_infos(row["pdf"])
             calendar_name = self.race_name
-            alias_key = self.race_type + "/" + self.race_year + "/" + calendar_name
-            self.race_name = self.aliases.get(alias_key, calendar_name)
             self.race_championship = row["championship"]
             self.set_race_type_on_results()
             self.set_championship_on_post()
-            key = row["pdf"]
-            # déjà traitée sous son nom historique (alias) ?
-            legacy_key = self.race_type + "/" + self.race_year + "/" + self.race_name + "/Classements.pdf"
-            if legacy_key in self.races_parsed:
-                key = legacy_key
-            if key in self.races_parsed:
+            if self.race_is_known():
+                self.registry.touch_date(self.race_discipline(), self.race_year, self.race_name, self.race_date)
                 if self.is_recent():
-                    self.refresh_race(row["pdf"], calendar_name, key, season)
+                    self.refresh_race(row["pdf"], calendar_name, season)
                 else:
                     local_pdf = pdf_results.find_pdf(PDF_DIR, self.race_type, calendar_name)
                     if local_pdf:  # PDF déposé à la main pour une course ancienne : rattaché, pas d'avertissement
@@ -583,13 +552,12 @@ class ParseResults:
             if self.race_date > current_date:
                 continue
             try:
-                loaded = self.load_race(row["pdf"], calendar_name, season, key)
+                loaded = self.load_race(row["pdf"], calendar_name, season)
             except Exception as e:  # une course en erreur ne doit pas bloquer les autres
-                print("[ERROR] " + key + " : " + repr(e))
+                print("[ERROR] " + self.get_hash_race() + " : " + repr(e))
                 self.results = {}
                 continue
             if loaded:
-                self.races_parsed.append(key)
                 self.display_race_infos()
                 self.create_post_race()
 
@@ -599,21 +567,16 @@ class ParseResults:
 
         race_date : AAAA/MM/JJ ; year : année de la saison dans la clé (ex. cyclo-cross 2026-27 -> 2027).
         """
-        self.races_parsed = load_races_parsed()
-        self.aliases = load_json(ALIASES_FILE)
-        self.pdf_hashes = load_json(PDF_HASHES_FILE)
-        self.race_type, self.race_name, self.race_year = race_type, race_name, str(year)
+        self.registry = races_registry.RaceRegistry.load(RACES_FILE)
+        self.race_type, self.race_name, self.race_year = race_type, race_name.strip(), str(year)
         self.race_date, self.race_championship = race_date, championship
-        key = race_type + "/" + str(year) + "/" + race_name + "/Classements.pdf"
-        if key in self.races_parsed:
-            raise ValueError("course déjà traitée : " + key)
+        if self.race_is_known():
+            raise ValueError("course déjà traitée : " + self.get_hash_race())
         self.results = {}
         if not self.parse_results_race_pdf(pdf_path, str(year)):
             raise ValueError("PDF illisible : " + pdf_path)
-        self.races_parsed.append(key)
-        save_races_parsed(self.races_parsed)
-        self.pdf_hashes[key] = file_sha256(pdf_path)
-        save_json(PDF_HASHES_FILE, dict(sorted(self.pdf_hashes.items())))
+        self.remember_race(file_sha256(pdf_path))
+        self.registry.save(RACES_FILE)
         self.display_race_infos()
         self.create_post_race()
         return self.team
@@ -629,20 +592,17 @@ class ParseResults:
 
     def generate_results(self, seasons):
         """seasons : {page calendrier: année de la saison} (route = année civile, CX/VTT = année+1 dès août)."""
-        self.races_parsed = load_races_parsed()
+        self.registry = races_registry.RaceRegistry.load(RACES_FILE)
         self.used_pdfs = set()
-        self.aliases = load_json(ALIASES_FILE)
-        self.pdf_hashes = load_json(PDF_HASHES_FILE)
-        hashes_before = dict(self.pdf_hashes)
 
         # calendriers UFOLEP : date / type / lien du PDF de chaque course
         pages = os.getenv("CALENDARS", ",".join(CALENDAR_PAGES)).split(",")
         for page in pages:
             season = str(seasons[page])
             self.process_calendar(self.fetch_calendar(page, season), season)
-        save_races_parsed(self.races_parsed)
-        if self.pdf_hashes != hashes_before:
-            save_json(PDF_HASHES_FILE, dict(sorted(self.pdf_hashes.items())))
+        # seules les saisons en cours sont gardées (seul leur calendrier est lu)
+        self.registry.prune({DISCIPLINE_BY_TYPE[CALENDAR_PAGES[page]]: str(season) for page, season in seasons.items()})
+        self.registry.save(RACES_FILE)
 
         for pdf in pdf_results.list_pdfs(PDF_DIR):
             if os.path.abspath(pdf) not in self.used_pdfs:

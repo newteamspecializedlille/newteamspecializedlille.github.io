@@ -23,7 +23,7 @@
                     },
                     {
                         "date": "2026-11-01",
-                        "raceName": "HENIN BEAUMONT",
+                        "raceName": "TERRIL 89 - HENIN BEAUMONT",
                         "category": "1ère",
                         "rank": 7,
                         "status": null,
@@ -5513,7 +5513,7 @@
                 "2027": [
                     {
                         "date": "2026-11-01",
-                        "raceName": "HENIN BEAUMONT",
+                        "raceName": "HENIN BEAUMONT TERRIL 89",
                         "category": "Vétérans A",
                         "rank": 9,
                         "status": null,
@@ -9435,7 +9435,7 @@
                     },
                     {
                         "date": "2026-11-01",
-                        "raceName": "HENIN BEAUMONT",
+                        "raceName": "HENIN BEAUMONT TERRIL 89",
                         "category": "Seniors B",
                         "rank": 10,
                         "status": null,

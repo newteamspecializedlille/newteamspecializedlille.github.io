@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Cyclo Cross - HENIN BEAUMONT - 2027
+title: Cyclo Cross - TERRIL 89 - HENIN BEAUMONT - 2027
 date: 2026-11-01
 category: Cyclo Cross
-permalink: /resultats/cyclo-cross/2026-11-01-henin-beaumont/
+permalink: /resultats/cyclo-cross/2026-11-01-terril-89-henin-beaumont/
 tags: cyclo-cross
 image: assets/img/blog/cx.png
 ---

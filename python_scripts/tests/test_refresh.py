@@ -29,7 +29,6 @@ class RefreshTest(unittest.TestCase):
         member.upsert_result("cx", "2027", team_members.make_result("2026-10-18", "LILLERS", "1ère", 99))
         self.team = {"DERASSE DAVID": member}
         self.parser = parse_results.ParseResults(self.team, {})
-        self.parser.pdf_hashes = {}
         self.parser.used_pdfs = set()
         self.parser.race_type, self.parser.race_name = "Cyclo Cross", "LILLERS"
         self.parser.race_year, self.parser.race_date = "2027", "2026/10/18"
@@ -42,7 +41,7 @@ class RefreshTest(unittest.TestCase):
     def refresh(self):
         out = io.StringIO()
         with contextlib.redirect_stdout(out):
-            self.parser.refresh_race("x", "LILLERS", "Cyclo Cross/2027/LILLERS/Classements.pdf", "2027")
+            self.parser.refresh_race("x", "LILLERS", "2027")
         return out.getvalue()
 
     def test_changed_pdf_updates_results_and_keeps_photos(self):
@@ -90,9 +89,6 @@ class SeasonsTest(unittest.TestCase):
         with tempfile.TemporaryDirectory() as tmp:
             os.makedirs(os.path.join(tmp, "python_scripts"))
             os.makedirs(os.path.join(tmp, "_data"))
-            for name in ("races_parsed.json",):
-                with open(os.path.join(tmp, "_data", name), "w") as f:
-                    f.write('{"races_parsed": []}')
             old = os.getcwd()
             os.chdir(os.path.join(tmp, "python_scripts"))
             try:

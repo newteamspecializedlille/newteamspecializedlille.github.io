@@ -1,9 +1,9 @@
 ---
 layout: post
-title: VTT - HENIN BEAUMONT - 2027
+title: VTT - HENIN BEAUMONT TERRIL 89 - 2027
 date: 2026-11-01
 category: VTT
-permalink: /resultats/vtt/2026-11-01-henin-beaumont/
+permalink: /resultats/vtt/2026-11-01-henin-beaumont-terril-89/
 tags: VTT
 image: assets/img/blog/vtt.png
 ---
