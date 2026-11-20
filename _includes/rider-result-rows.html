@@ -12,14 +12,12 @@
   {%- assign _candidate_url = "/resultats/" | append: _dir | append: "/" | append: res.date | append: "-" | append: _race_slug | append: "/" -%}
   {%- assign _post_url = nil -%}
   {%- if site.data.post_urls[_candidate_url] -%}{%- assign _post_url = _candidate_url -%}{%- endif -%}
-  {%- assign _champ_key = date_parts[0] | append: "/" | append: date_parts[1] | append: "/" | append: date_parts[2] | append: "|" | append: res.raceName -%}
-  {%- assign _champ_label = site.data.race_types[_champ_key] -%}
   <tr class="velo-race-table__row">
     <td class="velo-race-table__date">{{ date_parts[2] | plus: 0 }} {{ months_fr[_m_idx] }} {{ date_parts[0] }}</td>
     <td class="velo-race-table__name">
       {% if _post_url %}<a href="{{ _post_url }}">{{ res.raceName }}</a>{% else %}{{ res.raceName }}{% endif %}
       {% if res.category != "" %}<span class="velo-race-table__cat">{{ res.category }}</span>{% endif %}
-      {% include championship-badge.html label=_champ_label %}
+      {% include championship-badge.html label=res.raceType %}
     </td>
     <td class="velo-race-table__disc"><span class="velo-chip">{{ include.label }}</span></td>
     <td class="velo-race-table__result">

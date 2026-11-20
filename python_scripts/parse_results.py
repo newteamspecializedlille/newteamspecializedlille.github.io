@@ -31,7 +31,6 @@ CHAMPIONSHIPS = {
 # nom du calendrier -> nom historique de la course (garde les liens des posts et de team.json)
 ALIASES_FILE = "../_data/race_aliases.json"
 # "AAAA/MM/JJ|NOM" -> type de course (affiché dans les pages du site)
-RACE_TYPES_FILE = "../_data/race_types.json"
 # empreinte SHA-256 du dernier PDF lu pour chaque course : détecte un classement corrigé par UFOLEP
 PDF_HASHES_FILE = "../_data/pdf_hashes.json"
 # une course est revérifiée (PDF re-téléchargé) pendant ce nombre de jours après sa date
@@ -227,7 +226,6 @@ class ParseResults:
     race_year = ""
     race_championship = ""
     aliases = {}
-    race_types = {}
     race_cat = ""
     races_parsed = []
     team = {}
@@ -294,7 +292,8 @@ class ParseResults:
                 if discipline and self.team[member].active:
                     rank, status = to_rank_status(return_result(sheet, line))
                     self.team[member].upsert_result(discipline, season, team_members.make_result(
-                        self.race_date.replace("/", "-"), self.race_name, self.race_cat, rank, status, participants))
+                        self.race_date.replace("/", "-"), self.race_name, self.race_cat, rank, status, participants,
+                        self.race_championship))
                 if self.race_cat in POST_CATEGORIES:
                     self.results[hash_race].add_team_result(self.race_cat, member, return_result(sheet, line))
             member = sheet.cell(line, column_name).value
@@ -527,6 +526,15 @@ class ParseResults:
         limit = (datetime.now() - timedelta(days=RECHECK_DAYS)).strftime("%Y/%m/%d")
         return self.race_date >= limit
 
+    def set_race_type_on_results(self):
+        """Reporte le type de championnat du calendrier sur les résultats déjà enregistrés de la course (idempotent)."""
+        discipline = DISCIPLINE_BY_TYPE.get(self.race_type)
+        if not self.race_championship or not discipline:
+            return
+        date = self.race_date.replace("/", "-")
+        for member in self.team.values():
+            member.set_race_type(discipline, date, self.race_name, self.race_championship)
+
     def set_championship_on_post(self):
         """Ajoute/met à jour `championship:` dans le front matter d'un post existant (idempotent)."""
         path = "../_posts/" + self.post_file_name()
@@ -557,8 +565,7 @@ class ParseResults:
             alias_key = self.race_type + "/" + self.race_year + "/" + calendar_name
             self.race_name = self.aliases.get(alias_key, calendar_name)
             self.race_championship = row["championship"]
-            if self.race_championship:
-                self.race_types[self.race_date + "|" + self.race_name] = self.race_championship
+            self.set_race_type_on_results()
             self.set_championship_on_post()
             key = row["pdf"]
             # déjà traitée sous son nom historique (alias) ?
@@ -594,7 +601,6 @@ class ParseResults:
         """
         self.races_parsed = load_races_parsed()
         self.aliases = load_json(ALIASES_FILE)
-        self.race_types = load_json(RACE_TYPES_FILE)
         self.pdf_hashes = load_json(PDF_HASHES_FILE)
         self.race_type, self.race_name, self.race_year = race_type, race_name, str(year)
         self.race_date, self.race_championship = race_date, championship
@@ -608,9 +614,6 @@ class ParseResults:
         save_races_parsed(self.races_parsed)
         self.pdf_hashes[key] = file_sha256(pdf_path)
         save_json(PDF_HASHES_FILE, dict(sorted(self.pdf_hashes.items())))
-        if championship:
-            self.race_types[race_date + "|" + race_name] = championship
-            save_json(RACE_TYPES_FILE, dict(sorted(self.race_types.items())))
         self.display_race_infos()
         self.create_post_race()
         return self.team
@@ -629,9 +632,8 @@ class ParseResults:
         self.races_parsed = load_races_parsed()
         self.used_pdfs = set()
         self.aliases = load_json(ALIASES_FILE)
-        self.race_types = load_json(RACE_TYPES_FILE)
         self.pdf_hashes = load_json(PDF_HASHES_FILE)
-        types_before, hashes_before = dict(self.race_types), dict(self.pdf_hashes)
+        hashes_before = dict(self.pdf_hashes)
 
         # calendriers UFOLEP : date / type / lien du PDF de chaque course
         pages = os.getenv("CALENDARS", ",".join(CALENDAR_PAGES)).split(",")
@@ -639,8 +641,6 @@ class ParseResults:
             season = str(seasons[page])
             self.process_calendar(self.fetch_calendar(page, season), season)
         save_races_parsed(self.races_parsed)
-        if self.race_types != types_before:
-            save_json(RACE_TYPES_FILE, dict(sorted(self.race_types.items())))
         if self.pdf_hashes != hashes_before:
             save_json(PDF_HASHES_FILE, dict(sorted(self.pdf_hashes.items())))
 

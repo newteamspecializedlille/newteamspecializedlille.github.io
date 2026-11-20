@@ -93,6 +93,21 @@ class ActiveMembersTest(unittest.TestCase):
         self.assertEqual(current.to_dict()["road"]["2026"][0]["rank"], 8)
 
 
+class RaceTypeTest(unittest.TestCase):
+    def test_race_type_only_when_present(self):
+        self.assertNotIn("raceType", team_members.make_result("2026-05-10", "A", "1ère", 1))
+        self.assertEqual(team_members.make_result("2026-05-10", "A", "1ère", 1, None, 20, "Championnat Nord")["raceType"],
+                         "Championnat Nord")
+
+    def test_set_race_type_on_existing_results(self):
+        m = team_members.TeamMember("A")
+        m.upsert_result("road", "2026", team_members.make_result("2026-05-10", "MARQUETTE", "2ème", 3))
+        m.upsert_result("road", "2026", team_members.make_result("2026-05-17", "AUTRE", "2ème", 1))
+        self.assertEqual(m.set_race_type("road", "2026-05-10", "MARQUETTE", "Championnat Nord"), 1)
+        self.assertEqual(m.set_race_type("road", "2026-05-10", "MARQUETTE", "Championnat Nord"), 0)  # idempotent
+        self.assertEqual([r.get("raceType") for r in m.road["2026"]], ["Championnat Nord", None])
+
+
 class CategoryTest(unittest.TestCase):
     def test_normalize_category(self):
         n = pdf_results.normalize_category

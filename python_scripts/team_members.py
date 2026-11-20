@@ -53,11 +53,15 @@ class ChallengePoints:
 DISCIPLINES = ("cx", "vtt", "road")
 
 
-def make_result(date, race_name, category, rank=None, status=None, participants=None):
+def make_result(date, race_name, category, rank=None, status=None, participants=None, race_type=None):
     """Un résultat d'équipier. date AAAA-MM-JJ ; rank entier (None si abandon) ; status None ou "AB" ;
-    participants = nombre de partants de la catégorie (None si inconnu)."""
-    return {"date": date, "raceName": race_name, "category": category, "rank": rank, "status": status,
-            "participants": participants}
+    participants = nombre de partants de la catégorie (None si inconnu) ;
+    race_type = type de championnat (ex. « Championnat Nord ») : clé `raceType` écrite seulement s'il est renseigné."""
+    result = {"date": date, "raceName": race_name, "category": category, "rank": rank, "status": status,
+              "participants": participants}
+    if race_type:
+        result["raceType"] = race_type
+    return result
 
 
 def result_identity(result):
@@ -81,6 +85,16 @@ class TeamMember:
                 results[index] = result
                 return
         results.append(result)
+
+    def set_race_type(self, discipline, date, race_name, race_type):
+        """Renseigne `raceType` sur les résultats déjà enregistrés d'une course. Retourne le nombre de résultats modifiés."""
+        changed = 0
+        for results in getattr(self, discipline).values():
+            for result in results:
+                if result["date"] == date and result["raceName"] == race_name and result.get("raceType") != race_type:
+                    result["raceType"] = race_type
+                    changed += 1
+        return changed
 
     def remove_race_results(self, discipline, season, date, race_name):
         """Retire tous les résultats d'une course (toutes catégories). Retourne le nombre retiré."""

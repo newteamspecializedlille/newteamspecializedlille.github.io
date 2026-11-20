@@ -459,7 +459,8 @@
                         "category": "17/19 ans",
                         "rank": 3,
                         "status": null,
-                        "participants": 31
+                        "participants": 31,
+                        "raceType": "Championnat Nord"
                     },
                     {
                         "date": "2026-05-15",
@@ -483,7 +484,8 @@
                         "category": "17/19 ans",
                         "rank": 5,
                         "status": null,
-                        "participants": 20
+                        "participants": 20,
+                        "raceType": "Championnat Département"
                     },
                     {
                         "date": "2026-06-28",
@@ -1028,7 +1030,8 @@
                         "category": "50/59 ans",
                         "rank": 11,
                         "status": null,
-                        "participants": 48
+                        "participants": 48,
+                        "raceType": "Championnat Nord"
                     },
                     {
                         "date": "2026-05-24",
@@ -1052,7 +1055,8 @@
                         "category": "50/59 ans",
                         "rank": 5,
                         "status": null,
-                        "participants": 46
+                        "participants": 46,
+                        "raceType": "Championnat Département"
                     },
                     {
                         "date": "2026-06-28",
@@ -1855,7 +1859,8 @@
                         "category": "17/19 ans",
                         "rank": 2,
                         "status": null,
-                        "participants": 31
+                        "participants": 31,
+                        "raceType": "Championnat Nord"
                     },
                     {
                         "date": "2026-05-24",
@@ -1879,7 +1884,8 @@
                         "category": "17/19 ans",
                         "rank": null,
                         "status": "AB",
-                        "participants": 20
+                        "participants": 20,
+                        "raceType": "Championnat Département"
                     },
                     {
                         "date": "2026-06-28",
@@ -2548,7 +2554,8 @@
                         "category": "30/39 ans",
                         "rank": 27,
                         "status": null,
-                        "participants": 41
+                        "participants": 41,
+                        "raceType": "Championnat Nord"
                     },
                     {
                         "date": "2026-05-14",
@@ -2612,7 +2619,8 @@
                         "category": "30/39 ans",
                         "rank": 17,
                         "status": null,
-                        "participants": 31
+                        "participants": 31,
+                        "raceType": "Championnat Département"
                     },
                     {
                         "date": "2026-06-20",
@@ -4012,7 +4020,8 @@
                         "category": "50/59 ans",
                         "rank": 36,
                         "status": null,
-                        "participants": 48
+                        "participants": 48,
+                        "raceType": "Championnat Nord"
                     },
                     {
                         "date": "2026-05-14",
@@ -4084,7 +4093,8 @@
                         "category": "50/59 ans",
                         "rank": 18,
                         "status": null,
-                        "participants": 46
+                        "participants": 46,
+                        "raceType": "Championnat Département"
                     },
                     {
                         "date": "2026-06-20",
@@ -6371,7 +6381,8 @@
                         "category": "40/49 ans",
                         "rank": 24,
                         "status": null,
-                        "participants": 35
+                        "participants": 35,
+                        "raceType": "Championnat Département"
                     },
                     {
                         "date": "2026-07-04",
@@ -6820,7 +6831,8 @@
                         "category": "40/49 ans",
                         "rank": 30,
                         "status": null,
-                        "participants": 59
+                        "participants": 59,
+                        "raceType": "Championnat Nord"
                     },
                     {
                         "date": "2026-05-14",
@@ -6892,7 +6904,8 @@
                         "category": "40/49 ans",
                         "rank": 13,
                         "status": null,
-                        "participants": 35
+                        "participants": 35,
+                        "raceType": "Championnat Département"
                     },
                     {
                         "date": "2026-06-20",
@@ -7964,7 +7977,8 @@
                         "category": "20/29 ans",
                         "rank": 8,
                         "status": null,
-                        "participants": 38
+                        "participants": 38,
+                        "raceType": "Championnat Nord"
                     },
                     {
                         "date": "2026-05-31",
@@ -7980,7 +7994,8 @@
                         "category": "20/29 ans",
                         "rank": 22,
                         "status": null,
-                        "participants": 28
+                        "participants": 28,
+                        "raceType": "Championnat Département"
                     },
                     {
                         "date": "2026-06-28",
@@ -8394,7 +8409,8 @@
                         "category": "30/39 ans",
                         "rank": 17,
                         "status": null,
-                        "participants": 41
+                        "participants": 41,
+                        "raceType": "Championnat Nord"
                     },
                     {
                         "date": "2026-06-20",
@@ -8972,7 +8988,8 @@
                         "category": "30/39 ans",
                         "rank": 1,
                         "status": null,
-                        "participants": 41
+                        "participants": 41,
+                        "raceType": "Championnat Nord"
                     },
                     {
                         "date": "2026-05-14",
@@ -9004,7 +9021,8 @@
                         "category": "30/39 ans",
                         "rank": 8,
                         "status": null,
-                        "participants": 31
+                        "participants": 31,
+                        "raceType": "Championnat Département"
                     },
                     {
                         "date": "2026-06-21",

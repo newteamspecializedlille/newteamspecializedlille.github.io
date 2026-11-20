@@ -12,7 +12,7 @@ et notifie (voir `resultats_pdf/README.md` ; tests : `cd python_scripts && pytho
 
 **Voie manuelle** : seulement si la CI ne peut pas rattacher le PDF au calendrier. Le script `add_race.py` appelle exactement
 le même code que la CI (`ParseResults.add_race_from_pdf`) : il lit le PDF, crée le post, met à jour `team.json`,
-`races_parsed.json`, `race_types.json` et les liens des pages coureur. Plus de saisie manuelle des résultats.
+`races_parsed.json` (le type de championnat est porté par `raceType` dans `team.json`). Plus de saisie manuelle des résultats.
 
 ## 1. Repérer la course
 Nom exact et date sur le calendrier UFOLEP (calResVTT.php / calResCross.php / calResRoute.php). Une ligne colorée = championnat
