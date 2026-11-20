@@ -70,3 +70,6 @@ sass:
   style: compressed
 
 markdown:  kramdown
+
+# Google Analytics 4 : ID de mesure (G-XXXXXXXXXX). Vide = aucune statistique. Actif seulement en production (build CI).
+google_analytics: "G-L8GMTBYT7Q"

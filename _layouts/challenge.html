@@ -35,7 +35,7 @@ layout: default
 {%- endfor -%}
 {%- if default_key == "" -%}{%- assign first_parts = entries[0] | split: "|" -%}{%- assign default_key = first_parts[2] -%}{%- endif -%}
 
-{%- include kind-year-picker.html views=".velo-challenge-view" route_label="Challenge Route" boue_label="Challenge Boue" -%}
+{%- include kind-year-picker.html views=".velo-challenge-view" event="view_challenge" route_label="Challenge Route" boue_label="Challenge Boue" -%}
 
 {%- for entry in entries -%}
   {%- assign parts = entry | split: "|" -%}

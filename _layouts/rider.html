@@ -163,15 +163,15 @@ layout: default
     <div class="velo-coureur__results-header">
       <h2 class="velo-section-title">{{ t.coureur.palmares_title }}</h2>
       <div class="velo-disc-filters" id="velo-disc-filters">
-        <button class="velo-disc-filter is-active" data-filter="all">{{ t.all }}</button>
+        <button class="velo-disc-filter is-active" data-filter="all" data-track="filter_rider_results" data-track-discipline="all" data-track-rider="{{ page.url | split: '/' | last }}">{{ t.all }}</button>
         {%- if team_people.road.size > 0 -%}
-        <button class="velo-disc-filter" data-filter="ROAD">ROAD</button>
+        <button class="velo-disc-filter" data-filter="ROAD" data-track="filter_rider_results" data-track-discipline="ROAD" data-track-rider="{{ page.url | split: '/' | last }}">ROAD</button>
         {%- endif -%}
         {%- if team_people.cx.size > 0 -%}
-        <button class="velo-disc-filter" data-filter="CX">CX</button>
+        <button class="velo-disc-filter" data-filter="CX" data-track="filter_rider_results" data-track-discipline="CX" data-track-rider="{{ page.url | split: '/' | last }}">CX</button>
         {%- endif -%}
         {%- if team_people.vtt.size > 0 -%}
-        <button class="velo-disc-filter" data-filter="VTT">VTT</button>
+        <button class="velo-disc-filter" data-filter="VTT" data-track="filter_rider_results" data-track-discipline="VTT" data-track-rider="{{ page.url | split: '/' | last }}">VTT</button>
         {%- endif -%}
       </div>
     </div>
@@ -186,7 +186,7 @@ layout: default
       {% for year_string in years_list %}
         {% assign year = year_string %}
         {% if team_people.cx[year_string] or team_people.road[year_string] or team_people.vtt[year_string] %}
-          <div class="velo-accordion__year{% if first_open == 0 %} is-open{% endif %}">
+          <div class="velo-accordion__year{% if first_open == 0 %} is-open{% endif %}" data-season="{{ year }}" data-past="{% if first_open == 0 %}false{% else %}true{% endif %}">
             {% assign first_open = 1 %}
             <button class="velo-accordion__trigger" aria-expanded="true">
               <span>{{ year }}</span>
@@ -246,6 +246,7 @@ layout: default
 
 <script>
 (function() {
+  if (window.track) { window.track("view_rider", { rider: {{ page.url | split: "/" | last | jsonify }} }); }
   document.querySelectorAll(".velo-accordion__trigger").forEach(function(btn) {
     btn.addEventListener("click", function() {
       var item = btn.closest(".velo-accordion__year");
@@ -257,6 +258,7 @@ layout: default
       });
       // Toggle clicked (open only if it was closed)
       if (!isOpen) {
+        if (window.track) { window.track("open_season", { season: item.dataset.season, is_past: item.dataset.past, rider: {{ page.url | split: "/" | last | jsonify }} }); }
         item.classList.add("is-open");
         btn.setAttribute("aria-expanded", "true");
       }

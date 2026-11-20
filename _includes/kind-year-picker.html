@@ -1,7 +1,7 @@
 {%- comment -%}
   Sélecteur type (Route / Boue) + saison, et script qui affiche la vue correspondante.
   Les vues sont des éléments `data-kind="route|boue" data-year="AAAA" data-title="…"` (masqués avec `hidden`).
-  Paramètres : views (sélecteur CSS des vues), route_label, boue_label. URL : ?type=route|boue&year=AAAA
+  Paramètres : views (sélecteur CSS des vues), route_label, boue_label, event (événement de statistiques envoyé à chaque affichage). URL : ?type=route|boue&year=AAAA
 {%- endcomment -%}
 <section class="velo-challenge-picker" id="challenge-picker" aria-label="Choix du challenge">
   <div class="velo-challenge-picker__group" role="group" aria-label="Type de challenge">
@@ -49,6 +49,7 @@ document.addEventListener('DOMContentLoaded', function () {
       o.value = yy; o.textContent = yy; o.selected = (yy === y);
       select.appendChild(o);
     });
+    if (window.track && {{ include.event | default: '' | jsonify }}) { window.track({{ include.event | default: '' | jsonify }}, { kind: k, year: y }); }
     var title = find(k, y).dataset.title;
     document.title = title + ' | Team Specialized Lille';
     var url = window.location.pathname + '?type=' + k + '&year=' + y;

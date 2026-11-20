@@ -25,7 +25,7 @@ layout: default
 {%- endfor -%}
 {%- if default_key == "" -%}{%- assign first_parts = entries[0] | split: "|" -%}{%- assign default_key = first_parts[2] -%}{%- endif -%}
 
-{%- include kind-year-picker.html views=".velo-stats-view" route_label="Route" boue_label="Boue (CX / VTT)" -%}
+{%- include kind-year-picker.html views=".velo-stats-view" event="view_stats" route_label="Route" boue_label="Boue (CX / VTT)" -%}
 
 {%- for entry in entries -%}
   {%- assign parts = entry | split: "|" -%}

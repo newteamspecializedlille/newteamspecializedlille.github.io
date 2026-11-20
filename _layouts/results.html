@@ -18,10 +18,10 @@ comments: true
 <section class="velo-blog-filters" id="velo-blog-filter-bar">
   <span class="velo-blog-filters__label">{{ t.filter_label }}</span>
   <div class="velo-blog-filters__group">
-    <a class="velo-blog-filter is-active" href="/blog/">{{ t.all }}</a>
-    <a class="velo-blog-filter" href="/categories/route/">ROUTE</a>
-    <a class="velo-blog-filter" href="/categories/cyclo-cross/">CX</a>
-    <a class="velo-blog-filter" href="/categories/vtt/">VTT</a>
+    <a class="velo-blog-filter is-active" href="/blog/" data-track="filter_results" data-track-filter="all">{{ t.all }}</a>
+    <a class="velo-blog-filter" href="/categories/route/" data-track="filter_results" data-track-filter="route">ROUTE</a>
+    <a class="velo-blog-filter" href="/categories/cyclo-cross/" data-track="filter_results" data-track-filter="cx">CX</a>
+    <a class="velo-blog-filter" href="/categories/vtt/" data-track="filter_results" data-track-filter="vtt">VTT</a>
   </div>
 </section>
 

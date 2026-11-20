@@ -16,10 +16,10 @@ layout: default
 <section class="velo-blog-filters" id="velo-blog-filter-bar">
   <span class="velo-blog-filters__label">{{ t.filter_label }}</span>
   <div class="velo-blog-filters__group">
-    <a class="velo-blog-filter" href="/blog/">{{ t.all }}</a>
-    <a class="velo-blog-filter{% if current_cat == 'route' %} is-active{% endif %}" href="/categories/route/">ROUTE</a>
-    <a class="velo-blog-filter{% if current_cat == 'cyclo-cross' or current_cat == 'cyclo cross' %} is-active{% endif %}" href="/categories/cyclo-cross/">CX</a>
-    <a class="velo-blog-filter{% if current_cat == 'vtt' %} is-active{% endif %}" href="/categories/vtt/">VTT</a>
+    <a class="velo-blog-filter" href="/blog/" data-track="filter_results" data-track-filter="all">{{ t.all }}</a>
+    <a class="velo-blog-filter{% if current_cat == 'route' %} is-active{% endif %}" href="/categories/route/" data-track="filter_results" data-track-filter="route">ROUTE</a>
+    <a class="velo-blog-filter{% if current_cat == 'cyclo-cross' or current_cat == 'cyclo cross' %} is-active{% endif %}" href="/categories/cyclo-cross/" data-track="filter_results" data-track-filter="cx">CX</a>
+    <a class="velo-blog-filter{% if current_cat == 'vtt' %} is-active{% endif %}" href="/categories/vtt/" data-track="filter_results" data-track-filter="vtt">VTT</a>
   </div>
 </section>
 

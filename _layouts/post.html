@@ -260,5 +260,9 @@ document.addEventListener('DOMContentLoaded', function () {
 })();
 </script>
 
+<script>
+  if (window.track) { window.track("view_race", { discipline: {{ race_discipline | jsonify }}, race_name: {{ race_name | jsonify }}, race_date: "{{ page.date | date: '%Y-%m-%d' }}" }); }
+</script>
+
 {%- include sponsors.html -%}
 {%- include recent-races.html limit=5 -%}
