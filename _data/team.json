@@ -36,6 +36,14 @@
                         "rank": 13,
                         "status": null,
                         "participants": 21
+                    },
+                    {
+                        "date": "2026-11-22",
+                        "raceName": "WINGLES",
+                        "category": "1ère",
+                        "rank": 4,
+                        "status": null,
+                        "participants": 7
                     }
                 ],
                 "2026": [
@@ -2170,6 +2178,14 @@
                         "rank": 4,
                         "status": null,
                         "participants": 17
+                    },
+                    {
+                        "date": "2026-11-22",
+                        "raceName": "WINGLES",
+                        "category": "3ème",
+                        "rank": 3,
+                        "status": null,
+                        "participants": 27
                     }
                 ],
                 "2026": [
@@ -5518,6 +5534,14 @@
                         "rank": 9,
                         "status": null,
                         "participants": 13
+                    },
+                    {
+                        "date": "2026-11-22",
+                        "raceName": "WINGLES",
+                        "category": "Vétérans A",
+                        "rank": 9,
+                        "status": null,
+                        "participants": 12
                     }
                 ],
                 "2026": [
@@ -6731,6 +6755,14 @@
                         "rank": 29,
                         "status": null,
                         "participants": 34
+                    },
+                    {
+                        "date": "2026-11-22",
+                        "raceName": "WINGLES",
+                        "category": "3ème",
+                        "rank": 22,
+                        "status": null,
+                        "participants": 27
                     }
                 ]
             },
