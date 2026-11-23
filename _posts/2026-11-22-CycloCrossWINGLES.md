@@ -5,7 +5,18 @@ date: 2026-11-22
 category: Cyclo Cross
 permalink: /resultats/cyclo-cross/2026-11-22-wingles/
 tags: cyclo-cross
-image: assets/img/blog/cx.png
+image: assets/resultats/2027/cyclo%20cross/11-22-wingles/dsc_5546.jpg
+images:
+  - path: assets/resultats/2027/cyclo%20cross/11-22-wingles/dsc_5546.jpg
+  - path: assets/resultats/2027/cyclo%20cross/11-22-wingles/dsc_5552.jpg
+  - path: assets/resultats/2027/cyclo%20cross/11-22-wingles/dsc_5618.jpg
+  - path: assets/resultats/2027/cyclo%20cross/11-22-wingles/dsc_5655.jpg
+  - path: assets/resultats/2027/cyclo%20cross/11-22-wingles/dsc_5694.jpg
+  - path: assets/resultats/2027/cyclo%20cross/11-22-wingles/dsc_5696.jpg
+  - path: assets/resultats/2027/cyclo%20cross/11-22-wingles/dsc_5715.jpg
+  - path: assets/resultats/2027/cyclo%20cross/11-22-wingles/dsc_5752.jpg
+  - path: assets/resultats/2027/cyclo%20cross/11-22-wingles/dsc_5784.jpg
+  - path: assets/resultats/2027/cyclo%20cross/11-22-wingles/dsc_5818.jpg
 ---
 
 ### 1ère Catégorie

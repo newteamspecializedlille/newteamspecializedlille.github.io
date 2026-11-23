@@ -4,6 +4,7 @@ import re
 import json
 import glob as _glob
 import mimetypes
+from urllib.parse import unquote
 from PIL import Image
 from googleapiclient.discovery import build
 from googleapiclient.http import MediaIoBaseDownload, MediaFileUpload
@@ -127,25 +128,54 @@ def _resize_image(file_path):
 # Post front matter update
 # ---------------------------------------------------------------------------
 
+def _norm(text):
+    return re.sub(r'[^a-z0-9]', '', (text or '').lower())
+
+
+def _find_post(path_context):
+    """Retourne le chemin du post correspondant au dossier [year, race_type, MM-DD-race].
+
+    Le dossier 'year' est la saison (ex. 2027 pour une course de novembre 2026) : on cherche donc
+    le post à la date MM-DD dans l'année du dossier ou la précédente, et on départage par catégorie
+    (cyclo cross / vtt / route) car deux courses peuvent avoir lieu le même jour.
+    """
+    year, race_type, race_folder = path_context
+    parts = race_folder.split('-', 2)
+    if len(parts) < 2 or not year.isdigit():
+        return None
+    mm, dd = parts[0], parts[1]
+    matches = []
+    for y in (int(year), int(year) - 1):
+        matches += sorted(_glob.glob(os.path.join(POSTS_DIR, f"{y}-{mm}-{dd}-*.md")))
+    if not matches:
+        return None
+    wanted = _norm(race_type)
+    for path in matches:
+        with open(path, encoding='utf-8') as f:
+            head = f.read(2000)
+        m = re.search(r'^category:\s*(.+)$', head, re.MULTILINE)
+        if m and _norm(m.group(1)) == wanted:
+            return path
+    # Pas de catégorie correspondante : on ne devine que s'il n'y a pas d'ambiguïté
+    return matches[0] if len(matches) == 1 else None
+
+
+def _rel_path(abs_path):
+    """Chemin relatif au repo, avec espaces encodés (%20) pour être utilisable comme URL."""
+    return os.path.relpath(abs_path, REPO_ROOT).replace('\\', '/').replace(' ', '%20')
+
+
 def _update_post_images(path_context, new_image_paths):
     """Cherche le post correspondant et ajoute les chemins d'images dans le front matter.
 
     path_context = [year, race_type, MM-DD-racename]
     Le photographer n'est pas connu depuis drive_sync, il est omis.
     """
-    year, _race_type, race_folder = path_context
-    parts = race_folder.split('-', 2)
-    if len(parts) < 2:
-        return
-    mm, dd = parts[0], parts[1]
-
-    pattern = os.path.join(POSTS_DIR, f"{year}-{mm}-{dd}-*.md")
-    matches = _glob.glob(pattern)
-    if not matches:
-        print(f"  ⚠ Aucun post trouvé pour {year}-{mm}-{dd}")
+    post_path = _find_post(path_context)
+    if not post_path:
+        print(f"  ⚠ Aucun post trouvé pour {'/'.join(path_context)}")
         return
 
-    post_path = matches[0]
     with open(post_path, encoding='utf-8') as f:
         content = f.read()
 
@@ -159,16 +189,20 @@ def _update_post_images(path_context, new_image_paths):
     body    = rest[end.end():]
 
     # Chemins relatifs au repo root déjà présents dans le front matter
-    existing = set(re.findall(r'^\s+path:\s*(.+)$', fm_text, re.MULTILINE))
+    existing = {unquote(p.strip()) for p in re.findall(r'^\s*(?:-\s+)?path:\s*(.+)$', fm_text, re.MULTILINE)}
 
     new_entries = []
-    for abs_path in new_image_paths:
-        rel = os.path.relpath(abs_path, REPO_ROOT).replace('\\', '/')
-        if rel not in existing:
+    for abs_path in sorted(new_image_paths):
+        rel = _rel_path(abs_path)
+        if unquote(rel) not in existing:
             new_entries.append(rel)
 
     if not new_entries:
         return
+
+    # Image de vignette : remplace l'image par défaut (assets/img/blog/...) par la première photo
+    if re.search(r'^image:\s*assets/img/blog/', fm_text, re.MULTILINE):
+        fm_text = re.sub(r'^image:.*$', f'image: {new_entries[0]}', fm_text, count=1, flags=re.MULTILINE)
 
     addition = '\n'.join(f'  - path: {p}' for p in new_entries)
     if re.search(r'^images:', fm_text, re.MULTILINE):
@@ -183,19 +217,11 @@ def _update_post_images(path_context, new_image_paths):
 
 def _remove_post_images(path_context, removed_paths):
     """Retire du front matter du post les chemins d'images supprimées localement."""
-    year, _race_type, race_folder = path_context
-    parts = race_folder.split('-', 2)
-    if len(parts) < 2:
-        return
-    mm, dd = parts[0], parts[1]
-
-    pattern = os.path.join(POSTS_DIR, f"{year}-{mm}-{dd}-*.md")
-    matches = _glob.glob(pattern)
-    if not matches:
+    post_path = _find_post(path_context)
+    if not post_path:
         return
 
-    removed_rels = {os.path.relpath(p, REPO_ROOT).replace('\\', '/') for p in removed_paths}
-    post_path = matches[0]
+    removed_rels = {unquote(_rel_path(p)) for p in removed_paths}
 
     with open(post_path, encoding='utf-8') as f:
         content = f.read()
@@ -211,19 +237,9 @@ def _remove_post_images(path_context, removed_paths):
 
     # Supprimer les entrées correspondant aux fichiers supprimés
     new_lines = []
-    skip_next = False
     for line in fm_text.splitlines():
-        path_match = re.match(r'^\s+path:\s*(.+)$', line)
-        if path_match and path_match.group(1).strip() in removed_rels:
-            # Supprimer aussi la ligne photographer qui précède (si présente)
-            if new_lines and re.match(r'^\s+photographer:', new_lines[-1]):
-                new_lines.pop()
-            elif new_lines and re.match(r'^\s+-\s+path:', new_lines[-1]):
-                new_lines.pop()
-            skip_next = False
-            continue
-        if skip_next:
-            skip_next = False
+        path_match = re.match(r'^\s*(?:-\s+)?path:\s*(.+)$', line)
+        if path_match and unquote(path_match.group(1).strip()) in removed_rels:
             continue
         new_lines.append(line)
 
@@ -357,10 +373,14 @@ def _sync_folder(service, drive_folder_id, local_path, path_context=None, manife
 
     # Mise à jour du post au niveau race (profondeur 3 = [year, race_type, MM-DD-race])
     if len(path_context) == 3:
-        if new_local_paths:
-            _update_post_images(path_context, new_local_paths)
         if removed_local_paths:
             _remove_post_images(path_context, removed_local_paths)
+        # Toutes les photos du dossier (pas seulement les nouvelles) : rattrape les posts
+        # auxquels il manque des photos déjà téléchargées.
+        all_local = [os.path.join(local_path, e) for e in os.listdir(local_path)
+                     if _is_image(e) and e.lower() in drive_images]
+        if all_local:
+            _update_post_images(path_context, all_local)
 
     return downloaded, uploaded, deleted
 

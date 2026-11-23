@@ -5,7 +5,12 @@ date: 2026-11-22
 category: VTT
 permalink: /resultats/vtt/2026-11-22-wingles/
 tags: VTT
-image: assets/img/blog/vtt.png
+image: assets/resultats/2027/vtt/11-22-wingles/dsc_6023.jpg
+images:
+  - path: assets/resultats/2027/vtt/11-22-wingles/dsc_6023.jpg
+  - path: assets/resultats/2027/vtt/11-22-wingles/dsc_6180.jpg
+  - path: assets/resultats/2027/vtt/11-22-wingles/dsc_6256.jpg
+  - path: assets/resultats/2027/vtt/11-22-wingles/dsc_6336.jpg
 ---
 
 ### VTT Vétérans A
