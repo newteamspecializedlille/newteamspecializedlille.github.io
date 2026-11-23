@@ -204,17 +204,13 @@ layout: default
                     </tr>
                   </thead>
                   <tbody>
-                    {% assign cats = "" | split: "" %}
-                    {% if team_people.road[year_string] %}{% assign cats = cats | push: "road" %}{% endif %}
-                    {% if team_people.cx[year_string] %}{% assign cats = cats | push: "cx" %}{% endif %}
-                    {% if team_people.vtt[year_string] %}{% assign cats = cats | push: "vtt" %}{% endif %}
-
-                    {% for cat in cats %}
-                      {% if cat == "road" %}{% assign _rows = team_people.road[year_string] %}{% include rider-result-rows.html results=_rows discipline="road" label="ROAD" %}
-                      {% elsif cat == "cx" %}{% assign _rows = team_people.cx[year_string] %}{% include rider-result-rows.html results=_rows discipline="cx" label="CX" %}
-                      {% elsif cat == "vtt" %}{% assign _rows = team_people.vtt[year_string] %}{% include rider-result-rows.html results=_rows discipline="vtt" label="VTT" %}
-                      {% endif %}
-                    {% endfor %}
+                    {%- comment -%} Toutes disciplines confondues, de la course la plus récente à la plus ancienne {%- endcomment -%}
+                    {% assign empty_list = "" | split: "" %}
+                    {% assign _road = team_people.road[year_string] | default: empty_list %}
+                    {% assign _cx = team_people.cx[year_string] | default: empty_list %}
+                    {% assign _vtt = team_people.vtt[year_string] | default: empty_list %}
+                    {% assign _all_rows = "" | split: "" | concat: _road | concat: _cx | concat: _vtt | sort: "date" | reverse %}
+                    {% include rider-result-rows.html results=_all_rows road=_road cx=_cx vtt=_vtt %}
                   </tbody>
                 </table>
               </div>

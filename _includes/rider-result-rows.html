@@ -1,13 +1,20 @@
 {%- comment -%}
   Lignes du tableau de palmarès d'un coureur pour une discipline.
-  Paramètres : results (liste de résultats), discipline (road, cx ou vtt), label (ROAD, CX ou VTT).
+  Paramètres : results (liste de résultats), discipline (road, cx ou vtt) et label (ROAD, CX ou VTT) ;
+  ou, pour une liste mélangée, road / cx / vtt (listes d'origine) pour retrouver la discipline de chaque ligne.
   Chaque résultat : {date AAAA-MM-JJ, raceName, category, rank, status, participants} (voir _data/team.json).
 {%- endcomment -%}
 {%- for res in include.results -%}
   {%- assign date_parts = res.date | split: "-" -%}
   {%- assign _m_idx = date_parts[1] | plus: 0 | minus: 1 -%}
+  {%- assign _disc = include.discipline -%}
+  {%- if _disc == nil or _disc == "" -%}
+    {%- assign _disc = "road" -%}
+    {%- if include.cx contains res -%}{%- assign _disc = "cx" -%}{%- elsif include.vtt contains res -%}{%- assign _disc = "vtt" -%}{%- endif -%}
+  {%- endif -%}
+  {%- assign _label = include.label | default: _disc | upcase -%}
   {%- assign _dir = "route" -%}
-  {%- if include.discipline == "cx" -%}{%- assign _dir = "cyclo-cross" -%}{%- elsif include.discipline == "vtt" -%}{%- assign _dir = "vtt" -%}{%- endif -%}
+  {%- if _disc == "cx" -%}{%- assign _dir = "cyclo-cross" -%}{%- elsif _disc == "vtt" -%}{%- assign _dir = "vtt" -%}{%- endif -%}
   {%- assign _race_slug = res.raceName | slugify: "latin" -%}
   {%- assign _candidate_url = "/resultats/" | append: _dir | append: "/" | append: res.date | append: "-" | append: _race_slug | append: "/" -%}
   {%- assign _post_url = nil -%}
@@ -19,7 +26,7 @@
       {% if res.category != "" %}<span class="velo-race-table__cat">{{ res.category }}</span>{% endif %}
       {% include championship-badge.html label=res.raceType %}
     </td>
-    <td class="velo-race-table__disc"><span class="velo-chip">{{ include.label }}</span></td>
+    <td class="velo-race-table__disc"><span class="velo-chip">{{ _label }}</span></td>
     <td class="velo-race-table__result">
       {% if res.rank == 1 %}<span class="velo-rank velo-rank--1">1<sup>er</sup></span>
       {% elsif res.rank == 2 %}<span class="velo-rank velo-rank--2">2<sup>e</sup></span>
