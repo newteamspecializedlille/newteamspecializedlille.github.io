@@ -3796,3 +3796,28 @@ a.velo-home-partners__item {
   cursor: pointer;
 }
 .velo-challenge-view[hidden] { display: none; }
+
+/* Mobile : tableau des résultats compact, tout tient sans scroll horizontal */
+@media (max-width: 700px) {
+  .velo-race-table-wrap { overflow-x: visible; }
+  .velo-race-table__th {
+    padding: 0.6rem 0.4rem 0.6rem 0 !important;
+    font-size: 9px !important;
+    letter-spacing: 0.04em !important;
+    white-space: normal;
+  }
+  .velo-race-table td { padding: 0.75rem 0.4rem 0.75rem 0 !important; }
+  .velo-race-table__date {
+    font-size: 10px !important;
+    letter-spacing: 0.02em !important;
+    white-space: normal;
+    min-width: 0;
+    width: 4.2rem;
+  }
+  .velo-race-table__name { font-size: 12px !important; overflow-wrap: anywhere; }
+  .velo-race-table__cat { display: block; margin-left: 0; }
+  .velo-race-table .velo-championship { margin-left: 0; margin-top: 0.25rem; }
+  .velo-race-table__disc .velo-chip { padding: 2px 5px; font-size: 10px; letter-spacing: 0.05em; }
+  .velo-race-table__result { white-space: nowrap; padding-right: 0 !important; }
+  .velo-race-table__of { display: block; margin-left: 0; font-size: 10px; }
+}
