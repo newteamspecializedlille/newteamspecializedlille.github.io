@@ -1113,6 +1113,23 @@ body.vcard {
   border-color: var(--v-spe) !important;
 }
 
+/* Mobile : filtres sous le titre, sur toute la largeur (évite qu'ils soient coupés avec ROAD / CX / VTT) */
+@media (max-width: 700px) {
+  .velo-coureur__results-header {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 1rem;
+  }
+  .velo-disc-filters {
+    width: 100%;
+  }
+  .velo-disc-filter {
+    flex: 1 1 0;
+    min-width: 0;
+    padding: 0.55rem 0.4rem;
+  }
+}
+
 /* Accordion (kept for year navigation) */
 .velo-accordion {
   display: flex;
